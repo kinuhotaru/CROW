@@ -187,15 +187,17 @@ async function sendToDiscord(events) {
   while (nextUrl && pageCount < MAX_PAGES) {
     pageCount++;
     await page.goto(nextUrl, { waitUntil: 'networkidle' });
+    
+    const previousFirstId = await page.evaluate(() => {
+    return document.querySelector('td[id^="ajax-"]')?.id || null;
+    });
 
     await page.waitForFunction(prev => {
     const first = document.querySelector('td[id^="ajax-"]');
     return first && first.id !== prev;
     }, previousFirstId, { timeout: 10000 });
 
-    const previousFirstId = await page.evaluate(() => {
-    return document.querySelector('td[id^="ajax-"]')?.id || null;
-    });
+
 
 const { scrapedEvents, next } = await page.evaluate(() => {
   const rows = document.querySelectorAll('table.table tbody tr');
