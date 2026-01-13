@@ -16937,6 +16937,14 @@
   },
   {
     "date": "2026-01-13",
+    "time": "13:04",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de la Justice Ed Wyplenel a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël : « Bien. Voilà donc l'heure des allégeances. Encore. J'ai déjà dit tout ce que j'avais à dire. Notre nouveau Roi a su agir au moment opportun pour protéger le Royaume et il faut le lui reconnaître. Le protéger de quoi, cela reste encore à déterminer, mais on ne peut pas tout faire en même temps ! Me voilà donc proche d'aboutir à une troublante conclusion sur la mort de feu Chilmerdic, le temps de valider quelques points et toute la lumière pourra être faite sur cette affaire. La Justice veille, et avec elle la Vérité ! »"
+  },
+  {
+    "date": "2026-01-13",
     "time": "13:07",
     "empire": "Confédération Libre",
     "province": "Milieu",
@@ -17393,6 +17401,14 @@
   },
   {
     "date": "2026-01-13",
+    "time": "19:48",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "",
+    "text": "Yaj Kao a trouvé un filon de pierre dans la province Plaine Irradiée : « HAN HAN HAN ! »"
+  },
+  {
+    "date": "2026-01-13",
     "time": "19:55",
     "empire": "Royaume de Ruthvénie",
     "province": "Géofront",
@@ -17609,10 +17625,34 @@
   },
   {
     "date": "2026-01-13",
+    "time": "21:34",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Sicilia",
+    "city": "",
+    "text": "Le Roi Landraël a défini une nouvelle répartition budgétaire. Roi 1% Ministre de la Guerre 0% Ministre de la Justice 0% Ministre des Affaires Étrangères 0% Ministre de l'Économie 0% Ministre de la Recherche 99% Ministre de l'Intérieur 0% Ministre de l'Information 0% Directeur des Services Secrets 0% Ministre du Travail 0%"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:34",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "",
+    "text": "Seraphiel Ravenloft s'est fait agresser par un groupe de créatures mené par Cheval."
+  },
+  {
+    "date": "2026-01-13",
     "time": "21:35",
     "empire": "Empire Brun",
     "province": "Sicilia",
     "city": "Ruthvenville",
+    "text": "Seraphiel Ravenloft a tenté de voler Aken ! Il est à présent recherché par la police du cybermonde pour ce délit."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:35",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "",
     "text": "Seraphiel Ravenloft a tenté de voler Aken ! Il est à présent recherché par la police du cybermonde pour ce délit."
   },
   {
@@ -17710,5 +17750,117 @@
     "province": "",
     "city": "",
     "text": "La colère gronde contre le nouveau Roi ! Des partisans de l'ancien monarque Chilmerdic XXVII, se faisant appeler les \"Sans-Chaussettes\", protestent contre le nouveau régime et la confiscation de leurs chaussettes par les services de police pour des \"raisons de sécurité textile\"."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:57",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "La colère gronde contre le nouveau Roi ! Des partisans de l'ancien monarque Chilmerdic XXVII, se faisant appeler les \"Sans-Chaussettes\", protestent contre le nouveau régime et la confiscation de leurs chaussettes par les services de police pour des \"raisons de sécurité textile\"."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:59",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "cRLCSS a ouvert un chantier privé dans la ville CAPS LOCK en [11,10]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "22:00",
+    "empire": "Empire Brun",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Le Ministre de l'Économie Floran Baumé a versé 1500 MØ au Ministère de la Recherche."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "22:03",
+    "empire": "Paradigme Vert",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Les projets de mariage de la Régente avec Zyor Mawi inquiètent la population. La Régente va-t-elle une fois de plus disparaître pendant des mois ? Des écolières en larmes interrompent les cours pour pleurer dans les rues."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "22:05",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Le Ministre de la Justice Ed Wyplenel a adressé un discours à la population : « Chers concitoyens, Nobles et moins nobles, Après des jours et des jours d'enquête, j'ai enfin pu dénicher la Vérité concernant la mort de feu Chilmerdic. Pour rappel, voilà l'image de surveillance qui a pu être capturée par le dispositif de sécurité au moment fatidique. La première version mentionnait un accident domestique en carrosse à base d'étouffement par chaussette. Nous connaissons tous la passion qu'avait Chilmerdic pour cet accessoire vestimentaire somme toute banal, nous ne reviendrons pas dessus ni sur les raisons, plus ou moins avouables, qui ont pu amener à la manifestation physique de ce traumatisme décidément pas assez enfoui. Cependant, quelques détails ne collaient pas et l'œil affuté de Golgoth a mis le doigt dessus. Oui, un œil avec des doigts, ça n'est pas plus choquant que des tentacules finement bleutés. Car ce qui a été retrouvé dans la bouche de Chilmerdic, comme on peut le voir sur les images de sécurité, n'était pas une chaussette. Ou, du moins, pas une chaussette traditionnelle. ... Oui, vous l'avez deviné, la chaussette retrouvée dans la bouche de notre ancien Roi est l'une des chaussettes customisées qu'il a remis à 3 personnes dans notre Royaume : La Chaussette de la Cour Royale, remise à Dame Marianne. La Chaussette de la Noblesse, remise au Roi Landraël. La Chaussette des Traditions, remise à Wenceslas von Altheim-Blatnoï. Tous les soupçons se portent sur cette dernière personne, les deux premières étant selon toute vraisemblance innocentes. Le mobile saute aux yeux et seul le sens du devoir et l'abnégation du Roi Landraël a permis de mettre fin aux machinations qu'ourdissait dans l'ombre Sir / Comte / Duc Wenceslas. Je n'ai pas le pouvoir d' »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "22:06",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Construction d'un bâtiment Vendeur de Pacotille dans la ville CAPS LOCK en [11,10]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "22:08",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
+    "text": "Le Ministre de la Justice Ed Wyplenel a adressé un discours à la population : « Hum... Je disais donc, avant que l'on ne me coupe la parole : Je n'ai pas le pouvoir d'engager des poursuites de part son statut mais la Justice trouvera sa voie... Oui, voilà, je voulais quand même finir ma phrase... »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "22:20",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
+    "text": "Construction d'un bâtiment Embarcadère dans la ville Atome en [2,6]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "22:23",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Construction d'un bâtiment Vendeur de Tissu dans la ville Kanardville en [16,10]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "22:30",
+    "empire": "Empire Brun",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Floran Baumé a brûlé par erreur des notes scientifiques importantes. La recherche est perturbée (-3 à la technologie n°2)."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "22:31",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Merula a ouvert un chantier privé dans la ville Accalmie en [8,5]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "22:32",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Kanardville",
+    "text": "Un groupe de créatures mené par 1 Élémental d'Eau attaque Tears Velzard."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "22:39",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Lili, Lulu & Zizi Duck a ouvert un chantier privé dans la ville Kanardville en [18,11]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "22:40",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Caucherêve a prononcé un discours louant le Gouverneur Bladimir Bladimirovitch Mutin [PP +1] : « I have a dream... Bladimir, dans le monde des rêves ton projet est noble. Je te souhaite de les réaliser dans le monde réel... »"
   }
 ]
