@@ -110,6 +110,24 @@ function normalizeForHash(value) {
     .toLowerCase()
     .trim();
 }
+
+function chunkEmbedLines(lines, maxLength = 4096) {
+  const chunks = [];
+  let current = '';
+
+  for (const line of lines) {
+    if ((current + '\n' + line).length > maxLength) {
+      chunks.push(current);
+      current = line;
+    } else {
+      current += (current ? '\n' : '') + line;
+    }
+  }
+
+  if (current) chunks.push(current);
+  return chunks;
+}
+
 /* =========================
    📨 DISCORD
 ========================= */
@@ -141,23 +159,31 @@ async function sendToDiscord(events) {
 
   for (const [date, empires] of Object.entries(timeline)) {
     for (const [empire, evts] of Object.entries(empires)) {
-      await fetch(DISCORD_WEBHOOK_URL, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          embeds: [{
-            title: `📅 ${date} — ${empire}`,
-            color: empireColor(empire),
-            description: evts
-              .map(e => `**${e.time || '--:--'}** — ${e.text}`)
-              .join('\n')
-              .slice(0, 4096),
-            footer: { text: `CROWS ScrapeYard • ${evts.length}` }
-          }]
-        })
-      });
 
-      await new Promise(r => setTimeout(r, 900));
+      const lines = evts.map(
+        e => `**${e.time || '--:--'}** — ${e.text}`
+      );
+
+      const chunks = chunkEmbedLines(lines);
+
+      for (let i = 0; i < chunks.length; i++) {
+        await fetch(DISCORD_WEBHOOK_URL, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            embeds: [{
+              title: `📅 ${date} — ${empire}${chunks.length > 1 ? ` (${i+1}/${chunks.length})` : ''}`,
+              color: empireColor(empire),
+              description: chunks[i],
+              footer: {
+                text: `CROWS ScrapeYard • ${evts.length} événements`
+              }
+            }]
+          })
+        });
+
+        await new Promise(r => setTimeout(r, 900));
+      }
     }
   }
 
