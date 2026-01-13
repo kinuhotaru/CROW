@@ -2,7 +2,7 @@ name: CROW
 
 on:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -22,20 +22,7 @@ jobs:
       - name: 📦 Install dependencies
         run: npm ci
 
-      # Cache persistant pour Chromium (clé du fix)
-      - name: ♻️ Cache Puppeteer
-        uses: actions/cache@v4
-        with:
-          path: .puppeteer-cache
-          key: puppeteer-${{ runner.os }}
-
-      - name: 🌐 Install Chromium for Puppeteer
-        run: npx puppeteer browsers install chrome
-        env:
-          PUPPETEER_CACHE_DIR: ${{ github.workspace }}/.puppeteer-cache
-
       - name: 🚀 Run scraper
         run: node scraper.js
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          PUPPETEER_CACHE_DIR: ${{ github.workspace }}/.puppeteer-cache

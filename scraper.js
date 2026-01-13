@@ -1,8 +1,9 @@
-﻿import puppeteer from 'puppeteer';
-import fs from 'fs';
+﻿import fs from 'fs';
 import fetch from 'node-fetch';
+import cheerio from 'cheerio';
 
-const URL = 'http://www.kraland.org/monde/evenements';
+const BASE_URL = 'https://www.kraland.org/monde/evenements';
+
 const DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK;
 
 const DATA_DIR = './data';
@@ -17,55 +18,56 @@ if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR);
 ========================= */
 
 function loadJSON(file, fallback = []) {
-    return fs.existsSync(file)
-        ? JSON.parse(fs.readFileSync(file))
-        : fallback;
+  return fs.existsSync(file)
+    ? JSON.parse(fs.readFileSync(file))
+    : fallback;
 }
 
 function saveJSON(file, data) {
-    fs.writeFileSync(file, JSON.stringify(data, null, 2));
+  fs.writeFileSync(file, JSON.stringify(data, null, 2));
 }
 
 function eventHash(e) {
-    return Buffer.from(
-        `${e.date}|${e.time}|${e.empire}|${e.province}|${e.city}|${e.text}`
-    ).toString('base64').slice(0, 100);
+  return Buffer.from(
+    `${e.date}|${e.time}|${e.empire}|${e.province}|${e.city}|${e.text}`
+  ).toString('base64').slice(0, 100);
 }
 
 function sortEvents(events) {
-    return events.sort((a, b) =>
-        new Date(`${a.date} ${a.time || '00:00'}`) -
-        new Date(`${b.date} ${b.time || '00:00'}`)
-    );
+  return events.sort((a, b) =>
+    new Date(`${a.date} ${a.time || '00:00'}`) -
+    new Date(`${b.date} ${b.time || '00:00'}`)
+  );
 }
 
 /* =========================
-   🚀 SCRAPER
+   🌐 FETCH PAGE
 ========================= */
 
-const browser = await puppeteer.launch({
-    headless: 'true',
-    args: ['--no-sandbox', '--disable-setuid-sandbox'],
+async function fetchPage(page = 1) {
+  const url = page === 1
+    ? BASE_URL
+    : `${BASE_URL}?page=${page}`;
+
+  const res = await fetch(url, {
+    headers: {
+      'User-Agent':
+        'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 ' +
+        '(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+      'Accept-Language': 'fr-FR,fr;q=0.9'
+    }
   });
 
-const page = await browser.newPage();
-await page.setUserAgent(
-  'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 ' +
-  '(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-);
+  if (!res.ok) {
+    throw new Error(`HTTP ${res.status} on ${url}`);
+  }
 
-await page.setExtraHTTPHeaders({
-  'Accept-Language': 'fr-FR,fr;q=0.9'
-});
-await page.evaluateOnNewDocument(() => {
-  Object.defineProperty(navigator, 'webdriver', {
-    get: () => false,
-  });
-});
-await page.goto(URL, {
-    waitUntil: 'networkidle2',
-    timeout: 60_000
-});
+  return res.text();
+}
+
+/* =========================
+   🔍 SCRAPE
+========================= */
 
 let events = loadJSON(EVENTS_FILE, []);
 let index = new Set(loadJSON(INDEX_FILE, []));
@@ -75,69 +77,66 @@ let pageCount = 0;
 let totalNew = 0;
 
 while (pageCount < 500) {
-    pageCount++;
+  pageCount++;
 
-    const scraped = await page.evaluate(() => {
-        const rows = document.querySelectorAll('table.table tbody tr');
-        let currentDate = null;
-        const out = [];
+  const html = await fetchPage(pageCount);
+  const $ = cheerio.load(html);
 
-        rows.forEach(tr => {
-            const dateMatch = tr.innerText.trim().match(/^\d{4}-\d{2}-\d{2}$/);
-            if (dateMatch) {
-                currentDate = dateMatch[0];
-                return;
-            }
+  let currentDate = null;
+  let scraped = [];
 
-            const tds = tr.querySelectorAll('td');
-            if (tds.length < 3) return;
+  $('table.table tbody tr').each((_, tr) => {
+    const text = $(tr).text().trim();
 
-            const locationTd = tds[0];
-            const img = locationTd.querySelector('img');
-            const p = locationTd.querySelector('p');
+    if (/^\d{4}-\d{2}-\d{2}$/.test(text)) {
+      currentDate = text;
+      return;
+    }
 
-            out.push({
-                date: currentDate,
-                time: tds[1].innerText.trim(),
-                empire: img?.src.split('/').pop().replace('.png', ''),
-                province: locationTd.childNodes[1]?.textContent.trim(),
-                city: p?.innerText.trim(),
-                text: tr.querySelector('td[id^="ajax-"]')?.innerText.trim()
-            });
-        });
+    const tds = $(tr).find('td');
+    if (tds.length < 3 || !currentDate) return;
 
-        return out.filter(e => e.text && e.date);
+    const locationTd = tds.eq(0);
+    const img = locationTd.find('img');
+    const p = locationTd.find('p');
+
+    scraped.push({
+      date: currentDate,
+      time: tds.eq(1).text().trim(),
+      empire: img.attr('src')?.split('/').pop().replace('.png', ''),
+      province: locationTd
+        .clone()
+        .children()
+        .remove()
+        .end()
+        .text()
+        .trim(),
+      city: p.text().trim(),
+      text: tds.find('td[id^="ajax-"]').text().trim()
     });
+  });
 
-    let newCount = 0;
+  scraped = scraped.filter(e => e.text && e.date);
 
-    for (const e of scraped) {
-        const h = eventHash(e);
-        if (!index.has(h)) {
-            index.add(h);
-            events.push(e);
-            newCount++;
-            totalNew++;
-        }
+  let newCount = 0;
+
+  for (const e of scraped) {
+    const h = eventHash(e);
+    if (!index.has(h)) {
+      index.add(h);
+      events.push(e);
+      newCount++;
+      totalNew++;
     }
+  }
 
-    console.log(`📄 Page ${pageCount} → +${newCount}`);
+  console.log(`📄 Page ${pageCount} → +${newCount}`);
 
-    if (newCount === 0) {
-        console.log('⛔ Page complète détectée');
-        break;
-    }
-
-    const next = await page.$('.pagination li.active + li a');
-    if (!next) break;
-
-    await Promise.all([
-        page.waitForNavigation({ waitUntil: 'networkidle2' }),
-        next.click()
-    ]);
+  if (newCount === 0) {
+    console.log('⛔ Page complète détectée');
+    break;
+  }
 }
-
-await browser.close();
 
 /* =========================
    📦 SAUVEGARDE
@@ -152,19 +151,19 @@ saveJSON(INDEX_FILE, [...index]);
 ========================= */
 
 const fresh = events.filter(e => {
-    const h = eventHash(e);
-    if (sent.has(h)) return false;
-    sent.add(h);
-    return true;
+  const h = eventHash(e);
+  if (sent.has(h)) return false;
+  sent.add(h);
+  return true;
 });
 
 if (fresh.length && DISCORD_WEBHOOK_URL) {
-    const content = `📡 **${fresh.length} nouveaux événements détectés**`;
-    await fetch(DISCORD_WEBHOOK_URL, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ content })
-    });
+  const content = `📡 **${fresh.length} nouveaux événements détectés**`;
+  await fetch(DISCORD_WEBHOOK_URL, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ content })
+  });
 }
 
 saveJSON(SENT_FILE, [...sent]);
