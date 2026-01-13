@@ -51,28 +51,46 @@ const EMPIRE_COLOR = {
 };
 
 const resolveEmpire = code => EMPIRE_MAP[code] || code || 'Inconnu';
-const empireColor = e => EMPIRE_COLOR[e] ?? 0x34495e;
+const empireColor = empire => EMPIRE_COLOR[empire] ?? 0x34495e;
 
 /* =========================
    🧠 UTILITAIRES
 ========================= */
 
-const loadJSON = (file, fallback = []) =>
-  fs.existsSync(file) ? JSON.parse(fs.readFileSync(file)) : fallback;
+function normalizeText(value) {
+  if (typeof value !== 'string') return '';
+  return value
+    .replace(/\u00a0/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
 
-const saveJSON = (file, data) =>
+function loadJSON(file, fallback = []) {
+  try {
+    return fs.existsSync(file)
+      ? JSON.parse(fs.readFileSync(file))
+      : fallback;
+  } catch {
+    return fallback;
+  }
+}
+
+function saveJSON(file, data) {
   fs.writeFileSync(file, JSON.stringify(data, null, 2));
+}
 
-const eventHash = e =>
-  Buffer.from(
-    `${e.date}|${e.time}|${e.empire}|${e.province}|${e.city}|${e.text}`
+function eventHash(e) {
+  return Buffer.from(
+    `${e.date}|${e.time}|${e.empire}|${e.province}|${e.city}|${e.text}`.toLowerCase()
   ).toString('base64').slice(0, 100);
+}
 
-const sortEvents = e =>
-  e.sort((a, b) =>
+function sortEvents(events) {
+  return events.sort((a, b) =>
     new Date(`${a.date} ${a.time || '00:00'}`) -
     new Date(`${b.date} ${b.time || '00:00'}`)
   );
+}
 
 /* =========================
    📨 DISCORD
@@ -82,12 +100,15 @@ async function sendToDiscord(events) {
   if (!DISCORD_WEBHOOK_URL) return;
 
   const sent = new Set(loadJSON(SENT_FILE, []));
-  const fresh = events.filter(e => {
+  const fresh = [];
+
+  for (const e of events) {
     const h = eventHash(e);
-    if (sent.has(h)) return false;
-    sent.add(h);
-    return true;
-  });
+    if (!sent.has(h)) {
+      sent.add(h);
+      fresh.push(e);
+    }
+  }
 
   if (!fresh.length) return;
 
@@ -136,15 +157,22 @@ async function sendToDiscord(events) {
   let events = loadJSON(EVENTS_FILE, []);
   let index = new Set(loadJSON(INDEX_FILE, []));
 
+  /* 🔽 Aller sur la page et activer "Tous les empires" */
+  await page.goto(BASE_URL, { waitUntil: 'networkidle' });
+
+  // ⚠️ Sélecteur volontairement large (robuste)
+  await page.waitForSelector('select', { timeout: 5000 });
+  await page.selectOption('select', { label: 'Tous les empires' });
+  await page.waitForTimeout(1000);
+
+  let nextUrl = page.url();
   let pageCount = 0;
-  let nextUrl = BASE_URL;
 
   while (nextUrl && pageCount < MAX_PAGES) {
     pageCount++;
-
     await page.goto(nextUrl, { waitUntil: 'networkidle' });
 
-    const scraped = await page.evaluate(() => {
+    const { scrapedEvents, next } = await page.evaluate(() => {
       const rows = document.querySelectorAll('table.table tbody tr');
       let currentDate = null;
       const events = [];
@@ -157,18 +185,18 @@ async function sendToDiscord(events) {
         }
 
         const tds = tr.querySelectorAll('td');
-        if (tds.length < 3) return;
+        if (tds.length < 3 || !currentDate) return;
 
         const img = tds[0].querySelector('img');
         const p = tds[0].querySelector('p');
 
         events.push({
           date: currentDate,
-          time: tds[1].innerText.trim(),
-          empire: img?.src.split('/').pop().replace('.png', ''),
-          province: tds[0].childNodes[1]?.textContent.trim(),
-          city: p?.innerText.trim(),
-          text: tr.querySelector('td[id^="ajax-"]')?.innerText.trim()
+          time: tds[1]?.innerText,
+          empire: img?.src?.split('/').pop()?.replace('.png', ''),
+          province: tds[0]?.childNodes[1]?.textContent,
+          city: p?.innerText,
+          text: tr.querySelector('td[id^="ajax-"]')?.innerText
         });
       });
 
@@ -176,12 +204,23 @@ async function sendToDiscord(events) {
       const next =
         active?.nextElementSibling?.querySelector('a')?.href || null;
 
-      return { events, next };
+      return { scrapedEvents: events, next };
     });
 
     let newCount = 0;
-    for (const raw of scraped.events) {
-      const e = { ...raw, empire: resolveEmpire(raw.empire) };
+
+    for (const raw of scrapedEvents) {
+      const e = {
+        date: normalizeText(raw.date),
+        time: normalizeText(raw.time),
+        empire: normalizeText(resolveEmpire(raw.empire)),
+        province: normalizeText(raw.province),
+        city: normalizeText(raw.city),
+        text: normalizeText(raw.text)
+      };
+
+      if (!e.date || !e.text) continue;
+
       const h = eventHash(e);
       if (!index.has(h)) {
         index.add(h);
@@ -197,7 +236,7 @@ async function sendToDiscord(events) {
       break;
     }
 
-    nextUrl = scraped.next;
+    nextUrl = next;
   }
 
   sortEvents(events);
@@ -207,5 +246,5 @@ async function sendToDiscord(events) {
   await sendToDiscord(events);
   await browser.close();
 
-  console.log(`✅ Terminé — total : ${events.length}`);
-})();
+  console.log(`✅ Terminé — total événements : ${events.length}`);
+})();   
