@@ -191,7 +191,7 @@ async function sendToDiscord(events) {
     await page.goto(nextUrl, { waitUntil: 'networkidle' });
 
 const { scrapedEvents, next } = await page.evaluate(() => {
-  const rows = document.querySelectorAll('table tbody tr');
+  const rows = document.querySelectorAll('table.table tbody tr');
 
   let currentDate = null;
   let currentEmpire = null;
@@ -210,39 +210,29 @@ const { scrapedEvents, next } = await page.evaluate(() => {
       return;
     }
 
-    const tds = tr.querySelectorAll('td');
+    const tds = [...tr.querySelectorAll('td')];
     if (!tds.length || !currentDate) return;
 
-    const td0 = tds[0];
-
     // --- EMPIRE ---
-    const img = td0.querySelector('img');
+    const img = tds[0].querySelector('img');
     if (img?.src) {
       currentEmpire = img.src.split('/').pop().replace('.png', '');
     }
 
-    // --- PROVINCE (safe text extraction) ---
-    const province = [...td0.childNodes]
-      .filter(n => n.nodeType === 3) // TEXT_NODE = 3
-      .map(n => n.textContent.replace(/\u00a0/g, ' ').trim())
-      .join(' ')
-      .trim();
+    // --- PROVINCE / VILLE ---
+    const provinceText = tds[0]?.childNodes?.[1]?.textContent?.trim();
+    const cityText = tds[0]?.querySelector('p')?.innerText?.trim();
 
-    if (province) currentProvince = province;
-
-    // --- CITY ---
-    const city = td0.querySelector('p')?.innerText?.trim();
-    if (city) currentCity = city;
+    if (provinceText) currentProvince = provinceText;
+    if (cityText) currentCity = cityText;
 
     // --- EVENT ---
     const time = tds[1]?.innerText?.trim();
     const textCell = tr.querySelector('td[id^="ajax-"]');
     const eventText = textCell?.innerText?.trim();
-    const id = textCell?.id || null;
 
     if (timeRegex.test(time) && eventText) {
       events.push({
-        id,
         date: currentDate,
         time,
         empire: currentEmpire,
@@ -263,33 +253,23 @@ const { scrapedEvents, next } = await page.evaluate(() => {
     let newCount = 0;
 
     for (const raw of scrapedEvents) {
-        const e = {
-            date: normalizeText(raw.date),
-            time: normalizeText(raw.time),
-            empire: normalizeText(resolveEmpire(raw.empire)),
-            province: normalizeText(raw.province),
-            city: normalizeText(raw.city),
-            text: normalizeText(raw.text),
-            id: raw.id
-        };
+      const e = {
+        date: normalizeText(raw.date),
+        time: normalizeText(raw.time),
+        empire: normalizeText(resolveEmpire(raw.empire)),
+        province: normalizeText(raw.province),
+        city: normalizeText(raw.city),
+        text: normalizeText(raw.text)
+      };
 
       if (!e.date || !e.text) continue;
 
-        function eventHash(e){
-    const normalized = [
-        e.id || '',
-        e.date,
-        e.time,
-        e.empire,
-        e.province,
-        e.city,
-        e.text
-    ]
-        .map(normalizeForHash)
-        .join('|');
-
-    return Buffer.from(normalized).toString('base64').slice(0, 100);
-    }
+      const h = eventHash(e);
+      if (!index.has(h)) {
+        index.add(h);
+        events.push(e);
+        newCount++;
+      }
     }
 
     console.log(`📄 Page ${pageCount} → +${newCount}`);
