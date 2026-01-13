@@ -223,7 +223,7 @@ const { scrapedEvents, next } = await page.evaluate(() => {
 
     // --- PROVINCE (safe text extraction) ---
     const province = [...td0.childNodes]
-      .filter(n => n.nodeType === Node.TEXT_NODE)
+      .filter(n => n.nodeType === 3) // TEXT_NODE = 3
       .map(n => n.textContent.replace(/\u00a0/g, ' ').trim())
       .join(' ')
       .trim();
