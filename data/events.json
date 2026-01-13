@@ -14633,6 +14633,14 @@
   },
   {
     "date": "2026-01-12",
+    "time": "19:23",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "Coup d'État ! Henry McCleft a usurpé l'empereur : « Un jour a passé depuis la tentative d'usurpation avortée. Henry, éprouvé, s'est enfermé à double tour dans une chambre de la toute nouvelle auberge de Léprosie. Seul. Même les charmes insistants des plus belles zombies du village n'ont pu le sortir de sa retraite. Quand sonne l'heure de l'apéro, cependant, la porte s'ouvre doucement. Bonsoaaar, chers fidèles. La personne qui sort de la chambre, eh bien... Est vêtue d'une longue toge religieuse et porte un collier à l'aspect précieux, représentant une rune compliquée. Humpf. je constâte que cela n'a pas changé en Léprosie, depuis mon dernier passage. Toujours cette corrrrRRrruption! Cet étalâge de chair nue! Cet... alcool! Il...? Elle? renifle un verre qui traine là, témoin de la fête de la veille. Ah non, ce n'est pas alcoOoolisé. Resterait-il de l'espoar? Grande inspiration. Ahem. Votre attentiOOon, s'il vous plaît. Je suis la Grande Prêêêtresse Henriette, du Culte Lapidaire et Fumerollé des Trépanateurs! Le CLeFT. Puisque mon incâpable de fils est incapâAAable de régner comme il se doit... JE L'USURPE! Henry, je suis ta mère. Et je vais à prééésent être... IMPERATRICE DE L'EMPIRE BRUN! C'est feu ton père qui serait fier de toi. De moi. de NOUS! Mouaaahahaha! »"
+  },
+  {
+    "date": "2026-01-12",
     "time": "19:28",
     "empire": "Confédération Libre",
     "province": "Acropole",
@@ -15093,6 +15101,14 @@
     "empire": "Empire Brun",
     "province": "Ruthvénie",
     "city": "Ruthvenville",
+    "text": "Le Ministre de l'Économie Floran Baumé a modifié le taux d'imposition des revenus de la province Santa Banana (de 20% à 60%) : « Santabananiens bonsoir, c'est le méchant Floran qui vient vous casser les bonbons encore plus qu'aux autres Bruns ! Alors voilà : il y a les choses et les gens que je déteste. Ils sont très nombreux oui oui. Mais il y a également les trucs qui me foutent la rage, le seum, la haine, enfin vous voyez le concept. Ne pas recevoir de réponse à mes missives ministérielles en fait partie. Et voir du pognon qui devrait servir dormir dans la caisse d'un palais me dégoute tout autant. J'ajuste donc vos impôts en conséquence. Si cela vous contrarie, je vous invite à réveiller le Sheik Oussama Al Khaïd et lui dire que je l'attends dans mon bureau. »"
+  },
+  {
+    "date": "2026-01-12",
+    "time": "23:16",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
     "text": "Le Ministre de l'Économie Floran Baumé a modifié le taux d'imposition des revenus de la province Santa Banana (de 20% à 60%) : « Santabananiens bonsoir, c'est le méchant Floran qui vient vous casser les bonbons encore plus qu'aux autres Bruns ! Alors voilà : il y a les choses et les gens que je déteste. Ils sont très nombreux oui oui. Mais il y a également les trucs qui me foutent la rage, le seum, la haine, enfin vous voyez le concept. Ne pas recevoir de réponse à mes missives ministérielles en fait partie. Et voir du pognon qui devrait servir dormir dans la caisse d'un palais me dégoute tout autant. J'ajuste donc vos impôts en conséquence. Si cela vous contrarie, je vous invite à réveiller le Sheik Oussama Al Khaïd et lui dire que je l'attends dans mon bureau. »"
   },
   {
@@ -15809,6 +15825,22 @@
   },
   {
     "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "La province Ruthvénie récolte 822 Co d'impôts."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "",
+    "text": "La province Kraland récolte 324 FK d'impôts."
+  },
+  {
+    "date": "2026-01-13",
     "time": "00:03",
     "empire": "Empire Brun",
     "province": "Plaine Irradiée",
@@ -16121,11 +16153,27 @@
   },
   {
     "date": "2026-01-13",
+    "time": "01:26",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Roi Landraël a adressé un discours à la population : « Et ce sera d’ailleurs ma première décision. À compter de ce jour, les titres de noblesse sont de nouveau en vigueur au Royaume. Dame Marianne procédera aux formalités administratives afin que les assistants ducaux et comtaux soient correctement introduits à la Cour. Deuxième décision Il semblerait que mon regretté prédécesseur ait égaré la Couronne de Ruthvénie. Si cet objet n’était pas l’incarnation même de l’unité du Royaume, ce serait anodin… C’est pourquoi, informé de cette situation il y a quelques semaines déjà, j’ai mandaté Felony et Alice pour une mission secrète de la plus haute importance : ramener la coupe la Couronne à la maison au Royaume. Felony vient de rentrer de ce voyage… tout particulier. Je suis certain qu’elle nous fera bientôt part de ses découvertes. Croyez-moi, le Royaume lui doit une reconnaissance éternelle. »"
+  },
+  {
+    "date": "2026-01-13",
     "time": "01:27",
     "empire": "Royaume de Ruthvénie",
     "province": "Karaïbes",
     "city": "Trésorville",
     "text": "Le Roi Landraël a adressé un discours à la population : « Autour de Landraël, des assistants paniqués courent dans tous les sens… « On avait dit dans trois jours… on avait dit dans trois jours… » « Y a rien de prêt, là, m’sieur Landraël ! » « Mais du coup, c’est vraiment un accident de carrosse ? Je comprends plus rien… » « La chaussette ! La chaussettttte ! Je fais quoi avec la chaussetttee ?! » clac de micro Allons… du silence. Et surtout, du calme. Peuple du Royaume de Ruthvénie, Nobles, marchands et paysans, Mes chers sujets, »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "01:27",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Roi Landraël a adressé un discours à la population : « C’est avec une émotion… toute particulière… que j’ai appris la tragédie que vous connaissez tous. Feu Chilmerdic Croix, Croix, Truc, Truc a été victime d’un terrible accident. Une sombre histoire mêlant carrosse et étouffement simultané avec les chaussettes qu’il affectionnait tant. Il sera regretté. Ainsi va la vie. Le déroulé précis de cette tragédie reste à établir, mais… nous y reviendrons. Voici une image que j’ai pu extraire des archives royales : La question qu’il faut désormais se poser devient donc… mais qui a bien pu instiguer cette passion pour les chaussettes chez feu notre monarque ? Ces circonstances exceptionnelles appellent logiquement des actes qui le sont tout autant. C’est pourquoi j’ai le plaisir de vous annoncer aujourd’hui que, devant la grande vague de soulagement soutien qui s’est levée dans tout le Royaume, j’ai accepté de devenir Roi de Ruthvénie. Je préfère lever immédiatement toute ambiguïté. Si je suis Roi ce soir, ce n’est pas en vertu d’un lignage imaginaire, reconstitué dans les souvenirs approximatifs des uns et des autres. Je dois vous faire une confidence : je ne sais pas d’où je viens. Tout ce que je sais, c’est que je me suis réveillé ici, dans le Royaume, après un terrible cauchemar à base de tentacules… et avec une foi inébranlable en la Grande Déesse. Par ailleurs, je rappelle aux esprits chagrins que toute la noblesse a été révoquée par Chilmerdic le Fainéant. Il n’existait donc, jusqu’à aujourd’hui, aucune noblesse officielle. »"
   },
   {
     "date": "2026-01-13",
@@ -16337,6 +16385,14 @@
   },
   {
     "date": "2026-01-13",
+    "time": "07:43",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Comte Baptiste Le Tellier a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël : « Chers sujets de Fort Emouchet, Dans la droite lignée de notre duchesse, le comté de Fort Emouchet prête allégeance à sa Majesté notre Roi et lui présente tous ses voeux de succès dans sa mission divine à la tête de notre Destin. Longue vie à notre Roi ! Que La Dame de l’Etang veille sur lui ! »"
+  },
+  {
+    "date": "2026-01-13",
     "time": "07:45",
     "empire": "Khanat Elmérien",
     "province": "Valégro",
@@ -16505,10 +16561,26 @@
   },
   {
     "date": "2026-01-13",
+    "time": "10:27",
+    "empire": "République de Kraland",
+    "province": "Sicilia",
+    "city": "",
+    "text": "Le Ministre de l'Économie MichelDruKra a modifié le taux d'imposition des revenus de la province Hélénie (de 60% à 40%) : « Idem »"
+  },
+  {
+    "date": "2026-01-13",
     "time": "10:28",
     "empire": "République de Kraland",
     "province": "Sicilia",
     "city": "Trésorville",
+    "text": "Le Ministre de l'Économie MichelDruKra a modifié le taux d'imposition des revenus de la province Karaïbes (de 60% à 40%) : « Pareil »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "10:28",
+    "empire": "République de Kraland",
+    "province": "Sicilia",
+    "city": "",
     "text": "Le Ministre de l'Économie MichelDruKra a modifié le taux d'imposition des revenus de la province Karaïbes (de 60% à 40%) : « Pareil »"
   },
   {
@@ -16521,6 +16593,14 @@
   },
   {
     "date": "2026-01-13",
+    "time": "10:29",
+    "empire": "République de Kraland",
+    "province": "Sicilia",
+    "city": "",
+    "text": "Le Ministre de l'Économie MichelDruKra a modifié le taux d'imposition des revenus de la province Slavonie (de 60% à 40%) : « Itou »"
+  },
+  {
+    "date": "2026-01-13",
     "time": "11:28",
     "empire": "Empire Brun",
     "province": "Sicilia",
@@ -16529,10 +16609,26 @@
   },
   {
     "date": "2026-01-13",
+    "time": "11:28",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "",
+    "text": "Imoen Bint Wololo Al Rasha a fondé l'organisation de presse Le Bureau des Rumeurs."
+  },
+  {
+    "date": "2026-01-13",
     "time": "11:32",
     "empire": "Empire Brun",
     "province": "Sicilia",
     "city": "Trésorville",
+    "text": "L'Intendant Marvolo Maltuvar vient de modifier le taux d'imposition sur la conversion d'or (qui passe de 10% à 5%) : « buongiorno Sicilia, come stai ? La recherche occupe, il est vrai, une place considérable et requiert un temps certain au sein de l’Empire. Toutefois, il apparaît que l’or noir ne se laissera point apprivoiser dans l’immédiat ; quelques maladresses dans le processus semblent en avoir retardé l’avènement… qu’il en soit ainsi. Mais ce n’est point de cet or sombre que je souhaite m’entretenir aujourd’hui, mais bien de l’or jaune, cette substance éclatante qui capte le regard et attise tant de convoitises. Afin d’encourager nos chers Siciliens à descendre au cœur de la roche et à tenter fortune dans les entrailles de la terre, et ainsi contribuer à l’essor de notre très cher Trou Perdu, une réduction de l’imposition sur l’or entre en vigueur dès ce jour. S’agit-il là d’une mesure définitive ? Ou d’un allègement temporaire ? L’avenir et l’évolution des besoins de la cité nous guideront. Nous aviserons selon les nécessités des jours à venir. D’ici là, profitez pleinement de cette faveur fiscale, tant qu’elle sera accordée. Suivez le fil, chers habitants… car qui sait ? Peut-être trouverez-vous, au détour d’un coup de pioche, le filon qui changera votre destinée. »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "11:32",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "",
     "text": "L'Intendant Marvolo Maltuvar vient de modifier le taux d'imposition sur la conversion d'or (qui passe de 10% à 5%) : « buongiorno Sicilia, come stai ? La recherche occupe, il est vrai, une place considérable et requiert un temps certain au sein de l’Empire. Toutefois, il apparaît que l’or noir ne se laissera point apprivoiser dans l’immédiat ; quelques maladresses dans le processus semblent en avoir retardé l’avènement… qu’il en soit ainsi. Mais ce n’est point de cet or sombre que je souhaite m’entretenir aujourd’hui, mais bien de l’or jaune, cette substance éclatante qui capte le regard et attise tant de convoitises. Afin d’encourager nos chers Siciliens à descendre au cœur de la roche et à tenter fortune dans les entrailles de la terre, et ainsi contribuer à l’essor de notre très cher Trou Perdu, une réduction de l’imposition sur l’or entre en vigueur dès ce jour. S’agit-il là d’une mesure définitive ? Ou d’un allègement temporaire ? L’avenir et l’évolution des besoins de la cité nous guideront. Nous aviserons selon les nécessités des jours à venir. D’ici là, profitez pleinement de cette faveur fiscale, tant qu’elle sera accordée. Suivez le fil, chers habitants… car qui sait ? Peut-être trouverez-vous, au détour d’un coup de pioche, le filon qui changera votre destinée. »"
   },
   {
@@ -16678,5 +16774,45 @@
     "province": "Hélénie",
     "city": "Bisouville",
     "text": "Epoxy [429] a fait la déclaration officielle suivante aux habitants de la ville Bisouville : « Kramarade Voile ! Je vois votre investissement. Parfois fluide à en trébucher, mais toujours sincère. Contrairement à l'appel à la capitalisation de notre bourgmestre dont je ne suis pas entièrement convaincue, même si c'est probablement pour le plus grand bien. .-.. . ... / - . -. - .- -.-. ..- .-.. . ... / ... --- -. - / ..-. .- ... -.-. .. -. .- -. - ... Je vous encourage à poursuivre vos efforts, avec un peu plus d'efficacité et de réussite, mais aux yeux du patelin tout entier. Davantage de Kramarade devraient prendre exemple sur votre entrain au travail. .--. --- ..- .-. ... ..- .. ...- . --.. / -.. --- -. -.-. »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "15:09",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "La Comtesse Alice Chain a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël : « Comme à son habitude, Alice traîne son escabeau jusqu'à la tribune. Elle s'installe puis règle le micro toujours mal placé au vu de sa taille quelques Larsens presque mélodieux griffent le silence. Elle porte un magnifique t-shirt “Make Rhuthvénie Great Again” ! D’un coup sec, elle arbore un enthousiasme sincère et hurle… MIAOU !!! Vive notre Roi !! Sardine à l’huile pour tous !! Vive le plus grand aubergiste de tous les temps !! La cité de Ruthvenville, ville royale, capitale du royaume, jure allégeance ! Hasta la muerte ! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "15:16",
+    "empire": "Empire Brun",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Thanaël le Joyeux a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "15:24",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "La Ministre de l'Intérieur Marianne a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël : « Sujets du Royaume. Il est parfaitement naturel que vous vous posiez des questions sur notre Roi, sa légitimité, et la loyauté que vous lui devez ou nom. On parle de droit transmis par le sang. Cela a pu être vrai mais notre défunt Roi est parti sans héritier, direct ou indirect. il y en a bien une qui a prétendu être sa fille mais il l'a nié avec la plus grande énergie. Mais si un Roi doit absolument avoir du sang d'un Roi précédent, il y a bien un moment où la lignée royale a dû commencer. Le premier Roi d'une dynastie. Car c'est bien de cela qu'il s'agit ! En l'absence d'héritier, le Roi Landraël, béni par la Grande Déesse, marque le début d'une nouvelle lignée. C'est une monarchie de droit divin sous le regard de la Grande Déesse. Une Déesse qui ne laissera pas un idiot incompétent accroc aux dessins animés au pouvoir. Elle ne laissera pas le Royaume dépérir avec un individu inutile sous cette couronne qui se prélasserait à longueur de journée. Le Roi Landraël est le champion de la Déesse. L'Élu. Longue vie au Roi Landraël ! Louée soit la Grande Déesse ! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "15:44",
+    "empire": "Empire Brun",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Logan Aska a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "15:53",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Construction d'un bâtiment Cabane dans la ville Blofeldopolis en [12,5]."
   }
 ]
