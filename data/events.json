@@ -15081,6 +15081,14 @@
   },
   {
     "date": "2026-01-12",
+    "time": "23:14",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "Les formulaires de correction de candidature ont été bien reçus. la Kramarade O'Kallaghan, dont personne n'ose utiliser le prénom parce qu'on est pas certains de comment il faut le prononcer, a vu sa candidature redistribuée vers la province de la Slavonie. Même si sa prémisse était fausse, Bob n'est pas forcément un homme, ce n'est pas le genre d'erreur qui annule une candidature. Retrait du candidat Cap'tain O'Kallaghan."
+  },
+  {
+    "date": "2026-01-12",
     "time": "23:15",
     "empire": "Royaume de Ruthvénie",
     "province": "Géofront",
@@ -15857,6 +15865,30 @@
   },
   {
     "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "La Confédération Libre récolte 1007 ¢¢ d'impôts et paie 50 ¢¢ pour ses employés (soldats). Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 96 ¢¢, Ministère de la Guerre 96 ¢¢, Ministère de la Justice 96 ¢¢, Ministère des Affaires Étrangères 96 ¢¢, Ministère de l'Économie 96 ¢¢, Ministère de la Recherche 96 ¢¢, Ministère de l'Intérieur 96 ¢¢, Ministère de l'Information 96 ¢¢, Ministère des Services Secrets 96 ¢¢, Ministère du Travail 93 ¢¢."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "",
+    "text": "La province Warriorland récolte 261 ¢¢ d'impôts."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "",
+    "text": "La province Irendol récolte 240 Éf d'impôts."
+  },
+  {
+    "date": "2026-01-13",
     "time": "00:03",
     "empire": "Empire Brun",
     "province": "Plaine Irradiée",
@@ -16625,6 +16657,14 @@
   },
   {
     "date": "2026-01-13",
+    "time": "10:28",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie MichelDruKra a modifié le taux d'imposition des revenus de la province Karaïbes (de 60% à 40%) : « Pareil »"
+  },
+  {
+    "date": "2026-01-13",
     "time": "10:29",
     "empire": "République de Kraland",
     "province": "Sicilia",
@@ -16865,10 +16905,26 @@
   },
   {
     "date": "2026-01-13",
+    "time": "15:09",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "La Comtesse Alice Chain a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël : « Comme à son habitude, Alice traîne son escabeau jusqu'à la tribune. Elle s'installe puis règle le micro toujours mal placé au vu de sa taille quelques Larsens presque mélodieux griffent le silence. Elle porte un magnifique t-shirt “Make Rhuthvénie Great Again” ! D’un coup sec, elle arbore un enthousiasme sincère et hurle… MIAOU !!! Vive notre Roi !! Sardine à l’huile pour tous !! Vive le plus grand aubergiste de tous les temps !! La cité de Ruthvenville, ville royale, capitale du royaume, jure allégeance ! Hasta la muerte ! »"
+  },
+  {
+    "date": "2026-01-13",
     "time": "15:16",
     "empire": "Empire Brun",
     "province": "Warriorland",
     "city": "Blofeldopolis",
+    "text": "Thanaël le Joyeux a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "15:16",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
     "text": "Thanaël le Joyeux a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun."
   },
   {
@@ -17006,5 +17062,77 @@
     "province": "Bouletie",
     "city": "",
     "text": "Tinylia Cératy a trouvé un gros filon de pierre dans la province Bouletie : « et hop on en a sacrement besoin, et je pense qu'on va en trouver ! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "18:00",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "Forum",
+    "text": "Tinylia Cératy a trouvé un gros filon de pierre dans la province Bouletie : « et hop on en a sacrement besoin, et je pense qu'on va en trouver ! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "18:19",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Tormenta a bafouillé un discours ridicule au lieu de louer le Gouverneur Bladimir Bladimirovitch Mutin : « Oh Bladimir, attention, derrière toi, une patate! Il y a des Citoyens qui prétendent que tu serais un danger pour la démocratie. Moi ça me fait bien rigoler, parce qu'il n'y a pas plus dangereux que ceux qui veulent pointer du doigt le danger pour la démocratie. L'histoire de la lune, du doigt et de l'imbécile. Tu vois le genre? »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "18:31",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "BossKane a ouvert un chantier privé dans la ville Trésorville en [13,8]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "18:35",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Construction d'un bâtiment Bar dans la ville Trésorville en [13,8]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "18:38",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Construction d'un bâtiment Embarcadère dans la ville Garinaville en [10,11]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "18:39",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Minskirouille a tenté de voler Renato Moretti ! Il est à présent recherché par la police du cybermonde pour ce délit."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "18:43",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "La Bourgmestre Annie a adressé un discours à la population : « J'ai du casser ma tirelire car la ville n'a pas le budget mais nous allons enfin pouvoir pêcher sous la glace grâce à l'embarcadère. Il y a même un chat qui s'adonne à la pêche en remote. »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "18:48",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "Henry McCleft a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "18:50",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "La Gouverneure Jadina a adressé un discours à la population : « Allocution Officielle de la Princesse de Siberia Paradigmiens, Paradigmiennes, Madame la MR, Je sais qu'une discussion est sur toutes les lèvres au PV depuis la nomination de notre nouveau MR : Vers où orienter les recherches ? Certains évoquent la piste des sciences arcaniques quand d'autres, proposent de d'exploiter des énergies fossiles pour désenclaver Siberia C'est beau, c'est noble, cependant je pense qu'en ma qualité de Paradimienne, je puis également donner mon avis ? Contrairement à ce que l'on pourrait croire, si je devais faire un choix, j'aimerai moi aussi que nous orientons les recherches vers La Magie ! Ô bien sur la vie est rude à Sibéria... enclavée par la neige... loin de tout... Mais enfin… ça serait égoïste de raisonner ainsi et le peuple Siberian est un peuple fier et courageux qui a prouvé qu'il était capable de Survivre même dans des conditions difficiles. Le froid, passe encore... Mais comment endurer la responsabilité d'être une des causes ayant accéléré le développement d'une industrie polluante et nuisible à l'environnement ? Nous ne voulons pas porter ce chapeau Si un jour, des gares devenaient fonctionnelles, alors tant mieux on ne crachera pas dessus, mais si cela est remis à plus tard, alors tant pis ! On a su faire avec jusqu'à présent et on continuera à le faire. La magie en revanche, c'est écologique, c'est sain... c'est pur... ça fait presque partie de notre culture et de notre identité nationale, alors va pour la Magie. En plus, j'ai le bâton qui me démange ! »"
   }
 ]
