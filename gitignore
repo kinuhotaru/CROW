@@ -18,3 +18,10 @@ coverage/
 .nuxt
 dist/
 .serverless/
+
+# IDE Files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+.vs/
