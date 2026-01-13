@@ -2,7 +2,7 @@
 import fetch from 'node-fetch';
 import * as cheerio from 'cheerio';
 
-const BASE_URL = 'https://www.kraland.org/monde/evenements';
+const BASE_URL = 'http://www.kraland.org/monde/evenements';
 
 const DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK;
 
