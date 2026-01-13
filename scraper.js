@@ -49,6 +49,19 @@ const browser = await puppeteer.launch({
   });
 
 const page = await browser.newPage();
+await page.setUserAgent(
+  'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 ' +
+  '(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+);
+
+await page.setExtraHTTPHeaders({
+  'Accept-Language': 'fr-FR,fr;q=0.9'
+});
+await page.evaluateOnNewDocument(() => {
+  Object.defineProperty(navigator, 'webdriver', {
+    get: () => false,
+  });
+});
 await page.goto(URL, {
     waitUntil: 'networkidle2',
     timeout: 60_000
