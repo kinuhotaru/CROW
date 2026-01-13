@@ -17977,6 +17977,14 @@
   },
   {
     "date": "2026-01-13",
+    "time": "22:08",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de la Justice Ed Wyplenel a adressé un discours à la population : « Hum... Je disais donc, avant que l'on ne me coupe la parole : Je n'ai pas le pouvoir d'engager des poursuites de part son statut mais la Justice trouvera sa voie... Oui, voilà, je voulais quand même finir ma phrase... »"
+  },
+  {
+    "date": "2026-01-13",
     "time": "22:20",
     "empire": "Confédération Libre",
     "province": "Plaine Irradiée",
@@ -18181,6 +18189,14 @@
     "empire": "Khanat Elmérien",
     "province": "Capsulie",
     "city": "Léprosie",
+    "text": "Le Chef de Tribu fRAN9OIS6aNDR2 a battu en combat le khan Abel X et a pris sa place !"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "23:55",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "",
     "text": "Le Chef de Tribu fRAN9OIS6aNDR2 a battu en combat le khan Abel X et a pris sa place !"
   },
   {
@@ -18713,6 +18729,30 @@
   },
   {
     "date": "2026-01-14",
+    "time": "00:01",
+    "empire": "Provinces indépendantes",
+    "province": "Australine",
+    "city": "Distillerie",
+    "text": "La province Australine récolte 0 PO d'impôts."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "Distillerie",
+    "text": "La province Bouletie récolte 289 ÐE d'impôts."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Santa Banana City",
+    "text": "La province Sicilia récolte 1122 MØ d'impôts."
+  },
+  {
+    "date": "2026-01-14",
     "time": "00:02",
     "empire": "Khanat Elmérien",
     "province": "Capsulie",
@@ -18774,6 +18814,14 @@
     "province": "Karaïbes",
     "city": "Trésorville",
     "text": "Construction d'un bâtiment Technicien dans la ville Trésorville en [13,9]."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:06",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Le Gouverneur Pr Jean-Michel Nobyl a adressé un discours à la population : « Eureka ! J'ai trouvé ! Enfin j'ai réussi à transformer de la pierre irradiée en uranium. Bon ça aura couté la vie à notre cher Aladin qui a été déstructuré, ou déconstruit comme on dit dans le milieu MGBT, lors de mon explosion nucléaire d'hier. Mais bon, il faut savoir faire des sacrifices pour l'avancée de la science ! Je suis fier de vous présenter le premier morceau d'uranium obtenu à partir de pierre de la Plaine Irradiée ! Ah zut c'est de l'or ! J'y étais presque. Encore raté, mais cette fois c'est pas vraiment une catastrophe. Bon Isotopine, c'est pas aujourd'hui que nous partons à la conquête du monde. »"
   },
   {
     "date": "2026-01-14",
@@ -18902,5 +18950,85 @@
     "province": "Crab Key",
     "city": "Port Magmor",
     "text": "Stefan de Crab (Pacifiste) a prononcé un discours louant la Comtesse Korail (Pacifiste) [PP +6] : « Le spectacle que je viens de voir était extraordinaire ! Et devinez de qui émane cette énergie positive ? Il s'agissait de notre Damoiselle Korail ! J'en avais même oublié que le Roi Chilmerdic, le gros, était mort... Pour vous dire... »"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:29",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Felony a réussi l'examen du ruban et obtenu la récompense Ruban Bicolore, ce qui lui permet de poursuivre sa carrière dans le Royaume de Ruthvénie."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:32",
+    "empire": "Paradigme Vert",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "FurFang Ravenloft a découvert la technologie Centralisation en faveur du Paradigme Vert : « La centralisation est une étape nécessaire à la mise en oeuvre de politiques d'ensemble. En outre, l'État est plus efficace, ce qui lui apporte 500 FK/jour en plus des impôts récoltés par l'empire. »"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:33",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Frère Pestilence a prononcé un discours louant le Ministre de la Guerre Charlie [PP +3] : « Charlie je vois que de plus en plus de sympathisants rejoignent le CHAOS avec ton soutien nous avons réuni plus de fidèles que je pouvais le cauchemarder, le futur avec toi s’annonce bien sombres… »"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:37",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Frère Pestilence a prononcé un discours louant le Ministre de la Guerre Charlie [PP +3] : « Tes bisous courbettes, révérences et services, charne.. euh Charmés, ils ont charmé tout l’empire, mais n’oublie pas Charlie CElui qui Siège vous vois et attend beaucoup de vous, et moi aussi ! Continuons nos noirs desssins soyons ce que L’empire a toujours attendu. »"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:40",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Frëlon Musc a réussi l'examen du ruban et obtenu la récompense Ruban Bicolore, ce qui lui permet de poursuivre sa carrière dans le Royaume de Ruthvénie."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:42",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Alice Chain (Démagogue) a prononcé un discours louant le Roi Landraël (Démagogue) [PP +2] : « Après quelques jours de stage intensif et d’endoctrinement soignée, la jeune Alice arrive sur le pupitre avec son bon vieux escabeau et son t-shirt “Make Ruthvénie Great Again !” Elle prend alors la parole, confiante, peut-être trop. - Alice tient à remercier notre juge Malcom pour les plans du potager, les constructions seront plus rapide et facile… Alice est fière de lui ! Elle évite de se déconcentrer en éloge, soudainement mal à l’aise, puis continue. - L’intendance étant terminée, Alice a installé les planches pour la construction d’un puits de pétrole... Il sera utilisé en cas d’urgence, car les géologues ont dit à Alice que c’était une mauvaise idée. Mais Alice finit toujours ce qui est commencé. Une fois ce chantier terminé, Alice pourra lancer la construction de l’embarcadère car nos réserves de poisson s’épuisent et il faut manger du poisson, c'est bon le poisson ! Elle s'éclaircit la voix. - Nous avons le plus grand Roi de tous les temps ! Vive notre Roi tout neuf ! »"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:43",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Honolulu-par-Delà",
+    "text": "Structuran Job (Agitateur) a prononcé un discours louant le Bourgmestre Ranxerox (Agitateur) [PP +3] : « Salut Honolulu C'est le Cap-Général-itaine Job. Je viens en PAIX, notamment pour annexer la prison et la transformer en caserne. Les loubards nostalgiques de curatelle renforcée seront évidemment libres de s'enroler dans ma troupe. Mais je peux aussi les executer si le besoin s'en fait SENTIR. Ce que je propose dans un premier temps : - Sortie du bulldozer local - Broyage de la cage - Tournée générale de laitues batavia d'essence de fenouil - Test du KRIK sur le bulldozer Ouais, parce que ça me parle aussi cette histoire de KRIK. En plus ce Kourant s'est forgé au milieu de tout le bousin des Karaïbes, ce qui une marque de fabrique plutôt prometteuse. Alors je vais mettre mes 2h de recherche journalière dans cette étude de cas ! »"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:47",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Frère Pestilence a prononcé un discours louant le Ministre de la Guerre Charlie [PP +5] : « Charlie Charlot, Ossature de mes aspirations, colonne vertébrale de ma révolution, tu as été le premier à comprendre le message et accepter mon statut d'envoyé de NAar. Puis surtout ton absence d'olfaction t'a permis de me supporter. Maintenant ou en sont les Froques Brunes et leurs Misssiles, l'armées des clones et la fin du Khanat !? Que j'ai hate de voir le fuuuutur ! »"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:49",
+    "empire": "Paradigme Vert",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Le Ministre de la Recherche Miliana Ravenloft a adressé un discours à la population : « Cher Paradigme Vert, c'est avec un immense plaisir que je vous annonce l'aboutissement de notre première recherche. Grâce à celle-ci, les caisses de l'État devraient se remplir bien plus abondamment, nous permettant ainsi une réinjection de ce budget dans le bien-être de nos contrées reculées. Là-dessus, je laisserai le relais à notre économie. Je tiens cependant à remercier nos trois chercheurs pour la ferveur et la détermination dont ils ont fait preuve : - Géo Trouvetou de l'île aux Kanards, - Seraphiel Ravenloft de la Forêt de Jade, - Furfang Ravenloft de la Forêt de Jade. Cela dit, ce n'est qu'un premier pas. Une prochaine recherche sera bientôt déclenchée, ce qui sera fait d'ici vingt-quatre heures. D'ici là, je vous invite à rejoindre le Forum du ministre de la recherche afin de prendre part au débat visant à confirmer la prochaine direction de notre évolution. »"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:50",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "PaulSernine a été victime d'un Tunnel Termondique de magnitude 5. Un groupe de créatures mené par 1 Cube de Logique Brute sort du tunnel et attaque le groupe."
   }
 ]
