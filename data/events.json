@@ -15841,6 +15841,22 @@
   },
   {
     "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "La province Milieu récolte 1176 ¢¢ d'impôts."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "",
+    "text": "La province Mystisie récolte 470 MØ d'impôts."
+  },
+  {
+    "date": "2026-01-13",
     "time": "00:03",
     "empire": "Empire Brun",
     "province": "Plaine Irradiée",
@@ -16297,10 +16313,26 @@
   },
   {
     "date": "2026-01-13",
+    "time": "04:11",
+    "empire": "Paradigme Vert",
+    "province": "Elmérie",
+    "city": "",
+    "text": "Morgan Ravenloft a réussi l'examen du ruban et obtenu la récompense Ruban Vert, ce qui lui permet de poursuivre sa carrière dans le Paradigme Vert."
+  },
+  {
+    "date": "2026-01-13",
     "time": "05:17",
     "empire": "Khanat Elmérien",
     "province": "Elmérie",
     "city": "Igloo",
+    "text": "Un groupe de créatures mené par 1 Primitif Elmérien Guerrier attaque Gontrand."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "05:17",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "",
     "text": "Un groupe de créatures mené par 1 Primitif Elmérien Guerrier attaque Gontrand."
   },
   {
@@ -16902,5 +16934,77 @@
     "province": "Ruthvénie",
     "city": "Ruthvenville",
     "text": "Malcom a prononcé un discours louant le Roi Landraël [PP +3] : « Comme il est le devoir de chaque citoyen du Royaume de prêter allégeance au Roi, j'en fais de même en ma position de Juge de l'Architecture de la Capitale. Sa Majesté, Landraël 1er, est un homme qui a toujours mis le Royaume avant ces propres intérêts personnels primaires. Certains diront que ce n'est pas vrai, alors je les invite à visiter notre Cage. Pour un Royaume plus prospère! Pour un royaume où la technologie nous mènera vers de grande chose! Pour que votre règne soit toujours en accord avec la volonté de la Grande Déesse! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "16:53",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Précieuse a été victime d'un Tunnel Termondique de magnitude 5. Un groupe de créatures mené par 1 Cube de Logique Brute sort du tunnel et attaque le groupe."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "16:53",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Bagdad",
+    "text": "Sultan Omar Al Khaïd a raté une action : « Aujourd'hui ci pitite douche au pitrole. L’eau chaude, ci surfait... Pendant qui Mounique… Cherche encore li robinet... »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "16:58",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Bagdad",
+    "text": "Une rumeur court parmi les habitants de la ville Bagdad : « Aujourd'hui ci pitite douche au pitrole. L’eau chaude, ci surfait... Pendant qui Mounique… Cherche encore li robinet... »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "17:02",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Elune Von Voda a réussi l'examen du ruban et obtenu la récompense Ruban Bicolore, ce qui lui permet de poursuivre sa carrière dans le Royaume de Ruthvénie."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "17:05",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Structuran Job a été victime d'un Tunnel Termondique de magnitude 2. Le tunnel détruit 1 Brique."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "17:27",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "Hanako Ainozomi a donné un spectacle distrayant dans le bâtiment Restaurant « La Lune Dansante » : « *Hanako monte sur scène et prend le micro* Je voulais profiter de cette journée de deuil pour vous chanter une chanson de circonstance en hommage à toutes les personnes que nous avons perdues ! J’espère qu’elle vous plaira, merci de m’écouter. *Les lumières de la pièce s’assombrissent juste assez pour que l’on ne distingue d’Hanako qu’une ombre qui s’incline par respect, puis les lumières s'allument de nouveau, en même temps que la musique commence et là, à la surprise des spectateurs, l’apparence de la jeune fille semble totalement différente* Oitsukenai kimi wa itsudemo Kono basho kara nani wo miteta Te ni irereba ushinau monotachi kazoete Namida mo kakushiteita ne Massugu sugiru sono hitomi wa Kono sekai wo naname ni miteita Yume wa kimi ga hitori egakun janaku Mienai kaze ga todoke tekureru Takaku tooku toberu ki ga shitara Tsunagu kono te hanasazu ni ite Kotoba dake ja tsutawaranai yo Kono mune ni aru shinjitsu tachi Te ni iretemo kese wa shinai munashisa wo Egao de kakushiteiru no Itsuno manika chika sugita Ano koro no yo ni uta wa kikoenai Itoshiki kimi yo ima doko ni iru no Iro mo imi mo nakushita sekai Takaku tooku toberu hazu nanoni Mienai sora ni tsubasa chigireru Yume wa kimi ga hitori egakun janaku Mienai kaze ga todoke tekureru Takaku tooku toberu ki ga shitara Tsunagu kono te hanasazu ni ite Yume wa kimi ga Mienai kaze ga I know your blues. »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "17:38",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Le Ministre de la Recherche Diagonale a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël : « Diagonale apparaît devant les journalistes, les cheveux décoiffés, des traces de rouge à lèvre sur la bouche et le menton, pleine de l'assurance de quelqu'un qui ne s'est pas regardée dans un miroir avant de prendre la parole. Le rouge à lèvre est d'un bleu sobre, mais malheureusement il y en a vraiment beaucoup. Il semblerait qu'elle soit vraiment nulle en maquillage. Chevalière Diagonale Ministre de la Recherche Sacrée Je remercie le nouveau Monarque de m'avoir reconduite Ministre de la Recherche du Royaume, et je suis ravie qu'Elle ait béni ces terres. Sous le commandement du Roi, le Ministère de la Recherche Sacrée saura creuser les textes anciens et affiner la théologie royale pour percevoir plus finement Sa Volonté. Je prête solennellement allégeance à Sa Majesté Landraël et lui assure mon soutien et celui de l'Aléocratie dans ces temps troublés. Des applaudissements retentissent mais Diagonale les arrête doucement d'un geste de la main, son visage barbouillé de rouge à lèvres prenant un air grave. S'il vous plaît, un peu de sérieux et de solennité. Nous sommes toujours en deuil. »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "17:44",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Tinylia Cératy est désormais domiciliée dans la ville Distillerie."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "18:00",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "",
+    "text": "Tinylia Cératy a trouvé un gros filon de pierre dans la province Bouletie : « et hop on en a sacrement besoin, et je pense qu'on va en trouver ! »"
   }
 ]
