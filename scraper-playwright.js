@@ -196,27 +196,32 @@ async function sendToDiscord(events) {
 
       const chunks = chunkEmbedLines(lines);
 
+      for (let i = 0; i < chunks.length; i++) {
         const res = await fetch(DISCORD_WEBHOOK_URL, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
             embeds: [{
-            title: `📅 ${date} — ${empire}${chunks.length > 1 ? ` (${i+1}/${chunks.length})` : ''}`,
-            color: empireColor(empire),
-            description: chunks[i],
-            footer: {
+              title: `📅 ${date} — ${empire}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
+              color: empireColor(empire),
+              description: chunks[i],
+              footer: {
                 text: `CROWS ScrapeYard • ${evts.length} événements`
-            }
+              }
             }]
-        })
+          })
         });
 
         if (!res.ok) {
-        console.error(
+          console.error(
             `❌ Embed refusé (${res.status})`,
             await res.text()
-        );
+          );
         }
+
+        // 🛑 évite le rate limit Discord
+        await new Promise(r => setTimeout(r, 900));
+      }
     }
   }
 
