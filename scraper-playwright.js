@@ -187,17 +187,6 @@ async function sendToDiscord(events) {
   while (nextUrl && pageCount < MAX_PAGES) {
     pageCount++;
     await page.goto(nextUrl, { waitUntil: 'networkidle' });
-    
-    const previousFirstId = await page.evaluate(() => {
-    return document.querySelector('td[id^="ajax-"]')?.id || null;
-    });
-
-    await page.waitForFunction(prev => {
-    const first = document.querySelector('td[id^="ajax-"]');
-    return first && first.id !== prev;
-    }, previousFirstId, { timeout: 10000 });
-
-
 
 const { scrapedEvents, next } = await page.evaluate(() => {
   const rows = document.querySelectorAll('table.table tbody tr');
@@ -239,12 +228,19 @@ const { scrapedEvents, next } = await page.evaluate(() => {
     if (cityText) currentCity = cityText;
 
     // --- EVENT ---
-    const time = tds[1]?.innerText?.trim();
+    //const time = tds[1]?.innerText?.trim();
+    let currentTime = null;
+    
     const textCell = tr.querySelector('td[id^="ajax-"]');
     const eventText = textCell?.innerText?.trim();
     const id = textCell?.id;
 
-    if (timeRegex.test(time) && eventText) {
+    let time = tds[1]?.innerText?.trim();
+    if (timeRegex.test(time)) {
+    currentTime = time;
+    }
+
+if (currentTime && eventText) {
       events.push({
         id,
         date: currentDate,
