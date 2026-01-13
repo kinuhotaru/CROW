@@ -1,4 +1,4 @@
-name: Scrape Kraland
+name: CROW
 
 on:
   schedule:
@@ -19,9 +19,6 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Install Chrome for Puppeteer
-        run: npx puppeteer browsers install chrome
-
       - name: Run scraper
         run: node scrape.js
         env:
@@ -29,8 +26,8 @@ jobs:
 
       - name: Commit data
         run: |
-          git config user.name "ScrapeYard Bot"
-          git config user.email "bot@scrapeyard"
+          git config user.name "CROW"
+          git config user.email "kinuhotaru@gmail.com"
           git add data/*.json
           git commit -m "🗂️ Update scraped data" || exit 0
           git push
