@@ -17457,10 +17457,50 @@
   },
   {
     "date": "2026-01-13",
+    "time": "20:28",
+    "empire": "Mondial",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Une aura de guérison plane sur le cybermonde. Les malades les plus atteints se rétablissent légèrement."
+  },
+  {
+    "date": "2026-01-13",
     "time": "20:38",
     "empire": "Empire Brun",
     "province": "Sicilia",
     "city": "",
     "text": "Dinglemire a entamé un combat contre Cheval."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "20:38",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Dinglemire a entamé un combat contre Cheval."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "20:46",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Dusk et Aurora a donné de l'entrain au travail dans le bâtiment Ferme (la production sera plus rapide) : « *Dans les champs nouvellement agrandis de Trou Perdu, Dusk et Aurora s'installent sur une charrue. L'homme se met à jouer de la guitare tandis que sa sœur prend un micro qu'ils se partageront.* Aller, c'est l'heure de motiver nos esclaves avec des chants bien de chez nous ! Sœurette ? A toi ! [/ *CLICK* Le soleil ardent sur vos nuques, La poussière dans vos yeux, Comptez mes coups, Comptez vos jours ! Vos bêches rythmées par nos fouets, Pour la gloire de la Famille, Cultivez ! Que vos bras soient forts, Ou vous serez morts ! Et quand je cri AVANCE, Prenez ça pour une chance : Les morts n'entendent rien, Alors bossez bande de vauriens ! Travaille Travaille Pour notre terre Aux bosseurs de la pizza Aux autres du fer ! Travaille Travaille Sous notre loi, Vous n'êtes qu'outils Et nous sommes rois ! Travaille Travaille Tombe à genoux, Tête dans la boue, Et ton cuir sera à nous ! [Esclaves] Ils chantent pour nous Fausse douceur, Ils fouettent nos cous, Des monstres sans coeur ! Ils sourient de nos malheurs Savourent notre douleur, Mais pour de la pizza... D'obéïr on continuera ! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "20:48",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "Construction d'un bâtiment Cabane dans la ville Sanctuaire en [8,11]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "20:49",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "Construction d'un bâtiment Bar dans la ville Sanctuaire en [8,11]."
   }
 ]
