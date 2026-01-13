@@ -26,3 +26,11 @@ jobs:
         run: node scraper.js
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+
+      - name: 💾 Commit data files
+        run: |
+          git config user.name "kinuhotaru"
+          git config user.email "kinuhotaru@gmail.com"
+          git add data/
+          git commit -m "chore: update scraped events" || echo "No changes"
+          git push
