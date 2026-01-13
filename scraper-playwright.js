@@ -191,7 +191,7 @@ async function sendToDiscord(events) {
     await page.goto(nextUrl, { waitUntil: 'networkidle' });
 
 const { scrapedEvents, next } = await page.evaluate(() => {
-  const rows = document.querySelectorAll('table.table tbody tr');
+  const rows = document.querySelectorAll('table.table-striped tbody tr');
 
   let currentDate = null;
   let currentEmpire = null;
