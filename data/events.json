@@ -17502,5 +17502,181 @@
     "province": "Géofront",
     "city": "Sanctuaire",
     "text": "Construction d'un bâtiment Bar dans la ville Sanctuaire en [8,11]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:03",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Bladimir Bladimirovitch Mutin a ouvert un chantier public dans la ville Forum en [12,11]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:05",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Gilbert Tronik a établi une chaîne de production dans le bâtiment Camp de Bûcherons (la production sera plus rapide)."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:17",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Léprosie",
+    "text": "Un groupe de créatures mené par 1 Primitif Elmérien attaque La Tapette."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:25",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Sanctuaire",
+    "text": "Krak' Boom Da Goff Rocka a fait la déclaration officielle suivante aux habitants de la province Karaïbes : « J’me présente pas pour faire joli sur une affiche - même si mes affiches de concert sont stylées - ni pour collectionner des commissions. J’me présente pour faire tourner les Karaïbes à plein régime, pour Kraland ! Et j'me présente aussi pour ceux qui s’cassent le dos tous les jours. Faciliter le travail, évidemment ! J’suis pas contre l’effort, j’suis pas contre les mines, les chantiers, les bras qui construisent. Au contraire. J’veux qu’le travail soit plus simple, plus fluide, moins bloqué par des paperasses et des décisions prises trop loin du sable. Ça, ça fera plaisir aux Kralandais du centre, et moi j’aime bien quand tout l’monde y trouve son compte. Mais j’vais vous dire un truc : un peuple qui bosse sans jamais souffler, ça finit par casser. Alors après l’labeur, faut la détente. Pas en cachette, pas en rasant les murs, mais au grand jour. J’propose la dépénalisation des lieux festifs surmu... surdu, surnum... enfin, considérés comme de trop quoi, dans toute la province. Bars, salles de concert, fêtes nocturnes, festivals. De la musique, d’la boisson, et même d’autres substances quand c’est encadré par des pros d’léther sérieux. Pas pour foutre l’bordel, mais pour faire oublier aux prolétaires leur existence de dur labeur pendant quelques heures. Recharger les batteries, la tête et l’cœur. Et ça, c’est pas du laxisme. C’est du financement intelligent. Parce que pendant qu’nos travailleurs soufflent, les touristes débarquent. Ils boivent, ils dansent, ils paient. Et leurs impôts, leurs crédits, leurs dépenses, elles financent quoi ? Des routes. Des ports. Des chantiers. La gloire de la nation ! Les Karaïbes doivent devenir la vitrine joyeuse de Kraland sur tout le cybermonde. Soleil, eaux bleues, cocotiers vivants ou en béton, gnôle locale, musique libre. Une province qui rayonne, pas une province qui s’enferme derrière une idéologie étriquée et moustachue. »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:25",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Agatha von Krarovich vient d'achever sa peine et a quitté la prison."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:26",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "Chlioris vient d'arriver dans la ville Sanctuaire."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:27",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "Syris vient d'arriver dans la ville Fort Emouchet."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:28",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Roger Labïte vient d'arriver dans la ville Blofeldopolis."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:28",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "A.I. Soljenitsyne vient d'arriver dans la ville Trésorville."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:31",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Construction d'un bâtiment Pré dans la ville Port Magmor en [9,6]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:32",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Ed Wyplenel a tenté, sans succès, d'obtenir une augmentation de salaire dans le bâtiment Camp de Bûcherons : « Une chaîne de production ? C'est une très bonne idée, mais faut-il pour autant travailler à faible coût ? En plus, les caisses sont vides donc motivons les troupes et soyons cohérents avec les tâches demandées ! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:34",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Sicilia",
+    "city": "Ruthvenville",
+    "text": "Le Roi Landraël a défini une nouvelle répartition budgétaire. Roi 1% Ministre de la Guerre 0% Ministre de la Justice 0% Ministre des Affaires Étrangères 0% Ministre de l'Économie 0% Ministre de la Recherche 99% Ministre de l'Intérieur 0% Ministre de l'Information 0% Directeur des Services Secrets 0% Ministre du Travail 0%"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:34",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Ruthvenville",
+    "text": "Seraphiel Ravenloft s'est fait agresser par un groupe de créatures mené par Cheval."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:35",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Ruthvenville",
+    "text": "Seraphiel Ravenloft a tenté de voler Aken ! Il est à présent recherché par la police du cybermonde pour ce délit."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:36",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Construction d'un bâtiment Petite Raffinerie dans la ville Ruthvenville en [16,6]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:37",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "La Tapette a fait la déclaration officielle suivante aux habitants de la province Forêt de Jade : « Paradigm-Accalmiens ! En représailles à votre contre-raid, je vous annonce que je viens vous contre-contre-contre-raider avec le Cap'tain Igloo. Oui, je rajoute un contre, pour garder une avance. Parce qu'en plus, d'abord, ça se permet d'imiter nos raids mieux que nous. Alors que tout le Cybermonde sait que les plus raids, c'est nous ! Je suis une tapette avec une hache, et je n'hésiterai pas à m'en servir, vous êtes prévenus !!! Des passants surpris virent passer une tapette coiffée, armée d'une hache, et sautiller gaiement jusqu'au camp de bûcherons. »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:37",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Un groupe de policiers tente d'arrêter Seraphiel Ravenloft qui est recherché."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:37",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Korail a ouvert un chantier privé dans la ville Port Magmor en [8,4]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:38",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Le Roi Landraël a adressé un discours à la population : « Diagonale, je vous monte un peu votre budget. Vous pourrez embaucher plus de stagiaires (que vous n’augmenterez évidemment pas). Et je veux des résultats. Vous me les faites bosser h24. Il est hors de question que des nations secondaires soient mieux développées que nous. C’est Sa volonté. »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:39",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Des policiers interviennent contre un groupe criminel. La police a conduit dans la prison de Accalmie : Seraphiel Ravenloft. Seraphiel Ravenloft a déclaré lors de l'arrestation : « Cher Amener moi à ma chambre. Je n'ai fait que répondre à brigand. »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:42",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Krak' Boom Da Goff Rocka a bafouillé un discours ridicule au lieu de louer le Bourgmestre Grøbachev : « Citoyennes, citoyens des Karaïbes, Kramarades de soleil et de cambouis, Parlons clair de mon adversaire, Grøbachev. Son programme tient en trois mots : travailler plus, bétonner plus, rêver moins. Toujours plus de chantiers. Toujours plus de murs gris. Toujours moins de vie. À l’entendre, les Karaïbes devraient devenir un immense chantier discipliné où le soleil gêne la productivité. Moi j’dis stop. Un gouverneur, c’est pas un chef de chantier avec une moustache idéologique. Les Karaïbes, c’est pas une zone industrielle éternelle : c’est une vitrine, un souffle, une promesse pour tout le cybermonde. Avec Grøbachev, les visiteurs débarquent, voient le béton, les slogans socialo-graffitikes, entendent “Silence, on produit”, et ils repartent aussitôt… avec leur pognon. Celui qui pourrait financer nos chantiers ! Bravo la stratégie ! Moi, j’vous propose autre chose. Du travail, oui. Mais aussi du plaisir, parce qu’un peuple épuisé produit mal, et qu’un territoire triste ne rayonne pas, il rouille. Je veux des chantiers le jour et des festivals la nuit. Des mines qui tournent et des bars qui chantent. Je veux des Karaïbes qui bossent dur... mais qui vivent fort ! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:42",
+    "empire": "Empire Brun",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "KaNaar a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun."
   }
 ]
