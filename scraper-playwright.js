@@ -78,18 +78,16 @@ function saveJSON(file, data) {
 }
 
 function eventHash(e){
-    const normalized = [
-        e.date,
-        e.time,
-        e.empire,
-        e.province,
-        e.city,
-        e.text
-    ]
-    .map(normalizeForHash)
-    .join('|');
-
-    return Buffer.from(normalized).toString('base64').slice(0,100);
+  return e.id || Buffer.from(
+    [
+      e.date,
+      e.time,
+      e.empire,
+      e.province,
+      e.city,
+      e.text
+    ].map(normalizeForHash).join('|')
+  ).toString('base64').slice(0,100);
 }
 
 function sortEvents(events) {
@@ -221,8 +219,8 @@ const { scrapedEvents, next } = await page.evaluate(() => {
 
     // --- PROVINCE / VILLE ---
     const provinceText = tds[0].cloneNode(true);
-    provinceText.querySelector('p')?.remove();
-    provinceText.querySelector('img')?.remove();
+        provinceText.querySelector('p')?.remove();
+        provinceText.querySelector('img')?.remove();
     const province = provinceText.textContent.replace(/\u00a0/g, ' ').trim();
     const cityText = tds[0]?.querySelector('p')?.innerText?.trim();
 
@@ -233,9 +231,11 @@ const { scrapedEvents, next } = await page.evaluate(() => {
     const time = tds[1]?.innerText?.trim();
     const textCell = tr.querySelector('td[id^="ajax-"]');
     const eventText = textCell?.innerText?.trim();
+    const id = textCell?.id;
 
     if (timeRegex.test(time) && eventText) {
       events.push({
+        id,
         date: currentDate,
         time,
         empire: currentEmpire,
