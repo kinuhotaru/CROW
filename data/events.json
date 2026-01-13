@@ -10689,6 +10689,14 @@
   },
   {
     "date": "2026-01-10",
+    "time": "20:17",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "",
+    "text": "Bogdan D'Arken n'a pas réussi à utiliser ses prérogatives de Diplomate pour devenir Intendant de la province Kraland : « Un petit bn oost à la production peut-être ? Je m'occupe d'améliorer l'intendance »"
+  },
+  {
+    "date": "2026-01-10",
     "time": "20:24",
     "empire": "Empire Brun",
     "province": "Forêt de Jade",
@@ -11617,6 +11625,30 @@
   },
   {
     "date": "2026-01-11",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "",
+    "text": "La province Géofront récolte 498 Co d'impôts."
+  },
+  {
+    "date": "2026-01-11",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "",
+    "text": "La province Capsulie récolte 190 ÐE d'impôts."
+  },
+  {
+    "date": "2026-01-11",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "",
+    "text": "La province Karaïbes récolte 161 FK d'impôts et paie 50 FK pour ses employés (policiers et soldats)."
+  },
+  {
+    "date": "2026-01-11",
     "time": "00:03",
     "empire": "Empire Brun",
     "province": "Niarkalistan",
@@ -12369,6 +12401,14 @@
   },
   {
     "date": "2026-01-11",
+    "time": "14:27",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "Jalala s'est présenté aux élections pour le poste de Gouverneur de la province Milieu : « \"Comme annoncé sur la place provinciale, je candidate pour le poste de gouverneur ! Vous pouvez voir mon petit programme ici !\" »"
+  },
+  {
+    "date": "2026-01-11",
     "time": "14:30",
     "empire": "Khanat Elmérien",
     "province": "Karaïbes",
@@ -12377,10 +12417,26 @@
   },
   {
     "date": "2026-01-11",
+    "time": "14:30",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "TifaLockHeart a réussi l'examen du ruban et obtenu la récompense Ruban Mauve, ce qui lui permet de poursuivre sa carrière dans le Khanat Elmérien."
+  },
+  {
+    "date": "2026-01-11",
     "time": "14:43",
     "empire": "Paradigme Vert",
     "province": "Karaïbes",
     "city": "Trésorville",
+    "text": "Corbeau Sceptique a réussi l'examen du ruban et obtenu la récompense Ruban Vert, ce qui lui permet de poursuivre sa carrière dans le Paradigme Vert."
+  },
+  {
+    "date": "2026-01-11",
+    "time": "14:43",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
     "text": "Corbeau Sceptique a réussi l'examen du ruban et obtenu la récompense Ruban Vert, ce qui lui permet de poursuivre sa carrière dans le Paradigme Vert."
   },
   {
@@ -13017,6 +13073,14 @@
   },
   {
     "date": "2026-01-11",
+    "time": "21:42",
+    "empire": "Palladium Corporation",
+    "province": "",
+    "city": "",
+    "text": "LoulouDuck a réussi l'examen du ruban et obtenu la récompense Ruban Jaune, ce qui lui permet de poursuivre sa carrière dans la Palladium Corporation."
+  },
+  {
+    "date": "2026-01-11",
     "time": "21:51",
     "empire": "Paradigme Vert",
     "province": "Forêt de Jade",
@@ -13189,6 +13253,14 @@
     "empire": "République de Kraland",
     "province": "Ruthvénie",
     "city": "Lantenac-du-Lac",
+    "text": "La Première Ministre Magritte Lenouar a défini une nouvelle répartition budgétaire. Premier Ministre 1% Ministre de la Guerre 0% Ministre de la Justice 0% Ministre des Affaires Étrangères 0% Ministre de l'Économie 0% Ministre de la Recherche 99% Ministre de l'Intérieur 0% Ministre de l'Information 0% Directeur des Services Secrets 0% Ministre du Travail 0%"
+  },
+  {
+    "date": "2026-01-11",
+    "time": "23:42",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
     "text": "La Première Ministre Magritte Lenouar a défini une nouvelle répartition budgétaire. Premier Ministre 1% Ministre de la Guerre 0% Ministre de la Justice 0% Ministre des Affaires Étrangères 0% Ministre de l'Économie 0% Ministre de la Recherche 99% Ministre de l'Intérieur 0% Ministre de l'Information 0% Directeur des Services Secrets 0% Ministre du Travail 0%"
   },
   {
@@ -13769,6 +13841,22 @@
   },
   {
     "date": "2026-01-12",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "",
+    "text": "La province Plaine Irradiée récolte 445 ¢¢ d'impôts."
+  },
+  {
+    "date": "2026-01-12",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "",
+    "text": "La province Sibéria récolte 215 Éf d'impôts."
+  },
+  {
+    "date": "2026-01-12",
     "time": "00:02",
     "empire": "Confédération Libre",
     "province": "Acropole",
@@ -14061,6 +14149,14 @@
     "empire": "Khanat Elmérien",
     "province": "Île aux Kanards",
     "city": "Kanardville",
+    "text": "Aurelthar a réussi l'examen du ruban et obtenu la récompense Ruban Mauve, ce qui lui permet de poursuivre sa carrière dans le Khanat Elmérien."
+  },
+  {
+    "date": "2026-01-12",
+    "time": "04:56",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
     "text": "Aurelthar a réussi l'examen du ruban et obtenu la récompense Ruban Mauve, ce qui lui permet de poursuivre sa carrière dans le Khanat Elmérien."
   },
   {
@@ -14901,6 +14997,14 @@
     "empire": "Confédération Libre",
     "province": "Plaine Irradiée",
     "city": "Atome",
+    "text": "Une rumeur court parmi les habitants de la Confédération Libre : « J'enregistre ces messages audio dans l'espoir que le système automatique d'annonce les diffusera sur les ondes radio quand il sera de nouveau alimenté en électricité, après l'effondrement. Je m’appelle Dr Wale. Je travaille pour une organisation Warrior qui combat les anomalies qui menacent notre réalité. Ce n’est pas de la paranoïa. Le département s’occupe de choses qui s’effacent elles-mêmes de l’esprit. Des idées qui pourrissent leurs propres empreintes. Des faits qui ne peuvent pas survivre au fait d’être connus. Je vais lire à ce micro mes notes des dernières semaines. Je ne me souviens moi-même de rien. La seule façon d'échapper à la folie était l'oubli chimique. Je suis condamné: si je sors de mon bureau, l'entité M##M#R que nous avons tenté de mettre en contingence m'aura à mon tour. Si vous m'écoutez, c'est qu'à défaut de l'avoir neutralisé l'arme d'oubli général aura fonctionné. Il sera toujours là, mais vous aurez survécu. On aura perdu une grande bataille, mais pas la guerre. »"
+  },
+  {
+    "date": "2026-01-12",
+    "time": "21:38",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
     "text": "Une rumeur court parmi les habitants de la Confédération Libre : « J'enregistre ces messages audio dans l'espoir que le système automatique d'annonce les diffusera sur les ondes radio quand il sera de nouveau alimenté en électricité, après l'effondrement. Je m’appelle Dr Wale. Je travaille pour une organisation Warrior qui combat les anomalies qui menacent notre réalité. Ce n’est pas de la paranoïa. Le département s’occupe de choses qui s’effacent elles-mêmes de l’esprit. Des idées qui pourrissent leurs propres empreintes. Des faits qui ne peuvent pas survivre au fait d’être connus. Je vais lire à ce micro mes notes des dernières semaines. Je ne me souviens moi-même de rien. La seule façon d'échapper à la folie était l'oubli chimique. Je suis condamné: si je sors de mon bureau, l'entité M##M#R que nous avons tenté de mettre en contingence m'aura à mon tour. Si vous m'écoutez, c'est qu'à défaut de l'avoir neutralisé l'arme d'oubli général aura fonctionné. Il sera toujours là, mais vous aurez survécu. On aura perdu une grande bataille, mais pas la guerre. »"
   },
   {
@@ -16001,6 +16105,14 @@
   },
   {
     "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "",
+    "text": "La province Forêt de Jade récolte 1416 Éf d'impôts."
+  },
+  {
+    "date": "2026-01-13",
     "time": "00:03",
     "empire": "Empire Brun",
     "province": "Plaine Irradiée",
@@ -16801,6 +16913,14 @@
   },
   {
     "date": "2026-01-13",
+    "time": "10:29",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie MichelDruKra a modifié le taux d'imposition des revenus de la province Slavonie (de 60% à 40%) : « Itou »"
+  },
+  {
+    "date": "2026-01-13",
     "time": "11:28",
     "empire": "Empire Brun",
     "province": "Sicilia",
@@ -16812,6 +16932,14 @@
     "time": "11:28",
     "empire": "Empire Brun",
     "province": "Sicilia",
+    "city": "",
+    "text": "Imoen Bint Wololo Al Rasha a fondé l'organisation de presse Le Bureau des Rumeurs."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "11:28",
+    "empire": "Empire Brun",
+    "province": "",
     "city": "",
     "text": "Imoen Bint Wololo Al Rasha a fondé l'organisation de presse Le Bureau des Rumeurs."
   },
@@ -17073,10 +17201,26 @@
   },
   {
     "date": "2026-01-13",
+    "time": "15:24",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Intérieur Marianne a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël : « Sujets du Royaume. Il est parfaitement naturel que vous vous posiez des questions sur notre Roi, sa légitimité, et la loyauté que vous lui devez ou nom. On parle de droit transmis par le sang. Cela a pu être vrai mais notre défunt Roi est parti sans héritier, direct ou indirect. il y en a bien une qui a prétendu être sa fille mais il l'a nié avec la plus grande énergie. Mais si un Roi doit absolument avoir du sang d'un Roi précédent, il y a bien un moment où la lignée royale a dû commencer. Le premier Roi d'une dynastie. Car c'est bien de cela qu'il s'agit ! En l'absence d'héritier, le Roi Landraël, béni par la Grande Déesse, marque le début d'une nouvelle lignée. C'est une monarchie de droit divin sous le regard de la Grande Déesse. Une Déesse qui ne laissera pas un idiot incompétent accroc aux dessins animés au pouvoir. Elle ne laissera pas le Royaume dépérir avec un individu inutile sous cette couronne qui se prélasserait à longueur de journée. Le Roi Landraël est le champion de la Déesse. L'Élu. Longue vie au Roi Landraël ! Louée soit la Grande Déesse ! »"
+  },
+  {
+    "date": "2026-01-13",
     "time": "15:44",
     "empire": "Empire Brun",
     "province": "Warriorland",
     "city": "Blofeldopolis",
+    "text": "Logan Aska a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "15:44",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
     "text": "Logan Aska a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun."
   },
   {
@@ -17545,6 +17689,14 @@
   },
   {
     "date": "2026-01-13",
+    "time": "21:17",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "",
+    "text": "Un groupe de créatures mené par 1 Primitif Elmérien attaque La Tapette."
+  },
+  {
+    "date": "2026-01-13",
     "time": "21:25",
     "empire": "République de Kraland",
     "province": "Karaïbes",
@@ -17777,6 +17929,14 @@
   },
   {
     "date": "2026-01-13",
+    "time": "22:00",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie Floran Baumé a versé 1500 MØ au Ministère de la Recherche."
+  },
+  {
+    "date": "2026-01-13",
     "time": "22:03",
     "empire": "Paradigme Vert",
     "province": "Capsulie",
@@ -17878,5 +18038,109 @@
     "province": "",
     "city": "",
     "text": "Epoxy [429] a brûlé par erreur des notes scientifiques importantes. La recherche est perturbée (-3 à la technologie n°28)."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "22:48",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "Gynerak",
+    "text": "Epoxy [429] a brûlé par erreur des notes scientifiques importantes. La recherche est perturbée (-3 à la technologie n°28)."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "23:01",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "Gynerak",
+    "text": "Construction d'un bâtiment Poste de Garde dans la ville Gynerak en [12,2]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "23:03",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Structuran Job a été victime d'un Tunnel Termondique de magnitude 4. Les membres du groupe ont parcouru cette distance par des chemins différents et sont tous séparés."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "23:04",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Samwell Price Fisher a prononcé un discours louant la Comtesse Korail [PP +6] : « Ahoy à tous les matelots d'Crab Key ! J'voudrais juste manifester mon soutien M'amzelle Korail la comtesse qui fait un travail r'marquable pour la ville et qui j'suis sûr en f'ra autant pour la province ! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "23:05",
+    "empire": "Confédération Libre",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "La Ministre de la Recherche Tendi Neet a adressé un discours à la population : « ON Y EST PRESQUE !§ 98% Faut tout donner ! CHERCHEZ ! GOGOGO ! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "23:05",
+    "empire": "Confédération Libre",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Cousine a réussi l'examen du ruban et obtenu la récompense Ruban Gris, ce qui lui permet de poursuivre sa carrière dans la Confédération Libre."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "23:17",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Toutânkhàmoi a prononcé un discours louant le Ministre de la Guerre Charlie [PP +1] : « Toutânkhàmoi continue sa visite de ces lieux étranges. Ce bâtiment ressemble vaguement à un palais, dans le genre de ceux où il était invité jadis. Il entre. A l'accueil, la réceptionniste lui demande ce qu'il cherche, et désorienté, il ne sait que bredouiller \"Charlie\", un des rares noms qu'il ait retenu. Encore une curiosité, ces noms... Il sursaute. La réceptionniste beugle \"CHARLIE ! On demande CHARLIE à l'accueil !\" Effrayé par le volume sonore que cette frêle créature est capable d'émettre, Toutânkhàmoi prend ses jambes... ah non, elles sont tombées... bon, il rassemble ses bandelettes et s'enfuit courageusement vers son fragile asile. »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "23:18",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Antipøde a été victime d'un Tunnel Termondique de magnitude 6. Une grande lumière le frappe et le laisse dans le coma."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "23:33",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Abel X a ouvert un chantier public dans la ville CAPS LOCK en [2,5]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "23:41",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Le Khan Abel X a nommé Gontrand au poste de Capitaine."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "23:46",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Construction d'un bâtiment Base Militaire dans la ville CAPS LOCK en [2,5]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "23:47",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Petit Tonnerre a ouvert un chantier privé dans la ville CAPS LOCK en [8,4]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "23:48",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Felicity Stone a bafouillé un discours ridicule au lieu de louer le Roi Landraël : « : Votre Majesté, sachez que vous pouvez compter sur moi pour m'interposer si des vont-nu-pieds tentent de s'en prendre à vous ! m'enfin, sur mon Héraut surtout. D'ailleurs, je viens d'en croiser un au centre-ville, alors, faites gaffe ! »"
   }
 ]
