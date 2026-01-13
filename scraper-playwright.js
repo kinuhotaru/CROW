@@ -190,40 +190,65 @@ async function sendToDiscord(events) {
     pageCount++;
     await page.goto(nextUrl, { waitUntil: 'networkidle' });
 
-    const { scrapedEvents, next } = await page.evaluate(() => {
-      const rows = document.querySelectorAll('table.table tbody tr');
-      let currentDate = null;
-      const events = [];
+const { scrapedEvents, next } = await page.evaluate(() => {
+  const rows = document.querySelectorAll('table.table tbody tr');
 
-      rows.forEach(tr => {
-        const dateMatch = tr.innerText.trim().match(/^\d{4}-\d{2}-\d{2}$/);
-        if (dateMatch) {
-          currentDate = dateMatch[0];
-          return;
-        }
+  let currentDate = null;
+  let currentEmpire = null;
+  let currentProvince = "";
+  let currentCity = "";
 
-        const tds = tr.querySelectorAll('td');
-        if (tds.length < 3 || !currentDate) return;
+  const events = [];
+  const timeRegex = /^\d{2}:\d{2}$/;
 
-        const img = tds[0].querySelector('img');
-        const p = tds[0].querySelector('p');
+  rows.forEach(tr => {
+    const text = tr.innerText.trim();
 
-        events.push({
-          date: currentDate,
-          time: tds[1]?.innerText,
-          empire: img?.src?.split('/').pop()?.replace('.png', ''),
-          province: tds[0]?.childNodes[1]?.textContent,
-          city: p?.innerText,
-          text: tr.querySelector('td[id^="ajax-"]')?.innerText
-        });
+    // --- DATE ---
+    if (/^\d{4}-\d{2}-\d{2}$/.test(text)) {
+      currentDate = text;
+      return;
+    }
+
+    const tds = [...tr.querySelectorAll('td')];
+    if (!tds.length || !currentDate) return;
+
+    // --- EMPIRE ---
+    const img = tds[0].querySelector('img');
+    if (img?.src) {
+      currentEmpire = img.src.split('/').pop().replace('.png', '');
+    }
+
+    // --- PROVINCE / VILLE ---
+    const provinceText = tds[0]?.childNodes?.[1]?.textContent?.trim();
+    const cityText = tds[0]?.querySelector('p')?.innerText?.trim();
+
+    if (provinceText) currentProvince = provinceText;
+    if (cityText) currentCity = cityText;
+
+    // --- EVENT ---
+    const time = tds[1]?.innerText?.trim();
+    const textCell = tr.querySelector('td[id^="ajax-"]');
+    const eventText = textCell?.innerText?.trim();
+
+    if (timeRegex.test(time) && eventText) {
+      events.push({
+        date: currentDate,
+        time,
+        empire: currentEmpire,
+        province: currentProvince,
+        city: currentCity,
+        text: eventText
       });
+    }
+  });
 
-      const active = document.querySelector('.pagination li.active');
-      const next =
-        active?.nextElementSibling?.querySelector('a')?.href || null;
+  const active = document.querySelector('.pagination li.active');
+  const next =
+    active?.nextElementSibling?.querySelector('a')?.href || null;
 
-      return { scrapedEvents: events, next };
-    });
+  return { scrapedEvents: events, next };
+});
 
     let newCount = 0;
 
