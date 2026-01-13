@@ -521,6 +521,22 @@
   },
   {
     "date": "2026-01-06",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "",
+    "text": "La province Niarkalistan récolte 552 MØ d'impôts."
+  },
+  {
+    "date": "2026-01-06",
+    "time": "00:01",
+    "empire": "Mondial",
+    "province": "",
+    "city": "",
+    "text": "Il se murmure que la relique Nuisette de Disco aurait fait sa réapparition dans le cybermonde."
+  },
+  {
+    "date": "2026-01-06",
     "time": "00:03",
     "empire": "Confédération Libre",
     "province": "Acropole",
@@ -1145,10 +1161,26 @@
   },
   {
     "date": "2026-01-06",
+    "time": "07:34",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie MichelDruKra a adressé un discours à la population : « Kramarades productivistes et kollektivistes de tous poils, Notre Glorieuse Première Ministre, dans sa vision éclairée (louée soit Elle !), souhaite encourager la production et le développement des infrastructures de nos provinces. Ainsi, les Gouverneur.e.s de nos provinces sont invitées à le faire connaître d’ici demain leur citoyen le plus productif, afin que nous puissions décider de l’attribution d’une prime spéciale de rendement ! Bien évidemment, dans un esprit purement graffitike, l’ensemble des citoyens sera mis à contribution pour le financement de cette prime. Car ce n’est que dans le partage de la richesse que nous trouverons le Bonheur Universel ! KRA20KRA ! »"
+  },
+  {
+    "date": "2026-01-06",
     "time": "07:35",
     "empire": "République de Kraland",
     "province": "Bouletie",
     "city": "Youpigrad",
+    "text": "Le Ministre de l'Économie MichelDruKra a levé un impôt exceptionnel qui a rapporté 703 FK [loyauté -0.4] : « Comme annoncé, pour le financement de la prime de rendement et dans un esprit totalement social-graffitike. À votre bon cœur ! »"
+  },
+  {
+    "date": "2026-01-06",
+    "time": "07:35",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
     "text": "Le Ministre de l'Économie MichelDruKra a levé un impôt exceptionnel qui a rapporté 703 FK [loyauté -0.4] : « Comme annoncé, pour le financement de la prime de rendement et dans un esprit totalement social-graffitike. À votre bon cœur ! »"
   },
   {
@@ -1657,10 +1689,26 @@
   },
   {
     "date": "2026-01-06",
+    "time": "15:19",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Atome",
+    "text": "La Gouverneure Jadina a adressé un discours à la population : « S'il y a bien une chose que j'ai apprise au cours de ma courte existence, c'est que lorsqu'il s'agit de construire à tout va, pour bâtir une métropole à partir de rien, les Palladionautes excellent ! C'est la raison pour laquelle je nomme ce jour Annie Au poste de Bourgmestre de Garinaville ! puis je lui en dois une comme je lui ai grillé la priorité oO je vous vois venir... Les Palladionautes sont d'infâme pollueur qui détruisent la terre, la nature et qui transforment tout ce qu'ils touchent en saleté. C'est vrai... Mais bon j'ai parfaitement confiance en Annie que j'ai vu apporter beaucoup de soin à son ficus en plastique, et ça, c'est des trucs qui ne mentent pas. Annie saura parfaitement concilier un développement efficace durable en respectant les normes environnementales paradigmiennes. En tout cas, moi je crois en elle ! Puis je reste dans le coin pour veiller aux glaçons »"
+  },
+  {
+    "date": "2026-01-06",
     "time": "15:20",
     "empire": "Paradigme Vert",
     "province": "Sibéria",
     "city": "",
+    "text": "La Gouverneure Jadina a nommé Annie au poste de Bourgmestre de la ville Garinaville."
+  },
+  {
+    "date": "2026-01-06",
+    "time": "15:20",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Atome",
     "text": "La Gouverneure Jadina a nommé Annie au poste de Bourgmestre de la ville Garinaville."
   },
   {
@@ -2225,10 +2273,26 @@
   },
   {
     "date": "2026-01-06",
+    "time": "22:31",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Garinaville",
+    "text": "Le Gouverneur Dale Shippen a nommé Salmacis au poste de Bourgmestre de la ville Grand Jardin."
+  },
+  {
+    "date": "2026-01-06",
     "time": "22:32",
     "empire": "Paradigme Vert",
     "province": "Irendol",
     "city": "",
+    "text": "Le Gouverneur Dale Shippen a adressé un discours à la population : « Comme je suis absolument corruptible, et qu'en plus, on m'offre le thé, je décide de nommer quelqu'un comme Bourgmestre de Grand jardin. Pas, Quelqu'un, quelqu'un, dont je me souviens déjà plus du nom, mais quelle importance ? »"
+  },
+  {
+    "date": "2026-01-06",
+    "time": "22:32",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Garinaville",
     "text": "Le Gouverneur Dale Shippen a adressé un discours à la population : « Comme je suis absolument corruptible, et qu'en plus, on m'offre le thé, je décide de nommer quelqu'un comme Bourgmestre de Grand jardin. Pas, Quelqu'un, quelqu'un, dont je me souviens déjà plus du nom, mais quelle importance ? »"
   },
   {
@@ -2310,6 +2374,14 @@
     "province": "Slavonie",
     "city": "Port Magmor",
     "text": "La Gouverneure Tears Velzard a nommé K' au poste de Intendant."
+  },
+  {
+    "date": "2026-01-06",
+    "time": "23:47",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "",
+    "text": "La Gouverneure Tears Velzard a nommé Eva Dey au poste de Bourgmestre de la ville Gynerak."
   },
   {
     "date": "2026-01-06",
@@ -2849,6 +2921,22 @@
   },
   {
     "date": "2026-01-07",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "La province Milieu récolte 587 ¢¢ d'impôts."
+  },
+  {
+    "date": "2026-01-07",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "",
+    "text": "La province Mystisie récolte 357 MØ d'impôts."
+  },
+  {
+    "date": "2026-01-07",
     "time": "00:02",
     "empire": "Empire Brun",
     "province": "Sicilia",
@@ -2989,6 +3077,14 @@
     "empire": "Empire Brun",
     "province": "",
     "city": "",
+    "text": "Dinglemire a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun."
+  },
+  {
+    "date": "2026-01-07",
+    "time": "00:25",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
     "text": "Dinglemire a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun."
   },
   {
@@ -3169,10 +3265,26 @@
   },
   {
     "date": "2026-01-07",
+    "time": "01:23",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Trou Perdu",
+    "text": "Philippe Philoppe a réussi l'examen du ruban et obtenu la récompense Ruban Gris, ce qui lui permet de poursuivre sa carrière dans la Confédération Libre."
+  },
+  {
+    "date": "2026-01-07",
     "time": "01:36",
     "empire": "Confédération Libre",
     "province": "Acropole",
     "city": "",
+    "text": "Philippe Philoppe a fait la déclaration officielle suivante aux habitants de la province Acropole : « Chers concitoyens d'Acropole, je suis fier de vous présenter la toute première école de notre belle capitale : l'INSS (se prononce hnss comme dans la phrase \"Ouais j'ai fait ma licence à l'hnss\") L'ISSN est un établissement d'avant-garde dédié à l'art subtil de ne jamais prendre position. Nos cours, tels que « Introduction au Oui-Mais », « L'art de la Réunionite : Comment parler pendant des heures sans rien décider » et « Le Jargon Managérial pour les Nuls », forment les leaders de demain à des piliers de stabilité... et ce au centre absolu de l'échiquier politique! Philippe Philoppe, directeur et fondateur de l'INSS, Ici en train de féliciter les diplomés du Ruban Gris Photographie: Archives - INSS © 2026 Rejoignez-nous et apprenez à être d'accord avec tout le monde, surtout avec vos adversaires! C'est aussi l'opportunité pour les citoyens les plus politisés d'entre vous de passer l'examen de votre ruban gris et de sauter dans le bain de la politique! Et qui sait ? Se cache peut-être parmi vous quelqu'un qui empruntera le même chemin vers le succès que notre président Caïus Martius Ice »"
+  },
+  {
+    "date": "2026-01-07",
+    "time": "01:36",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Trou Perdu",
     "text": "Philippe Philoppe a fait la déclaration officielle suivante aux habitants de la province Acropole : « Chers concitoyens d'Acropole, je suis fier de vous présenter la toute première école de notre belle capitale : l'INSS (se prononce hnss comme dans la phrase \"Ouais j'ai fait ma licence à l'hnss\") L'ISSN est un établissement d'avant-garde dédié à l'art subtil de ne jamais prendre position. Nos cours, tels que « Introduction au Oui-Mais », « L'art de la Réunionite : Comment parler pendant des heures sans rien décider » et « Le Jargon Managérial pour les Nuls », forment les leaders de demain à des piliers de stabilité... et ce au centre absolu de l'échiquier politique! Philippe Philoppe, directeur et fondateur de l'INSS, Ici en train de féliciter les diplomés du Ruban Gris Photographie: Archives - INSS © 2026 Rejoignez-nous et apprenez à être d'accord avec tout le monde, surtout avec vos adversaires! C'est aussi l'opportunité pour les citoyens les plus politisés d'entre vous de passer l'examen de votre ruban gris et de sauter dans le bain de la politique! Et qui sait ? Se cache peut-être parmi vous quelqu'un qui empruntera le même chemin vers le succès que notre président Caïus Martius Ice »"
   },
   {
@@ -3185,10 +3297,26 @@
   },
   {
     "date": "2026-01-07",
+    "time": "01:48",
+    "empire": "Empire Brun",
+    "province": "Irendol",
+    "city": "Trou Perdu",
+    "text": "Martina Docuce a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun."
+  },
+  {
+    "date": "2026-01-07",
     "time": "01:59",
     "empire": "Paradigme Vert",
     "province": "",
     "city": "",
+    "text": "Kara H a réussi l'examen du ruban et obtenu la récompense Ruban Vert, ce qui lui permet de poursuivre sa carrière dans le Paradigme Vert."
+  },
+  {
+    "date": "2026-01-07",
+    "time": "01:59",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Trou Perdu",
     "text": "Kara H a réussi l'examen du ruban et obtenu la récompense Ruban Vert, ce qui lui permet de poursuivre sa carrière dans le Paradigme Vert."
   },
   {
@@ -3961,6 +4089,14 @@
   },
   {
     "date": "2026-01-07",
+    "time": "16:10",
+    "empire": "Confédération Libre",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "BoboFix a réussi l'examen du ruban et obtenu la récompense Ruban Gris, ce qui lui permet de poursuivre sa carrière dans la Confédération Libre."
+  },
+  {
+    "date": "2026-01-07",
     "time": "16:16",
     "empire": "Confédération Libre",
     "province": "Elmérie",
@@ -4045,6 +4181,14 @@
     "empire": "Paradigme Vert",
     "province": "Slavonie",
     "city": "Gynerak",
+    "text": "Selim a réussi l'examen du ruban et obtenu la récompense Ruban Vert, ce qui lui permet de poursuivre sa carrière dans le Paradigme Vert."
+  },
+  {
+    "date": "2026-01-07",
+    "time": "17:59",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
     "text": "Selim a réussi l'examen du ruban et obtenu la récompense Ruban Vert, ce qui lui permet de poursuivre sa carrière dans le Paradigme Vert."
   },
   {
@@ -4441,6 +4585,14 @@
   },
   {
     "date": "2026-01-07",
+    "time": "22:51",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "L'Empereur Henry McCleft a nommé Tony Sokrano au poste de Ministre de l'Information."
+  },
+  {
+    "date": "2026-01-07",
     "time": "22:55",
     "empire": "Empire Brun",
     "province": "Île aux Kanards",
@@ -4505,10 +4657,26 @@
   },
   {
     "date": "2026-01-07",
+    "time": "23:32",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Quartier Suprême",
+    "text": "ForestTrump s'est fait agresser par un groupe de créatures mené par Aigle Géant."
+  },
+  {
+    "date": "2026-01-07",
     "time": "23:51",
     "empire": "République de Kraland",
     "province": "Karaïbes",
     "city": "",
+    "text": "La Ministre de l'Intérieur Cassandre Lemage a accepté Cap'tain O'Kallaghan au sein de la République de Kraland : « Kralut Kramarade. Alors comme ça tu as bourlingué à travers les divers océans pour revenir ici, sur la Meuse ? Te voilà redevenue marin d'eau douce. C'est beau. Je t'offre, par la grâce des 6 Elues et de l'Article VIII bis de notre Constitution, la nationalité kralandaise. Grâce à elle, tu es enfin libérée de ta prison mentale. Te voilà fin prête à soulever des montagnes pour la gloire du socialograffitisme et du féminisme. Des bisous ! »"
+  },
+  {
+    "date": "2026-01-07",
+    "time": "23:51",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Quartier Suprême",
     "text": "La Ministre de l'Intérieur Cassandre Lemage a accepté Cap'tain O'Kallaghan au sein de la République de Kraland : « Kralut Kramarade. Alors comme ça tu as bourlingué à travers les divers océans pour revenir ici, sur la Meuse ? Te voilà redevenue marin d'eau douce. C'est beau. Je t'offre, par la grâce des 6 Elues et de l'Article VIII bis de notre Constitution, la nationalité kralandaise. Grâce à elle, tu es enfin libérée de ta prison mentale. Te voilà fin prête à soulever des montagnes pour la gloire du socialograffitisme et du féminisme. Des bisous ! »"
   },
   {
@@ -4521,6 +4689,14 @@
   },
   {
     "date": "2026-01-07",
+    "time": "23:54",
+    "empire": "Empire Brun",
+    "province": "Karaïbes",
+    "city": "Quartier Suprême",
+    "text": "Le Ministre de la Guerre Charlie a accordé la récompense Croix de Guerre Totale à Frère Pestilence : « Lettre à mon mal-aimé Mon très cher Môôôssieur le Gouverneur, Depuis plusieurs minutes déjà, je ne puis me tenir à vos côtés pour semer CHAOS et DESTRUCTION dans la province du Niarkalistan, si chère à notre cœur. J’ai eu l’honneur d’échanger avec Môôôssieur l’Empereur en personne, qui m’a arrachée à votre auguste présence afin que je mène une quête : une quête vitale pour assurer la survie de JPP, ma future copine et ministre de l’Intérieur. Môôôssieur le Gouverneur, depuis mon modeste ministère, dont la comptabilité m’informe que nous ne pouvons malheureusement pas prendre en charge la bouilloire, faute de technologie adéquate, je me rends compte que votre présence me manque... La cor de guerre résonne à nos portes ! Les milliards de clones de la légion thermo-démoniaque ont une mission dont l’avenir du cybermonde dépend. Parviendrons-nous à sauver nos copains et copines, sauvagement abattus par les paladins, les Valkyries ou les révoltes paysannes ? Je n’en sais point. Sachez cependant que, malgré nos maigres moyens, nous renverserons bientôt l’ordre des choses ! Que dis-je ? Le CHAOS sera partout. Il est ici, Môôôssieur le Gouverneur, il émet cette douce chaleur sous ma main à l’instant même… et non, rassurez-vous, je suis bien à mon ministère, ce n’est nullement la jambe de Môôôssieur l’Empereur que je caresse. Le CHAOS est ici. ... Je l’entends. ... Il me murmure… Crôôôa ! Crôôôa ! Crôôôa ! Oh ! Le Ministère de la Justice est juste à côté ! COUCOU, Maître Corbeau !!! Ne baissez pas les bras à cause de mon sacrifice. Je vous ai laissé une de mes phalanges sous l’oreiller, afin que vous gardiez toujours mon odeur. Et je rentre tout à l’heure ! Pour votre lutte acharnée contre tout ce qui tente sournoisement d’abattre le CHAOS (alors qu’il n’a rien demandé à personne), je vous fais Dark Cavalier de l’Apocalypse du Mal des Ténèbres (...) »"
+  },
+  {
+    "date": "2026-01-07",
     "time": "23:55",
     "empire": "Empire Brun",
     "province": "Karaïbes",
@@ -4529,10 +4705,26 @@
   },
   {
     "date": "2026-01-07",
+    "time": "23:55",
+    "empire": "Empire Brun",
+    "province": "Karaïbes",
+    "city": "Quartier Suprême",
+    "text": "Le Ministre de la Guerre Charlie a adressé un discours à la population : « LA CENSURE$$$$ J'en étais où?! ... je vous fais Dark Cavalier de l’Apocalypse du Mal des Ténèbres Abyssales. Mal cordialement, Bisou »"
+  },
+  {
+    "date": "2026-01-07",
     "time": "23:56",
     "empire": "République de Kraland",
     "province": "Karaïbes",
     "city": "",
+    "text": "Grøbachev s'est présenté aux élections pour le poste de Gouverneur de la province Karaïbes : « Moi, Grøbachev, fidèle au Parti, moustache qui défie la gravité et regard qui fait fuir les capitalistes, je candidate au poste de Gouverneur pour faire des Karaibes la province la plus prolétarienne et attractive de la Glorieuse RepubliK. 15FK la salade de fenouils au restaurant du Palmier Rouge ! Unique établissement de restauration de l'île. Validé par le régime. »"
+  },
+  {
+    "date": "2026-01-07",
+    "time": "23:56",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Quartier Suprême",
     "text": "Grøbachev s'est présenté aux élections pour le poste de Gouverneur de la province Karaïbes : « Moi, Grøbachev, fidèle au Parti, moustache qui défie la gravité et regard qui fait fuir les capitalistes, je candidate au poste de Gouverneur pour faire des Karaibes la province la plus prolétarienne et attractive de la Glorieuse RepubliK. 15FK la salade de fenouils au restaurant du Palmier Rouge ! Unique établissement de restauration de l'île. Validé par le régime. »"
   },
   {
@@ -5049,6 +5241,38 @@
   },
   {
     "date": "2026-01-08",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "La Confédération Libre récolte 838 ¢¢ d'impôts et paie 50 ¢¢ pour ses employés (soldats). Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 79 ¢¢, Ministère de la Guerre 79 ¢¢, Ministère de la Justice 79 ¢¢, Ministère des Affaires Étrangères 79 ¢¢, Ministère de l'Économie 79 ¢¢, Ministère de la Recherche 79 ¢¢, Ministère de l'Intérieur 79 ¢¢, Ministère de l'Information 79 ¢¢, Ministère des Services Secrets 79 ¢¢, Ministère du Travail 77 ¢¢."
+  },
+  {
+    "date": "2026-01-08",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Ruthvenville",
+    "text": "La province Warriorland récolte 64 ¢¢ d'impôts."
+  },
+  {
+    "date": "2026-01-08",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Accalmie",
+    "text": "La province Irendol récolte 94 Éf d'impôts."
+  },
+  {
+    "date": "2026-01-08",
+    "time": "00:01",
+    "empire": "Mondial",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "Il se murmure que la relique Calice Nabla aurait fait sa réapparition dans le cybermonde."
+  },
+  {
+    "date": "2026-01-08",
     "time": "00:03",
     "empire": "Confédération Libre",
     "province": "Plaine Irradiée",
@@ -5549,6 +5773,14 @@
     "empire": "Empire Brun",
     "province": "Santa Banana",
     "city": "",
+    "text": "Le Gouverneur Oussama Al Khaïd a nommé Hasna au poste de Bourgmestre de la ville Bagdad."
+  },
+  {
+    "date": "2026-01-08",
+    "time": "11:41",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Trésorville",
     "text": "Le Gouverneur Oussama Al Khaïd a nommé Hasna au poste de Bourgmestre de la ville Bagdad."
   },
   {
@@ -6425,6 +6657,14 @@
   },
   {
     "date": "2026-01-08",
+    "time": "22:16",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "",
+    "text": "La Gouverneure Tears Velzard a nommé Bob le très très terrible au poste de Procureur."
+  },
+  {
+    "date": "2026-01-08",
     "time": "22:19",
     "empire": "Confédération Libre",
     "province": "Plaine Irradiée",
@@ -6473,10 +6713,26 @@
   },
   {
     "date": "2026-01-08",
+    "time": "22:52",
+    "empire": "Khanat Elmérien",
+    "province": "Slavonie",
+    "city": "Atome",
+    "text": "Riguel Templar a réussi l'examen du ruban et obtenu la récompense Ruban Mauve, ce qui lui permet de poursuivre sa carrière dans le Khanat Elmérien."
+  },
+  {
+    "date": "2026-01-08",
     "time": "23:17",
     "empire": "Khanat Elmérien",
     "province": "Slavonie",
     "city": "",
+    "text": "Jean-Michel Très Normal a réussi l'examen du ruban et obtenu la récompense Ruban Mauve, ce qui lui permet de poursuivre sa carrière dans le Khanat Elmérien."
+  },
+  {
+    "date": "2026-01-08",
+    "time": "23:17",
+    "empire": "Khanat Elmérien",
+    "province": "Slavonie",
+    "city": "Atome",
     "text": "Jean-Michel Très Normal a réussi l'examen du ruban et obtenu la récompense Ruban Mauve, ce qui lui permet de poursuivre sa carrière dans le Khanat Elmérien."
   },
   {
@@ -6489,10 +6745,26 @@
   },
   {
     "date": "2026-01-08",
+    "time": "23:19",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "Atome",
+    "text": "Cassandre Lemage a trouvé un filon de pierre dans la province Slavonie : « Soeurs Slavones. J'ai été honteusement agressée par un pervers vêtu de latex à Quartier Suprême. Une sorte de détraqué qui voulait toucher mon esprit sans mon consentement. Je me sens salie par cette velléité de faire de moi sa chose, son expérience. Je ne juge pas des kinks étranges des gens mais là, vouloir jouer au docteur avec moi pour tâter mes synapses, c'est trop. Ainsi, soeurs Slavones, je vous propose de venir communier avec moi auprès de la pierre primordiale. Celle grâce à qui la brique métaphysique est. Son état originel. Le champs des possibles reste donc à inscrire sur sa matière et il ne reste qu'à nous de tailler, de la pétrir ou de la concasser par la force de notre esprit. Venez donc, donner de la force aux pierres Slavones qui serviront à bâtir un nouveau monde déconstruit. »"
+  },
+  {
+    "date": "2026-01-08",
     "time": "23:34",
     "empire": "Empire Brun",
     "province": "",
     "city": "",
+    "text": "Le Ministre de la Guerre Charlie a adressé un discours à la population : « KHANAT ELMERIEN C'EST LA GUERRE$$$$ N'essayez pas de fuir, il est désormais trop tard pour vous! Je viens d’actionner le bouton de la LÉGION THERMODÉMONIAQUE : elle quitte notre base secrète de Milieu à l’instant même ! La base est encore en construction, mes camarades brun·e·s s’affairent à assembler les frondes nécessaires à l’érection de la montagne qui dissimulera nos silos à missiles. Selon le déplacement des plaques tectoniques et l’ardeur manufacturière de mes copains et copines, la montagne devrait être achevée dans 1 à 2 milliards d’années (prévision optimiste). J’AI TOUT PRÉVU !!! Les millions de clones de combats qui sont encore en infiltration vont venir vous massacrer! Mixer! Écrabouiller! Essorer! Poudrifier! Pulvériser! Eternuer! Armées brunes, exécutez l'ordre 66! Renversez les tables ! Jetez les doyens elmériens dans la boue ! Attaquez les sangliers avant qu’ils ne tombent sous les flèches ennemies ! Détruisez leurs palanquins ! Mélangez les cuillères et les couteaux ! Remplacez leurs cabanes de bois par des forteresses de brique ! »"
+  },
+  {
+    "date": "2026-01-08",
+    "time": "23:34",
+    "empire": "Empire Brun",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
     "text": "Le Ministre de la Guerre Charlie a adressé un discours à la population : « KHANAT ELMERIEN C'EST LA GUERRE$$$$ N'essayez pas de fuir, il est désormais trop tard pour vous! Je viens d’actionner le bouton de la LÉGION THERMODÉMONIAQUE : elle quitte notre base secrète de Milieu à l’instant même ! La base est encore en construction, mes camarades brun·e·s s’affairent à assembler les frondes nécessaires à l’érection de la montagne qui dissimulera nos silos à missiles. Selon le déplacement des plaques tectoniques et l’ardeur manufacturière de mes copains et copines, la montagne devrait être achevée dans 1 à 2 milliards d’années (prévision optimiste). J’AI TOUT PRÉVU !!! Les millions de clones de combats qui sont encore en infiltration vont venir vous massacrer! Mixer! Écrabouiller! Essorer! Poudrifier! Pulvériser! Eternuer! Armées brunes, exécutez l'ordre 66! Renversez les tables ! Jetez les doyens elmériens dans la boue ! Attaquez les sangliers avant qu’ils ne tombent sous les flèches ennemies ! Détruisez leurs palanquins ! Mélangez les cuillères et les couteaux ! Remplacez leurs cabanes de bois par des forteresses de brique ! »"
   },
   {
@@ -6505,6 +6777,14 @@
   },
   {
     "date": "2026-01-08",
+    "time": "23:35",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
+    "text": "Quelqu'un a fondé l'organisation secrète La CHASSE."
+  },
+  {
+    "date": "2026-01-08",
     "time": "23:37",
     "empire": "Royaume de Ruthvénie",
     "province": "",
@@ -6513,10 +6793,26 @@
   },
   {
     "date": "2026-01-08",
+    "time": "23:37",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
+    "text": "Stefan de Crab a réussi l'examen du ruban et obtenu la récompense Ruban Bicolore, ce qui lui permet de poursuivre sa carrière dans le Royaume de Ruthvénie."
+  },
+  {
+    "date": "2026-01-08",
     "time": "23:41",
     "empire": "Khanat Elmérien",
     "province": "",
     "city": "",
+    "text": "Halone a réussi l'examen du ruban et obtenu la récompense Ruban Mauve, ce qui lui permet de poursuivre sa carrière dans le Khanat Elmérien."
+  },
+  {
+    "date": "2026-01-08",
+    "time": "23:41",
+    "empire": "Khanat Elmérien",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
     "text": "Halone a réussi l'examen du ruban et obtenu la récompense Ruban Mauve, ce qui lui permet de poursuivre sa carrière dans le Khanat Elmérien."
   },
   {
@@ -7033,6 +7329,22 @@
   },
   {
     "date": "2026-01-09",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "",
+    "text": "La province Crab Key récolte 491 Co d'impôts."
+  },
+  {
+    "date": "2026-01-09",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "",
+    "text": "La province Slavonie récolte 232 FK d'impôts."
+  },
+  {
+    "date": "2026-01-09",
     "time": "00:02",
     "empire": "Khanat Elmérien",
     "province": "Sicilia",
@@ -7121,6 +7433,14 @@
   },
   {
     "date": "2026-01-09",
+    "time": "00:14",
+    "empire": "République de Kraland",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "La Première Ministre Magritte Lenouar a défini une nouvelle répartition budgétaire. Premier Ministre 1% Ministre de la Guerre 0% Ministre de la Justice 0% Ministre des Affaires Étrangères 0% Ministre de l'Économie 0% Ministre de la Recherche 50% Ministre de l'Intérieur 20% Ministre de l'Information 29% Directeur des Services Secrets 0% Ministre du Travail 0%"
+  },
+  {
+    "date": "2026-01-09",
     "time": "00:15",
     "empire": "Confédération Libre",
     "province": "Milieu",
@@ -7205,6 +7525,14 @@
     "empire": "République de Kraland",
     "province": "Hélénie",
     "city": "Port Magmor",
+    "text": "La Gouverneure Simone Voile a retiré à BossKane le poste de Intendant. La Gouverneure Simone Voile a nommé Vesperia Ashcroft au poste de Intendante."
+  },
+  {
+    "date": "2026-01-09",
+    "time": "00:27",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "",
     "text": "La Gouverneure Simone Voile a retiré à BossKane le poste de Intendant. La Gouverneure Simone Voile a nommé Vesperia Ashcroft au poste de Intendante."
   },
   {
@@ -7313,10 +7641,26 @@
   },
   {
     "date": "2026-01-09",
+    "time": "01:20",
+    "empire": "Empire Brun",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "Le Gouverneur Frère Pestilence a adressé un discours à la population : « Sous titre pour ceux dont la Naaritude est encore floue qui disent en somme : Le monde est au bord des abysses, si Frère Pestilence ne monte pas sur le trône, nous sombreront de nouveau de manière tentaculaire. Vénérons Le, CElui qui Siège, Embrassons le Chaos Frère Pestilence est nôtre Sauveur Frère Pestilence est l’empereur légitime Charlie le magnifique siègera avec lui etc etc »"
+  },
+  {
+    "date": "2026-01-09",
     "time": "01:21",
     "empire": "Empire Brun",
     "province": "",
     "city": "",
+    "text": "Le Gouverneur Frère Pestilence a adressé un discours à la population : « Retransmission du procès publique du désavoué Empereur : J’ACCUSE Les fidèles De Pestilence marchent dans les rues de la capitale J’accuse le soit disant Empereur Henri McCleft d'ingérence, ne laissant pas sa place à mon ascension, à l'avènement du Chaos, j'accuse ce gouvernement fantoche de se conformer à l’esprit délabré d’un arriviste déboussolé qui prend l’empire pour une basse cour, que dis-je un vivarium bzz bzz où un terrain de jeux pour enfants. sauf toi Charlie Depuis le premier jour je complote, résiste à sa volonté de vous entraîner vers la voie décadente du progrès technologique, transformant les habitants de l’empire dévoué à l’ordre du chaos et de la dévotion à Naar, en Athéiste hébétés ne pensant qu'à leur profit et donc pas au mien. Celui qui Siège, m’a donné la force de résister et d’accomplir ses noirs dessins. En son nom je vous le dit, nous faisons fausse route et à moins d’un changement imminent sa colère s'abattra sur nous ! Ou alors c’est Nerdos qui viendra nous botter le cul. Heureusement je suis là mes mals frères et soeurs ! Frère Pestilence murmure une incantation et disparaît derrière un grand rideau, au moment où le rideau tombe le voici transfiguré habillé pour une grande cérémonie démoniaque. Les succubes et autres monstruosités de Léprosie se déhanchent à ses côtés. S'ensuit un chant de dévotion à Naar. Tadam voyez par vous même »"
+  },
+  {
+    "date": "2026-01-09",
+    "time": "01:21",
+    "empire": "Empire Brun",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
     "text": "Le Gouverneur Frère Pestilence a adressé un discours à la population : « Retransmission du procès publique du désavoué Empereur : J’ACCUSE Les fidèles De Pestilence marchent dans les rues de la capitale J’accuse le soit disant Empereur Henri McCleft d'ingérence, ne laissant pas sa place à mon ascension, à l'avènement du Chaos, j'accuse ce gouvernement fantoche de se conformer à l’esprit délabré d’un arriviste déboussolé qui prend l’empire pour une basse cour, que dis-je un vivarium bzz bzz où un terrain de jeux pour enfants. sauf toi Charlie Depuis le premier jour je complote, résiste à sa volonté de vous entraîner vers la voie décadente du progrès technologique, transformant les habitants de l’empire dévoué à l’ordre du chaos et de la dévotion à Naar, en Athéiste hébétés ne pensant qu'à leur profit et donc pas au mien. Celui qui Siège, m’a donné la force de résister et d’accomplir ses noirs dessins. En son nom je vous le dit, nous faisons fausse route et à moins d’un changement imminent sa colère s'abattra sur nous ! Ou alors c’est Nerdos qui viendra nous botter le cul. Heureusement je suis là mes mals frères et soeurs ! Frère Pestilence murmure une incantation et disparaît derrière un grand rideau, au moment où le rideau tombe le voici transfiguré habillé pour une grande cérémonie démoniaque. Les succubes et autres monstruosités de Léprosie se déhanchent à ses côtés. S'ensuit un chant de dévotion à Naar. Tadam voyez par vous même »"
   },
   {
@@ -7405,6 +7749,14 @@
     "empire": "Royaume de Ruthvénie",
     "province": "Crab Key",
     "city": "Ruthvenville",
+    "text": "Korail s'est présentée aux élections pour le poste de Duc de la province Crab Key : « Chers marins, corsaires, kanards et cultistes. Notre Port Magmor a beaucoup évolué en peu de temps, félicitations à tous. Le port est quasiment terminé, le Duc Arbois va donc pouvoir très bientôt mener notre flotte corsaire et partir conquérir de nouvelles terres pour le Duché afin d’agrandir le Royaume. L’auberge va également être aujourd’hui, ou demain. Le Duc O’Goulot va donc pouvoir également s’adonner à un deuxième passetemps, étancher sa soif intarissable de Rhum ! Comme notre cher Duc va donc être très occupé prochainement, je me propose donc pour assurer l’intérim pendant qu’il est en mer ou en train de cuver au bar. Messire de Crab a lui postulé pour me remplacer au Comté pendant ce temps. Il a tout mon soutien, je sais que c’est un architecte de renom qui pourra continuer la suite de la construction de notre Port pendant que je surveille les affaires du Duc. Tous le monde a complimenté ma gestion du Comté et ma capacité à calmer la soif de sang du duc ! Je pense donc être parfaite pour cette nouvelle mission ! N’est-ce pas Arbois ? Vous m’offrirez bien un verre de Rhum lorsque l’auberge sera terminée ? »"
+  },
+  {
+    "date": "2026-01-09",
+    "time": "02:30",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "",
     "text": "Korail s'est présentée aux élections pour le poste de Duc de la province Crab Key : « Chers marins, corsaires, kanards et cultistes. Notre Port Magmor a beaucoup évolué en peu de temps, félicitations à tous. Le port est quasiment terminé, le Duc Arbois va donc pouvoir très bientôt mener notre flotte corsaire et partir conquérir de nouvelles terres pour le Duché afin d’agrandir le Royaume. L’auberge va également être aujourd’hui, ou demain. Le Duc O’Goulot va donc pouvoir également s’adonner à un deuxième passetemps, étancher sa soif intarissable de Rhum ! Comme notre cher Duc va donc être très occupé prochainement, je me propose donc pour assurer l’intérim pendant qu’il est en mer ou en train de cuver au bar. Messire de Crab a lui postulé pour me remplacer au Comté pendant ce temps. Il a tout mon soutien, je sais que c’est un architecte de renom qui pourra continuer la suite de la construction de notre Port pendant que je surveille les affaires du Duc. Tous le monde a complimenté ma gestion du Comté et ma capacité à calmer la soif de sang du duc ! Je pense donc être parfaite pour cette nouvelle mission ! N’est-ce pas Arbois ? Vous m’offrirez bien un verre de Rhum lorsque l’auberge sera terminée ? »"
   },
   {
@@ -7793,6 +8145,14 @@
   },
   {
     "date": "2026-01-09",
+    "time": "12:45",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Économie Mina & Lilith Evermore a adressé un discours à la population : « [blue] Mesdames, messieurs, Kanards, Sheiks, Princesses, Comtes, Pandas, Fées, Faune et flore de notre Paradigme. Si nous sommes réunis en ce jour, c'est pour célébrer le renouveau de notre belle nation. Louée soit la Nature ! Permettez moi de citer quelques mots de la Régente, issus de son discours du 6 janvier, destiné à la princesse Jadina, princesse autoproclamée de Sibéria : \"L'argent c'est ennuyeux, quand on en manque on en veux, et [...] on [...] veut [...] des finances. [...] Le plan [...] pour les habitants [...], soyez [...] heureux dans votre environnement\" Ainsi à parlé la Régente, et en son nom je vous transfère sa parole. Respectons un moment de silence pour honorer sa régence bienfaitrice. La régente l'a dit, le Paradigme a besoin de fonds. Dès lors, Je ne vois d'autres solutions que d'effectuer ma mission corps et âme, et j'invite chacun à en faire de même : redressons l'économie du pays, amenons le vers de nouveaux horizons. Pour cela, j'ai besoin de l'aide chaque gouverneurs, de chaque bourgmestres du Paradigme. Je compte effectuer un pèlerinage une visite de chaque bourgade de notre nation pour y lever des fonds. Ces fonds seront ensuite redistribué en fonction des besoins. Actuellement en Irendol j'y ferais mes premières levées de fonds, puis je me rendrais en Sibéria, pour y constater la situation. Ainsi le désire le paradigme, ainsi la nature nous y oblige.... Et maintenant, LA QUÊTE À votre bon coeur m'sieurs dames, pour la rénovation de notre état. [b]J'invite chaque ville, chaque province, à déjà faire remonter de l'argent vers le ministère de l'Économie, en fonction de ses possibilités, les (...) »"
+  },
+  {
+    "date": "2026-01-09",
     "time": "13:00",
     "empire": "Royaume de Ruthvénie",
     "province": "Ruthvénie",
@@ -7901,6 +8261,14 @@
     "empire": "Confédération Libre",
     "province": "Acropole",
     "city": "",
+    "text": "Le Gouverneur Bladimir Bladimirovitch Mutin a repoussé les élections d'une semaine : « Cheяs Citoyens. Foяum Capitale Cybeяmondiale de la Démocяacie. Lumièяe dans l'obscuяité pouя tous les peuples oppяimés. Mais Démocяacie en dangeя. Une seule candidatuяe pour la Pяésidence. Une seule candidatuяe pour le Gouveяnorat. Mon coeuя de Démocяate saigner ! Laяmes de яage couleя sur mes joues.. Si si, яegardeя Gяandeur Confédéяation impossible sans Яenouveau Démocяatie. Яenouveau Démocяatie impossible sans débat électoяal. Débat électoяal impossible si un seul candidat. Pяendяe deux décisions. Яepousser Elections Pяovince, pouя peяmettre autres candidats se pяesenter. Me pяésenter à l'election pяésidentielle, pouя offяif débat démocяatique au Peuple Confédéяé. »"
+  },
+  {
+    "date": "2026-01-09",
+    "time": "16:05",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
     "text": "Le Gouverneur Bladimir Bladimirovitch Mutin a repoussé les élections d'une semaine : « Cheяs Citoyens. Foяum Capitale Cybeяmondiale de la Démocяacie. Lumièяe dans l'obscuяité pouя tous les peuples oppяimés. Mais Démocяacie en dangeя. Une seule candidatuяe pour la Pяésidence. Une seule candidatuяe pour le Gouveяnorat. Mon coeuя de Démocяate saigner ! Laяmes de яage couleя sur mes joues.. Si si, яegardeя Gяandeur Confédéяation impossible sans Яenouveau Démocяatie. Яenouveau Démocяatie impossible sans débat électoяal. Débat électoяal impossible si un seul candidat. Pяendяe deux décisions. Яepousser Elections Pяovince, pouя peяmettre autres candidats se pяesenter. Me pяésenter à l'election pяésidentielle, pouя offяif débat démocяatique au Peuple Confédéяé. »"
   },
   {
@@ -8065,10 +8433,26 @@
   },
   {
     "date": "2026-01-09",
+    "time": "18:14",
+    "empire": "République de Kraland",
+    "province": "Bananie",
+    "city": "Garinaville",
+    "text": "Le Ministre de l'Économie MichelDruKra a versé 282 FK au Palais Impérial."
+  },
+  {
+    "date": "2026-01-09",
     "time": "18:35",
     "empire": "République de Kraland",
     "province": "Bananie",
     "city": "",
+    "text": "Edgard le Canard a fondé la guilde KRAVANGERS."
+  },
+  {
+    "date": "2026-01-09",
+    "time": "18:35",
+    "empire": "République de Kraland",
+    "province": "Bananie",
+    "city": "Garinaville",
     "text": "Edgard le Canard a fondé la guilde KRAVANGERS."
   },
   {
@@ -8081,10 +8465,26 @@
   },
   {
     "date": "2026-01-09",
+    "time": "18:41",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Garinaville",
+    "text": "Tinylia Cératy a trouvé un filon d'or dans la province Bananie : « Allez il faut bien regarder, mais je crois que nous pouvons travailler bien mieux et plus vite en pleine lumiére »"
+  },
+  {
+    "date": "2026-01-09",
     "time": "18:42",
     "empire": "Paradigme Vert",
     "province": "Sibéria",
     "city": "",
+    "text": "La Gouverneure Jadina a adressé un discours à la population : « Communiqué officiel de la Princesse et Gouverneure de Sibéria Peuple de Sibéria, La vie est dure par chez nous, le climat est rude, mais il ne faut rien lâcher. Nous avons accompli des choses jusqu'à maintenant alors que personne n'aurait misé un Ecoflorin sur nous... Nous sommes même la première province paradigmienne à nous être dotée d'une raffinerie. Certes, elle ne sert à rien, mais quand même... c'est un signal fort envoyé à la communauté internationale, notre province est tellement à la pointe qu'elle est en avance sur son temps. Mais ce message n'a pas pour but de faire l'autocongratulation, non j'annonce que l'intendance a bien été construite, elle est sortie de terre même si elle ne dispose pas encore d'un bureau fonctionnel, donc... il faudra que nous continuions à mettre la main à la pâte en agrandissant l'intendance pour pouvoir enfin agir sur la politique fiscale de la province. C'est essentiel, même si ce n'est que la seconde tâche à accomplir car la priorité selon moi, et c'est la raison de mon discours, c'est l'agrandissement du bar de Damka. Certes, c'est un commerce privé, mais Damka pratique des tarifs acceptables, avec un salaire honnête, alors je prie tous les volontaires d'aller donner un coup de main à cet honnête commerçant pour qu'il puisse agrandir son modeste établissement. Car à ce jour, trop peu de Siberians ont accès à un lit correct pour se reposer et les nuits sont froides par chez nous... Ce n'est ni une obligation, ni un ordre, juste un souhait que je formule aujourd'hui, que plus personne ne soit contraint de dormir dehors »"
+  },
+  {
+    "date": "2026-01-09",
+    "time": "18:42",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
     "text": "La Gouverneure Jadina a adressé un discours à la population : « Communiqué officiel de la Princesse et Gouverneure de Sibéria Peuple de Sibéria, La vie est dure par chez nous, le climat est rude, mais il ne faut rien lâcher. Nous avons accompli des choses jusqu'à maintenant alors que personne n'aurait misé un Ecoflorin sur nous... Nous sommes même la première province paradigmienne à nous être dotée d'une raffinerie. Certes, elle ne sert à rien, mais quand même... c'est un signal fort envoyé à la communauté internationale, notre province est tellement à la pointe qu'elle est en avance sur son temps. Mais ce message n'a pas pour but de faire l'autocongratulation, non j'annonce que l'intendance a bien été construite, elle est sortie de terre même si elle ne dispose pas encore d'un bureau fonctionnel, donc... il faudra que nous continuions à mettre la main à la pâte en agrandissant l'intendance pour pouvoir enfin agir sur la politique fiscale de la province. C'est essentiel, même si ce n'est que la seconde tâche à accomplir car la priorité selon moi, et c'est la raison de mon discours, c'est l'agrandissement du bar de Damka. Certes, c'est un commerce privé, mais Damka pratique des tarifs acceptables, avec un salaire honnête, alors je prie tous les volontaires d'aller donner un coup de main à cet honnête commerçant pour qu'il puisse agrandir son modeste établissement. Car à ce jour, trop peu de Siberians ont accès à un lit correct pour se reposer et les nuits sont froides par chez nous... Ce n'est ni une obligation, ni un ordre, juste un souhait que je formule aujourd'hui, que plus personne ne soit contraint de dormir dehors »"
   },
   {
@@ -8161,6 +8561,14 @@
   },
   {
     "date": "2026-01-09",
+    "time": "20:00",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "",
+    "text": "Evan Garcia Liszt a fait la déclaration officielle suivante aux habitants de la province Plaine Irradiée : « Atome ! C'est votre voisin, le bienveillant Evan Liszt, qui vous a ramené du bois non-mutant mais vivant quand même, me disent les écolos, vous allez pouvoir vous approvisionner à la scierie et auprès du professeur-bourgmestre. Je dois repartir demain pour assister d'autres personnes avec des pierres, mais venez donc me trouver au bar si vous voulez racheter ou échanger le bois qui reste. »"
+  },
+  {
+    "date": "2026-01-09",
     "time": "20:13",
     "empire": "Théocratie Seelienne",
     "province": "Mystisie",
@@ -8173,6 +8581,22 @@
     "empire": "Empire Brun",
     "province": "Mystisie",
     "city": "Lampe du Génie",
+    "text": "La Gouverneure Monique Pilon-Lemage a adressé un discours à la population : « Je demande donc à la Ministre de la Recherche, Shana Al Khaïd - une fille charmante au demeurant - de conduire une évaluation des activités de recherche effectuées par les chercheurs impliqués dans ce désastre, et de leur faire signer une charte anti-gaspi assorties de menaces de mort que je peux aider à mettre en forme si nécessaire. Avec une alimentation exclusivement constituée de tomates séchées au pétrole, et son projet de construire 14 raffineries, la Mystisie n'a pas le loisir de gaspiller, elle ! Par ailleurs. Le Docteur des Sables, dont chacun a pu reconnaître les immenses compétences à la lecture de sa Notice d'information sanitaire relative aux trahisons ascendantes, mon médecin personnel et filleul, m'informe que le salaire offert aux doctorants et aux chercheurs est misérable. Cela explique sans doute les mauvais résultats obtenus ! Parce que y a des BONS chercheurs, et y a les MAUVAIS chercheurs. C'est pourquoi je propose d'adopter de toute urgence une gestion raisonnée de la Recherche scientifique : - Augmenter les salaires des BONS chercheurs. - recruter les BONS chercheurs qui savent déjà où chercher, évidemment. C'est frappé du sot du bon sens ! - nous débarrasser rapidement des doctorants inutiles. Pourquoi pas les tuer ? A propos des tapettes Je ne vois pas le problème avec les tapettes. La tapette est la meilleure amie de la bonne ménagère, de même que le papier qui colle. Tout le monde sait ça ! »"
+  },
+  {
+    "date": "2026-01-09",
+    "time": "20:13",
+    "empire": "Théocratie Seelienne",
+    "province": "",
+    "city": "",
+    "text": "Hanako Ainozomi a réussi l'examen du ruban et obtenu la récompense Ruban Bleu, ce qui lui permet de poursuivre sa carrière dans la Théocratie Seelienne."
+  },
+  {
+    "date": "2026-01-09",
+    "time": "20:13",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
     "text": "La Gouverneure Monique Pilon-Lemage a adressé un discours à la population : « Je demande donc à la Ministre de la Recherche, Shana Al Khaïd - une fille charmante au demeurant - de conduire une évaluation des activités de recherche effectuées par les chercheurs impliqués dans ce désastre, et de leur faire signer une charte anti-gaspi assorties de menaces de mort que je peux aider à mettre en forme si nécessaire. Avec une alimentation exclusivement constituée de tomates séchées au pétrole, et son projet de construire 14 raffineries, la Mystisie n'a pas le loisir de gaspiller, elle ! Par ailleurs. Le Docteur des Sables, dont chacun a pu reconnaître les immenses compétences à la lecture de sa Notice d'information sanitaire relative aux trahisons ascendantes, mon médecin personnel et filleul, m'informe que le salaire offert aux doctorants et aux chercheurs est misérable. Cela explique sans doute les mauvais résultats obtenus ! Parce que y a des BONS chercheurs, et y a les MAUVAIS chercheurs. C'est pourquoi je propose d'adopter de toute urgence une gestion raisonnée de la Recherche scientifique : - Augmenter les salaires des BONS chercheurs. - recruter les BONS chercheurs qui savent déjà où chercher, évidemment. C'est frappé du sot du bon sens ! - nous débarrasser rapidement des doctorants inutiles. Pourquoi pas les tuer ? A propos des tapettes Je ne vois pas le problème avec les tapettes. La tapette est la meilleure amie de la bonne ménagère, de même que le papier qui colle. Tout le monde sait ça ! »"
   },
   {
@@ -8913,6 +9337,46 @@
   },
   {
     "date": "2026-01-10",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Camp des Bagnards",
+    "text": "La province Crab Key récolte 182 Co d'impôts."
+  },
+  {
+    "date": "2026-01-10",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "",
+    "text": "La province Acropole récolte 623 ¢¢ d'impôts."
+  },
+  {
+    "date": "2026-01-10",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "L'Empire Brun récolte 1263 MØ d'impôts et paie 50 MØ pour ses employés (soldats). Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 121 MØ, Ministère de la Guerre 121 MØ, Ministère de la Justice 121 MØ, Ministère des Affaires Étrangères 121 MØ, Ministère de l'Économie 121 MØ, Ministère de la Recherche 121 MØ, Ministère de l'Intérieur 121 MØ, Ministère de l'Information 121 MØ, Ministère des Services Secrets 121 MØ, Ministère du Travail 121 MØ."
+  },
+  {
+    "date": "2026-01-10",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "",
+    "text": "La province Niarkalistan récolte 892 MØ d'impôts."
+  },
+  {
+    "date": "2026-01-10",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "Trou Perdu",
+    "text": "La province Slavonie récolte 192 FK d'impôts."
+  },
+  {
+    "date": "2026-01-10",
     "time": "00:02",
     "empire": "Royaume de Ruthvénie",
     "province": "Ruthvénie",
@@ -8965,6 +9429,14 @@
     "empire": "Royaume de Ruthvénie",
     "province": "Géofront",
     "city": "Sanctuaire",
+    "text": "Golgoth le Vagabond s'est fait agresser par un groupe de créatures mené par Pirate."
+  },
+  {
+    "date": "2026-01-10",
+    "time": "00:09",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "",
     "text": "Golgoth le Vagabond s'est fait agresser par un groupe de créatures mené par Pirate."
   },
   {
@@ -9465,10 +9937,26 @@
   },
   {
     "date": "2026-01-10",
+    "time": "10:13",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Forum",
+    "text": "Ranxerox a fait la déclaration officielle suivante aux habitants de la province Kraland : « Viendez à Honolulu Chers Kramarades, La ville d'honolulu se meurt, dépeuplée de ses Kramarades. Les cheminées ne crachent plus leurs fumées noires, les loubards tatoués ne font plus de paddle surf sur le lac... Notre belle ville d'honolulu (et bien au delà) c'est la ville good vibz du charbon, des tatouages et du surf. Entre terre, lac, foret et montages, Honolulu c'est un cadre idyllique. Ici on se sert les coudes entre kramarades et on profite d'une liberté assumée. Alors si vous aimez les muscles, les gros moteurs, et le surf (et les petits culs) je vous invite à venir vous collektiviser à Honolulu (au par delà). Il y a de la place pour vous et nous sommes très tolérants envers tous! Hésitez pas à répondre et m'interroger. Et si vous venez juste pour les vacances prévenez moi on a un super bar à salades! »"
+  },
+  {
+    "date": "2026-01-10",
     "time": "10:18",
     "empire": "Paradigme Vert",
     "province": "Forêt de Jade",
     "city": "",
+    "text": "Le Gouverneur Sylva Nus a adressé un discours à la population : « Que notre Conscience Universelle ouvre vos chakras. Apprenez la patience. Nous faisions la queue dans la scierie pour fabriquer des planches, quand surgissant dans le commerce une cliente a tout acheté avec une rapidité surprenante. Cool cliente , ne craint pas de manquer de planches, regarde autour de toi, même si nos arbres pleurent ça coupe, ça coupe.. Ils replanteront. Je n'avais jamais vu cette personne . Une nouvelle habitante? Ou un étranger? Je vais enquêter après ma méditation; »"
+  },
+  {
+    "date": "2026-01-10",
+    "time": "10:18",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Forum",
     "text": "Le Gouverneur Sylva Nus a adressé un discours à la population : « Que notre Conscience Universelle ouvre vos chakras. Apprenez la patience. Nous faisions la queue dans la scierie pour fabriquer des planches, quand surgissant dans le commerce une cliente a tout acheté avec une rapidité surprenante. Cool cliente , ne craint pas de manquer de planches, regarde autour de toi, même si nos arbres pleurent ça coupe, ça coupe.. Ils replanteront. Je n'avais jamais vu cette personne . Une nouvelle habitante? Ou un étranger? Je vais enquêter après ma méditation; »"
   },
   {
@@ -9557,6 +10045,14 @@
     "empire": "Empire Brun",
     "province": "Milieu",
     "city": "Structural",
+    "text": "BienFerme a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun."
+  },
+  {
+    "date": "2026-01-10",
+    "time": "10:55",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
     "text": "BienFerme a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun."
   },
   {
@@ -10337,10 +10833,34 @@
   },
   {
     "date": "2026-01-10",
+    "time": "21:35",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "Epoxy [429] a réussi l'examen du ruban et obtenu la récompense Ruban Rouge, ce qui lui permet de poursuivre sa carrière dans la République de Kraland."
+  },
+  {
+    "date": "2026-01-10",
+    "time": "21:35",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "Henry McCleft a fait la déclaration officielle suivante aux habitants de l'Empire Brun : « Hank - enfin, Henry, entre dans l'Hôtel de ville de Léprosie. Il a bien changé, là, notre Empereur! Est-ce la menace sifflée à son oreille par une de ses - pourtant censément - fidèles ministres qui a déclenché cette nouvelle dégaine? En tout cas, on est bien loin de Riri. Voire même de Maître Cleft ou d'Henry lui-même. Mais lequel est \"lui-même\"? Ouèsh, les mioches! J'vais m'gêner! J'me soutiens moi-même! T'as la môme A., la ptite princesse, lô, qui veut m'faire un p'tiot dans eul'dos. C'pas comme ça qu'on fait, mignonne! S'tu veux, chte montre comment! Et pas awec un livre, si t'vois c'que j'veux dire. Allaï, les Bruns! Tous avec Henry McCleft! C't'un bon ptit gars. Y va vous apporter les sous qu'vous voulez! Et l'prestige des Bruns! D'jà qu'y vous a ram'né des provinces rouges sur un malentendu! »"
+  },
+  {
+    "date": "2026-01-10",
     "time": "21:49",
     "empire": "Empire Brun",
     "province": "Slavonie",
     "city": "Gynerak",
+    "text": "Bismuth El'K'Fadyh a fait la déclaration officielle suivante aux habitants de l'Empire Brun : « Bon, allez, je suis chaud après tout... Bonsoir. C'est Bismuth. Encore. Oui. Mais autant le premier discours était prévu, autant depuis, je suis en free-style. L'improvisation totale. La roue libre. En apesanteur ! Bien. Commençons. EMPEREUR ! Ténul. Voila. Maintenant, développons. Mon Empereur. Qu'est ce dont que ce style. Au départ, j'avoue que je vous était un peu indifférent. Comme un chef lointain qui descends de son bureau pour voir le terrain une fois l'an, histoire de dire qu'il est un \"homme de situation\" ou autre bêtise du genre que je fais quand je descends au bureau du courrier de la Vizirerie pour mater les préposées callipyges. Mais depuis, j'ai noté une chose. Vous êtes fou. Et je sais reconnaître un fou, je suis Mystisien non de Naar, les fous, c'est mon fond de commerce. Mais, voyez vous, en politique, la folie, comme la bêtise, les positions du kramasutra et les vignettes de collection de la gamme panaarnaar de tes Empereurs préférés, tout ça, ça se montre en petit comité. Entre amis. Derrière des portes closes. Histoire d'avoir un peu de classe. Un minimum. Et je vous prie de croire, moi qui vous dit que vous manquez de classe, le comble. Donc, oui. Vous vous exhibez. C'est indécent. C'est disgracieux. C'est... approprié, a ceux qui ne savent pas comment canaliser leurs esprits contraires dans un mouvement unique, comment marier les concepts opposés, bref, comment faire de la folie des volontés contraires une unique force chaotique ayant un sens et une maîtrise de soi. Bref, vous n'avez rien de tout ça. Ce qui vous rends. Triste. Et a poil, aussi. Accessoirement. S'il vous plaît, mettez au moins un esclave sur vos épaules. »"
+  },
+  {
+    "date": "2026-01-10",
+    "time": "21:49",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
     "text": "Bismuth El'K'Fadyh a fait la déclaration officielle suivante aux habitants de l'Empire Brun : « Bon, allez, je suis chaud après tout... Bonsoir. C'est Bismuth. Encore. Oui. Mais autant le premier discours était prévu, autant depuis, je suis en free-style. L'improvisation totale. La roue libre. En apesanteur ! Bien. Commençons. EMPEREUR ! Ténul. Voila. Maintenant, développons. Mon Empereur. Qu'est ce dont que ce style. Au départ, j'avoue que je vous était un peu indifférent. Comme un chef lointain qui descends de son bureau pour voir le terrain une fois l'an, histoire de dire qu'il est un \"homme de situation\" ou autre bêtise du genre que je fais quand je descends au bureau du courrier de la Vizirerie pour mater les préposées callipyges. Mais depuis, j'ai noté une chose. Vous êtes fou. Et je sais reconnaître un fou, je suis Mystisien non de Naar, les fous, c'est mon fond de commerce. Mais, voyez vous, en politique, la folie, comme la bêtise, les positions du kramasutra et les vignettes de collection de la gamme panaarnaar de tes Empereurs préférés, tout ça, ça se montre en petit comité. Entre amis. Derrière des portes closes. Histoire d'avoir un peu de classe. Un minimum. Et je vous prie de croire, moi qui vous dit que vous manquez de classe, le comble. Donc, oui. Vous vous exhibez. C'est indécent. C'est disgracieux. C'est... approprié, a ceux qui ne savent pas comment canaliser leurs esprits contraires dans un mouvement unique, comment marier les concepts opposés, bref, comment faire de la folie des volontés contraires une unique force chaotique ayant un sens et une maîtrise de soi. Bref, vous n'avez rien de tout ça. Ce qui vous rends. Triste. Et a poil, aussi. Accessoirement. S'il vous plaît, mettez au moins un esclave sur vos épaules. »"
   },
   {
@@ -10417,10 +10937,26 @@
   },
   {
     "date": "2026-01-10",
+    "time": "22:41",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ministre du Travail",
+    "city": "Léprosie",
+    "text": "Ernst Mapplestein a réussi l'examen du ruban et obtenu la récompense Ruban Bicolore, ce qui lui permet de poursuivre sa carrière dans le Royaume de Ruthvénie."
+  },
+  {
+    "date": "2026-01-10",
     "time": "22:47",
     "empire": "Empire Brun",
     "province": "",
     "city": "",
+    "text": "L'Empereur Henry McCleft a défini une nouvelle répartition budgétaire. Empereur 5% Ministre de la Guerre 10% Ministre de la Justice 5% Ministre des Affaires Étrangères 5% Ministre de l'Économie 5% Ministre de la Recherche 50% Ministre de l'Intérieur 5% Ministre de l'Information 5% Directeur des Services Secrets 5% Ministre du Travail 5%"
+  },
+  {
+    "date": "2026-01-10",
+    "time": "22:47",
+    "empire": "Empire Brun",
+    "province": "Acropole",
+    "city": "Léprosie",
     "text": "L'Empereur Henry McCleft a défini une nouvelle répartition budgétaire. Empereur 5% Ministre de la Guerre 10% Ministre de la Justice 5% Ministre des Affaires Étrangères 5% Ministre de l'Économie 5% Ministre de la Recherche 50% Ministre de l'Intérieur 5% Ministre de l'Information 5% Directeur des Services Secrets 5% Ministre du Travail 5%"
   },
   {
@@ -10441,6 +10977,22 @@
   },
   {
     "date": "2026-01-10",
+    "time": "22:56",
+    "empire": "Empire Brun",
+    "province": "Acropole",
+    "city": "Léprosie",
+    "text": "Agatha von Krarovich a tenté d'usurper l'empereur Henry McCleft. Elle est à présent recherchée par la police de l'Empire Brun pour ce crime politique et a perdu son poste (Ministre du Travail) suite à cet acte illégal : « Une nouvelle nuit se lève sur L'Empire! Les loups réveillez-vous! Ahouuuuuu! Je me suis réveillé Comtesse, j'ai déjeuné Princesse et je dine Impératrice. J'irai me coucher Maitresse du cybermonde. C'est en 7 jours que les grands de ce monde s'élève. Pas un de plus. La gloire suprême ou la chute éternelle, mais en aucun cas je me tiendrai entre les deux. Citoyens de l'Empire, levez-vous, marchez avec moi vers le Palais Impérial et proclamez moi comme celle que je suis déjà aux yeux de tous. Pas d'inquiétude. Un mot d'ordre : STABILITE! Les ministres actuels resteront en poste et ils pourront continuer de travailler sur leur programme. En ces périodes de troubles, la stabilité reste essentielle. Est ce que mon action est paradoxale avec mes propos? Tout à fait. Est ce qu'il y a plusieurs mois en moi? Non, je n'ai pas cette faculté, je suis simplement folle. Cependant pour humilier l'homme à qui je dois cette opportunité : Henry. Il sera nommé Serviteur Impérial 1er du Servitère de la servitude. Il aura la lourde tâche de me conseiller et de reprendre mes anciennes responsabilités : concrètement de continuer à gérer le gouvernement et d'administrer notre province de Kraland, pendant que je m'occuperai à me prélasser dans mon somptueux palais. Henry, Maitre Cleft, Hank, Riri, la bête... je te dois beaucoup. C'est pourquoi, je me dois de te remercier. Pour continuer dans l'optique de la stabilité nous allons changer de nom. L'Empire Brun devient l'Empire Rouge Ecalarte. Rejoingnez l'ERE pour cette nouvelle ERE... Ce n'était plus possible ces robes brunes en soirée mondaine. [i]Agatha marche alors seule dans la capitale de Santabana, avec une simple planche en poche mais en portant une sublime robe rouge écarlate. Les habitants ne semblent pas s'être intéressés à son discours, certains se demandent même qui elle est. *ELLE EST LA PRINCESSE DE KRALAND BORDEL!* Elle continue de marcher seule… Résolue, elle passe le premier cordon de sécurité e »"
+  },
+  {
+    "date": "2026-01-10",
+    "time": "22:56",
+    "empire": "Empire Brun",
+    "province": "Acropole",
+    "city": "Léprosie",
+    "text": "Agatha von Krarovich a perdu son poste (Ministre du Travail) suite à un crime politique (Usurper)."
+  },
+  {
+    "date": "2026-01-10",
     "time": "23:03",
     "empire": "Empire Brun",
     "province": "",
@@ -10449,10 +11001,26 @@
   },
   {
     "date": "2026-01-10",
+    "time": "23:03",
+    "empire": "Empire Brun",
+    "province": "Acropole",
+    "city": "Léprosie",
+    "text": "L'Empereur Henry McCleft a adressé un discours à la population : « L'Empereur - torse nu mais pas à poil (\"t'as vu, Bismuth?\") - passe un instant sur le PC du Palais Impérial. Satisfait, il se lève,et commence sa déclaration. Yo, l'Empire. Tant qu'y avait l'mouflet aux commandes, j'pouvais rien faire. Et c't'empaffé d'Maître Cleft eud'mes deux, à part (*voix de fausset moqueuse*) \"boire son brandy dans son salon\", y sait rien faire. Alors, v'la qu'c'est fait: la r'cherche a du flouze. A na un MEco. Floran, mec, tu gères la suite eud'la répartition. L'MG, a va avoir besoin d'sous pour son invasion du Khanat et d'sa Tapette. Mais juss' cette fois, Charlie, mon pote. Après, l'or, c'est pour la techno. A puis- Hank est interrompu par un grand bruit. Il se penche au balcon, et voit un groupe de personnes s'enfuir, parmi lesquelles... une forme féminine ombrée de rouge. Hahahahaaaaa.... T'as essayé, d't'frotter à Hank, poulette? T'vas l'regretter. »"
+  },
+  {
+    "date": "2026-01-10",
     "time": "23:16",
     "empire": "Empire Brun",
     "province": "",
     "city": "",
+    "text": "Le Ministre de la Guerre Charlie a adressé un discours à la population : « Coucou Empire Brun! Coucou Bismuth! Je voulais signaler que je n'ai pas subit le sable de Mystisie mais celui du Niarkalistan. Comme je l'ai démontré, nous avons des pyramides au Niarkalistan, avec des sphinx et parfois des sphinxctères qui sont une variété de sphinx. Si je sens le sable chaud c'est car je profite du savoir millénaires des pyramides Superkallisthénicexpialidocious (nom officiel des habitants du Niarkalistan, décidé par Frère Pestilence) Agatha a tenté de ranger le bureau de Môôôsieur l'Empereur et de faire du ménage dans ses dossiers politiques. C'est choquant! Nous avons dit que nous oeuvrons pour le CHAOS, pas pour l'ORDRE ni pour le MENAGE. Vous êtes inquiet des bienheureux événements qui se sont déroulés à Santa Banana, mais soyez rassurés, aucun omoplates n'a été blessé dans l'exercice! Je me trouvais à ce moment même aux côtés de Môôôsieur l'Empereur, et Mâââdame Agatha a confondu le crâne chauve de Môôôsieur l'Empereur avec mon crâne chauve! La conséquence est que je suis mort·e durant cette tentative! Mais vous le saviez déjà que j'étais mort·e. Hiii »"
+  },
+  {
+    "date": "2026-01-10",
+    "time": "23:16",
+    "empire": "Empire Brun",
+    "province": "Acropole",
+    "city": "Léprosie",
     "text": "Le Ministre de la Guerre Charlie a adressé un discours à la population : « Coucou Empire Brun! Coucou Bismuth! Je voulais signaler que je n'ai pas subit le sable de Mystisie mais celui du Niarkalistan. Comme je l'ai démontré, nous avons des pyramides au Niarkalistan, avec des sphinx et parfois des sphinxctères qui sont une variété de sphinx. Si je sens le sable chaud c'est car je profite du savoir millénaires des pyramides Superkallisthénicexpialidocious (nom officiel des habitants du Niarkalistan, décidé par Frère Pestilence) Agatha a tenté de ranger le bureau de Môôôsieur l'Empereur et de faire du ménage dans ses dossiers politiques. C'est choquant! Nous avons dit que nous oeuvrons pour le CHAOS, pas pour l'ORDRE ni pour le MENAGE. Vous êtes inquiet des bienheureux événements qui se sont déroulés à Santa Banana, mais soyez rassurés, aucun omoplates n'a été blessé dans l'exercice! Je me trouvais à ce moment même aux côtés de Môôôsieur l'Empereur, et Mâââdame Agatha a confondu le crâne chauve de Môôôsieur l'Empereur avec mon crâne chauve! La conséquence est que je suis mort·e durant cette tentative! Mais vous le saviez déjà que j'étais mort·e. Hiii »"
   },
   {
@@ -11017,6 +11585,38 @@
   },
   {
     "date": "2026-01-11",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "La province Ruthvénie récolte 809 Co d'impôts."
+  },
+  {
+    "date": "2026-01-11",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Forum",
+    "text": "La province Milieu récolte 880 ¢¢ d'impôts."
+  },
+  {
+    "date": "2026-01-11",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Léprosie",
+    "text": "La province Mystisie récolte 370 MØ d'impôts."
+  },
+  {
+    "date": "2026-01-11",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "",
+    "text": "La province Kraland récolte 219 FK d'impôts."
+  },
+  {
+    "date": "2026-01-11",
     "time": "00:03",
     "empire": "Empire Brun",
     "province": "Niarkalistan",
@@ -11549,6 +12149,14 @@
     "empire": "Paradigme Vert",
     "province": "Crab Key",
     "city": "Port Magmor",
+    "text": "La Ministre de l'Économie Mina & Lilith Evermore a versé 1000 Éf au Ministère de la Recherche."
+  },
+  {
+    "date": "2026-01-11",
+    "time": "10:54",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
     "text": "La Ministre de l'Économie Mina & Lilith Evermore a versé 1000 Éf au Ministère de la Recherche."
   },
   {
@@ -12345,6 +12953,14 @@
   },
   {
     "date": "2026-01-11",
+    "time": "21:38",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "",
+    "text": "La fée K. Lome s'est présenté(e) aux élections pour le poste de Gouverneur de la province Forêt de Jade : « Mes chers Sacquet et Boffin ah non zut Mes chers amis, habitantes et habitants de notre belle Forêt de Jade, J'ai eu le privilège de pouvoir élever les premières structures publiques écologiquement responsables de notre ville, support de notre vie commune. En tant que Bourgmestre j'espère avoir pu montrer ma dévotion à notre communauté et au respect de notre Forêt et de notre foyer. J'aimerai pouvoir offrir plus à notre province, la possibilité d'être un exemple pour le reste du cybermonde. Un exemple de respect du vivant et d'équilibre entre le développement et notre environnement. Je n'ai pas de tendance au népotisme ou au profit et je ne suis pas une va-t-en-guerre mais je souhaite que chaque être vivant puisse vivre et s'épanouir, et je ferais ce qu'il faudra pour ce que soit le cas. Ainsi, je présente ma candidature au poste de gouverneur pour poursuivre les actions initiées pour la biodiversité et notre développement, mais aussi pour notre sécurité. Je souhaite un avenir pour notre Forêt, et dans cet avenir chacun s'endort le soir après avoir mangé à sa faim, en sécurité et le cœur réchauffé de la conviction que le meilleur reste à venir. Merci à tous, Lome »"
+  },
+  {
+    "date": "2026-01-11",
     "time": "21:39",
     "empire": "Confédération Libre",
     "province": "Plaine Irradiée",
@@ -13105,6 +13721,30 @@
   },
   {
     "date": "2026-01-12",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Port Magmor",
+    "text": "La province Géofront récolte 652 Co d'impôts et paie 125 Co pour ses employés (policiers et soldats)."
+  },
+  {
+    "date": "2026-01-12",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "Gueule du Lézard",
+    "text": "La province Capsulie récolte 86 ÐE d'impôts."
+  },
+  {
+    "date": "2026-01-12",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Gynerak",
+    "text": "La province Karaïbes récolte 174 FK d'impôts et paie 50 FK pour ses employés (policiers et soldats)."
+  },
+  {
+    "date": "2026-01-12",
     "time": "00:02",
     "empire": "Confédération Libre",
     "province": "Acropole",
@@ -13857,6 +14497,14 @@
   },
   {
     "date": "2026-01-12",
+    "time": "17:56",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Slavonie",
+    "city": "Gynerak",
+    "text": "Le Ministre de la Justice Darth Leo a adressé un discours à la population : « — Grésillements — — Bruit de micro qu’on tape — Allô ? Allô ? Ici Radio-Ruthvénie, vous m’entendez ? Citoyennes, citoyens… veuillez rester calmes. Ceci est un communiqué officiel du Ministère de la Justice. — grésillements — C’est avec une émotion… euh… sincère que je dois vous annoncer le décès de Sa Majesté le Roi Chilmerdic XXVII, dit « le Fainéant ». — silence — Contrairement aux rumeurs qui circulent, non, il n’a pas été assassiné. Il s’agit d’un accident domestique. Le Roi… se reposait… et… — chuchotement hors micro : “on peut dire la chaussette ?” — …oui… il se serait étouffé avec une chaussette-marionnette. — grésillements plus forts — Le gouvernement assure la continuité de l’État. Tout va bien. Merci de ne pas paniquer. Merci de ne pas courir. Merci de ne pas brûler le palais avant demain. — long bip — Le Roi est mort. Vive le Roi. — transmission interrompue — »"
+  },
+  {
+    "date": "2026-01-12",
     "time": "17:59",
     "empire": "République de Kraland",
     "province": "Slavonie",
@@ -14137,10 +14785,26 @@
   },
   {
     "date": "2026-01-12",
+    "time": "21:05",
+    "empire": "Confédération Libre",
+    "province": "Niarkalistan",
+    "city": "",
+    "text": "Evan Garcia Liszt a fondé l'organisation commerciale Fondation Carlito Thérapie."
+  },
+  {
+    "date": "2026-01-12",
     "time": "21:21",
     "empire": "Empire Brun",
     "province": "Niarkalistan",
     "city": "Igloo",
+    "text": "Le Gouverneur Frère Pestilence a adressé un discours à la population : « Frère Pestilence devant son livre de recettes *100 manières de cuisiner du corbeau*, médite. Comment faire, Au Grand Naar montre moi la voie. J’ai usé des plus vils méthodes pour répandre le chaos, vilipendant les tentatives de recherches autres que ta grandeur, m’entourant des plus fourbes sujets de ton Grand dessein, mais là je patauge. Il y’ des sujets de l’empire qui clament leur bonheur, le gouvernement de cet imposteur d’Henry est pleins de talents certes à ma botte.. J’ai l’impression que l’ordre cherche à prendre le dessus. Que malgré mes mises en garde et la grande obscurité le Chaos ne séduit plus ! Qu’ai-je fais suis-je un mauvais émissaire ?! J’ai besoin de réponses !! Coup d'État ! Henry McCleft a usurpé l'empereur Oh Grand Naar je le vois à présent ta sournoiserie est sans égale, qui-suis si ce n’est le spectateur de tes manigances. L'empereur complètement ravagé ce type est en fait un agent du chaos lui aussi, tellement impliqué à bâtir ta grandeur que le chaos coule dans ses veines. Il est arrivé au stade ultime de s’auto usurper… Et Que vois-je a la place ? Une créature tout à fait repoussante euh charmante. Grand Naar merci, je sais maintenant ce qu’il me reste à faire, juste observer la longue et décadente folie s’installer, je continuerais dans l’ombre avec mes partisans et frapperait le moment venu. Mais bien m’en fut mal venu de douter. »"
+  },
+  {
+    "date": "2026-01-12",
+    "time": "21:21",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "",
     "text": "Le Gouverneur Frère Pestilence a adressé un discours à la population : « Frère Pestilence devant son livre de recettes *100 manières de cuisiner du corbeau*, médite. Comment faire, Au Grand Naar montre moi la voie. J’ai usé des plus vils méthodes pour répandre le chaos, vilipendant les tentatives de recherches autres que ta grandeur, m’entourant des plus fourbes sujets de ton Grand dessein, mais là je patauge. Il y’ des sujets de l’empire qui clament leur bonheur, le gouvernement de cet imposteur d’Henry est pleins de talents certes à ma botte.. J’ai l’impression que l’ordre cherche à prendre le dessus. Que malgré mes mises en garde et la grande obscurité le Chaos ne séduit plus ! Qu’ai-je fais suis-je un mauvais émissaire ?! J’ai besoin de réponses !! Coup d'État ! Henry McCleft a usurpé l'empereur Oh Grand Naar je le vois à présent ta sournoiserie est sans égale, qui-suis si ce n’est le spectateur de tes manigances. L'empereur complètement ravagé ce type est en fait un agent du chaos lui aussi, tellement impliqué à bâtir ta grandeur que le chaos coule dans ses veines. Il est arrivé au stade ultime de s’auto usurper… Et Que vois-je a la place ? Une créature tout à fait repoussante euh charmante. Grand Naar merci, je sais maintenant ce qu’il me reste à faire, juste observer la longue et décadente folie s’installer, je continuerais dans l’ombre avec mes partisans et frapperait le moment venu. Mais bien m’en fut mal venu de douter. »"
   },
   {
@@ -14249,10 +14913,26 @@
   },
   {
     "date": "2026-01-12",
+    "time": "22:22",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "Accalmie",
+    "text": "Jean-Michel Très Normal a fait la déclaration officielle suivante aux habitants de la province Bouletie : « Bonjour, Le temps des élections est arrivé ! N'oubliez pas de voter Très Normal aux élections municipales. Jean-Michel Très Normal, pour une candidature super normale ! Signé Jean-Mi »"
+  },
+  {
+    "date": "2026-01-12",
     "time": "22:24",
     "empire": "République de Kraland",
     "province": "",
     "city": "",
+    "text": "Le Ministre de la Recherche Epoxy [429] a lancé la recherche de la technologie n°28 : « Kramarades ! ... ..- .-. - --- ..- - / -.-. . ..- -..- / -.. ..- / ..-. --- -. -.. La première Recherche est un succès ; la Républike assure dès lors son avance dans le domaine technologique, surpassant tous les autres empires d'une technologie. Néanmoins, si nous le prenons en termes de multiples, nous sommes infiniment plus avancés. -.. .. ..-. ..-. . .-. . -. - .. . .-.. / ... .. --. -. .. ..-. .. -.-. .- - .. ..-. Mais ne nous contentons pas du peu. Être les meilleures et le mètre-étalon du Bonheur ne se fait pas dans l'improduktivité et en se reposant sur ses lauriers. Pour augmenter encore notre rayonnement nucléaire, cet écart doit se creuser telle une mine un dimanche matin. . - / .- ..- ... ... .. / .--. --- ..- .-. / ..-. .- .. .-. . / -.-. --- -- .--. .-.. . -..- . .-. / -.. .. .- --. Tout n'est pas parfait pour autant. Dans l'idéal, notre Recherche devrait être fluide et inclusive. Il est très, très terrible que cinq de nos Kramarades soient à l'origine de l'essentiel du travail. En première position, la merveilleusement Lumineuse Vesperia ; suivie par la Kramarade Voile ainsi que le Kramarade Leblanc. N'oublions pas les apports de notre bien-aimé Ministre de la Justice. -... .. . -. - --- - / .--. ..- -. .. ... ... . ..- .-. / -.. . / -- .- .-.. . ... Bien sûr, la place 1-Alpha-Suprême appartient à notre Première Ministre, dont les calculs révolutionnaires de trigonométrie du fenouil ont accéléré exponentiellement nos découvertes. .-.. .- / -.-. ..- .. ... .. -. . / ..- -. / .- .-. - / -.. . / -- .- - .... . ..- ... . C'est sur sa demande que nous lançons la technologie suivante, qui nous permettra de nous concentrer sur les Kramarades, cette ressource primaire qui englobe l'ensemble des Kourants. J'espère un peu plus de pensées-dirigées correctement appliquées cette fois. A pied d'oeuvre, Kramarades. . - / ...- .. - . »"
+  },
+  {
+    "date": "2026-01-12",
+    "time": "22:24",
+    "empire": "République de Kraland",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
     "text": "Le Ministre de la Recherche Epoxy [429] a lancé la recherche de la technologie n°28 : « Kramarades ! ... ..- .-. - --- ..- - / -.-. . ..- -..- / -.. ..- / ..-. --- -. -.. La première Recherche est un succès ; la Républike assure dès lors son avance dans le domaine technologique, surpassant tous les autres empires d'une technologie. Néanmoins, si nous le prenons en termes de multiples, nous sommes infiniment plus avancés. -.. .. ..-. ..-. . .-. . -. - .. . .-.. / ... .. --. -. .. ..-. .. -.-. .- - .. ..-. Mais ne nous contentons pas du peu. Être les meilleures et le mètre-étalon du Bonheur ne se fait pas dans l'improduktivité et en se reposant sur ses lauriers. Pour augmenter encore notre rayonnement nucléaire, cet écart doit se creuser telle une mine un dimanche matin. . - / .- ..- ... ... .. / .--. --- ..- .-. / ..-. .- .. .-. . / -.-. --- -- .--. .-.. . -..- . .-. / -.. .. .- --. Tout n'est pas parfait pour autant. Dans l'idéal, notre Recherche devrait être fluide et inclusive. Il est très, très terrible que cinq de nos Kramarades soient à l'origine de l'essentiel du travail. En première position, la merveilleusement Lumineuse Vesperia ; suivie par la Kramarade Voile ainsi que le Kramarade Leblanc. N'oublions pas les apports de notre bien-aimé Ministre de la Justice. -... .. . -. - --- - / .--. ..- -. .. ... ... . ..- .-. / -.. . / -- .- .-.. . ... Bien sûr, la place 1-Alpha-Suprême appartient à notre Première Ministre, dont les calculs révolutionnaires de trigonométrie du fenouil ont accéléré exponentiellement nos découvertes. .-.. .- / -.-. ..- .. ... .. -. . / ..- -. / .- .-. - / -.. . / -- .- - .... . ..- ... . C'est sur sa demande que nous lançons la technologie suivante, qui nous permettra de nous concentrer sur les Kramarades, cette ressource primaire qui englobe l'ensemble des Kourants. J'espère un peu plus de pensées-dirigées correctement appliquées cette fois. A pied d'oeuvre, Kramarades. . - / ...- .. - . »"
   },
   {
@@ -14321,10 +15001,26 @@
   },
   {
     "date": "2026-01-12",
+    "time": "22:45",
+    "empire": "Paradigme Vert",
+    "province": "Kraland",
+    "city": "",
+    "text": "La Gouverneure Jadina a adressé un discours à la population : « Inauguration princière en Siberia Une horde d'au moins deux badauds et journalistes, se réunissent à la nouvelle gare de garinaville pour l'inauguration de la Princesse Jadina - Princesse Jadina ! Qu'est-ce que ça vous fait de couper le Ruban inaugural du polar Express - oO J'en suis enchantée ! La Bourgmestre Annie a fait un travail formidable en faisant de la Sibéria une des premières provinces reliée au réseau ferroviaire. - On dit que les trains ne peuvent circuler car il n'existe pas encore de technologie permettant de les faire fonctionner ? C'est gênant non ? Absolument pas ! Rendez-vous compte ? Déplacer ces énormes engins doit demander une énergie considérable, et polluante, et ça c'est pas bien du tout. Annie a beau être Palladionaute, elle sait à quel point le respect de l'environnement est primordial et elle a opté pour un moyen de transport Eco-Responsable, et ça, c'est bien - ouais mais du coup... on peut pas s'en servir pour partir ? - Partir ? Pour aller où ? Allons allons jeune homme, ma Sibéria, tu l'aimes ou tu la kiff ! Faut voir cette gare comme... un point de chute... une arrivée pour les touristes. Les trains arriveront, ne repartiront jamais, et avec ça d'ici deux mois, nous serons une des provinces les plus peuplées du Cyber-Monde ! Et vous avez encore rien vu, je ne veux pas spoilé mais... la bourgmestre Annie a d'autres idées plein la tête. Elle m'a parlé d'un concept avec des engins métalliques avec des ailes qui... bon qui resteront au sol... mais qui offriront la promesse de s'évader dans les cieux ! - Merci princesse ! »"
+  },
+  {
+    "date": "2026-01-12",
     "time": "22:51",
     "empire": "République de Kraland",
     "province": "Kraland",
     "city": "Garinaville",
+    "text": "Un groupe de créatures mené par 1 Gorille Géant attaque Epoxy [429]."
+  },
+  {
+    "date": "2026-01-12",
+    "time": "22:51",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "",
     "text": "Un groupe de créatures mené par 1 Gorille Géant attaque Epoxy [429]."
   },
   {
@@ -14337,10 +15033,26 @@
   },
   {
     "date": "2026-01-12",
+    "time": "22:56",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "Le Ministre des Affaires Étrangères (f.f.) Caïus Martius Ice a nommé Mercuriale au poste de Ambassadrice auprès du Royaume de Ruthvénie : « Ma petite Mercuriale ! Je ne peux malheureusement pas bâtir d'ambassade moi-même. Mais je connais quelqu'un qui peut le faire : vous. Vous êtes sur place, vous avez l'air débrouillarde, intelligente et compétente et surtout apte à chercher le compromis et l'union nationale : vous serez parfaite ! Vous avez tout mon soutien pour mener votre mission à bien. La Confédération Libre a confiance en vous pour terminer cette ambassade assez rapidement pour pouvoir y voter pour moi ! Je vous aurai bien amené des planches mais eh... Il parait que c'est un scandale que j'utilise un avion que je paye moi-même pour venir aider les honnêtes citoyens confédérés. »"
+  },
+  {
+    "date": "2026-01-12",
     "time": "22:57",
     "empire": "Confédération Libre",
     "province": "Milieu",
     "city": "Garinaville",
+    "text": "Précieuse a trouvé une terre riche pour la culture dans la province Milieu : « J'ai tenté de retrouver la recette de l'engrais que fabriquait mon père, je vais l'essayer, en espérant que ça facilite la croissance des plantes sans les empoisonner. »"
+  },
+  {
+    "date": "2026-01-12",
+    "time": "22:57",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
     "text": "Précieuse a trouvé une terre riche pour la culture dans la province Milieu : « J'ai tenté de retrouver la recette de l'engrais que fabriquait mon père, je vais l'essayer, en espérant que ça facilite la croissance des plantes sans les empoisonner. »"
   },
   {
@@ -14449,10 +15161,26 @@
   },
   {
     "date": "2026-01-12",
+    "time": "23:39",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Eglantine Delépine a réussi à arracher la Fourchette du Goûteur Royal du sol."
+  },
+  {
+    "date": "2026-01-12",
     "time": "23:40",
     "empire": "Empire Brun",
     "province": "",
     "city": "",
+    "text": "Zéphiria de Pont-Krivell a découvert la technologie Production en Série en faveur de l'Empire Brun : « La Production en Série permet à chaque ville d'extraire directement de l'or, ce qui ajoute 100 FK chaque jour aux impôts perçus (répartis ensuite entre ville, province et empire). »"
+  },
+  {
+    "date": "2026-01-12",
+    "time": "23:40",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
     "text": "Zéphiria de Pont-Krivell a découvert la technologie Production en Série en faveur de l'Empire Brun : « La Production en Série permet à chaque ville d'extraire directement de l'or, ce qui ajoute 100 FK chaque jour aux impôts perçus (répartis ensuite entre ville, province et empire). »"
   },
   {
@@ -15057,6 +15785,30 @@
   },
   {
     "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Provinces indépendantes",
+    "province": "Australine",
+    "city": "Ruthvenville",
+    "text": "La province Australine récolte 0 PO d'impôts."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "Distillerie",
+    "text": "La province Bouletie récolte 194 ÐE d'impôts."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Santa Banana City",
+    "text": "La province Sicilia récolte 1101 MØ d'impôts."
+  },
+  {
+    "date": "2026-01-13",
     "time": "00:03",
     "empire": "Empire Brun",
     "province": "Plaine Irradiée",
@@ -15257,6 +16009,14 @@
   },
   {
     "date": "2026-01-13",
+    "time": "00:32",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "Coup d'État ! Landraël a usurpé le roi Chilmerdic XXVII."
+  },
+  {
+    "date": "2026-01-13",
     "time": "00:34",
     "empire": "Royaume de Ruthvénie",
     "province": "Ruthvénie",
@@ -15433,6 +16193,22 @@
   },
   {
     "date": "2026-01-13",
+    "time": "02:40",
+    "empire": "Empire Brun",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Lotr DeiMachiavelli a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "02:40",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Trésorville",
+    "text": "Felicity Stone a usé de ses prérogatives de Diplomate pour devenir Duchesse de la province Ruthvénie."
+  },
+  {
+    "date": "2026-01-13",
     "time": "02:46",
     "empire": "République de Kraland",
     "province": "Karaïbes",
@@ -15517,6 +16293,14 @@
     "empire": "Royaume de Ruthvénie",
     "province": "Plaine Irradiée",
     "city": "Atome",
+    "text": "La Duchesse Elune Von Voda a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël : « *Dame Elune se présente, vêtue d'une robe noire, téléphone en mains, surveillant régulièrement ce qu'il y a sur l'écran* Nobles et habitants du Valégro et du Royaume, Suite aux récentes annonces dont je vais vous parler, je vous parle pour la première fois en tant que Duchesse du Valégro ! Hier soir, notre bon Roi, Chilmerdic XXVII, est mort, visiblement à cause d'une de ces chaussettes marionnettes ! Paix à son âme ! Peu de temps après, avec le soutien du peuple de Ruthvénie, Landraël a pris la place du Roi et à informer les nobles et le peuple de notre bon Royaume de ses premières décisions. Je vous invite à chercher un point d'information pour pouvoir voir où écouter son allocution qui tourne en boucle c'est clairement mieux que les dessins animés de l'ancien Roi Une de ses annonces implique d'octroyer les titres de noblesse régulier pour tous les assistants ducale. Bien que Marianne n'a pas encore rédigé l'intégralité des documents, et j'imagine qu'elle a d'autres chaussettes à fouetter, je me permets de me considérer dès à présent Duchesse. C'est pourquoi, de part ce poste de noblesse, aujourd'hui, devant vous, je prête allégeance en sa Majesté Landraël. *Dame Elune Von Voda met son téléphone de côté et prend un ton très solennel* Votre Majesté Landraël, premier du nom, Roi de Ruthvénie, moi, Duchesse Elune Von Voda, vous offre l'allégeance de la province de Valégro. Nous avons pleine confiance en votre capacité à diriger notre beau Royaume et à permettre sa renaissance internationale. L'intégralité du duché du Valégro est à votre service, ma personne incluse bien évidemment. Puisse votre règne être bon et durer longtemps ! Longue vie au Roi ! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "07:25",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
     "text": "La Duchesse Elune Von Voda a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël : « *Dame Elune se présente, vêtue d'une robe noire, téléphone en mains, surveillant régulièrement ce qu'il y a sur l'écran* Nobles et habitants du Valégro et du Royaume, Suite aux récentes annonces dont je vais vous parler, je vous parle pour la première fois en tant que Duchesse du Valégro ! Hier soir, notre bon Roi, Chilmerdic XXVII, est mort, visiblement à cause d'une de ces chaussettes marionnettes ! Paix à son âme ! Peu de temps après, avec le soutien du peuple de Ruthvénie, Landraël a pris la place du Roi et à informer les nobles et le peuple de notre bon Royaume de ses premières décisions. Je vous invite à chercher un point d'information pour pouvoir voir où écouter son allocution qui tourne en boucle c'est clairement mieux que les dessins animés de l'ancien Roi Une de ses annonces implique d'octroyer les titres de noblesse régulier pour tous les assistants ducale. Bien que Marianne n'a pas encore rédigé l'intégralité des documents, et j'imagine qu'elle a d'autres chaussettes à fouetter, je me permets de me considérer dès à présent Duchesse. C'est pourquoi, de part ce poste de noblesse, aujourd'hui, devant vous, je prête allégeance en sa Majesté Landraël. *Dame Elune Von Voda met son téléphone de côté et prend un ton très solennel* Votre Majesté Landraël, premier du nom, Roi de Ruthvénie, moi, Duchesse Elune Von Voda, vous offre l'allégeance de la province de Valégro. Nous avons pleine confiance en votre capacité à diriger notre beau Royaume et à permettre sa renaissance internationale. L'intégralité du duché du Valégro est à votre service, ma personne incluse bien évidemment. Puisse votre règne être bon et durer longtemps ! Longue vie au Roi ! »"
   },
   {
@@ -15713,6 +16497,14 @@
   },
   {
     "date": "2026-01-13",
+    "time": "10:27",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie MichelDruKra a modifié le taux d'imposition des revenus de la province Kraland (de 60% à 40%) : « Kramarades, Réjouissez-vous ! Vos efforts portent leurs fruits et permettent désormais aux provinces d’assurer elles-même leurs collectes de fond. La Glorieuse Première Ministre (loué soit son nom !) a donc décidé de diminuer le taux d’imposition des territoires déconcentrés de la République ! C’est-y pas l’Bonheur, ça ? »"
+  },
+  {
+    "date": "2026-01-13",
     "time": "10:28",
     "empire": "République de Kraland",
     "province": "Sicilia",
@@ -15798,5 +16590,93 @@
     "province": "Niarkalistan",
     "city": "Léprosie",
     "text": "Edouard Gaine a organisé une manifestation pro-science, la recherche scientifique est plus efficace pendant 24 heures au nom de l'organisation CDN : « L'Empire Brun n'a pas besoin de faire parti d'un trouple pour avancer ses recherches. Habitués à la solitude nos intellectuels on l'affaire bien en main. »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "13:04",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Le Ministre de la Justice Ed Wyplenel a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël : « Bien. Voilà donc l'heure des allégeances. Encore. J'ai déjà dit tout ce que j'avais à dire. Notre nouveau Roi a su agir au moment opportun pour protéger le Royaume et il faut le lui reconnaître. Le protéger de quoi, cela reste encore à déterminer, mais on ne peut pas tout faire en même temps ! Me voilà donc proche d'aboutir à une troublante conclusion sur la mort de feu Chilmerdic, le temps de valider quelques points et toute la lumière pourra être faite sur cette affaire. La Justice veille, et avec elle la Vérité ! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "13:07",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Katherine Khanova a ouvert un chantier privé dans la ville Structural en [15,5]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "13:09",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ministre du Travail",
+    "city": "Structural",
+    "text": "Le Ministre de la Justice Ed Wyplenel a imposé une amende de 25 Co à Chilmerdic XXVII : « Cher Chilmerdic, Comme indiqué, votre mort ne restera pas sans réponse. Vous avez pu faire de grandes (ou moins grandes) choses durant votre Règne et nous mettrons en œuvre tous les moyens en notre possession pour que la Vérité triomphe. Par contre, les moyens étant un peu limités (post-Apocalypse, tout ça), il va falloir y mettre du vôtre dans cette histoire. Vous semblez plutôt volontaire et ça vous concerne au premier plan, donc permettez que la Justice saisisse quelques uns de vos biens, pour le Royaume. La Vérité vous remerciera, soyez-en sûr. »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "13:14",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Le Roi Landraël a défini une nouvelle répartition budgétaire. Roi 20% Ministre de la Guerre 0% Ministre de la Justice 15% Ministre des Affaires Étrangères 8% Ministre de l'Économie 0% Ministre de la Recherche 40% Ministre de l'Intérieur 10% Ministre de l'Information 0% Directeur des Services Secrets 7% Ministre du Travail 0%"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "13:27",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Jalala (Agitateur) a prononcé un discours louant le Capitaine Structuran Job (Agitateur) [PP +1] : « \"Merci à notre capitaine pour son activité anti-voyou en capitalisant la capture des points de contrôle symbolisé par les feux de poubelles \" »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "13:38",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Abel X a entamé un duel contre Riguel Templar."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "13:39",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Slavonie",
+    "city": "Gynerak",
+    "text": "La Comtesse Korail a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël : « Roi Landraël, Port Magmor vous apporte son soutien dans votre règne. Je suis certaine que Crab Key sera mieux considérée par cette Royauté que par la précédente. »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "13:43",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Korail (Pacifiste) a prononcé un discours louant l'Intendant Stefan de Crab (Pacifiste) [PP +4] : « Messire de Crab a fait de nouveau un travail remarquable pour le plan d'amélioration de notre Port cette semaine. C'est un intendant formidable pour notre projet! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "13:43",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "Gynerak",
+    "text": "Une rumeur court parmi les habitants de la ville Gynerak : « Venez toutes mais également tous à l'auberge Le Schuss bar pub et restaurant Vous y trouverez les meilleures popotes de la région, des hebergements de qualité avec des lits venus tout droit du commerce de renom La literie Voironnaise. Des Kramarade accoudé au comptoir, pret à discuter et rigoler. Mais avant tout un patron charmant et charmeur, intelligent, avec des bras vraiment forts et d'une extreme générosité. »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "13:44",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Kintaga Tsugiro a acheté le bâtiment Cabane au prix de 300 Éf."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "14:16",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "Bisouville",
+    "text": "Epoxy [429] a fait la déclaration officielle suivante aux habitants de la ville Bisouville : « Kramarade Voile ! Je vois votre investissement. Parfois fluide à en trébucher, mais toujours sincère. Contrairement à l'appel à la capitalisation de notre bourgmestre dont je ne suis pas entièrement convaincue, même si c'est probablement pour le plus grand bien. .-.. . ... / - . -. - .- -.-. ..- .-.. . ... / ... --- -. - / ..-. .- ... -.-. .. -. .- -. - ... Je vous encourage à poursuivre vos efforts, avec un peu plus d'efficacité et de réussite, mais aux yeux du patelin tout entier. Davantage de Kramarade devraient prendre exemple sur votre entrain au travail. .--. --- ..- .-. ... ..- .. ...- . --.. / -.. --- -. -.-. »"
   }
 ]
