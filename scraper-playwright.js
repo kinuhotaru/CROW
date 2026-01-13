@@ -199,49 +199,49 @@ const { scrapedEvents, next } = await page.evaluate(() => {
   let currentCity = "";
 
   const events = [];
-  const timeRegex = /\b\d{2}:\d{2}\b/;
+  const timeRegex = /^\d{2}:\d{2}$/;
 
-  for (const tr of rows) {
-    const text = tr.innerText.replace(/\u00a0/g, ' ').trim();
-    if (!text) continue;
+  rows.forEach(tr => {
+    const text = tr.innerText.trim();
 
     // --- DATE ---
     if (/^\d{4}-\d{2}-\d{2}$/.test(text)) {
       currentDate = text;
-      continue;
+      return;
     }
+
+    const tds = [...tr.querySelectorAll('td')];
+    if (!tds.length || !currentDate) return;
 
     // --- EMPIRE ---
-    const img = tr.querySelector('img');
+    const img = tds[0].querySelector('img');
     if (img?.src) {
       currentEmpire = img.src.split('/').pop().replace('.png', '');
-      continue;
-    }
-
-    // --- EVENT ---
-    const timeMatch = text.match(/^(\d{2}:\d{2})\s+(.*)$/);
-    if (timeMatch && currentDate) {
-      events.push({
-        date: currentDate,
-        time: timeMatch[1],
-        empire: currentEmpire,
-        province: currentProvince,
-        city: currentCity,
-        text: timeMatch[2]
-      });
-      continue;
     }
 
     // --- PROVINCE / VILLE ---
-    // Si ce n'est pas une date, pas une heure, pas un empire
-    if (!timeRegex.test(text)) {
-      if (!currentProvince) {
-        currentProvince = text;
-      } else {
-        currentCity = text;
-      }
+    const provinceText = tds[0]?.childNodes?.[1]?.textContent?.trim();
+    const cityText = tds[0]?.querySelector('p')?.innerText?.trim();
+
+    if (provinceText) currentProvince = provinceText;
+    if (cityText) currentCity = cityText;
+
+    // --- EVENT ---
+    const time = tds[1]?.innerText?.trim();
+    const textCell = tr.querySelector('td[id^="ajax-"]');
+    const eventText = textCell?.innerText?.trim();
+
+    if (timeRegex.test(time) && eventText) {
+      events.push({
+        date: currentDate,
+        time,
+        empire: currentEmpire,
+        province: currentProvince,
+        city: currentCity,
+        text: eventText
+      });
     }
-  }
+  });
 
   const active = document.querySelector('.pagination li.active');
   const next =
