@@ -13745,6 +13745,30 @@
   },
   {
     "date": "2026-01-12",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Le Khanat Elmérien récolte 739 ÐE d'impôts. Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 0 ÐE, Ministère de la Guerre 0 ÐE, Ministère de la Justice 0 ÐE, Ministère des Affaires Étrangères 0 ÐE, Ministère de l'Économie 74 ÐE, Ministère de la Recherche 665 ÐE, Ministère de l'Intérieur 0 ÐE, Ministère de l'Information 0 ÐE, Ministère des Services Secrets 0 ÐE, Ministère du Travail 0 ÐE."
+  },
+  {
+    "date": "2026-01-12",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "",
+    "text": "La province Bananie récolte 471 ÐE d'impôts."
+  },
+  {
+    "date": "2026-01-12",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "",
+    "text": "La province Santa Banana récolte 408 MØ d'impôts."
+  },
+  {
+    "date": "2026-01-12",
     "time": "00:02",
     "empire": "Confédération Libre",
     "province": "Acropole",
@@ -13945,6 +13969,14 @@
   },
   {
     "date": "2026-01-12",
+    "time": "01:41",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "La Ministre des Affaires Étrangères (f.f.) Magritte Lenouar a adressé un discours à la population : « Kramarade Impératrice, c'est pas très gentil ! Je me remets à peine du fait que t'aies découvert notre agente infiltrée, Marjorie Mimijolie... Je crois qu'elle s'appelle Agatha chez toi ! C'était un très bon plan ! On envoie quelqu'un infiltrer l'Empire et après elle prend le pouvoir et après elle rend les Bruns plus heureux ! Ca a très bien marché ! Jusqu'à un point j'avoue... J'aurais jamais pensé qu'elle réussirait pas son Coup d'État ! C'est sa faute bien sur.... J'y avais dit d'attendre qu'elle reçoive mon soutient logistique... Si elle avait attendu que les Services Secrets se rangent derrière elle, elle aurait surement réussit ! C'est dommage que Marjorie ait pas eu de patience... C'est pas grave ! On lui apprendra la patience pendant sa réédukation ! Si tu pouvais nous envoyer Marjorie ligotée dans un mignon petit paquet cadeau ce serait très gentil ! »"
+  },
+  {
+    "date": "2026-01-12",
     "time": "01:46",
     "empire": "Royaume de Ruthvénie",
     "province": "Ruthvénie",
@@ -13953,10 +13985,26 @@
   },
   {
     "date": "2026-01-12",
+    "time": "01:46",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de la Recherche Diagonale a lancé la recherche de la technologie n°20 : « Nobles Ruthvènes, Ma collègue Epoxy [429] a été la première a pécho sa crush découvrir une technologie, et même si c'est moi qui ait tout fait pour elle, c'est quand même un coup bas pour mon estime, vu que c'est quand même moi la Capitaine de l'Expédition. Des mauvaises langues au sein de l'expédition aléocrate ont sous-entendu que c'est parce que mes priorités personnelles passaient peut-être parfois avant mes priorités professionnelles ! C'est faux. Mes actions parlent pour moi : je suis fidèle aux valeurs Ruthvènes les bruits de boudoirs avant les bruits de couloirs et à la volonté de la Déesse. Je suis même blessée par ces allégations. (j'ai l'air blessée non ? Non ? Je suis même meurtrie. Je souffre comme si un HSBC avait laissé un commentaire 1 étoile sur la page du ministère. Mais je me relèverai. Je suis une battante.) Le Roi dans sa grande sagesse a distribué des Chaussettes. Par là-même, il nous exprime la nécessité de développer un état fort, bien organisé, qui prend soin de sa Majesté et de nos pieds nus. Il nous faut donc perfectionner cette question de chaussettes. Je lance donc la recherche n°20: \"Météorologie des Textilonimbus\". Pour comprendre comment ces tonnes de chaussettes à paillette se sont déversées sur la Ruhvénie, et pour pouvoir pérenniser leur utilisation dans l'appareil de l'état. A l'issue de cette technologie, nous saurons comment organiser les chaussettes : plus de pertes dans nos tiroirs = plus d'argent pour l'état. (estimation: 500 couronnes supplémentaires par jour dans les caisses de l'état, variable selon la météo.) Au boulot les stagiaires ! »"
+  },
+  {
+    "date": "2026-01-12",
     "time": "02:13",
     "empire": "Royaume de Ruthvénie",
     "province": "Ruthvénie",
     "city": "Ruthvenville",
+    "text": "Jalala a réussi l'examen du ruban et obtenu la récompense Ruban Bicolore, ce qui lui permet de poursuivre sa carrière dans le Royaume de Ruthvénie."
+  },
+  {
+    "date": "2026-01-12",
+    "time": "02:13",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
     "text": "Jalala a réussi l'examen du ruban et obtenu la récompense Ruban Bicolore, ce qui lui permet de poursuivre sa carrière dans le Royaume de Ruthvénie."
   },
   {
@@ -14777,6 +14825,14 @@
   },
   {
     "date": "2026-01-12",
+    "time": "20:59",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "Henry McCleft a fondé l'organisation politique CLeFT."
+  },
+  {
+    "date": "2026-01-12",
     "time": "21:00",
     "empire": "République de Kraland",
     "province": "Kraland",
@@ -15012,6 +15068,14 @@
     "time": "22:45",
     "empire": "Paradigme Vert",
     "province": "Kraland",
+    "city": "",
+    "text": "La Gouverneure Jadina a adressé un discours à la population : « Inauguration princière en Siberia Une horde d'au moins deux badauds et journalistes, se réunissent à la nouvelle gare de garinaville pour l'inauguration de la Princesse Jadina - Princesse Jadina ! Qu'est-ce que ça vous fait de couper le Ruban inaugural du polar Express - oO J'en suis enchantée ! La Bourgmestre Annie a fait un travail formidable en faisant de la Sibéria une des premières provinces reliée au réseau ferroviaire. - On dit que les trains ne peuvent circuler car il n'existe pas encore de technologie permettant de les faire fonctionner ? C'est gênant non ? Absolument pas ! Rendez-vous compte ? Déplacer ces énormes engins doit demander une énergie considérable, et polluante, et ça c'est pas bien du tout. Annie a beau être Palladionaute, elle sait à quel point le respect de l'environnement est primordial et elle a opté pour un moyen de transport Eco-Responsable, et ça, c'est bien - ouais mais du coup... on peut pas s'en servir pour partir ? - Partir ? Pour aller où ? Allons allons jeune homme, ma Sibéria, tu l'aimes ou tu la kiff ! Faut voir cette gare comme... un point de chute... une arrivée pour les touristes. Les trains arriveront, ne repartiront jamais, et avec ça d'ici deux mois, nous serons une des provinces les plus peuplées du Cyber-Monde ! Et vous avez encore rien vu, je ne veux pas spoilé mais... la bourgmestre Annie a d'autres idées plein la tête. Elle m'a parlé d'un concept avec des engins métalliques avec des ailes qui... bon qui resteront au sol... mais qui offriront la promesse de s'évader dans les cieux ! - Merci princesse ! »"
+  },
+  {
+    "date": "2026-01-12",
+    "time": "22:45",
+    "empire": "Paradigme Vert",
+    "province": "",
     "city": "",
     "text": "La Gouverneure Jadina a adressé un discours à la population : « Inauguration princière en Siberia Une horde d'au moins deux badauds et journalistes, se réunissent à la nouvelle gare de garinaville pour l'inauguration de la Princesse Jadina - Princesse Jadina ! Qu'est-ce que ça vous fait de couper le Ruban inaugural du polar Express - oO J'en suis enchantée ! La Bourgmestre Annie a fait un travail formidable en faisant de la Sibéria une des premières provinces reliée au réseau ferroviaire. - On dit que les trains ne peuvent circuler car il n'existe pas encore de technologie permettant de les faire fonctionner ? C'est gênant non ? Absolument pas ! Rendez-vous compte ? Déplacer ces énormes engins doit demander une énergie considérable, et polluante, et ça c'est pas bien du tout. Annie a beau être Palladionaute, elle sait à quel point le respect de l'environnement est primordial et elle a opté pour un moyen de transport Eco-Responsable, et ça, c'est bien - ouais mais du coup... on peut pas s'en servir pour partir ? - Partir ? Pour aller où ? Allons allons jeune homme, ma Sibéria, tu l'aimes ou tu la kiff ! Faut voir cette gare comme... un point de chute... une arrivée pour les touristes. Les trains arriveront, ne repartiront jamais, et avec ça d'ici deux mois, nous serons une des provinces les plus peuplées du Cyber-Monde ! Et vous avez encore rien vu, je ne veux pas spoilé mais... la bourgmestre Annie a d'autres idées plein la tête. Elle m'a parlé d'un concept avec des engins métalliques avec des ailes qui... bon qui resteront au sol... mais qui offriront la promesse de s'évader dans les cieux ! - Merci princesse ! »"
   },
@@ -15913,6 +15977,30 @@
   },
   {
     "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "",
+    "text": "La province Acropole récolte 319 ¢¢ d'impôts."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "L'Empire Brun récolte 1976 MØ d'impôts et paie 50 MØ pour ses employés (soldats). Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 96 MØ, Ministère de la Guerre 96 MØ, Ministère de la Justice 96 MØ, Ministère des Affaires Étrangères 96 MØ, Ministère de l'Économie 193 MØ, Ministère de la Recherche 963 MØ, Ministère de l'Intérieur 96 MØ, Ministère de l'Information 96 MØ, Ministère des Services Secrets 96 MØ, Ministère du Travail 96 MØ."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "",
+    "text": "La province Niarkalistan récolte 850 MØ d'impôts."
+  },
+  {
+    "date": "2026-01-13",
     "time": "00:03",
     "empire": "Empire Brun",
     "province": "Plaine Irradiée",
@@ -16181,6 +16269,14 @@
     "empire": "Paradigme Vert",
     "province": "Forêt de Jade",
     "city": "Kanardville",
+    "text": "Wonyoung a fait la déclaration officielle suivante aux habitants de la province Forêt de Jade : « Merci beaucoup au clan RavenLoft de m’avoir accueillie pour mon premier stage… et merci aussi aux Fées. J’ai beaucoup appris grâce à vous, et cette expérience restera vraiment précieuse pour moi. Je suis très reconnaissante pour votre patience et votre gentillesse. J’aimerais beaucoup revenir en Forêt de Jade un jour, pour tous vous revoir. Encore merci… au revoir. »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "01:00",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "",
     "text": "Wonyoung a fait la déclaration officielle suivante aux habitants de la province Forêt de Jade : « Merci beaucoup au clan RavenLoft de m’avoir accueillie pour mon premier stage… et merci aussi aux Fées. J’ai beaucoup appris grâce à vous, et cette expérience restera vraiment précieuse pour moi. Je suis très reconnaissante pour votre patience et votre gentillesse. J’aimerais beaucoup revenir en Forêt de Jade un jour, pour tous vous revoir. Encore merci… au revoir. »"
   },
   {
@@ -17310,5 +17406,45 @@
     "province": "Ruthvénie",
     "city": "Ruthvenville",
     "text": "Construction d'un bâtiment Intendance dans la ville Ruthvenville en [7,11]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "20:00",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Aken a tenté de voler dans la caisse du bâtiment Palais du Gouverneur. Il est à présent recherché par la police du cybermonde pour ce délit."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "20:02",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Port Magmor",
+    "text": "Un groupe de créatures mené par 1 Cheval attaque Zelphi."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "20:18",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Stefan de Crab (Pacifiste) a prononcé un discours louant la Comtesse Korail (Pacifiste) [PP +5] : « Nous portons le deuil sur le cœur... La tristesse, la mélancolie... Mais la Damoiselle Korail est là ! Et elle nous apporte beaucoup de joie de vivre ! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "20:28",
+    "empire": "Mondial",
+    "province": "",
+    "city": "",
+    "text": "Une aura de guérison plane sur le cybermonde. Les malades les plus atteints se rétablissent légèrement."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "20:28",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Bladimir Bladimirovitch Mutin a prononcé un discours louant l'Intendant Tormenta [PP +3] : « Tormenta, cheя ami. Bien sûя que je ne suis pas un dangeя pouя notяe démocяacie. Comme diяe le pяoveяbe, \"l'homme est un loup pouя l'homme\". Moi, êtяe le contяaire. »"
   }
 ]
