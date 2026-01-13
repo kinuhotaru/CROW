@@ -196,6 +196,33 @@ async function sendWebhookWithRetry(payload, maxRetries = 5) {
   console.error('💥 Abandon : trop de retries Discord');
 }
 
+async function sendWebhookGuaranteed(payload) {
+  while (true) {
+    const res = await fetch(DISCORD_WEBHOOK_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    });
+
+    if (res.ok) {
+      return; // envoyé
+    }
+
+    if (res.status === 429) {
+      const data = await res.json();
+      const waitMs = Math.ceil((data.retry_after || 1) * 1000);
+
+      console.warn(`⏳ Rate limit, attente ${waitMs}ms`);
+      await new Promise(r => setTimeout(r, waitMs));
+      continue; // on réessaie TOUJOURS
+    }
+
+    // Autre erreur (rare)
+    const text = await res.text();
+    throw new Error(`Discord error ${res.status}: ${text}`);
+  }
+}
+
 /* =========================
    📨 DISCORD
 ========================= */
@@ -234,32 +261,21 @@ async function sendToDiscord(events) {
 
       const chunks = chunkEmbedLines(lines);
 
-      for (let i = 0; i < chunks.length; i++) {
-        const res = await fetch(DISCORD_WEBHOOK_URL, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
+        for (let i = 0; i < chunks.length; i++) {
+        await sendWebhookGuaranteed({
             embeds: [{
-              title: `📅 ${date} — ${empire}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
-              color: empireColor(empire),
-              description: chunks[i],
-              footer: {
+            title: `📅 ${date} — ${empire}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
+            color: empireColor(empire),
+            description: chunks[i],
+            footer: {
                 text: `CROWS ScrapeYard • ${evts.length} événements`
-              }
+            }
             }]
-          })
         });
 
-        if (!res.ok) {
-          console.error(
-            `❌ Embed refusé (${res.status})`,
-            await res.text()
-          );
+        // petit confort, pas obligatoire mais aide
+        await new Promise(r => setTimeout(r, 200));
         }
-
-        // 🛑 évite le rate limit Discord
-        await new Promise(r => setTimeout(r, 900));
-      }
     }
   }
 
