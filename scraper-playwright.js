@@ -111,13 +111,43 @@ function normalizeForHash(value) {
     .trim();
 }
 
+function splitLongLine(line, max = 4096) {
+  const parts = [];
+  let rest = line;
+
+  while (rest.length > max) {
+    parts.push(rest.slice(0, max));
+    rest = rest.slice(max);
+  }
+
+  if (rest) parts.push(rest);
+  return parts;
+}
+
 function chunkEmbedLines(lines, maxLength = 4096) {
   const chunks = [];
   let current = '';
 
-  for (const line of lines) {
+  for (let line of lines) {
+
+    // Sécurité : une ligne seule trop longue
+    if (line.length > maxLength) {
+      console.warn('⚠️ Ligne trop longue, découpage forcé');
+      const parts = splitLongLine(line, maxLength);
+
+      if (current) {
+        chunks.push(current);
+        current = '';
+      }
+
+      for (const part of parts) {
+        chunks.push(part);
+      }
+      continue;
+    }
+
     if ((current + '\n' + line).length > maxLength) {
-      chunks.push(current);
+      if (current) chunks.push(current);
       current = line;
     } else {
       current += (current ? '\n' : '') + line;
@@ -125,7 +155,7 @@ function chunkEmbedLines(lines, maxLength = 4096) {
   }
 
   if (current) chunks.push(current);
-  return chunks;
+  return chunks.filter(Boolean);
 }
 
 /* =========================
@@ -166,24 +196,27 @@ async function sendToDiscord(events) {
 
       const chunks = chunkEmbedLines(lines);
 
-      for (let i = 0; i < chunks.length; i++) {
-        await fetch(DISCORD_WEBHOOK_URL, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
+        const res = await fetch(DISCORD_WEBHOOK_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
             embeds: [{
-              title: `📅 ${date} — ${empire}${chunks.length > 1 ? ` (${i+1}/${chunks.length})` : ''}`,
-              color: empireColor(empire),
-              description: chunks[i],
-              footer: {
+            title: `📅 ${date} — ${empire}${chunks.length > 1 ? ` (${i+1}/${chunks.length})` : ''}`,
+            color: empireColor(empire),
+            description: chunks[i],
+            footer: {
                 text: `CROWS ScrapeYard • ${evts.length} événements`
-              }
+            }
             }]
-          })
+        })
         });
 
-        await new Promise(r => setTimeout(r, 900));
-      }
+        if (!res.ok) {
+        console.error(
+            `❌ Embed refusé (${res.status})`,
+            await res.text()
+        );
+        }
     }
   }
 
