@@ -44,12 +44,15 @@ function sortEvents(events) {
 ========================= */
 
 const browser = await puppeteer.launch({
-    headless: 'new',
+    headless: 'true',
     args: ['--no-sandbox', '--disable-setuid-sandbox'],
   });
 
 const page = await browser.newPage();
-await page.goto(URL, { waitUntil: 'networkidle2' });
+await page.goto(URL, {
+    waitUntil: 'networkidle2',
+    timeout: 60_000
+});
 
 let events = loadJSON(EVENTS_FILE, []);
 let index = new Set(loadJSON(INDEX_FILE, []));

@@ -10,24 +10,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: 'npm'
 
-      - name: Install dependencies
-        run: npm install
+      - name: 📦 Install dependencies
+        run: npm ci
 
-      - name: Run scraper
-        run: node scrape.js
+      - name: 🌐 Install Chromium for Puppeteer
+        run: npx puppeteer browsers install chrome
+
+      - name: 🚀 Run scraper
+        run: node scraper.js
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-
-      - name: Commit data
-        run: |
-          git config user.name "CROW"
-          git config user.email "kinuhotaru@gmail.com"
-          git add data/*.json
-          git commit -m "🗂️ Update scraped data" || exit 0
-          git push
