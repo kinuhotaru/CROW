@@ -260,7 +260,8 @@ const { scrapedEvents, next } = await page.evaluate(() => {
     const eventText = textCell?.innerText?.trim();
     const id = textCell?.id;
 
-if (currentTime && eventText) {
+
+if (timeRegex.test(time) && eventText) {
       events.push({
         id,
         date: currentDate,
