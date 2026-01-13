@@ -228,17 +228,11 @@ const { scrapedEvents, next } = await page.evaluate(() => {
     if (cityText) currentCity = cityText;
 
     // --- EVENT ---
-    //const time = tds[1]?.innerText?.trim();
-    let currentTime = null;
-    
+    const time = tds[1]?.innerText?.trim();
+
     const textCell = tr.querySelector('td[id^="ajax-"]');
     const eventText = textCell?.innerText?.trim();
     const id = textCell?.id;
-
-    let time = tds[1]?.innerText?.trim();
-    if (timeRegex.test(time)) {
-    currentTime = time;
-    }
 
 if (currentTime && eventText) {
       events.push({
