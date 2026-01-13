@@ -2,14 +2,19 @@
 import fetch from 'node-fetch';
 import * as cheerio from 'cheerio';
 
-const BASE_URL = 'http://www.kraland.org/monde/evenements';
+/* =========================
+   ⚙️ CONFIG
+========================= */
 
+const BASE_URL = 'http://www.kraland.org/monde/evenements';
 const DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK;
 
 const DATA_DIR = './data';
 const EVENTS_FILE = `${DATA_DIR}/events.json`;
 const INDEX_FILE = `${DATA_DIR}/event_index.json`;
 const SENT_FILE = `${DATA_DIR}/sent_hashes.json`;
+
+const MAX_PAGES = 500;
 
 if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR);
 
@@ -18,13 +23,24 @@ if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR);
 ========================= */
 
 function loadJSON(file, fallback = []) {
-  return fs.existsSync(file)
-    ? JSON.parse(fs.readFileSync(file))
-    : fallback;
+  try {
+    return fs.existsSync(file)
+      ? JSON.parse(fs.readFileSync(file))
+      : fallback;
+  } catch {
+    return fallback;
+  }
 }
 
 function saveJSON(file, data) {
   fs.writeFileSync(file, JSON.stringify(data, null, 2));
+}
+
+function loadSet(file) {
+  const data = loadJSON(file, []);
+  if (Array.isArray(data)) return new Set(data);
+  if (data && typeof data === 'object') return new Set(Object.keys(data));
+  return new Set();
 }
 
 function eventHash(e) {
@@ -41,14 +57,10 @@ function sortEvents(events) {
 }
 
 /* =========================
-   🌐 FETCH PAGE
+   🌐 FETCH
 ========================= */
 
-async function fetchPage(page = 1) {
-  const url = page === 1
-    ? BASE_URL
-    : `${BASE_URL}?page=${page}`;
-
+async function fetchPage(url) {
   const res = await fetch(url, {
     headers: {
       'User-Agent':
@@ -66,34 +78,32 @@ async function fetchPage(page = 1) {
 }
 
 /* =========================
-   🔍 SCRAPE
+   🔎 PARSING
 ========================= */
 
-let events = loadJSON(EVENTS_FILE, []);
-let index = new Set(loadJSON(INDEX_FILE, []));
-let sent = new Set(loadJSON(SENT_FILE, []));
+function getNextPageUrl($) {
+  const active = $('.pagination li.active');
+  const next = active.next('li').find('a');
+  return next.length ? next.attr('href') : null;
+}
 
-let pageCount = 0;
-let totalNew = 0;
-
-while (pageCount < 500) {
-  pageCount++;
-
-  const html = await fetchPage(pageCount);
+function scrapePage(html) {
   const $ = cheerio.load(html);
-
+  const scraped = [];
   let currentDate = null;
-  let scraped = [];
 
   $('table.table tbody tr').each((_, tr) => {
-    const text = $(tr).text().trim();
+    const tds = $(tr).find('td');
 
-    if (/^\d{4}-\d{2}-\d{2}$/.test(text)) {
-      currentDate = text;
+    // Ligne date
+    if (tds.length === 1) {
+      const dateText = tds.eq(0).text().trim();
+      if (/^\d{4}-\d{2}-\d{2}$/.test(dateText)) {
+        currentDate = dateText;
+      }
       return;
     }
 
-    const tds = $(tr).find('td');
     if (tds.length < 3 || !currentDate) return;
 
     const locationTd = tds.eq(0);
@@ -104,19 +114,36 @@ while (pageCount < 500) {
       date: currentDate,
       time: tds.eq(1).text().trim(),
       empire: img.attr('src')?.split('/').pop().replace('.png', ''),
-      province: locationTd
-        .clone()
-        .children()
-        .remove()
-        .end()
-        .text()
-        .trim(),
+      province: locationTd.clone().children().remove().end().text().trim(),
       city: p.text().trim(),
-      text: tds.find('td[id^="ajax-"]').text().trim()
+      text: tds.eq(2).text().trim()
     });
   });
 
-  scraped = scraped.filter(e => e.text && e.date);
+  return {
+    events: scraped.filter(e => e.text && e.date),
+    next: getNextPageUrl($)
+  };
+}
+
+/* =========================
+   🚀 EXECUTION
+========================= */
+
+let events = loadJSON(EVENTS_FILE, []);
+let index = loadSet(INDEX_FILE);
+let sent = loadSet(SENT_FILE);
+
+let pageCount = 0;
+let totalNew = 0;
+
+let nextUrl = BASE_URL;
+
+while (nextUrl && pageCount < MAX_PAGES) {
+  pageCount++;
+
+  const html = await fetchPage(nextUrl);
+  const { events: scraped, next } = scrapePage(html);
 
   let newCount = 0;
 
@@ -136,6 +163,8 @@ while (pageCount < 500) {
     console.log('⛔ Page complète détectée');
     break;
   }
+
+  nextUrl = next ? new URL(next, BASE_URL).href : null;
 }
 
 /* =========================
