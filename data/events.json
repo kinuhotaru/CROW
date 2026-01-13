@@ -17678,5 +17678,37 @@
     "province": "Karaïbes",
     "city": "Trésorville",
     "text": "KaNaar a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:49",
+    "empire": "Paradigme Vert",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Georges de la Mare a réussi l'examen du ruban et obtenu la récompense Ruban Vert, ce qui lui permet de poursuivre sa carrière dans le Paradigme Vert."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:52",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Construction d'un bâtiment Cage dans la ville Structural en [14,3]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:53",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Estelle Pravi a ouvert un chantier public dans la ville Structural en [2,6]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "21:57",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "La colère gronde contre le nouveau Roi ! Des partisans de l'ancien monarque Chilmerdic XXVII, se faisant appeler les \"Sans-Chaussettes\", protestent contre le nouveau régime et la confiscation de leurs chaussettes par les services de police pour des \"raisons de sécurité textile\"."
   }
 ]
