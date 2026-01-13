@@ -15889,6 +15889,30 @@
   },
   {
     "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Le Khanat Elmérien récolte 891 ÐE d'impôts. Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 0 ÐE, Ministère de la Guerre 0 ÐE, Ministère de la Justice 0 ÐE, Ministère des Affaires Étrangères 0 ÐE, Ministère de l'Économie 89 ÐE, Ministère de la Recherche 802 ÐE, Ministère de l'Intérieur 0 ÐE, Ministère de l'Information 0 ÐE, Ministère des Services Secrets 0 ÐE, Ministère du Travail 0 ÐE."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "",
+    "text": "La province Bananie récolte 672 ÐE d'impôts."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "",
+    "text": "La province Santa Banana récolte 256 MØ d'impôts."
+  },
+  {
+    "date": "2026-01-13",
     "time": "00:03",
     "empire": "Empire Brun",
     "province": "Plaine Irradiée",
@@ -16833,6 +16857,14 @@
   },
   {
     "date": "2026-01-13",
+    "time": "13:09",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de la Justice Ed Wyplenel a imposé une amende de 25 Co à Chilmerdic XXVII : « Cher Chilmerdic, Comme indiqué, votre mort ne restera pas sans réponse. Vous avez pu faire de grandes (ou moins grandes) choses durant votre Règne et nous mettrons en œuvre tous les moyens en notre possession pour que la Vérité triomphe. Par contre, les moyens étant un peu limités (post-Apocalypse, tout ça), il va falloir y mettre du vôtre dans cette histoire. Vous semblez plutôt volontaire et ça vous concerne au premier plan, donc permettez que la Justice saisisse quelques uns de vos biens, pour le Royaume. La Vérité vous remerciera, soyez-en sûr. »"
+  },
+  {
+    "date": "2026-01-13",
     "time": "13:14",
     "empire": "Royaume de Ruthvénie",
     "province": "Milieu",
@@ -17049,6 +17081,14 @@
   },
   {
     "date": "2026-01-13",
+    "time": "17:38",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de la Recherche Diagonale a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël : « Diagonale apparaît devant les journalistes, les cheveux décoiffés, des traces de rouge à lèvre sur la bouche et le menton, pleine de l'assurance de quelqu'un qui ne s'est pas regardée dans un miroir avant de prendre la parole. Le rouge à lèvre est d'un bleu sobre, mais malheureusement il y en a vraiment beaucoup. Il semblerait qu'elle soit vraiment nulle en maquillage. Chevalière Diagonale Ministre de la Recherche Sacrée Je remercie le nouveau Monarque de m'avoir reconduite Ministre de la Recherche du Royaume, et je suis ravie qu'Elle ait béni ces terres. Sous le commandement du Roi, le Ministère de la Recherche Sacrée saura creuser les textes anciens et affiner la théologie royale pour percevoir plus finement Sa Volonté. Je prête solennellement allégeance à Sa Majesté Landraël et lui assure mon soutien et celui de l'Aléocratie dans ces temps troublés. Des applaudissements retentissent mais Diagonale les arrête doucement d'un geste de la main, son visage barbouillé de rouge à lèvres prenant un air grave. S'il vous plaît, un peu de sérieux et de solennité. Nous sommes toujours en deuil. »"
+  },
+  {
+    "date": "2026-01-13",
     "time": "17:44",
     "empire": "Khanat Elmérien",
     "province": "Bananie",
@@ -17129,10 +17169,146 @@
   },
   {
     "date": "2026-01-13",
+    "time": "18:48",
+    "empire": "Empire Brun",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Henry McCleft a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun."
+  },
+  {
+    "date": "2026-01-13",
     "time": "18:50",
     "empire": "Paradigme Vert",
     "province": "",
     "city": "",
     "text": "La Gouverneure Jadina a adressé un discours à la population : « Allocution Officielle de la Princesse de Siberia Paradigmiens, Paradigmiennes, Madame la MR, Je sais qu'une discussion est sur toutes les lèvres au PV depuis la nomination de notre nouveau MR : Vers où orienter les recherches ? Certains évoquent la piste des sciences arcaniques quand d'autres, proposent de d'exploiter des énergies fossiles pour désenclaver Siberia C'est beau, c'est noble, cependant je pense qu'en ma qualité de Paradimienne, je puis également donner mon avis ? Contrairement à ce que l'on pourrait croire, si je devais faire un choix, j'aimerai moi aussi que nous orientons les recherches vers La Magie ! Ô bien sur la vie est rude à Sibéria... enclavée par la neige... loin de tout... Mais enfin… ça serait égoïste de raisonner ainsi et le peuple Siberian est un peuple fier et courageux qui a prouvé qu'il était capable de Survivre même dans des conditions difficiles. Le froid, passe encore... Mais comment endurer la responsabilité d'être une des causes ayant accéléré le développement d'une industrie polluante et nuisible à l'environnement ? Nous ne voulons pas porter ce chapeau Si un jour, des gares devenaient fonctionnelles, alors tant mieux on ne crachera pas dessus, mais si cela est remis à plus tard, alors tant pis ! On a su faire avec jusqu'à présent et on continuera à le faire. La magie en revanche, c'est écologique, c'est sain... c'est pur... ça fait presque partie de notre culture et de notre identité nationale, alors va pour la Magie. En plus, j'ai le bâton qui me démange ! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "18:50",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "La Gouverneure Jadina a adressé un discours à la population : « Allocution Officielle de la Princesse de Siberia Paradigmiens, Paradigmiennes, Madame la MR, Je sais qu'une discussion est sur toutes les lèvres au PV depuis la nomination de notre nouveau MR : Vers où orienter les recherches ? Certains évoquent la piste des sciences arcaniques quand d'autres, proposent de d'exploiter des énergies fossiles pour désenclaver Siberia C'est beau, c'est noble, cependant je pense qu'en ma qualité de Paradimienne, je puis également donner mon avis ? Contrairement à ce que l'on pourrait croire, si je devais faire un choix, j'aimerai moi aussi que nous orientons les recherches vers La Magie ! Ô bien sur la vie est rude à Sibéria... enclavée par la neige... loin de tout... Mais enfin… ça serait égoïste de raisonner ainsi et le peuple Siberian est un peuple fier et courageux qui a prouvé qu'il était capable de Survivre même dans des conditions difficiles. Le froid, passe encore... Mais comment endurer la responsabilité d'être une des causes ayant accéléré le développement d'une industrie polluante et nuisible à l'environnement ? Nous ne voulons pas porter ce chapeau Si un jour, des gares devenaient fonctionnelles, alors tant mieux on ne crachera pas dessus, mais si cela est remis à plus tard, alors tant pis ! On a su faire avec jusqu'à présent et on continuera à le faire. La magie en revanche, c'est écologique, c'est sain... c'est pur... ça fait presque partie de notre culture et de notre identité nationale, alors va pour la Magie. En plus, j'ai le bâton qui me démange ! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "18:55",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "La Bourgmestre Annie a adressé un discours à la population : « Jadina préfère jouer avec son baton alors que le pauvre chat de Sibéria ne peut même pas manger de poisson. Si l'on pouvait démarrer l'industrie du caramel noir, la glace fondrait plus vite !! Regardez le le pauvre : Oui je viens de le mettre dans la dernière déclaration mais c'est un chat donc ça va. »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "18:57",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Mademoiselle Tick a ouvert un chantier privé dans la ville Kanardville en [3,7]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "18:58",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Mademoiselle Tick a ouvert un chantier privé dans la ville Kanardville en [3,5]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "18:58",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Construction d'un bâtiment Orfèvrerie dans la ville Kanardville en [3,7]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "19:09",
+    "empire": "Empire Brun",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "L'Empereur Henry McCleft a adressé un discours à la population : « Henriette, l'air paisible, vient faire sa petite annonce au micro du Palais Impérial. Chers sujets. L'Empire est en de fermes mains. Je vous confirme les commencements des travaux de Recherche sur une nouvelle technologie. A ce sujet, sachez que j'ai ouvert l'Ecole Supérieure de mon incapable de fils, pour que vous puissiez participer à l'effort impérial. Elle se trouve à Santa Banana City. Par ailleurs, soachez que je me rends à Sicilia pour une visite diplomatico-religieuse. Vous n'avez pas encore fini d'entendre parler de mon Cul-te. Elle ferme le micro, mais pas tout à fait. On entend en arrière-plan des objets violemment lancés contre les murs et des voix qui s'entremèlent. \"Relâche-moi, c'est moi l'Empereur! C'est MOI qui ai piraté les élections! C'est MON école! Tu n'as pas le droit!\" \"Tais-TOI, fils indigne!\" *CLAC* \"T'arrête d'taper eul'p'tiot, ou chte r'fais ton portrait!\" *CRAC* \"Essaie seulement, Hank. Et je te détruis à tout jamais! Io té rappelle que c'est moi qui contrôle les mains de ce corps...\". »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "19:16",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Construction d'un bâtiment Infirmerie dans la ville Forum en [7,10]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "19:27",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Astroglobal a ouvert un chantier privé dans la ville Port Magmor en [15,4]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "19:30",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Seïfe a été victime d'un Tunnel Termondique de magnitude 3. La distance a été parcourue en 2 fois plus de temps."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "19:38",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Silas des Sables a tenté, sans succès de transformer le bâtiment Bar « Chez Monique » en dispensaire médical : « Bonsoir. Quoi de mieux qu'un dispensaire au milieu des salades de tomate et des légumes Siciliens ? Vous me semblez tous en avoir grandement besoin. Blessures, infections, fatigue, douleurs persistantes : tout est pris en charge. Je délivre également des certificats d'hygiène préopératoire. Une assurance de qualité pour vos trahisons ascendantes. »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "19:44",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "Un groupe de policiers tente d'arrêter Golgoth le Vagabond car dans son groupe il y a Olivier Dekarglasz sous avis de recherche."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "19:46",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Wenceslas von Altheim-Blatnoï a réussi l'examen du ruban et obtenu la récompense Ruban Bicolore, ce qui lui permet de poursuivre sa carrière dans le Royaume de Ruthvénie."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "19:48",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Ruthvenville",
+    "text": "Yaj Kao a trouvé un filon de pierre dans la province Plaine Irradiée : « HAN HAN HAN ! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "19:48",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Le Bourgmestre Grøbachev a exproprié le bâtiment Bar « L’auberge subdgauvienne » (13,8) pour 1684 FK : « La réponse est non ! Bon vent kamarade. »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "19:55",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "Des policiers interviennent contre un groupe criminel. En l'absence de prison dans la province Géofront, la police a mis dans le coma et relâché : Olivier Dekarglasz. Golgoth le Vagabond a déclaré lors de l'arrestation : « Ehhh mais foutez nous la paix ! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "19:55",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Construction d'un bâtiment Intendance dans la ville Ruthvenville en [7,11]."
   }
 ]
