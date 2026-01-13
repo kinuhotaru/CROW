@@ -234,8 +234,8 @@ async function sendToDiscord(events) {
   let events = loadJSON(EVENTS_FILE, []);
   let index = new Set(loadJSON(INDEX_FILE, []));
 
-  await page.goto(BASE_URL, { waitUntil: 'networkidle' });
-  await page.waitForSelector('select', { timeout: 5000 });
+  await page.goto(BASE_URL, { waitUntil: 'domcontentloaded', timeout: 60000 });
+  await page.waitForSelector('table.table tbody tr', { timeout: 15000 });
   await page.selectOption('select', { label: 'Tous les empires' });
   await page.waitForTimeout(1000);
 
