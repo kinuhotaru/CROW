@@ -199,49 +199,49 @@ const { scrapedEvents, next } = await page.evaluate(() => {
   let currentCity = "";
 
   const events = [];
-  const timeRegex = /^\d{2}:\d{2}$/;
+  const timeRegex = /\b\d{2}:\d{2}\b/;
 
-  rows.forEach(tr => {
-    const text = tr.innerText.trim();
+  for (const tr of rows) {
+    const text = tr.innerText.replace(/\u00a0/g, ' ').trim();
+    if (!text) continue;
 
     // --- DATE ---
     if (/^\d{4}-\d{2}-\d{2}$/.test(text)) {
       currentDate = text;
-      return;
+      continue;
     }
-
-    const tds = [...tr.querySelectorAll('td')];
-    if (!tds.length || !currentDate) return;
 
     // --- EMPIRE ---
-    const img = tds[0].querySelector('img');
+    const img = tr.querySelector('img');
     if (img?.src) {
       currentEmpire = img.src.split('/').pop().replace('.png', '');
+      continue;
     }
 
-    // --- PROVINCE / VILLE ---
-    const provinceText = tds[0]?.childNodes?.[1]?.textContent?.trim();
-    const cityText = tds[0]?.querySelector('p')?.innerText?.trim();
-
-    if (provinceText) currentProvince = provinceText;
-    if (cityText) currentCity = cityText;
-
     // --- EVENT ---
-    const time = tds[1]?.innerText?.trim();
-    const textCell = tr.querySelector('td[id^="ajax-"]');
-    const eventText = textCell?.innerText?.trim();
-
-    if (timeRegex.test(time) && eventText) {
+    const timeMatch = text.match(/^(\d{2}:\d{2})\s+(.*)$/);
+    if (timeMatch && currentDate) {
       events.push({
         date: currentDate,
-        time,
+        time: timeMatch[1],
         empire: currentEmpire,
         province: currentProvince,
         city: currentCity,
-        text: eventText
+        text: timeMatch[2]
       });
+      continue;
     }
-  });
+
+    // --- PROVINCE / VILLE ---
+    // Si ce n'est pas une date, pas une heure, pas un empire
+    if (!timeRegex.test(text)) {
+      if (!currentProvince) {
+        currentProvince = text;
+      } else {
+        currentCity = text;
+      }
+    }
+  }
 
   const active = document.querySelector('.pagination li.active');
   const next =
