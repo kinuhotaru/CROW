@@ -1,6 +1,6 @@
 ﻿import fs from 'fs';
 import fetch from 'node-fetch';
-import cheerio from 'cheerio';
+import * as cheerio from 'cheerio';
 
 const BASE_URL = 'https://www.kraland.org/monde/evenements';
 
