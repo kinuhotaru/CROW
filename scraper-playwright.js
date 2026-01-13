@@ -220,10 +220,13 @@ const { scrapedEvents, next } = await page.evaluate(() => {
     }
 
     // --- PROVINCE / VILLE ---
-    const provinceText = tds[0]?.childNodes?.[1]?.textContent?.trim();
+    const provinceText = tds[0].cloneNode(true);
+    provinceText.querySelector('p')?.remove();
+    provinceText.querySelector('img')?.remove();
+    const province = provinceText.textContent.replace(/\u00a0/g, ' ').trim();
     const cityText = tds[0]?.querySelector('p')?.innerText?.trim();
 
-    if (provinceText) currentProvince = provinceText;
+    if (province) currentProvince = province;
     if (cityText) currentCity = cityText;
 
     // --- EVENT ---
