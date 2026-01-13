@@ -17862,5 +17862,21 @@
     "province": "Acropole",
     "city": "Forum",
     "text": "Caucherêve a prononcé un discours louant le Gouverneur Bladimir Bladimirovitch Mutin [PP +1] : « I have a dream... Bladimir, dans le monde des rêves ton projet est noble. Je te souhaite de les réaliser dans le monde réel... »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "22:43",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Maître Corbeau a prononcé un discours louant le Ministre de la Guerre Charlie [PP +6] : « Ah Charlie, ma p'tite liche... mon Charliche ? Rien de plus à dire, à part que je t'aime bien, mon copain ! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "22:48",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "Epoxy [429] a brûlé par erreur des notes scientifiques importantes. La recherche est perturbée (-3 à la technologie n°28)."
   }
 ]
