@@ -16001,6 +16001,14 @@
   },
   {
     "date": "2026-01-13",
+    "time": "00:23",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "",
+    "text": "Bogdan D'Arken n'a pas réussi à utiliser ses prérogatives de Diplomate pour devenir Intendant de la province Kraland : « Il semble que notre bourgmestre sois du même avis, allez on monte cette intendance pour multiplier un peu les forces de minage »"
+  },
+  {
+    "date": "2026-01-13",
     "time": "00:24",
     "empire": "Empire Brun",
     "province": "Mystisie",
@@ -16641,10 +16649,26 @@
   },
   {
     "date": "2026-01-13",
+    "time": "11:37",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "La Duchesse Felicity Stone a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël : « 2/2 Il va de soit que Sa Majesté, Landraël 1er, bénéficiera de mon soutien, plein et entier, ainsi que de celui de tous les habitants de notre merveilleux Duché, à n'en point douter. Votre Majesté, *Felicity s'incline respectueusement, comme s'il se trouvait devant lui* en ce jour de Votre Ascension au Trône, je vous fais humblement Serment d'Allégeance. Je demeurerai à votre service tant et aussi longtemps que vous porterez La Couronne et siègerez sur Le Trône. Pour la grandeur du Royaume ! *Felicity salue les présents chaleureusement, puis s'en retourne à son bureau* »"
+  },
+  {
+    "date": "2026-01-13",
     "time": "11:38",
     "empire": "Royaume de Ruthvénie",
     "province": "Ruthvénie",
     "city": "Trésorville",
+    "text": "Felicity Stone a fait la déclaration officielle suivante aux habitants du Royaume de Ruthvénie : « 1/2 Lady Felicity Stone, Proclamée Duchesse de Ruthvénie par le concierge qui vient de la réveiller en passant nettoyer l'ancien bureau du précédent Duc et désormais Roi, Sa Majesté Landraël 1er (Récapitulatif de la scène:) Spoiler *Le héraut de Felicity sort du Palais Ducal et se présente sur la grande place, suivi peu après par Sa Maîtresse.* : Oyez ! Oyez ! Habitants de Ruthvénie ! C'est pour moi un immense plaisir que de vous présenter votre nouvelle Duchesse ! et j'ai nommé, ma maîtresse, Lady Felicity Stone ! *proclame-t-il, visiblement fier* *Vagues de 'Hourra!\" et d'applaudissements par les figurants à la solde de Felicity, dispersés dans la foule* : Cher peuple de Ruthvénie, *dit alors Felicity, avec un grand enthousiasme* vous me voyez des plus honorée que d'avoir été choisie par Notre Majesté pour lui succéder en tant que Duchesse de Ruthvénie, afin de poursuivre l'excellent travail qu'il a effectué jusque là pour notre Province Capitale. Je tâcherai de ne point le décevoir, en suivant au mieux son exemple, et de me montrer à la hauteur de ses attentes et des vôtres envers le détenteur de cette Noble et Illustre fonction. »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "11:38",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
     "text": "Felicity Stone a fait la déclaration officielle suivante aux habitants du Royaume de Ruthvénie : « 1/2 Lady Felicity Stone, Proclamée Duchesse de Ruthvénie par le concierge qui vient de la réveiller en passant nettoyer l'ancien bureau du précédent Duc et désormais Roi, Sa Majesté Landraël 1er (Récapitulatif de la scène:) Spoiler *Le héraut de Felicity sort du Palais Ducal et se présente sur la grande place, suivi peu après par Sa Maîtresse.* : Oyez ! Oyez ! Habitants de Ruthvénie ! C'est pour moi un immense plaisir que de vous présenter votre nouvelle Duchesse ! et j'ai nommé, ma maîtresse, Lady Felicity Stone ! *proclame-t-il, visiblement fier* *Vagues de 'Hourra!\" et d'applaudissements par les figurants à la solde de Felicity, dispersés dans la foule* : Cher peuple de Ruthvénie, *dit alors Felicity, avec un grand enthousiasme* vous me voyez des plus honorée que d'avoir été choisie par Notre Majesté pour lui succéder en tant que Duchesse de Ruthvénie, afin de poursuivre l'excellent travail qu'il a effectué jusque là pour notre Province Capitale. Je tâcherai de ne point le décevoir, en suivant au mieux son exemple, et de me montrer à la hauteur de ses attentes et des vôtres envers le détenteur de cette Noble et Illustre fonction. »"
   },
   {
@@ -16657,11 +16681,35 @@
   },
   {
     "date": "2026-01-13",
+    "time": "12:10",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "Le Préfet de Police Anarion l'Enflammé a démissionné de sa fonction."
+  },
+  {
+    "date": "2026-01-13",
     "time": "12:11",
     "empire": "Royaume de Ruthvénie",
     "province": "Karaïbes",
     "city": "Trésorville",
     "text": "Le Roi Landraël a nommé Ed Wyplenel au poste de Ministre de la Justice."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "12:11",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Roi Landraël a nommé Felony au poste de Ministre des Affaires Étrangères."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "12:11",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Roi Landraël a nommé Darth Leo au poste de Directeur des Services Secrets."
   },
   {
     "date": "2026-01-13",
@@ -16814,5 +16862,45 @@
     "province": "Warriorland",
     "city": "Blofeldopolis",
     "text": "Construction d'un bâtiment Cabane dans la ville Blofeldopolis en [12,5]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "16:12",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Construction d'un bâtiment Préfecture de Police dans la ville Forum en [14,10]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "16:13",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Forum",
+    "text": "Un groupe de créatures mené par 1 Dragonneau attaque Henry McCleft."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "16:29",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Paul-Steeve Saint-Sauveur a bafouillé un discours ridicule au lieu de louer le Président Caïus Martius Ice : « Électeurs, il est le temps de sortir afin d’encourager le président de la reconstruction! Omniprésent, positif et surtout, très intéressé à être réélu, nous nous devons de voter et un vote pour Caïus est un vote pour lui! »"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "16:30",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Bagdad",
+    "text": "Construction d'un bâtiment Nappe de Pétrole dans la ville Bagdad en [13,5]."
+  },
+  {
+    "date": "2026-01-13",
+    "time": "16:40",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Malcom a prononcé un discours louant le Roi Landraël [PP +3] : « Comme il est le devoir de chaque citoyen du Royaume de prêter allégeance au Roi, j'en fais de même en ma position de Juge de l'Architecture de la Capitale. Sa Majesté, Landraël 1er, est un homme qui a toujours mis le Royaume avant ces propres intérêts personnels primaires. Certains diront que ce n'est pas vrai, alors je les invite à visiter notre Cage. Pour un Royaume plus prospère! Pour un royaume où la technologie nous mènera vers de grande chose! Pour que votre règne soit toujours en accord avec la volonté de la Grande Déesse! »"
   }
 ]
