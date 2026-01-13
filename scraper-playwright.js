@@ -77,10 +77,19 @@ function saveJSON(file, data) {
   fs.writeFileSync(file, JSON.stringify(data, null, 2));
 }
 
-function eventHash(e) {
-  return Buffer.from(
-    `${e.date}|${e.time}|${e.empire}|${e.province}|${e.city}|${e.text}`.toLowerCase()
-  ).toString('base64').slice(0, 100);
+function eventHash(e){
+    const normalized = [
+        e.date,
+        e.time,
+        e.empire,
+        e.province,
+        e.city,
+        e.text
+    ]
+    .map(normalizeForHash)
+    .join('|');
+
+    return Buffer.from(normalized).toString('base64').slice(0,100);
 }
 
 function sortEvents(events) {
@@ -88,8 +97,21 @@ function sortEvents(events) {
     new Date(`${a.date} ${a.time || '00:00'}`) -
     new Date(`${b.date} ${b.time || '00:00'}`)
   );
-}
 
+}
+function normalizeForHash(value) {
+  if (typeof value !== 'string') return '';
+
+  return value
+    .normalize('NFKD')                 // Décompose Unicode (é → e + ́)
+    .replace(/[\u0300-\u036f]/g, '')   // Supprime les accents
+    .replace(/[’‘]/g, "'")             // Apostrophes typographiques
+    .replace(/[“”«»]/g, '"')           // Guillemets typographiques
+    .replace(/\u00a0/g, ' ')            // Espaces insécables
+    .replace(/\s+/g, ' ')               // Espaces multiples
+    .toLowerCase()
+    .trim();
+}
 /* =========================
    📨 DISCORD
 ========================= */
