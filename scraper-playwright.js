@@ -15,6 +15,7 @@ const INDEX_FILE = `${DATA_DIR}/event_index.json`;
 const SENT_FILE = `${DATA_DIR}/sent_hashes.json`;
 
 const MAX_PAGES = 500;
+const MAX_EMPTY_PAGES = 5;
 
 if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR);
 
@@ -59,10 +60,7 @@ const empireColor = empire => EMPIRE_COLOR[empire] ?? 0x34495e;
 
 function normalizeText(value) {
   if (typeof value !== 'string') return '';
-  return value
-    .replace(/\u00a0/g, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
+  return value.replace(/\u00a0/g, ' ').replace(/\s+/g, ' ').trim();
 }
 
 function loadJSON(file, fallback = []) {
@@ -157,16 +155,14 @@ async function sendToDiscord(events) {
   let events = loadJSON(EVENTS_FILE, []);
   let index = new Set(loadJSON(INDEX_FILE, []));
 
-  /* 🔽 Aller sur la page et activer "Tous les empires" */
   await page.goto(BASE_URL, { waitUntil: 'networkidle' });
-
-  // ⚠️ Sélecteur volontairement large (robuste)
   await page.waitForSelector('select', { timeout: 5000 });
   await page.selectOption('select', { label: 'Tous les empires' });
   await page.waitForTimeout(1000);
 
   let nextUrl = page.url();
   let pageCount = 0;
+  let emptyPages = 0;
 
   while (nextUrl && pageCount < MAX_PAGES) {
     pageCount++;
@@ -232,8 +228,13 @@ async function sendToDiscord(events) {
     console.log(`📄 Page ${pageCount} → +${newCount}`);
 
     if (newCount === 0) {
-      console.log('⛔ Page complète détectée');
-      break;
+      emptyPages++;
+      if (emptyPages >= MAX_EMPTY_PAGES) {
+        console.log(`⛔ ${MAX_EMPTY_PAGES} pages sans nouveautés, arrêt`);
+        break;
+      }
+    } else {
+      emptyPages = 0;
     }
 
     nextUrl = next;
@@ -247,4 +248,4 @@ async function sendToDiscord(events) {
   await browser.close();
 
   console.log(`✅ Terminé — total événements : ${events.length}`);
-})();   
+})();
