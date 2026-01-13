@@ -158,6 +158,44 @@ function chunkEmbedLines(lines, maxLength = 4096) {
   return chunks.filter(Boolean);
 }
 
+async function sendWebhookWithRetry(payload, maxRetries = 5) {
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    await sendWebhookWithRetry({
+    embeds: [{
+        title: `📅 ${date} — ${empire}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
+        color: empireColor(empire),
+        description: chunks[i],
+        footer: {
+        text: `CROWS ScrapeYard • ${evts.length} événements`
+        }
+    }]
+    });
+
+    if (res.ok) return;
+
+    if (res.status === 429) {
+      const data = await res.json();
+      const wait = Math.ceil((data.retry_after || 1) * 1000);
+
+      console.warn(
+        `⏳ Rate limit Discord, retry dans ${wait}ms (tentative ${attempt}/${maxRetries})`
+      );
+
+      await new Promise(r => setTimeout(r, wait));
+      continue;
+    }
+
+    // Autre erreur = abandon
+    console.error(
+      `❌ Discord error ${res.status}`,
+      await res.text()
+    );
+    return;
+  }
+
+  console.error('💥 Abandon : trop de retries Discord');
+}
+
 /* =========================
    📨 DISCORD
 ========================= */
