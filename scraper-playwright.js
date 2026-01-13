@@ -290,12 +290,6 @@ const { scrapedEvents, next } = await page.evaluate(() => {
 
     return Buffer.from(normalized).toString('base64').slice(0, 100);
     }
-        
-      if (!index.has(h)) {
-        index.add(h);
-        events.push(e);
-        newCount++;
-      }
     }
 
     console.log(`📄 Page ${pageCount} → +${newCount}`);
