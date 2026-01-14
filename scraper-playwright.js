@@ -317,14 +317,13 @@ function aggregateRows(rows, labelKey) {
   return result;
 }
 
-function progressBar(value, max, size = 20) {
+function progressBar(value, max, size = 10) {
   if (max <= 0) return '░'.repeat(size);
 
   const ratio = value / max;
   const filled = Math.round(ratio * size);
-  const empty = size - filled;
 
-  return '█'.repeat(filled) + '░'.repeat(empty);
+  return '█'.repeat(filled) + '░'.repeat(size - filled);
 }
 
 function rankingFields(entries, type, label) {
