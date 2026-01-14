@@ -179,6 +179,23 @@ function chunkEmbedLines(lines, maxLength = 4096) {
   return chunks.filter(Boolean);
 }
 
+function chunkEmbedDescription(lines, maxLength = 4000) {
+  const chunks = [];
+  let current = '';
+
+  for (const line of lines) {
+    if ((current + '\n\n' + line).length > maxLength) {
+      if (current) chunks.push(current);
+      current = line;
+    } else {
+      current += (current ? '\n\n' : '') + line;
+    }
+  }
+
+  if (current) chunks.push(current);
+  return chunks;
+}
+
 async function sendWebhookGuaranteed(webhookUrl, payload) {
   if (!webhookUrl || typeof webhookUrl !== 'string') {
     console.warn('⚠️ Webhook invalide, envoi ignoré');
@@ -483,30 +500,46 @@ async function sendDailyRanking(dailyTables) {
       !Object.keys(cities).length
     ) continue;
 
-    const embeds = [
+        const sections = [
         {
-        title: `🏆 Empires — ${day} - Revenus'`,
-        description: rankingWithBars(empires, 'income').join('\n\n'),
-        color: 0x2ecc71
+            title: `🏆 Empires — ${day} • Revenus`,
+            color: 0x2ecc71,
+            lines: rankingWithBars(empires, 'income', '💰 Revenus')
         },
         {
-        title: `💸 Empires — ${day} - dépenses`,
-        description: rankingWithBars(empires, 'expense', '💸 Dépenses').join('\n\n'),
-        color: 0xe74c3c
+            title: `💸 Empires — ${day} • Dépenses`,
+            color: 0xe74c3c,
+            lines: rankingWithBars(empires, 'expense', '💸 Dépenses')
         },
         {
-        title: `🏆 Provinces — ${day}`,
-        description: rankingWithBars(provinces, 'income', '💰 Revenus').join('\n\n'),
-        color: 0x3498db
+            title: `🏆 Provinces — ${day} • Revenus`,
+            color: 0x3498db,
+            lines: rankingWithBars(provinces, 'income', '💰 Revenus')
         },
         {
-        title: `🏆 Villes — ${day}`,
-        description: rankingWithBars(cities, 'income', '💰 Revenus').join('\n\n'),
-        color: 0x9b59b6
+            title: `🏆 Villes — ${day} • Revenus`,
+            color: 0x9b59b6,
+            lines: rankingWithBars(cities, 'income', '💰 Revenus')
         }
-    ];
+        ];
 
-    await sendWebhookGuaranteed(DISCORD_STATS_WEBHOOK, { embeds });
+        for (const section of sections) {
+        if (!section.lines || !section.lines.length) continue;
+
+        const chunks = chunkEmbedDescription(section.lines);
+
+        for (let i = 0; i < chunks.length; i++) {
+            await sendWebhookGuaranteed(DISCORD_STATS_WEBHOOK, {
+            embeds: [{
+                title: `${section.title}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
+                description: chunks[i],
+                color: section.color
+            }]
+            });
+
+            await new Promise(r => setTimeout(r, 300));
+        }
+        }
 
     sentDays.add(day);
     saveJSON(STATS_SENT_FILE, [...sentDays]);
@@ -689,8 +722,6 @@ if (timeRegex.test(time) && eventText) {
   //Stats to Discord
   const dailyStats = buildDailyFinanceTables(events);
   saveJSON(STATS_FILE, dailyStats);
-    console.log('EVENTS WEBHOOK =', DISCORD_EVENTS_WEBHOOK);
-    console.log('STATS WEBHOOK  =', DISCORD_STATS_WEBHOOK);  
   await sendDailyRanking(dailyStats);
 
   await sendToDiscord(events);
