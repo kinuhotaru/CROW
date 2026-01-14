@@ -588,16 +588,16 @@ async function sendDailyRanking(dailyTables) {
     // =========================
 
     const sections = [
-      {
+        {
         title: `🏆 Empires — ${day} • Revenus`,
         color: 0x2ecc71,
-        fields: rankingFields(data.empire, 'income', '💰 Revenus')
-      },
-      {
+        fields: rankingFields(empireAgg, 'income', '💰 Revenus')
+        },
+        {
         title: `💸 Empires — ${day} • Dépenses`,
         color: 0xe74c3c,
-        fields: rankingFields(data.empire, 'expense', '💸 Dépenses')
-      },
+        fields: rankingFields(empireAgg, 'expense', '💸 Dépenses')
+        },
       {
         title: `🏆 Provinces — ${day} • Revenus`,
         color: 0x2ecc71,
