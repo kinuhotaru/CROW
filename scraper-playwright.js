@@ -598,7 +598,7 @@ async function sendDailyRanking(dailyTables) {
     // =========================
     // 🏆 BUILD SECTIONS
     // =========================
-
+    const empireAgg = aggregateRows(data.empire, 'empire');
     const sections = [
         {
         title: `🏆 Empires — ${day} • Revenus`,
