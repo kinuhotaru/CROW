@@ -329,25 +329,21 @@ function progressBar(value, max, size = 20) {
 
 function rankingFields(entries, type, label) {
   const sorted = Object.entries(entries)
-    .filter(([, v]) => (v[type] || 0) > 0) // ⛔ filtre les 0
-    .sort((a, b) => (b[1][type] || 0) - (a[1][type] || 0));
+    .filter(([, v]) => (v[type] || 0) > 0)
+    .sort((a, b) => (b[1][type] || 0) - (a[1][type] || 0))
+    .slice(0, 9); //
 
-  if (!sorted.length) return [];
+  if (!sorted.length) return null;
 
   const max = sorted[0][1][type];
 
-  return sorted.map(([name, v], i) => {
-    const value = v[type] || 0;
-    const currency = v.currency ? ` ${v.currency}` : '';
-
-    return {
-      name: `${i + 1}. ${name}`,
-      value:
-        `${label} : **${value.toLocaleString()}${currency}**\n` +
-        `${progressBar(value, max)}`,
-      inline: true
-    };
-  });
+  return sorted.map(([name, v], i) => ({
+    name: `${i + 1}. ${name}`,
+    value:
+      `${label} : **${v[type].toLocaleString()}${v.currency ? ` ${v.currency}` : ''}**\n` +
+      `${progressBar(v[type], max)}`,
+    inline: true
+  }));
 }
 /* =========================
    🏬 EMPIRE RANKING IMPOTS
@@ -541,7 +537,10 @@ async function sendDailyRanking(dailyTables) {
         ];
 
 for (const section of sections) {
-  if (!section.fields.length) continue;
+  if (!section.fields || section.fields.length === 0) {
+    console.log(`⏭️ Section ignorée (vide) : ${section.title}`);
+    continue;
+  }
 
   await sendWebhookGuaranteed(DISCORD_STATS_WEBHOOK, {
     embeds: [{
