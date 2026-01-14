@@ -1,0 +1,3266 @@
+{
+  "2026-01-07": {
+    "empires": {
+      "Provinces indépendantes": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie": {
+        "income": 3488,
+        "expense": 0
+      },
+      "Confédération Libre": {
+        "income": 3314,
+        "expense": 0
+      },
+      "Khanat Elmérien": {
+        "income": 3294,
+        "expense": 0
+      },
+      "Paradigme Vert": {
+        "income": 2701,
+        "expense": 0
+      },
+      "Empire Brun": {
+        "income": 5116,
+        "expense": 0
+      },
+      "République de Kraland": {
+        "income": 2639,
+        "expense": 0
+      }
+    },
+    "provinces": {
+      "Provinces indépendantes :: Australine": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Inconnu": {
+        "income": 698,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key": {
+        "income": 530,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront": {
+        "income": 792,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro": {
+        "income": 206,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie": {
+        "income": 1262,
+        "expense": 0
+      },
+      "Confédération Libre :: Inconnu": {
+        "income": 662,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland": {
+        "income": 266,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée": {
+        "income": 562,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole": {
+        "income": 650,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu": {
+        "income": 1174,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Inconnu": {
+        "income": 658,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie": {
+        "income": 1124,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie": {
+        "income": 488,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie": {
+        "income": 678,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie": {
+        "income": 346,
+        "expense": 0
+      },
+      "Paradigme Vert :: Inconnu": {
+        "income": 541,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards": {
+        "income": 572,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade": {
+        "income": 940,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol": {
+        "income": 310,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria": {
+        "income": 338,
+        "expense": 0
+      },
+      "Empire Brun :: Inconnu": {
+        "income": 1022,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan": {
+        "income": 1184,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie": {
+        "income": 714,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana": {
+        "income": 438,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia": {
+        "income": 1758,
+        "expense": 0
+      },
+      "République de Kraland :: Inconnu": {
+        "income": 1583,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie": {
+        "income": 224,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes": {
+        "income": 156,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie": {
+        "income": 242,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland": {
+        "income": 434,
+        "expense": 0
+      }
+    },
+    "cities": {
+      "Provinces indépendantes :: Australine :: Inconnu": {
+        "income": 0,
+        "expense": 0
+      },
+      "Provinces indépendantes :: Australine :: Camp des Bagnards": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Inconnu :: Inconnu": {
+        "income": 698,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key :: Inconnu": {
+        "income": 265,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key :: Port Magmor": {
+        "income": 265,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront :: Inconnu": {
+        "income": 396,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront :: Sanctuaire": {
+        "income": 396,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro :: Inconnu": {
+        "income": 103,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro :: Fort Emouchet": {
+        "income": 103,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Inconnu": {
+        "income": 631,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Lantenac-du-Lac": {
+        "income": 150,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Ruthvenville": {
+        "income": 481,
+        "expense": 0
+      },
+      "Confédération Libre :: Inconnu :: Inconnu": {
+        "income": 662,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland :: Inconnu": {
+        "income": 133,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland :: Blofeldopolis": {
+        "income": 133,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée :: Inconnu": {
+        "income": 281,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée :: Atome": {
+        "income": 281,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Inconnu": {
+        "income": 325,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Tribunal Cybermondial": {
+        "income": 62,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Forum": {
+        "income": 263,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu :: Inconnu": {
+        "income": 587,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu :: Structural": {
+        "income": 587,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Inconnu :: Inconnu": {
+        "income": 658,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie :: Inconnu": {
+        "income": 562,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie :: Distillerie": {
+        "income": 562,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie :: Inconnu": {
+        "income": 244,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie :: Youpigrad": {
+        "income": 244,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Inconnu": {
+        "income": 339,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Igloo": {
+        "income": 134,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Gueule du Lézard": {
+        "income": 205,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie :: Inconnu": {
+        "income": 173,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie :: CAPS LOCK": {
+        "income": 173,
+        "expense": 0
+      },
+      "Paradigme Vert :: Inconnu :: Inconnu": {
+        "income": 541,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards :: Inconnu": {
+        "income": 286,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards :: Kanardville": {
+        "income": 286,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade :: Inconnu": {
+        "income": 470,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade :: Accalmie": {
+        "income": 470,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Inconnu": {
+        "income": 155,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Bamboutopia": {
+        "income": 16,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Grand Jardin": {
+        "income": 139,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria :: Inconnu": {
+        "income": 169,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria :: Garinaville": {
+        "income": 169,
+        "expense": 0
+      },
+      "Empire Brun :: Inconnu :: Inconnu": {
+        "income": 1022,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan :: Inconnu": {
+        "income": 592,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan :: Léprosie": {
+        "income": 592,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie :: Inconnu": {
+        "income": 357,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie :: Lampe du Génie": {
+        "income": 357,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Inconnu": {
+        "income": 219,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Bagdad": {
+        "income": 130,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Santa Banana City": {
+        "income": 89,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia :: Inconnu": {
+        "income": 879,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia :: Trou Perdu": {
+        "income": 879,
+        "expense": 0
+      },
+      "République de Kraland :: Inconnu :: Inconnu": {
+        "income": 1583,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie :: Inconnu": {
+        "income": 112,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie :: Gynerak": {
+        "income": 112,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes :: Inconnu": {
+        "income": 78,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes :: Trésorville": {
+        "income": 78,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie :: Inconnu": {
+        "income": 121,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie :: Bisouville": {
+        "income": 121,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Inconnu": {
+        "income": 217,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Honolulu-par-Delà": {
+        "income": 51,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Quartier Suprême": {
+        "income": 166,
+        "expense": 0
+      }
+    }
+  },
+  "2026-01-08": {
+    "empires": {
+      "Provinces indépendantes": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie": {
+        "income": 3103,
+        "expense": 0
+      },
+      "Confédération Libre": {
+        "income": 4190,
+        "expense": 0
+      },
+      "Khanat Elmérien": {
+        "income": 4032,
+        "expense": 0
+      },
+      "Paradigme Vert": {
+        "income": 2420,
+        "expense": 0
+      },
+      "Empire Brun": {
+        "income": 5808,
+        "expense": 0
+      },
+      "République de Kraland": {
+        "income": 2519,
+        "expense": 0
+      }
+    },
+    "provinces": {
+      "Provinces indépendantes :: Australine": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Inconnu": {
+        "income": 621,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key": {
+        "income": 552,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront": {
+        "income": 704,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro": {
+        "income": 258,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie": {
+        "income": 968,
+        "expense": 0
+      },
+      "Confédération Libre :: Inconnu": {
+        "income": 838,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland": {
+        "income": 128,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée": {
+        "income": 430,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole": {
+        "income": 678,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu": {
+        "income": 2116,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Inconnu": {
+        "income": 806,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie": {
+        "income": 672,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie": {
+        "income": 574,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie": {
+        "income": 1608,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie": {
+        "income": 372,
+        "expense": 0
+      },
+      "Paradigme Vert :: Inconnu": {
+        "income": 484,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards": {
+        "income": 628,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade": {
+        "income": 996,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol": {
+        "income": 188,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria": {
+        "income": 124,
+        "expense": 0
+      },
+      "Empire Brun :: Inconnu": {
+        "income": 1162,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan": {
+        "income": 1384,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie": {
+        "income": 788,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana": {
+        "income": 670,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia": {
+        "income": 1804,
+        "expense": 0
+      },
+      "République de Kraland :: Inconnu": {
+        "income": 1511,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie": {
+        "income": 276,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes": {
+        "income": 248,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie": {
+        "income": 166,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland": {
+        "income": 318,
+        "expense": 0
+      }
+    },
+    "cities": {
+      "Provinces indépendantes :: Australine :: Inconnu": {
+        "income": 0,
+        "expense": 0
+      },
+      "Provinces indépendantes :: Australine :: Camp des Bagnards": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Inconnu :: Inconnu": {
+        "income": 621,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key :: Inconnu": {
+        "income": 276,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key :: Port Magmor": {
+        "income": 276,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront :: Inconnu": {
+        "income": 352,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront :: Sanctuaire": {
+        "income": 352,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro :: Inconnu": {
+        "income": 129,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro :: Fort Emouchet": {
+        "income": 129,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Inconnu": {
+        "income": 484,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Lantenac-du-Lac": {
+        "income": 114,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Ruthvenville": {
+        "income": 370,
+        "expense": 0
+      },
+      "Confédération Libre :: Inconnu :: Inconnu": {
+        "income": 838,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland :: Inconnu": {
+        "income": 64,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland :: Blofeldopolis": {
+        "income": 64,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée :: Inconnu": {
+        "income": 215,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée :: Atome": {
+        "income": 215,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Inconnu": {
+        "income": 339,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Tribunal Cybermondial": {
+        "income": 83,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Forum": {
+        "income": 256,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu :: Inconnu": {
+        "income": 1058,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu :: Structural": {
+        "income": 1058,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Inconnu :: Inconnu": {
+        "income": 806,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie :: Inconnu": {
+        "income": 336,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie :: Distillerie": {
+        "income": 336,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie :: Inconnu": {
+        "income": 287,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie :: Youpigrad": {
+        "income": 287,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Inconnu": {
+        "income": 804,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Igloo": {
+        "income": 460,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Gueule du Lézard": {
+        "income": 344,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie :: Inconnu": {
+        "income": 186,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie :: CAPS LOCK": {
+        "income": 186,
+        "expense": 0
+      },
+      "Paradigme Vert :: Inconnu :: Inconnu": {
+        "income": 484,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards :: Inconnu": {
+        "income": 314,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards :: Kanardville": {
+        "income": 314,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade :: Inconnu": {
+        "income": 498,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade :: Accalmie": {
+        "income": 498,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Inconnu": {
+        "income": 94,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Bamboutopia": {
+        "income": 18,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Grand Jardin": {
+        "income": 76,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria :: Inconnu": {
+        "income": 62,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria :: Garinaville": {
+        "income": 62,
+        "expense": 0
+      },
+      "Empire Brun :: Inconnu :: Inconnu": {
+        "income": 1162,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan :: Inconnu": {
+        "income": 692,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan :: Léprosie": {
+        "income": 692,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie :: Inconnu": {
+        "income": 394,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie :: Lampe du Génie": {
+        "income": 394,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Inconnu": {
+        "income": 335,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Bagdad": {
+        "income": 162,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Santa Banana City": {
+        "income": 173,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia :: Inconnu": {
+        "income": 902,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia :: Trou Perdu": {
+        "income": 902,
+        "expense": 0
+      },
+      "République de Kraland :: Inconnu :: Inconnu": {
+        "income": 1511,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie :: Inconnu": {
+        "income": 138,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie :: Gynerak": {
+        "income": 138,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes :: Inconnu": {
+        "income": 124,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes :: Trésorville": {
+        "income": 124,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie :: Inconnu": {
+        "income": 83,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie :: Bisouville": {
+        "income": 83,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Inconnu": {
+        "income": 159,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Honolulu-par-Delà": {
+        "income": 17,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Quartier Suprême": {
+        "income": 142,
+        "expense": 0
+      }
+    }
+  },
+  "2026-01-09": {
+    "empires": {
+      "Provinces indépendantes": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie": {
+        "income": 4106,
+        "expense": 0
+      },
+      "Confédération Libre": {
+        "income": 4426,
+        "expense": 0
+      },
+      "Khanat Elmérien": {
+        "income": 4293,
+        "expense": 0
+      },
+      "Paradigme Vert": {
+        "income": 4930,
+        "expense": 0
+      },
+      "Empire Brun": {
+        "income": 6476,
+        "expense": 0
+      },
+      "République de Kraland": {
+        "income": 3016,
+        "expense": 0
+      }
+    },
+    "provinces": {
+      "Provinces indépendantes :: Australine": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Inconnu": {
+        "income": 822,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key": {
+        "income": 982,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront": {
+        "income": 434,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro": {
+        "income": 544,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie": {
+        "income": 1324,
+        "expense": 0
+      },
+      "Confédération Libre :: Inconnu": {
+        "income": 886,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland": {
+        "income": 372,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée": {
+        "income": 374,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole": {
+        "income": 1316,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu": {
+        "income": 1478,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Inconnu": {
+        "income": 859,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie": {
+        "income": 858,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie": {
+        "income": 332,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie": {
+        "income": 1388,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie": {
+        "income": 856,
+        "expense": 0
+      },
+      "Paradigme Vert :: Inconnu": {
+        "income": 986,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards": {
+        "income": 812,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade": {
+        "income": 2326,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol": {
+        "income": 582,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria": {
+        "income": 224,
+        "expense": 0
+      },
+      "Empire Brun :: Inconnu": {
+        "income": 1296,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan": {
+        "income": 1192,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie": {
+        "income": 752,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana": {
+        "income": 934,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia": {
+        "income": 2302,
+        "expense": 0
+      },
+      "République de Kraland :: Inconnu": {
+        "income": 1808,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie": {
+        "income": 464,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes": {
+        "income": 224,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie": {
+        "income": 116,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland": {
+        "income": 404,
+        "expense": 0
+      }
+    },
+    "cities": {
+      "Provinces indépendantes :: Australine :: Inconnu": {
+        "income": 0,
+        "expense": 0
+      },
+      "Provinces indépendantes :: Australine :: Camp des Bagnards": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Inconnu :: Inconnu": {
+        "income": 822,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key :: Inconnu": {
+        "income": 491,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key :: Port Magmor": {
+        "income": 491,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront :: Inconnu": {
+        "income": 217,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront :: Sanctuaire": {
+        "income": 217,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro :: Inconnu": {
+        "income": 272,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro :: Fort Emouchet": {
+        "income": 272,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Inconnu": {
+        "income": 662,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Lantenac-du-Lac": {
+        "income": 243,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Ruthvenville": {
+        "income": 419,
+        "expense": 0
+      },
+      "Confédération Libre :: Inconnu :: Inconnu": {
+        "income": 886,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland :: Inconnu": {
+        "income": 186,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland :: Blofeldopolis": {
+        "income": 186,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée :: Inconnu": {
+        "income": 187,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée :: Atome": {
+        "income": 187,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Inconnu": {
+        "income": 658,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Tribunal Cybermondial": {
+        "income": 88,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Forum": {
+        "income": 570,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu :: Inconnu": {
+        "income": 739,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu :: Structural": {
+        "income": 739,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Inconnu :: Inconnu": {
+        "income": 859,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie :: Inconnu": {
+        "income": 429,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie :: Distillerie": {
+        "income": 429,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie :: Inconnu": {
+        "income": 166,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie :: Youpigrad": {
+        "income": 166,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Inconnu": {
+        "income": 694,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Igloo": {
+        "income": 261,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Gueule du Lézard": {
+        "income": 433,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie :: Inconnu": {
+        "income": 428,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie :: CAPS LOCK": {
+        "income": 428,
+        "expense": 0
+      },
+      "Paradigme Vert :: Inconnu :: Inconnu": {
+        "income": 986,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards :: Inconnu": {
+        "income": 406,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards :: Kanardville": {
+        "income": 406,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade :: Inconnu": {
+        "income": 1163,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade :: Accalmie": {
+        "income": 1163,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Inconnu": {
+        "income": 291,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Bamboutopia": {
+        "income": 21,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Grand Jardin": {
+        "income": 270,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria :: Inconnu": {
+        "income": 112,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria :: Garinaville": {
+        "income": 112,
+        "expense": 0
+      },
+      "Empire Brun :: Inconnu :: Inconnu": {
+        "income": 1296,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan :: Inconnu": {
+        "income": 596,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan :: Léprosie": {
+        "income": 596,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie :: Inconnu": {
+        "income": 376,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie :: Lampe du Génie": {
+        "income": 376,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Inconnu": {
+        "income": 467,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Bagdad": {
+        "income": 162,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Santa Banana City": {
+        "income": 305,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia :: Inconnu": {
+        "income": 1151,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia :: Trou Perdu": {
+        "income": 1151,
+        "expense": 0
+      },
+      "République de Kraland :: Inconnu :: Inconnu": {
+        "income": 1808,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie :: Inconnu": {
+        "income": 232,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie :: Gynerak": {
+        "income": 232,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes :: Inconnu": {
+        "income": 112,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes :: Trésorville": {
+        "income": 112,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie :: Inconnu": {
+        "income": 58,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie :: Bisouville": {
+        "income": 58,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Inconnu": {
+        "income": 202,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Honolulu-par-Delà": {
+        "income": 51,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Quartier Suprême": {
+        "income": 151,
+        "expense": 0
+      }
+    }
+  },
+  "2026-01-10": {
+    "empires": {
+      "Provinces indépendantes": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie": {
+        "income": 3685,
+        "expense": 0
+      },
+      "Confédération Libre": {
+        "income": 5285,
+        "expense": 0
+      },
+      "Khanat Elmérien": {
+        "income": 5674,
+        "expense": 0
+      },
+      "Paradigme Vert": {
+        "income": 4571,
+        "expense": 0
+      },
+      "Empire Brun": {
+        "income": 6317,
+        "expense": 0
+      },
+      "République de Kraland": {
+        "income": 5132,
+        "expense": 0
+      }
+    },
+    "provinces": {
+      "Provinces indépendantes :: Australine": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Inconnu": {
+        "income": 737,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key": {
+        "income": 364,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront": {
+        "income": 1038,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro": {
+        "income": 292,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie": {
+        "income": 1254,
+        "expense": 0
+      },
+      "Confédération Libre :: Inconnu": {
+        "income": 1057,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland": {
+        "income": 570,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée": {
+        "income": 516,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole": {
+        "income": 1246,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu": {
+        "income": 1896,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Inconnu": {
+        "income": 1134,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie": {
+        "income": 842,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie": {
+        "income": 1170,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie": {
+        "income": 1892,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie": {
+        "income": 636,
+        "expense": 0
+      },
+      "Paradigme Vert :: Inconnu": {
+        "income": 915,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards": {
+        "income": 868,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade": {
+        "income": 1644,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol": {
+        "income": 390,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria": {
+        "income": 754,
+        "expense": 0
+      },
+      "Empire Brun :: Inconnu": {
+        "income": 1263,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan": {
+        "income": 1784,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie": {
+        "income": 432,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana": {
+        "income": 596,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia": {
+        "income": 2242,
+        "expense": 0
+      },
+      "République de Kraland :: Inconnu": {
+        "income": 3080,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie": {
+        "income": 384,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes": {
+        "income": 472,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie": {
+        "income": 524,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland": {
+        "income": 672,
+        "expense": 0
+      }
+    },
+    "cities": {
+      "Provinces indépendantes :: Australine :: Inconnu": {
+        "income": 0,
+        "expense": 0
+      },
+      "Provinces indépendantes :: Australine :: Camp des Bagnards": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Inconnu :: Inconnu": {
+        "income": 737,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key :: Inconnu": {
+        "income": 182,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key :: Port Magmor": {
+        "income": 182,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront :: Inconnu": {
+        "income": 519,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront :: Sanctuaire": {
+        "income": 519,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro :: Inconnu": {
+        "income": 146,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro :: Fort Emouchet": {
+        "income": 146,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Inconnu": {
+        "income": 627,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Lantenac-du-Lac": {
+        "income": 187,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Ruthvenville": {
+        "income": 440,
+        "expense": 0
+      },
+      "Confédération Libre :: Inconnu :: Inconnu": {
+        "income": 1057,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland :: Inconnu": {
+        "income": 285,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland :: Blofeldopolis": {
+        "income": 285,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée :: Inconnu": {
+        "income": 258,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée :: Atome": {
+        "income": 258,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Inconnu": {
+        "income": 623,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Tribunal Cybermondial": {
+        "income": 34,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Forum": {
+        "income": 589,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu :: Inconnu": {
+        "income": 948,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu :: Structural": {
+        "income": 948,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Inconnu :: Inconnu": {
+        "income": 1134,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie :: Inconnu": {
+        "income": 421,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie :: Distillerie": {
+        "income": 421,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie :: Inconnu": {
+        "income": 585,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie :: Youpigrad": {
+        "income": 585,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Inconnu": {
+        "income": 946,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Igloo": {
+        "income": 520,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Gueule du Lézard": {
+        "income": 426,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie :: Inconnu": {
+        "income": 318,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie :: CAPS LOCK": {
+        "income": 318,
+        "expense": 0
+      },
+      "Paradigme Vert :: Inconnu :: Inconnu": {
+        "income": 915,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards :: Inconnu": {
+        "income": 434,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards :: Kanardville": {
+        "income": 434,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade :: Inconnu": {
+        "income": 822,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade :: Accalmie": {
+        "income": 822,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Inconnu": {
+        "income": 195,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Bamboutopia": {
+        "income": 70,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Grand Jardin": {
+        "income": 125,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria :: Inconnu": {
+        "income": 377,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria :: Garinaville": {
+        "income": 377,
+        "expense": 0
+      },
+      "Empire Brun :: Inconnu :: Inconnu": {
+        "income": 1263,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan :: Inconnu": {
+        "income": 892,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan :: Léprosie": {
+        "income": 892,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie :: Inconnu": {
+        "income": 216,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie :: Lampe du Génie": {
+        "income": 216,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Inconnu": {
+        "income": 298,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Bagdad": {
+        "income": 104,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Santa Banana City": {
+        "income": 194,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia :: Inconnu": {
+        "income": 1121,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia :: Trou Perdu": {
+        "income": 1121,
+        "expense": 0
+      },
+      "République de Kraland :: Inconnu :: Inconnu": {
+        "income": 3080,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie :: Inconnu": {
+        "income": 192,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie :: Gynerak": {
+        "income": 192,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes :: Inconnu": {
+        "income": 236,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes :: Trésorville": {
+        "income": 236,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie :: Inconnu": {
+        "income": 262,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie :: Bisouville": {
+        "income": 262,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Inconnu": {
+        "income": 336,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Honolulu-par-Delà": {
+        "income": 20,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Quartier Suprême": {
+        "income": 316,
+        "expense": 0
+      }
+    }
+  },
+  "2026-01-11": {
+    "empires": {
+      "Provinces indépendantes": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie": {
+        "income": 4147,
+        "expense": 0
+      },
+      "Confédération Libre": {
+        "income": 4758,
+        "expense": 0
+      },
+      "Khanat Elmérien": {
+        "income": 5043,
+        "expense": 0
+      },
+      "Paradigme Vert": {
+        "income": 6778,
+        "expense": 0
+      },
+      "Empire Brun": {
+        "income": 7502,
+        "expense": 0
+      },
+      "République de Kraland": {
+        "income": 2975,
+        "expense": 0
+      }
+    },
+    "provinces": {
+      "Provinces indépendantes :: Australine": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Inconnu": {
+        "income": 829,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key": {
+        "income": 260,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront": {
+        "income": 996,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro": {
+        "income": 444,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie": {
+        "income": 1618,
+        "expense": 0
+      },
+      "Confédération Libre :: Inconnu": {
+        "income": 952,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland": {
+        "income": 526,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée": {
+        "income": 620,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole": {
+        "income": 900,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu": {
+        "income": 1760,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Inconnu": {
+        "income": 1009,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie": {
+        "income": 728,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie": {
+        "income": 496,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie": {
+        "income": 2430,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie": {
+        "income": 380,
+        "expense": 0
+      },
+      "Paradigme Vert :: Inconnu": {
+        "income": 1356,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards": {
+        "income": 1448,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade": {
+        "income": 3128,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol": {
+        "income": 502,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria": {
+        "income": 344,
+        "expense": 0
+      },
+      "Empire Brun :: Inconnu": {
+        "income": 1500,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan": {
+        "income": 2692,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie": {
+        "income": 740,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana": {
+        "income": 790,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia": {
+        "income": 1780,
+        "expense": 0
+      },
+      "République de Kraland :: Inconnu": {
+        "income": 1785,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie": {
+        "income": 176,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes": {
+        "income": 322,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie": {
+        "income": 254,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland": {
+        "income": 438,
+        "expense": 0
+      }
+    },
+    "cities": {
+      "Provinces indépendantes :: Australine :: Inconnu": {
+        "income": 0,
+        "expense": 0
+      },
+      "Provinces indépendantes :: Australine :: Camp des Bagnards": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Inconnu :: Inconnu": {
+        "income": 829,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key :: Inconnu": {
+        "income": 130,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key :: Port Magmor": {
+        "income": 130,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront :: Inconnu": {
+        "income": 498,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront :: Sanctuaire": {
+        "income": 498,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro :: Inconnu": {
+        "income": 222,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro :: Fort Emouchet": {
+        "income": 222,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Inconnu": {
+        "income": 809,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Lantenac-du-Lac": {
+        "income": 345,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Ruthvenville": {
+        "income": 464,
+        "expense": 0
+      },
+      "Confédération Libre :: Inconnu :: Inconnu": {
+        "income": 952,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland :: Inconnu": {
+        "income": 263,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland :: Blofeldopolis": {
+        "income": 263,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée :: Inconnu": {
+        "income": 310,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée :: Atome": {
+        "income": 310,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Inconnu": {
+        "income": 450,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Tribunal Cybermondial": {
+        "income": 50,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Forum": {
+        "income": 400,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu :: Inconnu": {
+        "income": 880,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu :: Structural": {
+        "income": 880,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Inconnu :: Inconnu": {
+        "income": 1009,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie :: Inconnu": {
+        "income": 364,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie :: Distillerie": {
+        "income": 364,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie :: Inconnu": {
+        "income": 248,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie :: Youpigrad": {
+        "income": 248,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Inconnu": {
+        "income": 1215,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Igloo": {
+        "income": 467,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Gueule du Lézard": {
+        "income": 748,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie :: Inconnu": {
+        "income": 190,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie :: CAPS LOCK": {
+        "income": 190,
+        "expense": 0
+      },
+      "Paradigme Vert :: Inconnu :: Inconnu": {
+        "income": 1356,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards :: Inconnu": {
+        "income": 724,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards :: Kanardville": {
+        "income": 724,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade :: Inconnu": {
+        "income": 1564,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade :: Accalmie": {
+        "income": 1564,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Inconnu": {
+        "income": 251,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Bamboutopia": {
+        "income": 44,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Grand Jardin": {
+        "income": 207,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria :: Inconnu": {
+        "income": 172,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria :: Garinaville": {
+        "income": 172,
+        "expense": 0
+      },
+      "Empire Brun :: Inconnu :: Inconnu": {
+        "income": 1500,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan :: Inconnu": {
+        "income": 1346,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan :: Léprosie": {
+        "income": 1346,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie :: Inconnu": {
+        "income": 370,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie :: Lampe du Génie": {
+        "income": 370,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Inconnu": {
+        "income": 395,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Bagdad": {
+        "income": 122,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Santa Banana City": {
+        "income": 273,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia :: Inconnu": {
+        "income": 890,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia :: Trou Perdu": {
+        "income": 890,
+        "expense": 0
+      },
+      "République de Kraland :: Inconnu :: Inconnu": {
+        "income": 1785,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie :: Inconnu": {
+        "income": 88,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie :: Gynerak": {
+        "income": 88,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes :: Inconnu": {
+        "income": 161,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes :: Trésorville": {
+        "income": 161,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie :: Inconnu": {
+        "income": 127,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie :: Bisouville": {
+        "income": 127,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Inconnu": {
+        "income": 219,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Honolulu-par-Delà": {
+        "income": 77,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Quartier Suprême": {
+        "income": 142,
+        "expense": 0
+      }
+    }
+  },
+  "2026-01-12": {
+    "empires": {
+      "Provinces indépendantes": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie": {
+        "income": 4608,
+        "expense": 0
+      },
+      "Confédération Libre": {
+        "income": 6037,
+        "expense": 0
+      },
+      "Khanat Elmérien": {
+        "income": 3699,
+        "expense": 0
+      },
+      "Paradigme Vert": {
+        "income": 4131,
+        "expense": 0
+      },
+      "Empire Brun": {
+        "income": 6282,
+        "expense": 0
+      },
+      "République de Kraland": {
+        "income": 3088,
+        "expense": 0
+      }
+    },
+    "provinces": {
+      "Provinces indépendantes :: Australine": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Inconnu": {
+        "income": 922,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key": {
+        "income": 438,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront": {
+        "income": 1304,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro": {
+        "income": 636,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie": {
+        "income": 1308,
+        "expense": 0
+      },
+      "Confédération Libre :: Inconnu": {
+        "income": 1207,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland": {
+        "income": 428,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée": {
+        "income": 890,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole": {
+        "income": 1510,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu": {
+        "income": 2002,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Inconnu": {
+        "income": 739,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie": {
+        "income": 942,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie": {
+        "income": 806,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie": {
+        "income": 1040,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie": {
+        "income": 172,
+        "expense": 0
+      },
+      "Paradigme Vert :: Inconnu": {
+        "income": 825,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards": {
+        "income": 758,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade": {
+        "income": 1586,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol": {
+        "income": 532,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria": {
+        "income": 430,
+        "expense": 0
+      },
+      "Empire Brun :: Inconnu": {
+        "income": 1258,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan": {
+        "income": 1272,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie": {
+        "income": 514,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana": {
+        "income": 816,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia": {
+        "income": 2422,
+        "expense": 0
+      },
+      "République de Kraland :: Inconnu": {
+        "income": 1854,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie": {
+        "income": 440,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes": {
+        "income": 348,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie": {
+        "income": 76,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland": {
+        "income": 370,
+        "expense": 0
+      }
+    },
+    "cities": {
+      "Provinces indépendantes :: Australine :: Inconnu": {
+        "income": 0,
+        "expense": 0
+      },
+      "Provinces indépendantes :: Australine :: Camp des Bagnards": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Inconnu :: Inconnu": {
+        "income": 922,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key :: Inconnu": {
+        "income": 219,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key :: Port Magmor": {
+        "income": 219,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront :: Inconnu": {
+        "income": 652,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront :: Sanctuaire": {
+        "income": 652,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro :: Inconnu": {
+        "income": 318,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro :: Fort Emouchet": {
+        "income": 318,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Inconnu": {
+        "income": 654,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Lantenac-du-Lac": {
+        "income": 192,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Ruthvenville": {
+        "income": 462,
+        "expense": 0
+      },
+      "Confédération Libre :: Inconnu :: Inconnu": {
+        "income": 1207,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland :: Inconnu": {
+        "income": 214,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland :: Blofeldopolis": {
+        "income": 214,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée :: Inconnu": {
+        "income": 445,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée :: Atome": {
+        "income": 445,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Inconnu": {
+        "income": 755,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Tribunal Cybermondial": {
+        "income": 191,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Forum": {
+        "income": 564,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu :: Inconnu": {
+        "income": 1001,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu :: Structural": {
+        "income": 1001,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Inconnu :: Inconnu": {
+        "income": 739,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie :: Inconnu": {
+        "income": 471,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie :: Distillerie": {
+        "income": 471,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie :: Inconnu": {
+        "income": 403,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie :: Youpigrad": {
+        "income": 403,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Inconnu": {
+        "income": 520,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Igloo": {
+        "income": 216,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Gueule du Lézard": {
+        "income": 304,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie :: Inconnu": {
+        "income": 86,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie :: CAPS LOCK": {
+        "income": 86,
+        "expense": 0
+      },
+      "Paradigme Vert :: Inconnu :: Inconnu": {
+        "income": 825,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards :: Inconnu": {
+        "income": 379,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards :: Kanardville": {
+        "income": 379,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade :: Inconnu": {
+        "income": 793,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade :: Accalmie": {
+        "income": 793,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Inconnu": {
+        "income": 266,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Bamboutopia": {
+        "income": 122,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Grand Jardin": {
+        "income": 144,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria :: Inconnu": {
+        "income": 215,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria :: Garinaville": {
+        "income": 215,
+        "expense": 0
+      },
+      "Empire Brun :: Inconnu :: Inconnu": {
+        "income": 1258,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan :: Inconnu": {
+        "income": 636,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan :: Léprosie": {
+        "income": 636,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie :: Inconnu": {
+        "income": 257,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie :: Lampe du Génie": {
+        "income": 257,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Inconnu": {
+        "income": 408,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Bagdad": {
+        "income": 235,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Santa Banana City": {
+        "income": 173,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia :: Inconnu": {
+        "income": 1211,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia :: Trou Perdu": {
+        "income": 1211,
+        "expense": 0
+      },
+      "République de Kraland :: Inconnu :: Inconnu": {
+        "income": 1854,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie :: Inconnu": {
+        "income": 220,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie :: Gynerak": {
+        "income": 220,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes :: Inconnu": {
+        "income": 174,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes :: Trésorville": {
+        "income": 174,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie :: Inconnu": {
+        "income": 38,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie :: Bisouville": {
+        "income": 38,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Inconnu": {
+        "income": 185,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Honolulu-par-Delà": {
+        "income": 52,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Quartier Suprême": {
+        "income": 133,
+        "expense": 0
+      }
+    }
+  },
+  "2026-01-13": {
+    "empires": {
+      "Provinces indépendantes": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie": {
+        "income": 5567,
+        "expense": 0
+      },
+      "Confédération Libre": {
+        "income": 5041,
+        "expense": 0
+      },
+      "Khanat Elmérien": {
+        "income": 4453,
+        "expense": 0
+      },
+      "Paradigme Vert": {
+        "income": 5968,
+        "expense": 0
+      },
+      "Empire Brun": {
+        "income": 7330,
+        "expense": 0
+      },
+      "République de Kraland": {
+        "income": 4650,
+        "expense": 0
+      }
+    },
+    "provinces": {
+      "Provinces indépendantes :: Australine": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Inconnu": {
+        "income": 909,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key": {
+        "income": 1844,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront": {
+        "income": 688,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro": {
+        "income": 482,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie": {
+        "income": 1644,
+        "expense": 0
+      },
+      "Confédération Libre :: Inconnu": {
+        "income": 1007,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland": {
+        "income": 522,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée": {
+        "income": 522,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole": {
+        "income": 638,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu": {
+        "income": 2352,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Inconnu": {
+        "income": 891,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie": {
+        "income": 1344,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie": {
+        "income": 388,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie": {
+        "income": 1418,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie": {
+        "income": 412,
+        "expense": 0
+      },
+      "Paradigme Vert :: Inconnu": {
+        "income": 1194,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards": {
+        "income": 900,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade": {
+        "income": 2832,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol": {
+        "income": 480,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria": {
+        "income": 562,
+        "expense": 0
+      },
+      "Empire Brun :: Inconnu": {
+        "income": 1976,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan": {
+        "income": 1700,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie": {
+        "income": 940,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana": {
+        "income": 512,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia": {
+        "income": 2202,
+        "expense": 0
+      },
+      "République de Kraland :: Inconnu": {
+        "income": 2990,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie": {
+        "income": 324,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes": {
+        "income": 392,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie": {
+        "income": 296,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland": {
+        "income": 648,
+        "expense": 0
+      }
+    },
+    "cities": {
+      "Provinces indépendantes :: Australine :: Inconnu": {
+        "income": 0,
+        "expense": 0
+      },
+      "Provinces indépendantes :: Australine :: Camp des Bagnards": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Inconnu :: Inconnu": {
+        "income": 909,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key :: Inconnu": {
+        "income": 922,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key :: Port Magmor": {
+        "income": 922,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront :: Inconnu": {
+        "income": 344,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront :: Sanctuaire": {
+        "income": 344,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro :: Inconnu": {
+        "income": 241,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro :: Fort Emouchet": {
+        "income": 241,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Inconnu": {
+        "income": 822,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Lantenac-du-Lac": {
+        "income": 267,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Ruthvenville": {
+        "income": 555,
+        "expense": 0
+      },
+      "Confédération Libre :: Inconnu :: Inconnu": {
+        "income": 1007,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland :: Inconnu": {
+        "income": 261,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland :: Blofeldopolis": {
+        "income": 261,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée :: Inconnu": {
+        "income": 261,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée :: Atome": {
+        "income": 261,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Inconnu": {
+        "income": 319,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Tribunal Cybermondial": {
+        "income": 34,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Forum": {
+        "income": 285,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu :: Inconnu": {
+        "income": 1176,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu :: Structural": {
+        "income": 1176,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Inconnu :: Inconnu": {
+        "income": 891,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie :: Inconnu": {
+        "income": 672,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie :: Distillerie": {
+        "income": 672,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie :: Inconnu": {
+        "income": 194,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie :: Youpigrad": {
+        "income": 194,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Inconnu": {
+        "income": 709,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Igloo": {
+        "income": 221,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Gueule du Lézard": {
+        "income": 488,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie :: Inconnu": {
+        "income": 206,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie :: CAPS LOCK": {
+        "income": 206,
+        "expense": 0
+      },
+      "Paradigme Vert :: Inconnu :: Inconnu": {
+        "income": 1194,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards :: Inconnu": {
+        "income": 450,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards :: Kanardville": {
+        "income": 450,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade :: Inconnu": {
+        "income": 1416,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade :: Accalmie": {
+        "income": 1416,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Inconnu": {
+        "income": 240,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Bamboutopia": {
+        "income": 10,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Grand Jardin": {
+        "income": 230,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria :: Inconnu": {
+        "income": 281,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria :: Garinaville": {
+        "income": 281,
+        "expense": 0
+      },
+      "Empire Brun :: Inconnu :: Inconnu": {
+        "income": 1976,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan :: Inconnu": {
+        "income": 850,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan :: Léprosie": {
+        "income": 850,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie :: Inconnu": {
+        "income": 470,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie :: Lampe du Génie": {
+        "income": 470,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Inconnu": {
+        "income": 256,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Bagdad": {
+        "income": 102,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Santa Banana City": {
+        "income": 154,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia :: Inconnu": {
+        "income": 1101,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia :: Trou Perdu": {
+        "income": 1101,
+        "expense": 0
+      },
+      "République de Kraland :: Inconnu :: Inconnu": {
+        "income": 2990,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie :: Inconnu": {
+        "income": 162,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie :: Gynerak": {
+        "income": 162,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes :: Inconnu": {
+        "income": 196,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes :: Trésorville": {
+        "income": 196,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie :: Inconnu": {
+        "income": 148,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie :: Bisouville": {
+        "income": 148,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Inconnu": {
+        "income": 324,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Honolulu-par-Delà": {
+        "income": 12,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Quartier Suprême": {
+        "income": 312,
+        "expense": 0
+      }
+    }
+  },
+  "2026-01-14": {
+    "empires": {
+      "Provinces indépendantes": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie": {
+        "income": 2908,
+        "expense": 0
+      },
+      "Confédération Libre": {
+        "income": 6719,
+        "expense": 0
+      },
+      "Khanat Elmérien": {
+        "income": 5741,
+        "expense": 0
+      },
+      "Paradigme Vert": {
+        "income": 5544,
+        "expense": 0
+      },
+      "Empire Brun": {
+        "income": 8395,
+        "expense": 0
+      },
+      "République de Kraland": {
+        "income": 3377,
+        "expense": 0
+      }
+    },
+    "provinces": {
+      "Provinces indépendantes :: Australine": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Inconnu": {
+        "income": 528,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key": {
+        "income": 484,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront": {
+        "income": 382,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro": {
+        "income": 330,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie": {
+        "income": 1184,
+        "expense": 0
+      },
+      "Confédération Libre :: Inconnu": {
+        "income": 1343,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland": {
+        "income": 706,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée": {
+        "income": 1278,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole": {
+        "income": 1084,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu": {
+        "income": 2308,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Inconnu": {
+        "income": 1149,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie": {
+        "income": 864,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie": {
+        "income": 578,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie": {
+        "income": 1924,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie": {
+        "income": 1226,
+        "expense": 0
+      },
+      "Paradigme Vert :: Inconnu": {
+        "income": 1108,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards": {
+        "income": 1126,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade": {
+        "income": 2132,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol": {
+        "income": 414,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria": {
+        "income": 764,
+        "expense": 0
+      },
+      "Empire Brun :: Inconnu": {
+        "income": 2279,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan": {
+        "income": 1490,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie": {
+        "income": 1782,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana": {
+        "income": 600,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia": {
+        "income": 2244,
+        "expense": 0
+      },
+      "République de Kraland :: Inconnu": {
+        "income": 1651,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie": {
+        "income": 344,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes": {
+        "income": 660,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie": {
+        "income": 212,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland": {
+        "income": 510,
+        "expense": 0
+      }
+    },
+    "cities": {
+      "Provinces indépendantes :: Australine :: Inconnu": {
+        "income": 0,
+        "expense": 0
+      },
+      "Provinces indépendantes :: Australine :: Camp des Bagnards": {
+        "income": 0,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Inconnu :: Inconnu": {
+        "income": 528,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key :: Inconnu": {
+        "income": 242,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Crab Key :: Port Magmor": {
+        "income": 242,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront :: Inconnu": {
+        "income": 191,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Géofront :: Sanctuaire": {
+        "income": 191,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro :: Inconnu": {
+        "income": 165,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Valégro :: Fort Emouchet": {
+        "income": 165,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Inconnu": {
+        "income": 592,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Lantenac-du-Lac": {
+        "income": 172,
+        "expense": 0
+      },
+      "Royaume de Ruthvénie :: Ruthvénie :: Ruthvenville": {
+        "income": 420,
+        "expense": 0
+      },
+      "Confédération Libre :: Inconnu :: Inconnu": {
+        "income": 1343,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland :: Inconnu": {
+        "income": 353,
+        "expense": 0
+      },
+      "Confédération Libre :: Warriorland :: Blofeldopolis": {
+        "income": 353,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée :: Inconnu": {
+        "income": 639,
+        "expense": 0
+      },
+      "Confédération Libre :: Plaine Irradiée :: Atome": {
+        "income": 639,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Inconnu": {
+        "income": 542,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Tribunal Cybermondial": {
+        "income": 88,
+        "expense": 0
+      },
+      "Confédération Libre :: Acropole :: Forum": {
+        "income": 454,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu :: Inconnu": {
+        "income": 1154,
+        "expense": 0
+      },
+      "Confédération Libre :: Milieu :: Structural": {
+        "income": 1154,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Inconnu :: Inconnu": {
+        "income": 1149,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie :: Inconnu": {
+        "income": 432,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bananie :: Distillerie": {
+        "income": 432,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie :: Inconnu": {
+        "income": 289,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Bouletie :: Youpigrad": {
+        "income": 289,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Inconnu": {
+        "income": 962,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Igloo": {
+        "income": 502,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Elmérie :: Gueule du Lézard": {
+        "income": 460,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie :: Inconnu": {
+        "income": 613,
+        "expense": 0
+      },
+      "Khanat Elmérien :: Capsulie :: CAPS LOCK": {
+        "income": 613,
+        "expense": 0
+      },
+      "Paradigme Vert :: Inconnu :: Inconnu": {
+        "income": 1108,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards :: Inconnu": {
+        "income": 563,
+        "expense": 0
+      },
+      "Paradigme Vert :: Île aux Kanards :: Kanardville": {
+        "income": 563,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade :: Inconnu": {
+        "income": 1066,
+        "expense": 0
+      },
+      "Paradigme Vert :: Forêt de Jade :: Accalmie": {
+        "income": 1066,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Inconnu": {
+        "income": 207,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Bamboutopia": {
+        "income": 16,
+        "expense": 0
+      },
+      "Paradigme Vert :: Irendol :: Grand Jardin": {
+        "income": 191,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria :: Inconnu": {
+        "income": 382,
+        "expense": 0
+      },
+      "Paradigme Vert :: Sibéria :: Garinaville": {
+        "income": 382,
+        "expense": 0
+      },
+      "Empire Brun :: Inconnu :: Inconnu": {
+        "income": 2279,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan :: Inconnu": {
+        "income": 745,
+        "expense": 0
+      },
+      "Empire Brun :: Niarkalistan :: Léprosie": {
+        "income": 745,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie :: Inconnu": {
+        "income": 891,
+        "expense": 0
+      },
+      "Empire Brun :: Mystisie :: Lampe du Génie": {
+        "income": 891,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Inconnu": {
+        "income": 300,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Bagdad": {
+        "income": 166,
+        "expense": 0
+      },
+      "Empire Brun :: Santa Banana :: Santa Banana City": {
+        "income": 134,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia :: Inconnu": {
+        "income": 1122,
+        "expense": 0
+      },
+      "Empire Brun :: Sicilia :: Trou Perdu": {
+        "income": 1122,
+        "expense": 0
+      },
+      "République de Kraland :: Inconnu :: Inconnu": {
+        "income": 1651,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie :: Inconnu": {
+        "income": 172,
+        "expense": 0
+      },
+      "République de Kraland :: Slavonie :: Gynerak": {
+        "income": 172,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes :: Inconnu": {
+        "income": 330,
+        "expense": 0
+      },
+      "République de Kraland :: Karaïbes :: Trésorville": {
+        "income": 330,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie :: Inconnu": {
+        "income": 106,
+        "expense": 0
+      },
+      "République de Kraland :: Hélénie :: Bisouville": {
+        "income": 106,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Inconnu": {
+        "income": 255,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Honolulu-par-Delà": {
+        "income": 52,
+        "expense": 0
+      },
+      "République de Kraland :: Kraland :: Quartier Suprême": {
+        "income": 203,
+        "expense": 0
+      }
+    }
+  }
+}
