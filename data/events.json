@@ -18753,6 +18753,22 @@
   },
   {
     "date": "2026-01-14",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "La province Milieu récolte 1154 ¢¢ d'impôts."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "",
+    "text": "La province Mystisie récolte 891 MØ d'impôts."
+  },
+  {
+    "date": "2026-01-14",
     "time": "00:02",
     "empire": "Khanat Elmérien",
     "province": "Capsulie",
@@ -18766,6 +18782,14 @@
     "province": "Bananie",
     "city": "Distillerie",
     "text": "Passe-Muraille a tenté de voler dans la caisse du bâtiment Palais du Gouverneur. Il est à présent recherché par la police du cybermonde pour ce délit."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:02",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "",
+    "text": "Le Khan fRAN9OIS6aNDR2 a adressé un discours à la population : « cAPSULIE § aBEL x S4EST BIEN D2FENDU? MAIS IL N4A PAS SÜ FAIRE FACE 0 MA MAITRISE DU BÄTON; d2SORMAIS? C4EST MOI LE kHAN § iL FAUT QUELQU4UN POUR DIRIGER LA tRIBU MAINTENANT; pLOUF? PLOUF ;;; cA SERA rICHARD pINARD § »"
   },
   {
     "date": "2026-01-14",
@@ -18789,6 +18813,22 @@
     "empire": "Khanat Elmérien",
     "province": "Capsulie",
     "city": "CAPS LOCK",
+    "text": "Le Khan fRAN9OIS6aNDR2 a nommé Richard Pinard au poste de Chef de Tribu de la ville CAPS LOCK."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:03",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "",
+    "text": "Un groupe de créatures mené par 1 Araignée-Éboueuse attaque Passe-Muraille."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:03",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "",
     "text": "Le Khan fRAN9OIS6aNDR2 a nommé Richard Pinard au poste de Chef de Tribu de la ville CAPS LOCK."
   },
   {
@@ -19030,5 +19070,173 @@
     "province": "Milieu",
     "city": "Structural",
     "text": "PaulSernine a été victime d'un Tunnel Termondique de magnitude 5. Un groupe de créatures mené par 1 Cube de Logique Brute sort du tunnel et attaque le groupe."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "01:02",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Enya Ravenloft a ouvert un chantier privé dans la ville Accalmie en [9,7]."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "01:05",
+    "empire": "Confédération Libre",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Layla Al-Khaïd a fondé l'organisation commerciale Al-Khaïd Oil."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "01:09",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "La Ministre de l'Économie Mina & Lilith Evermore a versé 2900 Éf au Ministère de la Recherche."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "01:11",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Enya Ravenloft a ouvert un chantier privé dans la ville Accalmie en [9,12]."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "01:13",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Le Ministre de la Recherche Diagonale a adressé un discours à la population : « Apparition Très Médiatique de Diagonale Ministre de la Recherche Sacrée Ruthvènes ! On vient de me dire qu'alors que l'affaire de la Pluie de Chaussettes à Paillettes n'a toujours pas été résolue, nombre d'entre vous, pieds nus car vous ne rentrez pas dans les chaussettes de taille S (je comprend votre douleur, l'hormonothérapie a ses limites), en colère contre Sa Majesté, avez décidé de gronder dans la capitale. Je vous ai compris. (je réfléchis hyper vite dans certaines situations TRES spécifiques) Dame Marianne a immédiatement pris contact avec moi (elle était pas hyper loin) pour me faire part de son EMOI à l'idée que vous n'ayiez point de chaussettes. Etant sa Chevalière aucun rapport avec le fait d'être enfilé sur un doigt, je n'ai pu qu'acquiescer devant tant de bienveillance et d'amour pour le peuple. On sent l'amour qu'elle portait pour feu le précédent Monarque. Elle m'a demandé de vous faire porter toutes les chaussettes. J'ai donc distribué aux fanclubs du Roi Chilmerdic Croix, Croix, Truc, Truc : - La Chaussette de la Cour Royale (édition limitée !) - La Chaussette de la Noblesse (édition limitée !) Je n'ai malheureusement pas pu distribuer la dernière car l'immonde Wenceslas ne l'a jamais rendue... Peut-être a-t-elle servi à... Non, je n'oserais l'imaginer. Mais bon, si vous avez un doute, demandez-lui directement. Je vois que vous avez des fourches. Le Ministère a encore de nombreuses chaussettes (avec des motifs... bon. Particuliers), que je transporte sur moi, et que je suis prête à distribuer - car Dame Marianne a insisté, vraiment. Chevalière Diagonale, Ministre de la Recherche Sacrée »"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "01:27",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Construction d'un bâtiment Nappe de Pétrole dans la ville Forum en [2,11]."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "01:31",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Olivier Roi a ouvert un chantier public dans la ville Forum en [8,10]."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "01:35",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Santa Banana City",
+    "text": "Necro Mounda a fait la déclaration officielle suivante aux habitants de la ville Santa Banana City : « C'est moi, Necro. Appelez moi juste -> Necro. \" \"On\" m'a fait comprendre qu'il fallait venir l'ouvrir ici. Alors je l'ouvre. Maintenant que les présentations sont faites, et que j'ai gagné en \"sympathie\". \"On\" va pouvoir commencer à donner LE programme politique de Bourgmestre de notre Capitale Chérie. Je représente à moi seul tout ce qu'on peut détester, sans oublier les plus vaillants qui vont entrer dans la boucle. Si je deviens Bourgmestre, vous aurez droit à une Force Offensive Binaire. Pour la former, j'aurai besoin d'une équipe prête à foncer dans le tas. Que ça soit pour le poste de Juge, Commissaire de Police et Sergent. On ira se taper des raids sur les populations voisines. Quels genres de raids ? Raids -> directement sur les serveurs ciblés de nos voisins. Raids -> démolir et voler toutes les recherches scientifiques. Raids -> défoncer les chercheurs avant de repartir. Ça sera en 3 temps: 1- arriver sur les serveurs. 2- démolir/voler les recherches. 3- tout raser avant de repartir. Avant tout ça, il faut gagner les élections. Pourquoi ça ? Tout simplement pour la chose suivante: nous avons besoin d'une très bonne infrastructure et des gros moyens Bruns, sinon on ne pourra pas y arriver. Il nous faut former et payer les raiders. Car ce n'est pas armé d'un bout de bois avec un morceau d'étron à sa pointe qu'on va arriver. Il faut des compétences. Dans l'informatique, dans les cassages de bouches et dans la fuite rapide. Oui, nous n'allons pas rester pique niquer avec nos voisins. Donc tout cela demande d'avoir des cerveaux avec des neurones qui bougent dedans, et c'est Là que vous entrez dans la boucle. Vous vous formez. \"On\" prépare le plan foireux. Nous allons les percuter un bon coup. Pour ce qui est de gérer Santa Banana City, \"on\" va dire qu'on verra. Oui c'est assez léger comme vision. A vous de voir pour la suite des évènements. »"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "01:43",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Accalmie",
+    "text": "Alex KidoWski n'a pas réussi à utiliser ses prérogatives de Diplomate pour devenir Intendant de la province Kraland : « Je tente un exercice difficile. »"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "01:54",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Construction d'un bâtiment Petit Musée dans la ville Accalmie en [9,12]."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "01:58",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Bamboutopia",
+    "text": "Construction d'un bâtiment Cabane dans la ville Bamboutopia en [7,12]."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "02:13",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Blofeldopolis",
+    "text": "Bogdan D'Arken a usé de ses prérogatives de Diplomate pour devenir Intendant de la province Kraland : « Les travaux avancent mais bien trop le lentement. »"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "02:42",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Blofeldopolis",
+    "text": "Damka a retiré sa candidature aux élections pour le poste de Gouverneur de la province Sibéria : « Bip ! Damka pose sur le sol une petite enveloppe, puis retourner vaquer à ses occupations. Le contenu est le suivant : Spoiler »"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "02:51",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Blofeldopolis",
+    "text": "Falkorn ⭐️ s'est fait agresser par un groupe de créatures mené par Loup."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "02:59",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Gugi vient d'arriver dans la ville Blofeldopolis."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "03:48",
+    "empire": "Empire Brun",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Le Ministre de la Guerre Charlie a adressé un discours à la population : « Elle se dressait devant iel (dans l'Histoire) Tiens tiens tiens, la très célèbre CatCharlie qui tente de m'arrêter? (dialogue quasi-fidèle) Iel se tenait devant elle (pour la postérité) Miaou? Ronronron! RONRONRON!!!!! L'Impératrice de l'Ordre incante alors un sort de suppression du makeup sur Catcharlie ( -3 en beauté ) Catcharlie gravement blessé·e tente de courir vers le trône en crachant une boule de poils sur le chemin ( +4 en terrain glissant) Agacée Henriette se met à s'envoler dans les airs en invoquant une tempête dans la salle du trône, seul le brave JayPéPé parviendra à se maintenir dans ses vents contraires qui arrachaient tout sur leur passage. ( -10 en odeur nauséabonde ) Catcharlie ne voyant plus le bout de la salle du trône en torchis se met alors à contre-attaquer en se mettant sur le dos en se roulant sur le sol ( +200 en apitoiement collectif, +500K vues sur YouKrube) Henriette lève les mains et des volcans se mettent à pousser au milieu de la salle du trône entre Catcharlie et son objectif. ( -99% de temps de cuisson en moins ) Catcharlie fait des petits bons mignons entre les volcans, n'hésitant pas à marcher dans la gadoue pour éteindre les flammes ( +300 heures de nettoyage ) Catcharlie parviendra t'iel à gagner le trône? MIAOU »"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "03:49",
+    "empire": "Empire Brun",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Coup d'État ! Charlie a usurpé l'empereur Henry McCleft : « Lorsque l'Empereur·rice se déchire entre ses multiples personnalités, que les trains ne circulent toujours pas ce qui empêche d'aller aux booms des copines et des copains, qu'il y a pas une goutte de vin à Santa Banana et que JayPeyPey prend le gouvernement pour des rillettes qui n'ont pas été remises au frais, que reste t'il à l'Empire en plein milieu de la nuit? Un·e lich·e aux pouvoirs démesurés qui pourrait lever une armée de morts-vivants, semant la mort sur son passage, provoquant des séismes pour raser les murs du régime de la trop ordonnée Henriette la Classificatrice, chevauchant Ancalagon le Noir pourrait être la solution? Biensûr que non! »"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "03:49",
+    "empire": "Empire Brun",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Le Ministre de la Guerre Charlie a adressé un discours à la population : « Un·e seul·e super méchant·e pouvait répondre à l'appel! CATCHARLIE Le·a super chat·te du Niarkalistan Crôa Crôa Miaou Comme tous les supers héros de son époque, CatCharlie n'a pas de super-pouvoirs mais à quoi bon lorsque nous pouvons porter des tenues en latex, grimper sur les genoux de Tony Sokrano pour faire nos griffes sur son pantalon de costume et que nous sommes assez souple pour se lécher le trou du cul? C'est des griffes, de la souplesse, et des tenues moulantes pour enrober cette humeur féline, qu'il fallait pour sauver le soldat Henry. Depuis combien de jours se voyait-il condamné à se raser les cheveux, pour le lendemain réavoir une tignasse digne du torse Malek? Trop longtemps! Alors que l'Empire dormait à poings fermés, un·e félin·e arriva pour gratter à la porte du Palais Impérial, insistant lourdement en gueulant comme un veau que l'on égorge jusqu'à ce qu'un garde lui ouvre la porte. Quel idiot celui-ci! Le voilà à devoir faire des papouilles au ronronnant félin, jouer avec un fil et petit à petit toute la garde impérial quitta son poste, la diversion était un succès! Hiiii Miaou RonnnrRoonnnMWAHAHAHAHAHAHAHARonnnnRonnn GRRRRrrr - Il est chelou ton chat, René - Un chat de 2 mètres ce n'est pas commun Il ne restait plus qu'à s'emparer du trône pour renverser l'ORDRE et la STABILITÉ. Le·a félin·e se dirige alors vers la salle du trône où l'attendait la bienfaitrice Henriette (alors qu'elle doit glander en Sicilia, mais l'Histoire ne gardera que l'épique de cette soirée). »"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "04:19",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Construction d'un bâtiment Infirmerie dans la ville Blofeldopolis en [9,9]."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "04:28",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Roger Labïte a ouvert un chantier privé dans la ville Blofeldopolis en [14,5]."
+  },
+  {
+    "date": "2026-01-14",
+    "time": "05:02",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "",
+    "text": "Seraphiel Ravenloft a fait la déclaration officielle suivante aux habitants de la province Forêt de Jade : « Elmérien ou devrais-je dire, Tapette et Cap'tain Igloo ! Je constate que vous avez jugé opportun de lancer un raid précisément au moment où je me trouvais indisponible, occupé à tester les qualités acoustiques de ma nouvelle chambre de détention. Mais qu'elle bande de lâche. J’ai bien entendu parler de votre contre-contre-contre raid durant mon séjour carcéral. Hélas, permettez-moi de noter quelques lacunes manifestes dans l’exécution. Vous n’êtes pas venu accompagné d’un spécialiste en sylviculture ni même d’un de ces artistes elmériens capables de transformer un crime forestier en performance culturelle. Plus troublant encore : vous ne vous êtes même pas approché de mon cercueil. J’ignore donc toujours ce que vous pensiez avoir raider au juste. La seule chose que j’aie pu observer fut un groupe d’Elmériens visiblement désorientés, errant dans la forêt comme s’ils cherchaient leur gouvernement. Dramatisation Notre réponse sera, bien entendu, terrible et quand je dis terrible, je ne parle pas des images de d'Elsie en grand format. Préparez-vous donc au contre-contre-contre-contre-contre raid. La nuit apprécie les répétitions. »"
   }
 ]
