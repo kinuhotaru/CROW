@@ -21138,5 +21138,45 @@
     "text": "Le Ministre de l'Économie Floran Baumé a versé 2000 MØ au Palais Impérial.",
     "key": "2026-01-14|22:08|empire brun|||le ministre de l'economie floran baume a verse 2000 mø au palais imperial.",
     "firstSeen": "2026-01-14T21:41:58.407Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "22:46",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Dusk et Aurora s'est fait agresser par un groupe de créatures mené par Brigand.",
+    "key": "2026-01-14|22:46|empire brun|mystisie|lampe du genie|dusk et aurora s'est fait agresser par un groupe de creatures mene par brigand.",
+    "firstSeen": "2026-01-14T21:55:18.099Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "22:45",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "Dusk et Aurora s'est fait agresser par un groupe de créatures mené par Brigand.",
+    "key": "2026-01-14|22:45|confederation libre|milieu||dusk et aurora s'est fait agresser par un groupe de creatures mene par brigand.",
+    "firstSeen": "2026-01-14T21:55:18.100Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "22:44",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "",
+    "text": "Dusk et Aurora s'est fait agresser par un groupe de créatures mené par Cheval.",
+    "key": "2026-01-14|22:44|empire brun|sicilia||dusk et aurora s'est fait agresser par un groupe de creatures mene par cheval.",
+    "firstSeen": "2026-01-14T21:55:18.100Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "22:44",
+    "empire": "Palladium Corporation",
+    "province": "",
+    "city": "",
+    "text": "Lili, Lulu & Zizi Duck a réussi l'examen du ruban et obtenu la récompense Ruban Jaune, ce qui lui permet de poursuivre sa carrière dans la Palladium Corporation.",
+    "key": "2026-01-14|22:44|palladium corporation|||lili, lulu & zizi duck a reussi l'examen du ruban et obtenu la recompense ruban jaune, ce qui lui permet de poursuivre sa carriere dans la palladium corporation.",
+    "firstSeen": "2026-01-14T21:55:18.100Z"
   }
 ]
