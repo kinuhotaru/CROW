@@ -7,7 +7,9 @@ import fetch from 'node-fetch';
 ========================= */
 
 const BASE_URL = 'http://www.kraland.org/monde/evenements';
-const DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK;
+
+const DISCORD_EVENTS_WEBHOOK = process.env.DISCORD_WEBHOOK_EVENTS;
+const DISCORD_STATS_WEBHOOK  = process.env.DISCORD_WEBHOOK_STATS;
 
 //DATA Logs
 const DATA_DIR = './data';
@@ -177,32 +179,28 @@ function chunkEmbedLines(lines, maxLength = 4096) {
   return chunks.filter(Boolean);
 }
 
-async function sendWebhookGuaranteed(payload) {
+async function sendWebhookGuaranteed(webhookUrl, payload) {
   while (true) {
-    const res = await fetch(DISCORD_WEBHOOK_URL, {
+    const res = await fetch(webhookUrl, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(payload)
     });
 
-    if (res.ok) {
-      return; // envoyé
-    }
+    if (res.ok) return;
 
     if (res.status === 429) {
       const data = await res.json();
       const waitMs = Math.ceil((data.retry_after || 1) * 1000);
-
       console.warn(`⏳ Rate limit, attente ${waitMs}ms`);
       await new Promise(r => setTimeout(r, waitMs));
-      continue; // on réessaie TOUJOURS
+      continue;
     }
 
-    // Autre erreur (rare)
-    const text = await res.text();
-    throw new Error(`Discord error ${res.status}: ${text}`);
+    throw new Error(`Discord error ${res.status}: ${await res.text()}`);
   }
 }
+
 
 // UTILITAIRES DE STATISTIQUE
 
@@ -291,7 +289,37 @@ function aggregateRows(rows, labelKey) {
 
   return result;
 }
+function progressBar(value, max, size = 20) {
+  if (max <= 0) return '░'.repeat(size) + ' 0%';
 
+  const ratio = value / max;
+  const filled = Math.round(ratio * size);
+  const empty = size - filled;
+
+  return (
+    '█'.repeat(filled) +
+    '░'.repeat(empty) +
+    ` ${(ratio * 100).toFixed(1)}%`
+  );
+}
+function rankingWithBars(entries, type, label) {
+  const sorted = Object.entries(entries)
+    .sort((a, b) => (b[1][type] || 0) - (a[1][type] || 0));
+
+  if (!sorted.length) return ['_Aucune donnée_'];
+
+  const max = sorted[0][1][type];
+
+  return sorted.map(([name, v], i) => {
+    const value = v[type] || 0;
+
+    return (
+      `**${i + 1}. ${name}**\n` +
+      `▸ ${label} : **${value.toLocaleString()}**\n` +
+      `▸ ${progressBar(value, max)}`
+    );
+  });
+}
 /* =========================
    🏬 EMPIRE RANKING IMPOTS
 ========================= */
@@ -364,7 +392,7 @@ function saveDailyLogs(dailyLogs) {
 ========================= */
 
 async function sendToDiscord(events) {
-  if (!DISCORD_WEBHOOK_URL) return;
+  if (!DISCORD_EVENTS_WEBHOOK) return;
 
   const sent = new Set(loadJSON(SENT_FILE, []));
   const fresh = [];
@@ -403,8 +431,8 @@ async function sendToDiscord(events) {
       const chunks = chunkEmbedLines(lines);
 
         for (let i = 0; i < chunks.length; i++) {
-        await sendWebhookGuaranteed({
-            embeds: [{
+        await sendWebhookGuaranteed(DISCORD_EVENTS_WEBHOOK, {
+        embeds: [{
             title: `📅 ${date} — ${empire}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
             color: empireColor(empire),
             description: chunks[i],
@@ -451,29 +479,29 @@ async function sendDailyRanking(dailyTables) {
     ) continue;
 
     const embeds = [
-      {
-        title: `🏆 Empires — ${day}`,
-        description: rankingLines(empires, 'income').join('\n') || '_Aucune donnée_',
+        {
+        title: `🏆 Empires — ${day} - Revenus'`,
+        description: rankingWithBars(empires, 'income').join('\n\n'),
         color: 0x2ecc71
-      },
-      {
-        title: `💸 Empires — ${day}`,
-        description: rankingLines(empires, 'expense').join('\n') || '_Aucune donnée_',
+        },
+        {
+        title: `💸 Empires — ${day} - dépenses`,
+        description: rankingWithBars(empires, 'expense', '💸 Dépenses').join('\n\n'),
         color: 0xe74c3c
-      },
-      {
+        },
+        {
         title: `🏆 Provinces — ${day}`,
-        description: rankingLines(provinces, 'income').join('\n') || '_Aucune donnée_',
+        description: rankingWithBars(provinces, 'income', '💰 Revenus').join('\n\n'),
         color: 0x3498db
-      },
-      {
+        },
+        {
         title: `🏆 Villes — ${day}`,
-        description: rankingLines(cities, 'income').join('\n') || '_Aucune donnée_',
+        description: rankingWithBars(cities, 'income', '💰 Revenus').join('\n\n'),
         color: 0x9b59b6
-      }
+        }
     ];
 
-    await sendWebhookGuaranteed({ embeds });
+    await sendWebhookGuaranteed(DISCORD_STATS_WEBHOOK, { embeds });
 
     sentDays.add(day);
     saveJSON(STATS_SENT_FILE, [...sentDays]);
