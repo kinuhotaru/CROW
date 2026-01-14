@@ -348,7 +348,7 @@ function rankingFields(entries, type, label) {
     const medalIcon = medal(rank);
 
     return {
-      name: `${rank}. ${name}`,
+      name: `${rank}. 🏰 ${name}`,
       value:
         `${label} : **${v[type].toLocaleString()}${v.currency ? ` ${v.currency}` : ''}**\n` +
         `${progressBar(v[type], max)} ${medalIcon}`,
@@ -356,6 +356,7 @@ function rankingFields(entries, type, label) {
     };
   });
 }
+
 function rankingFieldsByEmpireFromRows(rows, type, label, level) {
   const flat = rows
     .map(r => ({
@@ -376,7 +377,7 @@ function rankingFieldsByEmpireFromRows(rows, type, label, level) {
     r.rank = i + 1;
   });
 
-  // Regroupement par empire (ordre conservé)
+  // Regroupement par empire
   const grouped = {};
   for (const r of flat) {
     grouped[r.empire] ??= [];
@@ -388,16 +389,17 @@ function rankingFieldsByEmpireFromRows(rows, type, label, level) {
   const MAX_FIELDS = 25;
 
   for (const [empire, items] of Object.entries(grouped)) {
-    // ⛔ stop si plus de place
     if (fieldCount >= MAX_FIELDS) break;
 
-    // Header empire
+    // 🏰 Header empire
     fields.push({
-      value: '‎',
       name: `🏰 ${empire}`,
+      value: '\u200B',
       inline: false
     });
     fieldCount++;
+
+    let inlineCount = 0;
 
     for (const item of items) {
       if (fieldCount >= MAX_FIELDS) break;
@@ -410,7 +412,22 @@ function rankingFieldsByEmpireFromRows(rows, type, label, level) {
         inline: true
       });
 
+      inlineCount++;
       fieldCount++;
+    }
+
+    // 🧱 Compléter pour forcer des lignes de 3
+    const remainder = inlineCount % 3;
+    if (remainder !== 0) {
+      const fillers = 3 - remainder;
+      for (let i = 0; i < fillers && fieldCount < MAX_FIELDS; i++) {
+        fields.push({
+          name: '\u200B',
+          value: '\u200B',
+          inline: true
+        });
+        fieldCount++;
+      }
     }
   }
 
