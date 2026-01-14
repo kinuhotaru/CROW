@@ -327,11 +327,12 @@ function progressBar(value, max, size = 20) {
   return '█'.repeat(filled) + '░'.repeat(empty);
 }
 
-function rankingWithBars(entries, type, label) {
+function rankingFields(entries, type, label) {
   const sorted = Object.entries(entries)
+    .filter(([, v]) => (v[type] || 0) > 0) // ⛔ filtre les 0
     .sort((a, b) => (b[1][type] || 0) - (a[1][type] || 0));
 
-  if (!sorted.length) return ['_Aucune donnée_'];
+  if (!sorted.length) return [];
 
   const max = sorted[0][1][type];
 
@@ -339,11 +340,13 @@ function rankingWithBars(entries, type, label) {
     const value = v[type] || 0;
     const currency = v.currency ? ` ${v.currency}` : '';
 
-    return (
-      `**${i + 1}. ${name}**\n` +
-      `${label} : **${value.toLocaleString()}${currency}**\n` +
-      `${progressBar(value, max)}`
-    );
+    return {
+      name: `${i + 1}. ${name}`,
+      value:
+        `${label} : **${value.toLocaleString()}${currency}**\n` +
+        `${progressBar(value, max)}`,
+      inline: true
+    };
   });
 }
 /* =========================
@@ -508,52 +511,48 @@ async function sendDailyRanking(dailyTables) {
         {
             title: `🏆 Empires — ${day} • Revenus`,
             color: 0x2ecc71,
-            lines: rankingWithBars(empires, 'income', '💰 Revenus')
+            fields: rankingFields(empires, 'income', '💰 Revenus')
         },
         {
             title: `💸 Empires — ${day} • Dépenses`,
             color: 0xe74c3c,
-            lines: rankingWithBars(empires, 'expense', '💸 Dépenses')
+            fields: rankingFields(empires, 'expense', '💸 Dépenses')
         },
         {
             title: `🏆 Provinces — ${day} • Revenus`,
             color: 0x2ecc71,
-            lines: rankingWithBars(provinces, 'income', '💰 Revenus')
+            fields: rankingFields(provinces, 'income', '💰 Revenus')
         },
         {
             title: `💸 Provinces — ${day} • Dépenses`,
             color: 0xe74c3c,
-            lines: rankingWithBars(provinces, 'expense', '💸 Dépenses')
-        },        
+            fields: rankingFields(provinces, 'expense', '💸 Dépenses')
+        },
         {
             title: `🏆 Villes — ${day} • Revenus`,
             color: 0x2ecc71,
-            lines: rankingWithBars(cities, 'income', '💰 Revenus')
+            fields: rankingFields(cities, 'income', '💰 Revenus')
         },
         {
             title: `💸 Villes — ${day} • Dépenses`,
             color: 0xe74c3c,
-            lines: rankingWithBars(cities, 'expense', '💸 Dépenses')
-        },                
+            fields: rankingFields(cities, 'expense', '💸 Dépenses')
+        }
         ];
 
-        for (const section of sections) {
-        if (!section.lines || !section.lines.length) continue;
+for (const section of sections) {
+  if (!section.fields.length) continue;
 
-        const chunks = chunkEmbedDescription(section.lines);
+  await sendWebhookGuaranteed(DISCORD_STATS_WEBHOOK, {
+    embeds: [{
+      title: section.title,
+      color: section.color,
+      fields: section.fields
+    }]
+  });
 
-        for (let i = 0; i < chunks.length; i++) {
-            await sendWebhookGuaranteed(DISCORD_STATS_WEBHOOK, {
-            embeds: [{
-                title: `${section.title}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
-                description: chunks[i],
-                color: section.color
-            }]
-            });
-
-            await new Promise(r => setTimeout(r, 300));
-        }
-        }
+  await new Promise(r => setTimeout(r, 300));
+}
 
     sentDays.add(day);
     saveJSON(STATS_SENT_FILE, [...sentDays]);
