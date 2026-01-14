@@ -239,8 +239,10 @@ function extractTaxAmount(text) {
   const match = text.match(/récolte\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/i);
   if (!match) return null;
 
-  const amount = parseInt(match[1].replace(/\s/g, ''), 10);
-  return Number.isNaN(amount) ? null : amount;
+  return{
+    amount: parseInt(match[1].replace(/\s/g, ''), 10),
+    currency: match[2]
+  }
 }
 
 function buildTaxStats(events) {
@@ -308,6 +310,7 @@ async function sendDailyFiscalReports(stats) {
 /* =========================
    🏬 EMPIRE RANKING IMPOTS
 ========================= */
+
 
 //Rapport - Classement des empires
 
@@ -381,6 +384,30 @@ async function sendTopProvinces(stats, day, limit = 10) {
     });
   }
 }
+
+function computeTaxStats(eventsForDate) {
+  const empires = {};
+  const provinces = {};
+
+  for (const e of eventsForDate) {
+    const tax = extractTaxAmount(e.text);
+    if (!tax) continue;
+
+    // --- Empire ---
+    empires[e.empire] ??= 0;
+    empires[e.empire] += tax.amount;
+
+    // --- Province ---
+    if (e.province) {
+      const key = `${e.empire} :: ${e.province}`;
+      provinces[key] ??= 0;
+      provinces[key] += tax.amount;
+    }
+  }
+
+  return { empires, provinces };
+}
+
 /* =========================
    📨 DISCORD
 ========================= */
@@ -445,6 +472,58 @@ async function sendToDiscord(events) {
   saveJSON(SENT_FILE, [...sent]);
 }
 
+// Render DISCORD Stats Finances
+function renderBars(data, maxBars = 5, width = 20) {
+  const entries = Object.entries(data)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, maxBars);
+
+  const max = entries[0]?.[1] ?? 1;
+
+  return entries.map(([label, value]) => {
+    const size = Math.round((value / max) * width);
+    const bar = '█'.repeat(size) + '░'.repeat(width - size);
+    return `**${label}**\n${bar} ${value.toLocaleString()}`;
+  });
+}
+
+async function sendDailyStats(events) {
+  if (!DISCORD_WEBHOOK_URL) return;
+
+  const sentDates = new Set(loadJSON(STATS_SENT_FILE, []));
+  const byDate = groupEventsByDate(events);
+
+  for (const [date, evts] of Object.entries(byDate)) {
+    if (sentDates.has(date)) continue;
+
+    const { empires, provinces } = computeTaxStats(evts);
+
+    if (!Object.keys(empires).length) continue;
+
+    const empireBars = renderBars(empires, 5).join('\n\n');
+    const provinceBars = renderBars(provinces, 5).join('\n\n');
+
+    await sendWebhookGuaranteed({
+      embeds: [
+        {
+          title: `🏛️ Classement des Empires — ${date}`,
+          color: 0x3498db,
+          description: empireBars
+        },
+        {
+          title: `🗺️ Top Provinces — ${date}`,
+          color: 0x2ecc71,
+          description: provinceBars
+        }
+      ]
+    });
+
+    sentDates.add(date);
+    saveJSON(STATS_SENT_FILE, [...sentDates]);
+
+    await new Promise(r => setTimeout(r, 500));
+  }
+}
 /* =========================
    🚀 SCRAPER
 ========================= */
@@ -620,6 +699,7 @@ if (timeRegex.test(time) && eventText) {
   await sendDailyFiscalReports(taxStats);
 
   await sendToDiscord(events);
+  await sendDailyStats(events);
   await browser.close();
 
   console.log(`✅ Terminé — total événements : ${events.length}`);
