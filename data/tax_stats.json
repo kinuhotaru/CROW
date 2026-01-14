@@ -1,0 +1,1794 @@
+{
+  "2026-01-07": {
+    "Provinces indépendantes": {
+      "currency": "PO",
+      "total": 0,
+      "provinces": {
+        "Australine": {
+          "total": 0,
+          "cities": {
+            "Camp des Bagnards": 0
+          }
+        }
+      }
+    },
+    "Royaume de Ruthvénie": {
+      "currency": "Co",
+      "total": 3488,
+      "provinces": {
+        "Inconnu": {
+          "total": 698,
+          "cities": {}
+        },
+        "Crab Key": {
+          "total": 530,
+          "cities": {
+            "Port Magmor": 265
+          }
+        },
+        "Géofront": {
+          "total": 792,
+          "cities": {
+            "Sanctuaire": 396
+          }
+        },
+        "Valégro": {
+          "total": 206,
+          "cities": {
+            "Fort Emouchet": 103
+          }
+        },
+        "Ruthvénie": {
+          "total": 1262,
+          "cities": {
+            "Lantenac-du-Lac": 150,
+            "Ruthvenville": 481
+          }
+        }
+      }
+    },
+    "Confédération Libre": {
+      "currency": "¢¢",
+      "total": 3314,
+      "provinces": {
+        "Inconnu": {
+          "total": 662,
+          "cities": {}
+        },
+        "Warriorland": {
+          "total": 266,
+          "cities": {
+            "Blofeldopolis": 133
+          }
+        },
+        "Plaine Irradiée": {
+          "total": 562,
+          "cities": {
+            "Atome": 281
+          }
+        },
+        "Acropole": {
+          "total": 650,
+          "cities": {
+            "Tribunal Cybermondial": 62,
+            "Forum": 263
+          }
+        },
+        "Milieu": {
+          "total": 1174,
+          "cities": {
+            "Structural": 587
+          }
+        }
+      }
+    },
+    "Khanat Elmérien": {
+      "currency": "ÐE",
+      "total": 3294,
+      "provinces": {
+        "Inconnu": {
+          "total": 658,
+          "cities": {}
+        },
+        "Bananie": {
+          "total": 1124,
+          "cities": {
+            "Distillerie": 562
+          }
+        },
+        "Bouletie": {
+          "total": 488,
+          "cities": {
+            "Youpigrad": 244
+          }
+        },
+        "Elmérie": {
+          "total": 678,
+          "cities": {
+            "Igloo": 134,
+            "Gueule du Lézard": 205
+          }
+        },
+        "Capsulie": {
+          "total": 346,
+          "cities": {
+            "CAPS LOCK": 173
+          }
+        }
+      }
+    },
+    "Paradigme Vert": {
+      "currency": "Éf",
+      "total": 2701,
+      "provinces": {
+        "Inconnu": {
+          "total": 541,
+          "cities": {}
+        },
+        "Île aux Kanards": {
+          "total": 572,
+          "cities": {
+            "Kanardville": 286
+          }
+        },
+        "Forêt de Jade": {
+          "total": 940,
+          "cities": {
+            "Accalmie": 470
+          }
+        },
+        "Irendol": {
+          "total": 310,
+          "cities": {
+            "Bamboutopia": 16,
+            "Grand Jardin": 139
+          }
+        },
+        "Sibéria": {
+          "total": 338,
+          "cities": {
+            "Garinaville": 169
+          }
+        }
+      }
+    },
+    "Empire Brun": {
+      "currency": "MØ",
+      "total": 5116,
+      "provinces": {
+        "Inconnu": {
+          "total": 1022,
+          "cities": {}
+        },
+        "Niarkalistan": {
+          "total": 1184,
+          "cities": {
+            "Léprosie": 592
+          }
+        },
+        "Mystisie": {
+          "total": 714,
+          "cities": {
+            "Lampe du Génie": 357
+          }
+        },
+        "Santa Banana": {
+          "total": 438,
+          "cities": {
+            "Bagdad": 130,
+            "Santa Banana City": 89
+          }
+        },
+        "Sicilia": {
+          "total": 1758,
+          "cities": {
+            "Trou Perdu": 879
+          }
+        }
+      }
+    },
+    "République de Kraland": {
+      "currency": "FK",
+      "total": 2639,
+      "provinces": {
+        "Inconnu": {
+          "total": 1583,
+          "cities": {}
+        },
+        "Slavonie": {
+          "total": 224,
+          "cities": {
+            "Gynerak": 112
+          }
+        },
+        "Karaïbes": {
+          "total": 156,
+          "cities": {
+            "Trésorville": 78
+          }
+        },
+        "Hélénie": {
+          "total": 242,
+          "cities": {
+            "Bisouville": 121
+          }
+        },
+        "Kraland": {
+          "total": 434,
+          "cities": {
+            "Honolulu-par-Delà": 51,
+            "Quartier Suprême": 166
+          }
+        }
+      }
+    }
+  },
+  "2026-01-08": {
+    "Provinces indépendantes": {
+      "currency": "PO",
+      "total": 0,
+      "provinces": {
+        "Australine": {
+          "total": 0,
+          "cities": {
+            "Camp des Bagnards": 0
+          }
+        }
+      }
+    },
+    "Royaume de Ruthvénie": {
+      "currency": "Co",
+      "total": 3103,
+      "provinces": {
+        "Inconnu": {
+          "total": 621,
+          "cities": {}
+        },
+        "Crab Key": {
+          "total": 552,
+          "cities": {
+            "Port Magmor": 276
+          }
+        },
+        "Géofront": {
+          "total": 704,
+          "cities": {
+            "Sanctuaire": 352
+          }
+        },
+        "Valégro": {
+          "total": 258,
+          "cities": {
+            "Fort Emouchet": 129
+          }
+        },
+        "Ruthvénie": {
+          "total": 968,
+          "cities": {
+            "Lantenac-du-Lac": 114,
+            "Ruthvenville": 370
+          }
+        }
+      }
+    },
+    "Confédération Libre": {
+      "currency": "¢¢",
+      "total": 4190,
+      "provinces": {
+        "Inconnu": {
+          "total": 838,
+          "cities": {}
+        },
+        "Warriorland": {
+          "total": 128,
+          "cities": {
+            "Blofeldopolis": 64
+          }
+        },
+        "Plaine Irradiée": {
+          "total": 430,
+          "cities": {
+            "Atome": 215
+          }
+        },
+        "Acropole": {
+          "total": 678,
+          "cities": {
+            "Tribunal Cybermondial": 83,
+            "Forum": 256
+          }
+        },
+        "Milieu": {
+          "total": 2116,
+          "cities": {
+            "Structural": 1058
+          }
+        }
+      }
+    },
+    "Khanat Elmérien": {
+      "currency": "ÐE",
+      "total": 4032,
+      "provinces": {
+        "Inconnu": {
+          "total": 806,
+          "cities": {}
+        },
+        "Bananie": {
+          "total": 672,
+          "cities": {
+            "Distillerie": 336
+          }
+        },
+        "Bouletie": {
+          "total": 574,
+          "cities": {
+            "Youpigrad": 287
+          }
+        },
+        "Elmérie": {
+          "total": 1608,
+          "cities": {
+            "Igloo": 460,
+            "Gueule du Lézard": 344
+          }
+        },
+        "Capsulie": {
+          "total": 372,
+          "cities": {
+            "CAPS LOCK": 186
+          }
+        }
+      }
+    },
+    "Paradigme Vert": {
+      "currency": "Éf",
+      "total": 2420,
+      "provinces": {
+        "Inconnu": {
+          "total": 484,
+          "cities": {}
+        },
+        "Île aux Kanards": {
+          "total": 628,
+          "cities": {
+            "Kanardville": 314
+          }
+        },
+        "Forêt de Jade": {
+          "total": 996,
+          "cities": {
+            "Accalmie": 498
+          }
+        },
+        "Irendol": {
+          "total": 188,
+          "cities": {
+            "Bamboutopia": 18,
+            "Grand Jardin": 76
+          }
+        },
+        "Sibéria": {
+          "total": 124,
+          "cities": {
+            "Garinaville": 62
+          }
+        }
+      }
+    },
+    "Empire Brun": {
+      "currency": "MØ",
+      "total": 5808,
+      "provinces": {
+        "Inconnu": {
+          "total": 1162,
+          "cities": {}
+        },
+        "Niarkalistan": {
+          "total": 1384,
+          "cities": {
+            "Léprosie": 692
+          }
+        },
+        "Mystisie": {
+          "total": 788,
+          "cities": {
+            "Lampe du Génie": 394
+          }
+        },
+        "Santa Banana": {
+          "total": 670,
+          "cities": {
+            "Bagdad": 162,
+            "Santa Banana City": 173
+          }
+        },
+        "Sicilia": {
+          "total": 1804,
+          "cities": {
+            "Trou Perdu": 902
+          }
+        }
+      }
+    },
+    "République de Kraland": {
+      "currency": "FK",
+      "total": 2519,
+      "provinces": {
+        "Inconnu": {
+          "total": 1511,
+          "cities": {}
+        },
+        "Slavonie": {
+          "total": 276,
+          "cities": {
+            "Gynerak": 138
+          }
+        },
+        "Karaïbes": {
+          "total": 248,
+          "cities": {
+            "Trésorville": 124
+          }
+        },
+        "Hélénie": {
+          "total": 166,
+          "cities": {
+            "Bisouville": 83
+          }
+        },
+        "Kraland": {
+          "total": 318,
+          "cities": {
+            "Honolulu-par-Delà": 17,
+            "Quartier Suprême": 142
+          }
+        }
+      }
+    }
+  },
+  "2026-01-09": {
+    "Provinces indépendantes": {
+      "currency": "PO",
+      "total": 0,
+      "provinces": {
+        "Australine": {
+          "total": 0,
+          "cities": {
+            "Camp des Bagnards": 0
+          }
+        }
+      }
+    },
+    "Royaume de Ruthvénie": {
+      "currency": "Co",
+      "total": 4106,
+      "provinces": {
+        "Inconnu": {
+          "total": 822,
+          "cities": {}
+        },
+        "Crab Key": {
+          "total": 982,
+          "cities": {
+            "Port Magmor": 491
+          }
+        },
+        "Géofront": {
+          "total": 434,
+          "cities": {
+            "Sanctuaire": 217
+          }
+        },
+        "Valégro": {
+          "total": 544,
+          "cities": {
+            "Fort Emouchet": 272
+          }
+        },
+        "Ruthvénie": {
+          "total": 1324,
+          "cities": {
+            "Lantenac-du-Lac": 243,
+            "Ruthvenville": 419
+          }
+        }
+      }
+    },
+    "Confédération Libre": {
+      "currency": "¢¢",
+      "total": 4426,
+      "provinces": {
+        "Inconnu": {
+          "total": 886,
+          "cities": {}
+        },
+        "Warriorland": {
+          "total": 372,
+          "cities": {
+            "Blofeldopolis": 186
+          }
+        },
+        "Plaine Irradiée": {
+          "total": 374,
+          "cities": {
+            "Atome": 187
+          }
+        },
+        "Acropole": {
+          "total": 1316,
+          "cities": {
+            "Tribunal Cybermondial": 88,
+            "Forum": 570
+          }
+        },
+        "Milieu": {
+          "total": 1478,
+          "cities": {
+            "Structural": 739
+          }
+        }
+      }
+    },
+    "Khanat Elmérien": {
+      "currency": "ÐE",
+      "total": 4293,
+      "provinces": {
+        "Inconnu": {
+          "total": 859,
+          "cities": {}
+        },
+        "Bananie": {
+          "total": 858,
+          "cities": {
+            "Distillerie": 429
+          }
+        },
+        "Bouletie": {
+          "total": 332,
+          "cities": {
+            "Youpigrad": 166
+          }
+        },
+        "Elmérie": {
+          "total": 1388,
+          "cities": {
+            "Igloo": 261,
+            "Gueule du Lézard": 433
+          }
+        },
+        "Capsulie": {
+          "total": 856,
+          "cities": {
+            "CAPS LOCK": 428
+          }
+        }
+      }
+    },
+    "Paradigme Vert": {
+      "currency": "Éf",
+      "total": 4930,
+      "provinces": {
+        "Inconnu": {
+          "total": 986,
+          "cities": {}
+        },
+        "Île aux Kanards": {
+          "total": 812,
+          "cities": {
+            "Kanardville": 406
+          }
+        },
+        "Forêt de Jade": {
+          "total": 2326,
+          "cities": {
+            "Accalmie": 1163
+          }
+        },
+        "Irendol": {
+          "total": 582,
+          "cities": {
+            "Bamboutopia": 21,
+            "Grand Jardin": 270
+          }
+        },
+        "Sibéria": {
+          "total": 224,
+          "cities": {
+            "Garinaville": 112
+          }
+        }
+      }
+    },
+    "Empire Brun": {
+      "currency": "MØ",
+      "total": 6476,
+      "provinces": {
+        "Inconnu": {
+          "total": 1296,
+          "cities": {}
+        },
+        "Niarkalistan": {
+          "total": 1192,
+          "cities": {
+            "Léprosie": 596
+          }
+        },
+        "Mystisie": {
+          "total": 752,
+          "cities": {
+            "Lampe du Génie": 376
+          }
+        },
+        "Santa Banana": {
+          "total": 934,
+          "cities": {
+            "Bagdad": 162,
+            "Santa Banana City": 305
+          }
+        },
+        "Sicilia": {
+          "total": 2302,
+          "cities": {
+            "Trou Perdu": 1151
+          }
+        }
+      }
+    },
+    "République de Kraland": {
+      "currency": "FK",
+      "total": 3016,
+      "provinces": {
+        "Inconnu": {
+          "total": 1808,
+          "cities": {}
+        },
+        "Slavonie": {
+          "total": 464,
+          "cities": {
+            "Gynerak": 232
+          }
+        },
+        "Karaïbes": {
+          "total": 224,
+          "cities": {
+            "Trésorville": 112
+          }
+        },
+        "Hélénie": {
+          "total": 116,
+          "cities": {
+            "Bisouville": 58
+          }
+        },
+        "Kraland": {
+          "total": 404,
+          "cities": {
+            "Honolulu-par-Delà": 51,
+            "Quartier Suprême": 151
+          }
+        }
+      }
+    }
+  },
+  "2026-01-10": {
+    "Provinces indépendantes": {
+      "currency": "PO",
+      "total": 0,
+      "provinces": {
+        "Australine": {
+          "total": 0,
+          "cities": {
+            "Camp des Bagnards": 0
+          }
+        }
+      }
+    },
+    "Royaume de Ruthvénie": {
+      "currency": "Co",
+      "total": 3685,
+      "provinces": {
+        "Inconnu": {
+          "total": 737,
+          "cities": {}
+        },
+        "Crab Key": {
+          "total": 364,
+          "cities": {
+            "Port Magmor": 182
+          }
+        },
+        "Géofront": {
+          "total": 1038,
+          "cities": {
+            "Sanctuaire": 519
+          }
+        },
+        "Valégro": {
+          "total": 292,
+          "cities": {
+            "Fort Emouchet": 146
+          }
+        },
+        "Ruthvénie": {
+          "total": 1254,
+          "cities": {
+            "Lantenac-du-Lac": 187,
+            "Ruthvenville": 440
+          }
+        }
+      }
+    },
+    "Confédération Libre": {
+      "currency": "¢¢",
+      "total": 5285,
+      "provinces": {
+        "Inconnu": {
+          "total": 1057,
+          "cities": {}
+        },
+        "Warriorland": {
+          "total": 570,
+          "cities": {
+            "Blofeldopolis": 285
+          }
+        },
+        "Plaine Irradiée": {
+          "total": 516,
+          "cities": {
+            "Atome": 258
+          }
+        },
+        "Acropole": {
+          "total": 1246,
+          "cities": {
+            "Tribunal Cybermondial": 34,
+            "Forum": 589
+          }
+        },
+        "Milieu": {
+          "total": 1896,
+          "cities": {
+            "Structural": 948
+          }
+        }
+      }
+    },
+    "Khanat Elmérien": {
+      "currency": "ÐE",
+      "total": 5674,
+      "provinces": {
+        "Inconnu": {
+          "total": 1134,
+          "cities": {}
+        },
+        "Bananie": {
+          "total": 842,
+          "cities": {
+            "Distillerie": 421
+          }
+        },
+        "Bouletie": {
+          "total": 1170,
+          "cities": {
+            "Youpigrad": 585
+          }
+        },
+        "Elmérie": {
+          "total": 1892,
+          "cities": {
+            "Igloo": 520,
+            "Gueule du Lézard": 426
+          }
+        },
+        "Capsulie": {
+          "total": 636,
+          "cities": {
+            "CAPS LOCK": 318
+          }
+        }
+      }
+    },
+    "Paradigme Vert": {
+      "currency": "Éf",
+      "total": 4571,
+      "provinces": {
+        "Inconnu": {
+          "total": 915,
+          "cities": {}
+        },
+        "Île aux Kanards": {
+          "total": 868,
+          "cities": {
+            "Kanardville": 434
+          }
+        },
+        "Forêt de Jade": {
+          "total": 1644,
+          "cities": {
+            "Accalmie": 822
+          }
+        },
+        "Irendol": {
+          "total": 390,
+          "cities": {
+            "Bamboutopia": 70,
+            "Grand Jardin": 125
+          }
+        },
+        "Sibéria": {
+          "total": 754,
+          "cities": {
+            "Garinaville": 377
+          }
+        }
+      }
+    },
+    "Empire Brun": {
+      "currency": "MØ",
+      "total": 6317,
+      "provinces": {
+        "Inconnu": {
+          "total": 1263,
+          "cities": {}
+        },
+        "Niarkalistan": {
+          "total": 1784,
+          "cities": {
+            "Léprosie": 892
+          }
+        },
+        "Mystisie": {
+          "total": 432,
+          "cities": {
+            "Lampe du Génie": 216
+          }
+        },
+        "Santa Banana": {
+          "total": 596,
+          "cities": {
+            "Bagdad": 104,
+            "Santa Banana City": 194
+          }
+        },
+        "Sicilia": {
+          "total": 2242,
+          "cities": {
+            "Trou Perdu": 1121
+          }
+        }
+      }
+    },
+    "République de Kraland": {
+      "currency": "FK",
+      "total": 5132,
+      "provinces": {
+        "Inconnu": {
+          "total": 3080,
+          "cities": {}
+        },
+        "Slavonie": {
+          "total": 384,
+          "cities": {
+            "Gynerak": 192
+          }
+        },
+        "Karaïbes": {
+          "total": 472,
+          "cities": {
+            "Trésorville": 236
+          }
+        },
+        "Hélénie": {
+          "total": 524,
+          "cities": {
+            "Bisouville": 262
+          }
+        },
+        "Kraland": {
+          "total": 672,
+          "cities": {
+            "Honolulu-par-Delà": 20,
+            "Quartier Suprême": 316
+          }
+        }
+      }
+    }
+  },
+  "2026-01-11": {
+    "Provinces indépendantes": {
+      "currency": "PO",
+      "total": 0,
+      "provinces": {
+        "Australine": {
+          "total": 0,
+          "cities": {
+            "Camp des Bagnards": 0
+          }
+        }
+      }
+    },
+    "Royaume de Ruthvénie": {
+      "currency": "Co",
+      "total": 4147,
+      "provinces": {
+        "Inconnu": {
+          "total": 829,
+          "cities": {}
+        },
+        "Crab Key": {
+          "total": 260,
+          "cities": {
+            "Port Magmor": 130
+          }
+        },
+        "Géofront": {
+          "total": 996,
+          "cities": {
+            "Sanctuaire": 498
+          }
+        },
+        "Valégro": {
+          "total": 444,
+          "cities": {
+            "Fort Emouchet": 222
+          }
+        },
+        "Ruthvénie": {
+          "total": 1618,
+          "cities": {
+            "Lantenac-du-Lac": 345,
+            "Ruthvenville": 464
+          }
+        }
+      }
+    },
+    "Confédération Libre": {
+      "currency": "¢¢",
+      "total": 4758,
+      "provinces": {
+        "Inconnu": {
+          "total": 952,
+          "cities": {}
+        },
+        "Warriorland": {
+          "total": 526,
+          "cities": {
+            "Blofeldopolis": 263
+          }
+        },
+        "Plaine Irradiée": {
+          "total": 620,
+          "cities": {
+            "Atome": 310
+          }
+        },
+        "Acropole": {
+          "total": 900,
+          "cities": {
+            "Tribunal Cybermondial": 50,
+            "Forum": 400
+          }
+        },
+        "Milieu": {
+          "total": 1760,
+          "cities": {
+            "Structural": 880
+          }
+        }
+      }
+    },
+    "Khanat Elmérien": {
+      "currency": "ÐE",
+      "total": 5043,
+      "provinces": {
+        "Inconnu": {
+          "total": 1009,
+          "cities": {}
+        },
+        "Bananie": {
+          "total": 728,
+          "cities": {
+            "Distillerie": 364
+          }
+        },
+        "Bouletie": {
+          "total": 496,
+          "cities": {
+            "Youpigrad": 248
+          }
+        },
+        "Elmérie": {
+          "total": 2430,
+          "cities": {
+            "Igloo": 467,
+            "Gueule du Lézard": 748
+          }
+        },
+        "Capsulie": {
+          "total": 380,
+          "cities": {
+            "CAPS LOCK": 190
+          }
+        }
+      }
+    },
+    "Paradigme Vert": {
+      "currency": "Éf",
+      "total": 6778,
+      "provinces": {
+        "Inconnu": {
+          "total": 1356,
+          "cities": {}
+        },
+        "Île aux Kanards": {
+          "total": 1448,
+          "cities": {
+            "Kanardville": 724
+          }
+        },
+        "Forêt de Jade": {
+          "total": 3128,
+          "cities": {
+            "Accalmie": 1564
+          }
+        },
+        "Irendol": {
+          "total": 502,
+          "cities": {
+            "Bamboutopia": 44,
+            "Grand Jardin": 207
+          }
+        },
+        "Sibéria": {
+          "total": 344,
+          "cities": {
+            "Garinaville": 172
+          }
+        }
+      }
+    },
+    "Empire Brun": {
+      "currency": "MØ",
+      "total": 7502,
+      "provinces": {
+        "Inconnu": {
+          "total": 1500,
+          "cities": {}
+        },
+        "Niarkalistan": {
+          "total": 2692,
+          "cities": {
+            "Léprosie": 1346
+          }
+        },
+        "Mystisie": {
+          "total": 740,
+          "cities": {
+            "Lampe du Génie": 370
+          }
+        },
+        "Santa Banana": {
+          "total": 790,
+          "cities": {
+            "Bagdad": 122,
+            "Santa Banana City": 273
+          }
+        },
+        "Sicilia": {
+          "total": 1780,
+          "cities": {
+            "Trou Perdu": 890
+          }
+        }
+      }
+    },
+    "République de Kraland": {
+      "currency": "FK",
+      "total": 2975,
+      "provinces": {
+        "Inconnu": {
+          "total": 1785,
+          "cities": {}
+        },
+        "Slavonie": {
+          "total": 176,
+          "cities": {
+            "Gynerak": 88
+          }
+        },
+        "Karaïbes": {
+          "total": 322,
+          "cities": {
+            "Trésorville": 161
+          }
+        },
+        "Hélénie": {
+          "total": 254,
+          "cities": {
+            "Bisouville": 127
+          }
+        },
+        "Kraland": {
+          "total": 438,
+          "cities": {
+            "Honolulu-par-Delà": 77,
+            "Quartier Suprême": 142
+          }
+        }
+      }
+    }
+  },
+  "2026-01-12": {
+    "Provinces indépendantes": {
+      "currency": "PO",
+      "total": 0,
+      "provinces": {
+        "Australine": {
+          "total": 0,
+          "cities": {
+            "Camp des Bagnards": 0
+          }
+        }
+      }
+    },
+    "Royaume de Ruthvénie": {
+      "currency": "Co",
+      "total": 4608,
+      "provinces": {
+        "Inconnu": {
+          "total": 922,
+          "cities": {}
+        },
+        "Crab Key": {
+          "total": 438,
+          "cities": {
+            "Port Magmor": 219
+          }
+        },
+        "Géofront": {
+          "total": 1304,
+          "cities": {
+            "Sanctuaire": 652
+          }
+        },
+        "Valégro": {
+          "total": 636,
+          "cities": {
+            "Fort Emouchet": 318
+          }
+        },
+        "Ruthvénie": {
+          "total": 1308,
+          "cities": {
+            "Lantenac-du-Lac": 192,
+            "Ruthvenville": 462
+          }
+        }
+      }
+    },
+    "Confédération Libre": {
+      "currency": "¢¢",
+      "total": 6037,
+      "provinces": {
+        "Inconnu": {
+          "total": 1207,
+          "cities": {}
+        },
+        "Warriorland": {
+          "total": 428,
+          "cities": {
+            "Blofeldopolis": 214
+          }
+        },
+        "Plaine Irradiée": {
+          "total": 890,
+          "cities": {
+            "Atome": 445
+          }
+        },
+        "Acropole": {
+          "total": 1510,
+          "cities": {
+            "Tribunal Cybermondial": 191,
+            "Forum": 564
+          }
+        },
+        "Milieu": {
+          "total": 2002,
+          "cities": {
+            "Structural": 1001
+          }
+        }
+      }
+    },
+    "Khanat Elmérien": {
+      "currency": "ÐE",
+      "total": 3699,
+      "provinces": {
+        "Inconnu": {
+          "total": 739,
+          "cities": {}
+        },
+        "Bananie": {
+          "total": 942,
+          "cities": {
+            "Distillerie": 471
+          }
+        },
+        "Bouletie": {
+          "total": 806,
+          "cities": {
+            "Youpigrad": 403
+          }
+        },
+        "Elmérie": {
+          "total": 1040,
+          "cities": {
+            "Igloo": 216,
+            "Gueule du Lézard": 304
+          }
+        },
+        "Capsulie": {
+          "total": 172,
+          "cities": {
+            "CAPS LOCK": 86
+          }
+        }
+      }
+    },
+    "Paradigme Vert": {
+      "currency": "Éf",
+      "total": 4131,
+      "provinces": {
+        "Inconnu": {
+          "total": 825,
+          "cities": {}
+        },
+        "Île aux Kanards": {
+          "total": 758,
+          "cities": {
+            "Kanardville": 379
+          }
+        },
+        "Forêt de Jade": {
+          "total": 1586,
+          "cities": {
+            "Accalmie": 793
+          }
+        },
+        "Irendol": {
+          "total": 532,
+          "cities": {
+            "Bamboutopia": 122,
+            "Grand Jardin": 144
+          }
+        },
+        "Sibéria": {
+          "total": 430,
+          "cities": {
+            "Garinaville": 215
+          }
+        }
+      }
+    },
+    "Empire Brun": {
+      "currency": "MØ",
+      "total": 6282,
+      "provinces": {
+        "Inconnu": {
+          "total": 1258,
+          "cities": {}
+        },
+        "Niarkalistan": {
+          "total": 1272,
+          "cities": {
+            "Léprosie": 636
+          }
+        },
+        "Mystisie": {
+          "total": 514,
+          "cities": {
+            "Lampe du Génie": 257
+          }
+        },
+        "Santa Banana": {
+          "total": 816,
+          "cities": {
+            "Bagdad": 235,
+            "Santa Banana City": 173
+          }
+        },
+        "Sicilia": {
+          "total": 2422,
+          "cities": {
+            "Trou Perdu": 1211
+          }
+        }
+      }
+    },
+    "République de Kraland": {
+      "currency": "FK",
+      "total": 3088,
+      "provinces": {
+        "Inconnu": {
+          "total": 1854,
+          "cities": {}
+        },
+        "Slavonie": {
+          "total": 440,
+          "cities": {
+            "Gynerak": 220
+          }
+        },
+        "Karaïbes": {
+          "total": 348,
+          "cities": {
+            "Trésorville": 174
+          }
+        },
+        "Hélénie": {
+          "total": 76,
+          "cities": {
+            "Bisouville": 38
+          }
+        },
+        "Kraland": {
+          "total": 370,
+          "cities": {
+            "Honolulu-par-Delà": 52,
+            "Quartier Suprême": 133
+          }
+        }
+      }
+    }
+  },
+  "2026-01-13": {
+    "Provinces indépendantes": {
+      "currency": "PO",
+      "total": 0,
+      "provinces": {
+        "Australine": {
+          "total": 0,
+          "cities": {
+            "Camp des Bagnards": 0
+          }
+        }
+      }
+    },
+    "Royaume de Ruthvénie": {
+      "currency": "Co",
+      "total": 5567,
+      "provinces": {
+        "Inconnu": {
+          "total": 909,
+          "cities": {}
+        },
+        "Crab Key": {
+          "total": 1844,
+          "cities": {
+            "Port Magmor": 922
+          }
+        },
+        "Géofront": {
+          "total": 688,
+          "cities": {
+            "Sanctuaire": 344
+          }
+        },
+        "Valégro": {
+          "total": 482,
+          "cities": {
+            "Fort Emouchet": 241
+          }
+        },
+        "Ruthvénie": {
+          "total": 1644,
+          "cities": {
+            "Lantenac-du-Lac": 267,
+            "Ruthvenville": 555
+          }
+        }
+      }
+    },
+    "Confédération Libre": {
+      "currency": "¢¢",
+      "total": 5041,
+      "provinces": {
+        "Inconnu": {
+          "total": 1007,
+          "cities": {}
+        },
+        "Warriorland": {
+          "total": 522,
+          "cities": {
+            "Blofeldopolis": 261
+          }
+        },
+        "Plaine Irradiée": {
+          "total": 522,
+          "cities": {
+            "Atome": 261
+          }
+        },
+        "Acropole": {
+          "total": 638,
+          "cities": {
+            "Tribunal Cybermondial": 34,
+            "Forum": 285
+          }
+        },
+        "Milieu": {
+          "total": 2352,
+          "cities": {
+            "Structural": 1176
+          }
+        }
+      }
+    },
+    "Khanat Elmérien": {
+      "currency": "ÐE",
+      "total": 4453,
+      "provinces": {
+        "Inconnu": {
+          "total": 891,
+          "cities": {}
+        },
+        "Bananie": {
+          "total": 1344,
+          "cities": {
+            "Distillerie": 672
+          }
+        },
+        "Bouletie": {
+          "total": 388,
+          "cities": {
+            "Youpigrad": 194
+          }
+        },
+        "Elmérie": {
+          "total": 1418,
+          "cities": {
+            "Igloo": 221,
+            "Gueule du Lézard": 488
+          }
+        },
+        "Capsulie": {
+          "total": 412,
+          "cities": {
+            "CAPS LOCK": 206
+          }
+        }
+      }
+    },
+    "Paradigme Vert": {
+      "currency": "Éf",
+      "total": 5968,
+      "provinces": {
+        "Inconnu": {
+          "total": 1194,
+          "cities": {}
+        },
+        "Île aux Kanards": {
+          "total": 900,
+          "cities": {
+            "Kanardville": 450
+          }
+        },
+        "Forêt de Jade": {
+          "total": 2832,
+          "cities": {
+            "Accalmie": 1416
+          }
+        },
+        "Irendol": {
+          "total": 480,
+          "cities": {
+            "Bamboutopia": 10,
+            "Grand Jardin": 230
+          }
+        },
+        "Sibéria": {
+          "total": 562,
+          "cities": {
+            "Garinaville": 281
+          }
+        }
+      }
+    },
+    "Empire Brun": {
+      "currency": "MØ",
+      "total": 7330,
+      "provinces": {
+        "Inconnu": {
+          "total": 1976,
+          "cities": {}
+        },
+        "Niarkalistan": {
+          "total": 1700,
+          "cities": {
+            "Léprosie": 850
+          }
+        },
+        "Mystisie": {
+          "total": 940,
+          "cities": {
+            "Lampe du Génie": 470
+          }
+        },
+        "Santa Banana": {
+          "total": 512,
+          "cities": {
+            "Bagdad": 102,
+            "Santa Banana City": 154
+          }
+        },
+        "Sicilia": {
+          "total": 2202,
+          "cities": {
+            "Trou Perdu": 1101
+          }
+        }
+      }
+    },
+    "République de Kraland": {
+      "currency": "FK",
+      "total": 4650,
+      "provinces": {
+        "Inconnu": {
+          "total": 2990,
+          "cities": {}
+        },
+        "Slavonie": {
+          "total": 324,
+          "cities": {
+            "Gynerak": 162
+          }
+        },
+        "Karaïbes": {
+          "total": 392,
+          "cities": {
+            "Trésorville": 196
+          }
+        },
+        "Hélénie": {
+          "total": 296,
+          "cities": {
+            "Bisouville": 148
+          }
+        },
+        "Kraland": {
+          "total": 648,
+          "cities": {
+            "Honolulu-par-Delà": 12,
+            "Quartier Suprême": 312
+          }
+        }
+      }
+    }
+  },
+  "2026-01-14": {
+    "Provinces indépendantes": {
+      "currency": "PO",
+      "total": 0,
+      "provinces": {
+        "Australine": {
+          "total": 0,
+          "cities": {
+            "Camp des Bagnards": 0
+          }
+        }
+      }
+    },
+    "Royaume de Ruthvénie": {
+      "currency": "Co",
+      "total": 2908,
+      "provinces": {
+        "Inconnu": {
+          "total": 528,
+          "cities": {}
+        },
+        "Crab Key": {
+          "total": 484,
+          "cities": {
+            "Port Magmor": 242
+          }
+        },
+        "Géofront": {
+          "total": 382,
+          "cities": {
+            "Sanctuaire": 191
+          }
+        },
+        "Valégro": {
+          "total": 330,
+          "cities": {
+            "Fort Emouchet": 165
+          }
+        },
+        "Ruthvénie": {
+          "total": 1184,
+          "cities": {
+            "Lantenac-du-Lac": 172,
+            "Ruthvenville": 420
+          }
+        }
+      }
+    },
+    "Confédération Libre": {
+      "currency": "¢¢",
+      "total": 6719,
+      "provinces": {
+        "Inconnu": {
+          "total": 1343,
+          "cities": {}
+        },
+        "Warriorland": {
+          "total": 706,
+          "cities": {
+            "Blofeldopolis": 353
+          }
+        },
+        "Plaine Irradiée": {
+          "total": 1278,
+          "cities": {
+            "Atome": 639
+          }
+        },
+        "Acropole": {
+          "total": 1084,
+          "cities": {
+            "Tribunal Cybermondial": 88,
+            "Forum": 454
+          }
+        },
+        "Milieu": {
+          "total": 2308,
+          "cities": {
+            "Structural": 1154
+          }
+        }
+      }
+    },
+    "Khanat Elmérien": {
+      "currency": "ÐE",
+      "total": 5741,
+      "provinces": {
+        "Inconnu": {
+          "total": 1149,
+          "cities": {}
+        },
+        "Bananie": {
+          "total": 864,
+          "cities": {
+            "Distillerie": 432
+          }
+        },
+        "Bouletie": {
+          "total": 578,
+          "cities": {
+            "Youpigrad": 289
+          }
+        },
+        "Elmérie": {
+          "total": 1924,
+          "cities": {
+            "Igloo": 502,
+            "Gueule du Lézard": 460
+          }
+        },
+        "Capsulie": {
+          "total": 1226,
+          "cities": {
+            "CAPS LOCK": 613
+          }
+        }
+      }
+    },
+    "Paradigme Vert": {
+      "currency": "Éf",
+      "total": 5544,
+      "provinces": {
+        "Inconnu": {
+          "total": 1108,
+          "cities": {}
+        },
+        "Île aux Kanards": {
+          "total": 1126,
+          "cities": {
+            "Kanardville": 563
+          }
+        },
+        "Forêt de Jade": {
+          "total": 2132,
+          "cities": {
+            "Accalmie": 1066
+          }
+        },
+        "Irendol": {
+          "total": 414,
+          "cities": {
+            "Bamboutopia": 16,
+            "Grand Jardin": 191
+          }
+        },
+        "Sibéria": {
+          "total": 764,
+          "cities": {
+            "Garinaville": 382
+          }
+        }
+      }
+    },
+    "Empire Brun": {
+      "currency": "MØ",
+      "total": 8395,
+      "provinces": {
+        "Inconnu": {
+          "total": 2279,
+          "cities": {}
+        },
+        "Niarkalistan": {
+          "total": 1490,
+          "cities": {
+            "Léprosie": 745
+          }
+        },
+        "Mystisie": {
+          "total": 1782,
+          "cities": {
+            "Lampe du Génie": 891
+          }
+        },
+        "Santa Banana": {
+          "total": 600,
+          "cities": {
+            "Bagdad": 166,
+            "Santa Banana City": 134
+          }
+        },
+        "Sicilia": {
+          "total": 2244,
+          "cities": {
+            "Trou Perdu": 1122
+          }
+        }
+      }
+    },
+    "République de Kraland": {
+      "currency": "FK",
+      "total": 3377,
+      "provinces": {
+        "Inconnu": {
+          "total": 1651,
+          "cities": {}
+        },
+        "Slavonie": {
+          "total": 344,
+          "cities": {
+            "Gynerak": 172
+          }
+        },
+        "Karaïbes": {
+          "total": 660,
+          "cities": {
+            "Trésorville": 330
+          }
+        },
+        "Hélénie": {
+          "total": 212,
+          "cities": {
+            "Bisouville": 106
+          }
+        },
+        "Kraland": {
+          "total": 510,
+          "cities": {
+            "Honolulu-par-Delà": 52,
+            "Quartier Suprême": 203
+          }
+        }
+      }
+    }
+  }
+}
