@@ -177,44 +177,6 @@ function chunkEmbedLines(lines, maxLength = 4096) {
   return chunks.filter(Boolean);
 }
 
-async function sendWebhookWithRetry(payload, maxRetries = 5) {
-  for (let attempt = 1; attempt <= maxRetries; attempt++) {
-    await sendWebhookWithRetry({
-    embeds: [{
-        title: `📅 ${date} — ${empire}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
-        color: empireColor(empire),
-        description: chunks[i],
-        footer: {
-        text: `CROWS ScrapeYard • ${evts.length} événements`
-        }
-    }]
-    });
-
-    if (res.ok) return;
-
-    if (res.status === 429) {
-      const data = await res.json();
-      const wait = Math.ceil((data.retry_after || 1) * 1000);
-
-      console.warn(
-        `⏳ Rate limit Discord, retry dans ${wait}ms (tentative ${attempt}/${maxRetries})`
-      );
-
-      await new Promise(r => setTimeout(r, wait));
-      continue;
-    }
-
-    // Autre erreur = abandon
-    console.error(
-      `❌ Discord error ${res.status}`,
-      await res.text()
-    );
-    return;
-  }
-
-  console.error('💥 Abandon : trop de retries Discord');
-}
-
 async function sendWebhookGuaranteed(payload) {
   while (true) {
     const res = await fetch(DISCORD_WEBHOOK_URL, {
@@ -274,50 +236,6 @@ function extractMoneyFlows(text) {
       : 0,
     currency: incomeMatch?.[2] || expenseMatch?.[2]
   };
-}
-
-function buildDailyStats(events) {
-  const stats = {};
-
-  for (const e of events) {
-    const flow = extractMoneyFlows(e.text);
-    if (!flow) continue;
-
-    const day = e.date;
-
-    const empire =
-      WORLD[e.empire]
-        ? e.empire
-        : REGION_TO_EMPIRE[e.province] || 'Inconnu';
-
-    const province =
-      CITY_TO_REGION[e.city] ||
-      e.province ||
-      'Inconnu';
-
-    const city = e.city || 'Inconnu';
-
-    stats[day] ??= { empires: {}, provinces: {}, cities: {} };
-
-    // Empire
-    stats[day].empires[empire] ??= { income: 0, expense: 0 };
-    stats[day].empires[empire].income += flow.income;
-    stats[day].empires[empire].expense += flow.expense;
-
-    // Province
-    const pKey = `${empire} :: ${province}`;
-    stats[day].provinces[pKey] ??= { income: 0, expense: 0 };
-    stats[day].provinces[pKey].income += flow.income;
-    stats[day].provinces[pKey].expense += flow.expense;
-
-    // Ville
-    const cKey = `${empire} :: ${province} :: ${city}`;
-    stats[day].cities[cKey] ??= { income: 0, expense: 0 };
-    stats[day].cities[cKey].income += flow.income;
-    stats[day].cities[cKey].expense += flow.expense;
-  }
-
-  return stats;
 }
 
 function buildDailyFinanceTables(events) {
@@ -380,16 +298,6 @@ function aggregateRows(rows, labelKey) {
 
 
 //Rapport - Extract
-
-function extractIncome(text) {
-  const m = text.match(/récolte\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/i);
-  return m ? Number(m[1].replace(/\s/g, '')) : null;
-}
-
-function extractExpense(text) {
-  const m = text.match(/et paie\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/i);
-  return m ? Number(m[1].replace(/\s/g, '')) : null;
-}
 
 function buildDailyFinanceLogs(events, WORLD) {
   const logs = {};
