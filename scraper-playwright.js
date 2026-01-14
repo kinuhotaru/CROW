@@ -261,7 +261,7 @@ function extractMoneyFlows(text) {
   if (!text) return null;
 
   const incomeMatch = text.match(/récolte\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/i);
-  const expenseMatch = text.match(/dépense\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/i);
+  const expenseMatch = text.match(/paie\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/i);
 
   if (!incomeMatch && !expenseMatch) return null;
 
@@ -348,14 +348,32 @@ function buildDailyFinanceTables(events) {
   return days;
 }
 
-function rankingLines(entries, type) {
+function rankingLines(entries = {}, type) {
   return Object.entries(entries)
-    .sort((a, b) => b[1][type] - a[1][type])
+    .sort((a, b) => (b[1][type] || 0) - (a[1][type] || 0))
     .map(
       ([label, v], i) =>
-        `**${i + 1}. ${label}** — ${v[type].toLocaleString()}`
+        `**${i + 1}. ${label}** — ${(v[type] || 0).toLocaleString()}`
     );
 }
+
+function aggregateRows(rows, labelKey) {
+  const result = {};
+
+  for (const r of rows || []) {
+    const label =
+      labelKey === 'empire' ? r.empire :
+      labelKey === 'province' ? `${r.empire} :: ${r.province}` :
+      `${r.empire} :: ${r.province} :: ${r.city}`;
+
+    result[label] ??= { income: 0, expense: 0 };
+    result[label].income += r.income || 0;
+    result[label].expense += r.expense || 0;
+  }
+
+  return result;
+}
+
 /* =========================
    🏬 EMPIRE RANKING IMPOTS
 ========================= */
@@ -506,35 +524,43 @@ function getLevel(e) {
   return null;
 }
 
-async function sendDailyRanking(stats) {
+async function sendDailyRanking(dailyTables) {
   const sentDays = new Set(loadJSON(STATS_SENT_FILE, []));
 
-  for (const [day, data] of Object.entries(stats)) {
-    if (sentDays.has(day)) continue; // ⛔ déjà envoyé
-
-    // ⚠️ OPTIONNEL MAIS RECOMMANDÉ :
-    // n’envoyer que si on a bien dépassé minuit
+  for (const [day, data] of Object.entries(dailyTables)) {
+    if (sentDays.has(day)) continue;
     if (day === new Date().toISOString().slice(0, 10)) continue;
+
+    const empires   = aggregateRows(data.empire, 'empire');
+    const provinces = aggregateRows(data.province, 'province');
+    const cities    = aggregateRows(data.city, 'city');
+
+    // ⛔ rien à afficher
+    if (
+      !Object.keys(empires).length &&
+      !Object.keys(provinces).length &&
+      !Object.keys(cities).length
+    ) continue;
 
     const embeds = [
       {
         title: `🏆 Empires — ${day}`,
-        description: rankingLines(data.empires, 'income').join('\n'),
+        description: rankingLines(empires, 'income').join('\n') || '_Aucune donnée_',
         color: 0x2ecc71
       },
       {
         title: `💸 Empires — ${day}`,
-        description: rankingLines(data.empires, 'expense').join('\n'),
+        description: rankingLines(empires, 'expense').join('\n') || '_Aucune donnée_',
         color: 0xe74c3c
       },
       {
         title: `🏆 Provinces — ${day}`,
-        description: rankingLines(data.provinces, 'income').join('\n'),
+        description: rankingLines(provinces, 'income').join('\n') || '_Aucune donnée_',
         color: 0x3498db
       },
       {
         title: `🏆 Villes — ${day}`,
-        description: rankingLines(data.cities, 'income').join('\n'),
+        description: rankingLines(cities, 'income').join('\n') || '_Aucune donnée_',
         color: 0x9b59b6
       }
     ];
