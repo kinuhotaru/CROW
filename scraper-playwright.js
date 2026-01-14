@@ -326,23 +326,96 @@ function progressBar(value, max, size = 10) {
   return '█'.repeat(filled) + '░'.repeat(size - filled);
 }
 
+function medal(rank) {
+  return rank === 1 ? '🥇'
+       : rank === 2 ? '🥈'
+       : rank === 3 ? '🥉'
+       : '';
+}
+
 function rankingFields(entries, type, label) {
   const sorted = Object.entries(entries)
     .filter(([, v]) => (v[type] || 0) > 0)
     .sort((a, b) => (b[1][type] || 0) - (a[1][type] || 0))
-    .slice(0, 9); //
+    .slice(0, 9);
 
   if (!sorted.length) return null;
 
   const max = sorted[0][1][type];
 
-  return sorted.map(([name, v], i) => ({
-    name: `${i + 1}. ${name}`,
-    value:
-      `${label} : **${v[type].toLocaleString()}${v.currency ? ` ${v.currency}` : ''}**\n` +
-      `${progressBar(v[type], max)}`,
-    inline: true
-  }));
+  return sorted.map(([name, v], i) => {
+    const rank = i + 1;
+    const medalIcon = medal(rank);
+
+    return {
+      name: `${rank}. ${name}`,
+      value:
+        `${label} : **${v[type].toLocaleString()}${v.currency ? ` ${v.currency}` : ''}**\n` +
+        `${progressBar(v[type], max)} ${medalIcon}`,
+      inline: true
+    };
+  });
+}
+function rankingFieldsGroupedByEmpire(entries, type, label, level) {
+  /**
+   * entries = {
+   *   "Empire Brun ▸ Ville A": { income, expense, currency },
+   *   "Empire Brun ▸ Ville B": { ... },
+   *   "République ▸ Ville C": { ... }
+   * }
+   */
+
+  const grouped = {};
+
+  // 1️⃣ Regroupement par empire
+  for (const [fullLabel, data] of Object.entries(entries)) {
+    const [empire, name] = fullLabel.split(' ▸ ');
+
+    if (!empire || !name) continue;
+
+    grouped[empire] ??= [];
+    grouped[empire].push({
+      name,
+      value: data[type] || 0,
+      currency: data.currency
+    });
+  }
+
+  const fields = [];
+
+  // 2️⃣ Génération des fields
+  for (const [empire, items] of Object.entries(grouped)) {
+    const sorted = items
+      .filter(i => i.value > 0)
+      .sort((a, b) => b.value - a.value)
+      .slice(0, 3); // top 3 par empire
+
+    if (!sorted.length) continue;
+
+    const max = sorted[0].value;
+
+    // 🏰 Header empire (une seule fois)
+    fields.push({
+      name: `🏰 ${empire}`,
+      value: '‎', // caractère invisible pour Discord
+      inline: false
+    });
+
+    // 🏙️ Villes / Provinces
+    sorted.forEach((item, i) => {
+      const rank = i + 1;
+
+      fields.push({
+        name: `${rank}. ${item.name}`,
+        value:
+          `${label} : **${item.value.toLocaleString()}${item.currency ? ` ${item.currency}` : ''}**\n` +
+          `${progressBar(item.value, max)} ${medal(rank)}`,
+        inline: true
+      });
+    });
+  }
+
+  return fields.length ? fields : null;
 }
 /* =========================
    🏬 EMPIRE RANKING IMPOTS
@@ -516,22 +589,22 @@ async function sendDailyRanking(dailyTables) {
         {
             title: `🏆 Provinces — ${day} • Revenus`,
             color: 0x2ecc71,
-            fields: rankingFields(provinces, 'income', '💰 Revenus')
+            fields: rankingFieldsGroupedByEmpire(provinces, 'income', '💰 Revenus')
         },
         {
             title: `💸 Provinces — ${day} • Dépenses`,
             color: 0xe74c3c,
-            fields: rankingFields(provinces, 'expense', '💸 Dépenses')
+            fields: rankingFieldsGroupedByEmpire(provinces, 'expense', '💸 Dépenses')
         },
         {
             title: `🏆 Villes — ${day} • Revenus`,
             color: 0x2ecc71,
-            fields: rankingFields(cities, 'income', '💰 Revenus')
+            fields: rankingFieldsGroupedByEmpire(cities, 'income', '💰 Revenus')
         },
         {
             title: `💸 Villes — ${day} • Dépenses`,
             color: 0xe74c3c,
-            fields: rankingFields(cities, 'expense', '💸 Dépenses')
+            fields: rankingFieldsGroupedByEmpire(cities, 'expense', '💸 Dépenses')
         }
         ];
 
