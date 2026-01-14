@@ -32,8 +32,6 @@ for (const [empire, data] of Object.entries(WORLD)) {
     }
   }
 }
-const STATS_FILE = `${DATA_DIR}/tax_stats.json`;
-const STATS_SENT_FILE = `${DATA_DIR}/stats_sent_days.json`;
 
 const MAX_PAGES = 500;
 const MAX_EMPTY_PAGES = 5;
@@ -244,201 +242,155 @@ async function sendWebhookGuaranteed(payload) {
 
 // UTILITAIRES DE STATISTIQUE
 
-function extractTaxAmount(text) {
+function extractMoneyFlows(text) {
   if (!text) return null;
 
-  const match = text.match(/récolte\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/i);
-  if (!match) return null;
+  const incomeMatch = text.match(/récolte\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/i);
+  const expenseMatch = text.match(/dépense\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/i);
+
+  if (!incomeMatch && !expenseMatch) return null;
 
   return {
-    amount: Number(match[1].replace(/\s/g, '')),
-    currency: match[2]
+    income: incomeMatch
+      ? Number(incomeMatch[1].replace(/\s/g, ''))
+      : 0,
+    expense: expenseMatch
+      ? Number(expenseMatch[1].replace(/\s/g, ''))
+      : 0,
+    currency: incomeMatch?.[2] || expenseMatch?.[2]
   };
 }
 
-function buildTaxStats(events) {
+function buildDailyStats(events) {
   const stats = {};
 
   for (const e of events) {
-    const tax = extractTaxAmount(e.text);
-    if (!tax) continue;
+    const flow = extractMoneyFlows(e.text);
+    if (!flow) continue;
 
-    const { amount } = tax;
     const day = e.date;
 
-    // --- Empire ---
-    const empire = e.empire && WORLD[e.empire]
-      ? e.empire
-      : REGION_TO_EMPIRE[e.province] || 'Inconnu';
+    const empire =
+      WORLD[e.empire]
+        ? e.empire
+        : REGION_TO_EMPIRE[e.province] || 'Inconnu';
 
-    if (!WORLD[empire]) continue;
+    const province =
+      CITY_TO_REGION[e.city] ||
+      e.province ||
+      'Inconnu';
 
-    const currency = WORLD[empire].currency;
+    const city = e.city || 'Inconnu';
 
-    // --- Province ---
-    let province = e.province;
+    stats[day] ??= { empires: {}, provinces: {}, cities: {} };
 
-    // Si on a une ville, on remonte à la province
-    if (e.city && CITY_TO_REGION[e.city]) {
-      province = CITY_TO_REGION[e.city];
-    }
+    // Empire
+    stats[day].empires[empire] ??= { income: 0, expense: 0 };
+    stats[day].empires[empire].income += flow.income;
+    stats[day].empires[empire].expense += flow.expense;
 
-    if (!province || !WORLD[empire].regions[province]) {
-      province = 'Inconnu';
-    }
+    // Province
+    const pKey = `${empire} :: ${province}`;
+    stats[day].provinces[pKey] ??= { income: 0, expense: 0 };
+    stats[day].provinces[pKey].income += flow.income;
+    stats[day].provinces[pKey].expense += flow.expense;
 
-    // --- Init structures ---
-    stats[day] ??= {};
-    stats[day][empire] ??= {
-      currency,
-      total: 0,
-      provinces: {}
-    };
-
-    const empireBlock = stats[day][empire];
-    empireBlock.total += amount;
-
-    empireBlock.provinces[province] ??= {
-      total: 0,
-      cities: {}
-    };
-
-    empireBlock.provinces[province].total += amount;
-
-    if (e.city) {
-      empireBlock.provinces[province].cities[e.city] ??= 0;
-      empireBlock.provinces[province].cities[e.city] += amount;
-    }
+    // Ville
+    const cKey = `${empire} :: ${province} :: ${city}`;
+    stats[day].cities[cKey] ??= { income: 0, expense: 0 };
+    stats[day].cities[cKey].income += flow.income;
+    stats[day].cities[cKey].expense += flow.expense;
   }
 
   return stats;
 }
 
-function getYesterdayISO() {
-  const d = new Date();
-  d.setDate(d.getDate() - 1);
-  return d.toISOString().slice(0, 10);
+function rankingLines(entries, type) {
+  return Object.entries(entries)
+    .sort((a, b) => b[1][type] - a[1][type])
+    .map(
+      ([label, v], i) =>
+        `**${i + 1}. ${label}** — ${v[type].toLocaleString()}`
+    );
 }
-
-async function sendDailyFiscalReports(stats) {
-  const sentDays = new Set(loadJSON(STATS_SENT_FILE, []));
-  const day = getYesterdayISO();
-
-  if (sentDays.has(day)) {
-    console.log(`📭 Rapports fiscaux déjà envoyés pour ${day}`);
-    return;
-  }
-
-  await sendEmpireRanking(stats, day);
-  await sendTopProvinces(stats, day);
-
-  sentDays.add(day);
-  saveJSON(STATS_SENT_FILE, [...sentDays]);
-
-  console.log(`📊 Rapports fiscaux envoyés pour ${day}`);
-}
-
 /* =========================
    🏬 EMPIRE RANKING IMPOTS
 ========================= */
 
 
-//Rapport - Classement des empires
+//Rapport - Extract
 
-async function sendEmpireRanking(stats, day) {
-  const dayStats = stats[day];
-  if (!dayStats) return;
-
-  const ranking = Object.entries(dayStats)
-    .map(([empire, data]) => ({
-      empire,
-      total: data.total,
-      currency: data.currency
-    }))
-    .sort((a, b) => b.total - a.total);
-
-  const lines = ranking.map(
-    (e, i) => `**${i + 1}. ${e.empire}** — ${e.total.toLocaleString()} ${e.currency}`
-  );
-
-  const chunks = chunkEmbedLines(lines);
-
-  for (let i = 0; i < chunks.length; i++) {
-    await sendWebhookGuaranteed({
-      embeds: [{
-        title: `🏆 Classement des Empires — ${day}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
-        color: 0xF1C40F,
-        description: chunks[i],
-        footer: { text: 'CROWS Fiscal Report' }
-      }]
-    });
-  }
+function extractIncome(text) {
+  const m = text.match(/récolte\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/i);
+  return m ? Number(m[1].replace(/\s/g, '')) : null;
 }
 
-//Rapport - Classement des meilleures provinces
-async function sendTopProvinces(stats, day, limit = 10) {
-  const dayStats = stats[day];
-  if (!dayStats) return;
+function extractExpense(text) {
+  const m = text.match(/et paie\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/i);
+  return m ? Number(m[1].replace(/\s/g, '')) : null;
+}
 
-  const provinces = [];
+function buildDailyFinanceLogs(events, WORLD) {
+  const logs = {};
 
-  for (const [empire, eData] of Object.entries(dayStats)) {
-    for (const [province, pData] of Object.entries(eData.provinces)) {
-      provinces.push({
-        empire,
-        province,
-        total: pData.total,
-        currency: eData.currency
-      });
+  for (const e of events) {
+    const income = extractIncome(e.text);
+    const expense = extractExpense(e.text);
+    if (income === null && expense === null) continue;
+
+    const day = e.date;
+    const empire = e.empire;
+    if (!WORLD[empire]) continue;
+
+    const province = e.province || 'Central';
+    const city = e.city || null;
+
+    logs[day] ??= { date: day, empires: {} };
+    const d = logs[day];
+
+    d.empires[empire] ??= {
+      currency: WORLD[empire].currency,
+      income: 0,
+      expense: 0,
+      provinces: {}
+    };
+
+    const E = d.empires[empire];
+
+    if (income !== null) E.income += income;
+    if (expense !== null) E.expense += expense;
+
+    E.provinces[province] ??= {
+      income: 0,
+      expense: 0,
+      cities: {}
+    };
+
+    const P = E.provinces[province];
+
+    if (income !== null) P.income += income;
+    if (expense !== null) P.expense += expense;
+
+    if (city) {
+      P.cities[city] ??= { income: 0, expense: 0 };
+      if (income !== null) P.cities[city].income += income;
+      if (expense !== null) P.cities[city].expense += expense;
     }
   }
 
-  provinces.sort((a, b) => b.total - a.total);
-
-  const top = provinces.slice(0, limit);
-
-  const lines = top.map(
-    (p, i) =>
-      `**${i + 1}. ${p.province}** (${p.empire}) — ${p.total.toLocaleString()} ${p.currency}`
-  );
-
-  const chunks = chunkEmbedLines(lines);
-
-  for (let i = 0; i < chunks.length; i++) {
-    await sendWebhookGuaranteed({
-      embeds: [{
-        title: `📊 Top Provinces — ${day}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
-        color: 0x3498DB,
-        description: chunks[i],
-        footer: { text: 'CROWS Fiscal Report' }
-      }]
-    });
-  }
+  return logs;
 }
 
-function computeTaxStats(eventsForDate) {
-  const empires = {};
-  const provinces = {};
+function saveDailyLogs(dailyLogs) {
+  const DIR = './data/daily_finances';
+  if (!fs.existsSync(DIR)) fs.mkdirSync(DIR, { recursive: true });
 
-  for (const e of eventsForDate) {
-    const tax = extractTaxAmount(e.text);
-    if (!tax) continue;
-
-    // --- Empire ---
-    empires[e.empire] ??= 0;
-    empires[e.empire] += tax.amount;
-
-    // --- Province ---
-    if (e.province) {
-      const key = `${e.empire} :: ${e.province}`;
-      provinces[key] ??= 0;
-      provinces[key] += tax.amount;
-    }
+  for (const [day, log] of Object.entries(dailyLogs)) {
+    const file = `${DIR}/${day}.json`;
+    if (fs.existsSync(file)) continue; // ⛔ déjà écrit
+    fs.writeFileSync(file, JSON.stringify(log, null, 2));
   }
-
-  return { empires, provinces };
 }
-
 /* =========================
    📨 DISCORD
 ========================= */
@@ -504,19 +456,6 @@ async function sendToDiscord(events) {
 }
 
 // Render DISCORD Stats Finances
-function renderBars(data, maxBars = 5, width = 20) {
-  const entries = Object.entries(data)
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, maxBars);
-
-  const max = entries[0]?.[1] ?? 1;
-
-  return entries.map(([label, value]) => {
-    const size = Math.round((value / max) * width);
-    const bar = '█'.repeat(size) + '░'.repeat(width - size);
-    return `**${label}**\n${bar} ${value.toLocaleString()}`;
-  });
-}
 
 function groupEventsByDate(events) {
   return events.reduce((acc, e) => {
@@ -527,43 +466,42 @@ function groupEventsByDate(events) {
   }, {});
 }
 
-async function sendDailyStats(events) {
-  if (!DISCORD_WEBHOOK_URL) return;
+async function sendDailyRanking(stats) {
+  const sentDays = new Set(loadJSON(STATS_SENT_FILE, []));
 
-  const sentDates = new Set(loadJSON(STATS_SENT_FILE, []));
-  const byDate = groupEventsByDate(events);
+  for (const [day, data] of Object.entries(stats)) {
+    if (sentDays.has(day)) continue;
 
-  for (const [date, evts] of Object.entries(byDate)) {
-    if (sentDates.has(date)) continue;
+    const embeds = [
+      {
+        title: `🏆 Empires — ${day}`,
+        description: rankingLines(data.empires, 'income').join('\n'),
+        color: 0x2ecc71
+      },
+      {
+        title: `💸 Empires — ${day}`,
+        description: rankingLines(data.empires, 'expense').join('\n'),
+        color: 0xe74c3c
+      },
+      {
+        title: `🏆 Provinces — ${day}`,
+        description: rankingLines(data.provinces, 'income').join('\n'),
+        color: 0x3498db
+      },
+      {
+        title: `🏆 Villes — ${day}`,
+        description: rankingLines(data.cities, 'income').join('\n'),
+        color: 0x9b59b6
+      }
+    ];
 
-    const { empires, provinces } = computeTaxStats(evts);
+    await sendWebhookGuaranteed({ embeds });
 
-    if (!Object.keys(empires).length) continue;
-
-    const empireBars = renderBars(empires, 5).join('\n\n');
-    const provinceBars = renderBars(provinces, 5).join('\n\n');
-
-    await sendWebhookGuaranteed({
-      embeds: [
-        {
-          title: `🏛️ Classement des Empires — ${date}`,
-          color: 0x3498db,
-          description: empireBars
-        },
-        {
-          title: `🗺️ Top Provinces — ${date}`,
-          color: 0x2ecc71,
-          description: provinceBars
-        }
-      ]
-    });
-
-    sentDates.add(date);
-    saveJSON(STATS_SENT_FILE, [...sentDates]);
-
-    await new Promise(r => setTimeout(r, 500));
+    sentDays.add(day);
+    saveJSON(STATS_SENT_FILE, [...sentDays]);
   }
 }
+
 /* =========================
    🚀 SCRAPER
 ========================= */
@@ -733,13 +671,15 @@ if (timeRegex.test(time) && eventText) {
   saveJSON(INDEX_FILE, [...index.values()]);
 
   //Gestion des stats impôts
-  const taxStats = buildTaxStats(events);
-  saveJSON(STATS_FILE, taxStats);
-
-  await sendDailyFiscalReports(taxStats);
+  const dailyLogs = buildDailyFinanceLogs(events, WORLD);
+  saveDailyLogs(dailyLogs);
 
   await sendToDiscord(events);
-  await sendDailyStats(events);
+  //Stats to Discord
+  const dailyStats = buildDailyStats(events);
+  saveJSON(STATS_FILE, dailyStats);
+  await sendDailyRanking(dailyStats);
+
   await browser.close();
 
   console.log(`✅ Terminé — total événements : ${events.length}`);
