@@ -20508,5 +20508,155 @@
     "text": "Construction d'un bâtiment Vendeur de Pacotille dans la ville Bagdad en [14,11].",
     "key": "2026-01-14|18:00|empire brun|santa banana|bagdad|construction d'un batiment vendeur de pacotille dans la ville bagdad en [14,11].",
     "firstSeen": "2026-01-14T17:04:15.878Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "18:04",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "Youpigrad",
+    "text": "Jean-Michel Très Normal a prononcé un discours en faveur du gouvernement du Khanat Elmérien [loyauté +0.1] : « Bonjour les Boulets ! C'est votre candidat au poste de bourgmestre, Jean-Mimi Très Normal, qui vient ici vous rappeler de voter aux élections qui se terminent ce dimanche. Alors n'oubliez pas : pour une candidature très normale, votez pour moi ! Un vote pour Jean-Mi = un vote de plus pour la normalité. Je m'appelle Jean-Michel, et j'approuve ce message. »",
+    "key": "2026-01-14|18:04|khanat elmerien|bouletie|youpigrad|jean-michel tres normal a prononce un discours en faveur du gouvernement du khanat elmerien [loyaute +0.1] : \" bonjour les boulets ! c'est votre candidat au poste de bourgmestre, jean-mimi tres normal, qui vient ici vous rappeler de voter aux elections qui se terminent ce dimanche. alors n'oubliez pas : pour une candidature tres normale, votez pour moi ! un vote pour jean-mi = un vote de plus pour la normalite. je m'appelle jean-michel, et j'approuve ce message. \"",
+    "firstSeen": "2026-01-14T17:54:43.814Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "18:04",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Cormac O'Wreck vient d'arriver dans la ville Léprosie.",
+    "key": "2026-01-14|18:04|empire brun|niarkalistan|leprosie|cormac o'wreck vient d'arriver dans la ville leprosie.",
+    "firstSeen": "2026-01-14T17:54:43.814Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "18:05",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "",
+    "text": "La Duchesse Elune Von Voda a nommé Emile Liarr au poste de Procureur.",
+    "key": "2026-01-14|18:05|royaume de ruthvenie|valegro||la duchesse elune von voda a nomme emile liarr au poste de procureur.",
+    "firstSeen": "2026-01-14T17:54:43.814Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "18:09",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Olrik Radioactvich a proposé à ama'r de lui racheter le bâtiment Technicien pour 499 FK.",
+    "key": "2026-01-14|18:09|republique de kraland|karaibes|tresorville|olrik radioactvich a propose a ama'r de lui racheter le batiment technicien pour 499 fk.",
+    "firstSeen": "2026-01-14T17:54:43.814Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "18:15",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "BoboFix a effectué un sondage concernant les élections pour le poste de Bourgmestre de la ville Structural: Estelle Pravi 28.6 % Masque 28.6 % Erbine 14.3 % Précieuse 14.3 % Structuran Job 14.3 %",
+    "key": "2026-01-14|18:15|confederation libre|milieu|structural|bobofix a effectue un sondage concernant les elections pour le poste de bourgmestre de la ville structural: estelle pravi 28.6 % masque 28.6 % erbine 14.3 % precieuse 14.3 % structuran job 14.3 %",
+    "firstSeen": "2026-01-14T17:54:43.814Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "18:16",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "BoboFix s'est fait agresser par un groupe de créatures mené par Cube de Logique Brute.",
+    "key": "2026-01-14|18:16|confederation libre|milieu|structural|bobofix s'est fait agresser par un groupe de creatures mene par cube de logique brute.",
+    "firstSeen": "2026-01-14T17:54:43.814Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "18:16",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "kinuyasha vient d'arriver dans la ville Accalmie.",
+    "key": "2026-01-14|18:16|paradigme vert|foret de jade|accalmie|kinuyasha vient d'arriver dans la ville accalmie.",
+    "firstSeen": "2026-01-14T17:54:43.814Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "18:21",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "BoboFix a transformé Restaurant « Cantine de l'Expédition » en dispensaire médical (pour 24 heures), soignant les occupants (BoboFix, Katherine Khanova, Masque, Estelle Pravi, Buck Le Lynx Laramie, Erbine, Antipøde, Seïfe).",
+    "key": "2026-01-14|18:21|confederation libre|milieu|structural|bobofix a transforme restaurant \" cantine de l'expedition \" en dispensaire medical (pour 24 heures), soignant les occupants (bobofix, katherine khanova, masque, estelle pravi, buck le lynx laramie, erbine, antipøde, seife).",
+    "firstSeen": "2026-01-14T17:54:43.814Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "18:32",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Annie a ouvert un chantier public dans la ville Garinaville en [9,10].",
+    "key": "2026-01-14|18:32|paradigme vert|siberia|garinaville|annie a ouvert un chantier public dans la ville garinaville en [9,10].",
+    "firstSeen": "2026-01-14T17:54:43.814Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "18:35",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Construction d'un bâtiment Pré dans la ville Garinaville en [9,10].",
+    "key": "2026-01-14|18:35|paradigme vert|siberia|garinaville|construction d'un batiment pre dans la ville garinaville en [9,10].",
+    "firstSeen": "2026-01-14T17:54:43.814Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "18:44",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "La Bourgmestre Annie a adressé un discours à la population : « Le mouton Sibérien, une espèce rare, endurcit et pas facile à élever mais terriblement mignone. Accueillons Flocon, le premier spécimen dans l'enclos de la ville. »",
+    "key": "2026-01-14|18:44|paradigme vert|siberia|garinaville|la bourgmestre annie a adresse un discours a la population : \" le mouton siberien, une espece rare, endurcit et pas facile a elever mais terriblement mignone. accueillons flocon, le premier specimen dans l'enclos de la ville. \"",
+    "firstSeen": "2026-01-14T17:54:43.814Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "18:45",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Stefan de Crab dirige la construction du bâtiment Port (la construction sera plus rapide) : « Je vais installer le plan du port ici, pour le terminer tous azimut pendant qu'on est occupé à extraire ce qu'on peut pour les prochaines construction. L'augmentation sera terminée pour demain début de soirée au plus tard selon mes estimations... »",
+    "key": "2026-01-14|18:45|royaume de ruthvenie|crab key|port magmor|stefan de crab dirige la construction du batiment port (la construction sera plus rapide) : \" je vais installer le plan du port ici, pour le terminer tous azimut pendant qu'on est occupe a extraire ce qu'on peut pour les prochaines construction. l'augmentation sera terminee pour demain debut de soiree au plus tard selon mes estimations... \"",
+    "firstSeen": "2026-01-14T17:54:43.814Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "18:47",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Intérieur Cassandre Lemage a pris la décision d'appliquer une taxe de 50 FK à l'immigration : « Kralut, je mets une taxe sur le tamponnage et le double tamponnage afin de permettre de budgétiser l'usure du matériel homologué. »",
+    "key": "2026-01-14|18:47|republique de kraland|||la ministre de l'interieur cassandre lemage a pris la decision d'appliquer une taxe de 50 fk a l'immigration : \" kralut, je mets une taxe sur le tamponnage et le double tamponnage afin de permettre de budgetiser l'usure du materiel homologue. \"",
+    "firstSeen": "2026-01-14T17:54:43.814Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "18:49",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Intérieur Cassandre Lemage a accepté Jalala au sein de la République de Kraland : « Kramarade Yololo, Chevaucheur de tunnels Termondiques, Dompteur des MST. Tu as activé l'Article VIII bis. Bienvenue à toi. »",
+    "key": "2026-01-14|18:49|republique de kraland|||la ministre de l'interieur cassandre lemage a accepte jalala au sein de la republique de kraland : \" kramarade yololo, chevaucheur de tunnels termondiques, dompteur des mst. tu as active l'article viii bis. bienvenue a toi. \"",
+    "firstSeen": "2026-01-14T17:54:43.814Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "18:51",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Intérieur Cassandre Lemage a accepté Krak' Boom Da Goff Rocka au sein de la République de Kraland : « Kramarade Krak Krak, Tu as su éviter que le grand krik te krok et tu as pu activer l'Article VIII bis, bienvenu à toi. »",
+    "key": "2026-01-14|18:51|republique de kraland|||la ministre de l'interieur cassandre lemage a accepte krak' boom da goff rocka au sein de la republique de kraland : \" kramarade krak krak, tu as su eviter que le grand krik te krok et tu as pu activer l'article viii bis, bienvenu a toi. \"",
+    "firstSeen": "2026-01-14T17:54:43.813Z"
   }
 ]
