@@ -12,7 +12,8 @@ const DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK;
 const DATA_DIR = './data';
 const EVENTS_FILE = `${DATA_DIR}/events.json`;
 const INDEX_FILE = `${DATA_DIR}/event_index.json`;
-const SENT_FILE = `${DATA_DIR}/sent_hashes.json`;
+const SENT_FILE = `${DATA_DIR}/sent_keys.json`;
+const EVENT_TTL_MS = 1000 * 60 * 60 * 24 * 30; // 30 jours de récursion
 
 const MAX_PAGES = 500;
 const MAX_EMPTY_PAGES = 5;
@@ -77,17 +78,15 @@ function saveJSON(file, data) {
   fs.writeFileSync(file, JSON.stringify(data, null, 2));
 }
 
-function eventHash(e){
-  return e.id || Buffer.from(
-    [
-      e.date,
-      e.time,
-      e.empire,
-      e.province,
-      e.city,
-      e.text
-    ].map(normalizeForHash).join('|')
-  ).toString('base64').slice(0,100);
+function eventKey(e) {
+  return [
+    e.date,
+    e.time,
+    e.empire,
+    e.province,
+    e.city,
+    e.text
+  ].map(normalizeForHash).join('|');
 }
 
 function sortEvents(events) {
@@ -234,10 +233,15 @@ async function sendToDiscord(events) {
   const fresh = [];
 
   for (const e of events) {
-    const h = eventHash(e);
-    if (!sent.has(h)) {
-      sent.add(h);
-      fresh.push(e);
+    const key = eventKey(e);
+    const now = Date.now();
+    const expired =
+        e.firstSeen &&
+        now - new Date(e.firstSeen).getTime() > EVENT_TTL_MS;
+
+    if (!sent.has(key) || expired) {
+        sent.add(key);
+        fresh.push(e);
     }
   }
 
@@ -291,7 +295,9 @@ async function sendToDiscord(events) {
   const page = await browser.newPage();
 
   let events = loadJSON(EVENTS_FILE, []);
-  let index = new Set(loadJSON(INDEX_FILE, []));
+    let index = new Map(
+    loadJSON(INDEX_FILE, []).map(e => [e.key, e])
+    );
 
   await page.goto(BASE_URL, { waitUntil: 'domcontentloaded', timeout: 60000 });
   await page.waitForSelector('table.table tbody tr', { timeout: 15000 });
@@ -387,12 +393,36 @@ if (timeRegex.test(time) && eventText) {
 
       if (!e.date || !e.text) continue;
 
-      const h = eventHash(e);
-      if (!index.has(h)) {
-        index.add(h);
-        events.push(e);
+        const key = eventKey(e);
+        const now = Date.now();
+
+        const existing = index.get(key);
+
+        const isExpired =
+        existing &&
+        now - new Date(existing.firstSeen).getTime() > EVENT_TTL_MS;
+
+        if (!existing || isExpired) {
+        const firstSeen = existing?.firstSeen ?? new Date().toISOString();
+
+        index.set(key, {
+            ...e,
+            key,
+            firstSeen
+        });
+
+        events.push({
+            ...e,
+            key,
+            firstSeen
+        });
+
         newCount++;
-      }
+
+        if (isExpired) {
+            console.log(`♻️ Événement réautorisé après expiration (${e.date} ${e.time})`);
+        }
+        }
     }
 
     console.log(`📄 Page ${pageCount} → +${newCount}`);
@@ -412,7 +442,7 @@ if (timeRegex.test(time) && eventText) {
 
   sortEvents(events);
   saveJSON(EVENTS_FILE, events);
-  saveJSON(INDEX_FILE, [...index]);
+  saveJSON(INDEX_FILE, [...index.values()]);
 
   await sendToDiscord(events);
   await browser.close();
