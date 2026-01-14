@@ -356,37 +356,37 @@ function rankingFields(entries, type, label) {
     };
   });
 }
-function rankingFieldsGroupedByEmpire(entries, type, label, level) {
+function rankingFieldsByEmpireFromRows(rows, type, label, level) {
   /**
-   * entries = {
-   *   "Empire Brun ▸ Ville A": { income, expense, currency },
-   *   "Empire Brun ▸ Ville B": { ... },
-   *   "République ▸ Ville C": { ... }
-   * }
+   * rows = data.city ou data.province
+   * level = 'city' | 'province'
    */
 
   const grouped = {};
 
   // 1️⃣ Regroupement par empire
-  for (const [fullLabel, data] of Object.entries(entries)) {
-    const [empire, name] = fullLabel.split(' ▸ ');
+  for (const r of rows || []) {
+    const value = r[type] || 0;
+    if (value <= 0) continue;
+
+    const empire = r.empire;
+    const name = level === 'city' ? r.city : r.province;
 
     if (!empire || !name) continue;
 
     grouped[empire] ??= [];
     grouped[empire].push({
       name,
-      value: data[type] || 0,
-      currency: data.currency
+      value,
+      currency: r.currency
     });
   }
 
   const fields = [];
 
-  // 2️⃣ Génération des fields
+  // 2️⃣ Génération des fields Discord
   for (const [empire, items] of Object.entries(grouped)) {
     const sorted = items
-      .filter(i => i.value > 0)
       .sort((a, b) => b.value - a.value)
       .slice(0, 3); // top 3 par empire
 
@@ -394,10 +394,10 @@ function rankingFieldsGroupedByEmpire(entries, type, label, level) {
 
     const max = sorted[0].value;
 
-    // 🏰 Header empire (une seule fois)
+    // 🏰 Empire (une seule fois)
     fields.push({
       name: `🏰 ${empire}`,
-      value: '‎', // caractère invisible pour Discord
+      value: '‎', // caractère invisible
       inline: false
     });
 
@@ -561,69 +561,90 @@ async function sendDailyRanking(dailyTables) {
   const sentDays = new Set(loadJSON(STATS_SENT_FILE, []));
 
   for (const [day, data] of Object.entries(dailyTables)) {
+    // ⛔ déjà envoyé
     if (sentDays.has(day)) continue;
+
+    // ⛔ on ignore le jour courant
     if (day === new Date().toISOString().slice(0, 10)) continue;
 
-    const empires   = aggregateRows(data.empire, 'empire');
-    const provinces = aggregateRows(data.province, 'province');
-    const cities    = aggregateRows(data.city, 'city');
+    // =========================
+    // 🏆 BUILD SECTIONS
+    // =========================
 
-    // ⛔ rien à afficher
-    if (
-      !Object.keys(empires).length &&
-      !Object.keys(provinces).length &&
-      !Object.keys(cities).length
-    ) continue;
+    const sections = [
+      {
+        title: `🏆 Empires — ${day} • Revenus`,
+        color: 0x2ecc71,
+        fields: rankingFields(data.empire, 'income', '💰 Revenus')
+      },
+      {
+        title: `💸 Empires — ${day} • Dépenses`,
+        color: 0xe74c3c,
+        fields: rankingFields(data.empire, 'expense', '💸 Dépenses')
+      },
+      {
+        title: `🏆 Provinces — ${day} • Revenus`,
+        color: 0x2ecc71,
+        fields: rankingFieldsByEmpireFromRows(
+          data.province,
+          'income',
+          '💰 Revenus',
+          'province'
+        )
+      },
+      {
+        title: `💸 Provinces — ${day} • Dépenses`,
+        color: 0xe74c3c,
+        fields: rankingFieldsByEmpireFromRows(
+          data.province,
+          'expense',
+          '💸 Dépenses',
+          'province'
+        )
+      },
+      {
+        title: `🏆 Villes — ${day} • Revenus`,
+        color: 0x2ecc71,
+        fields: rankingFieldsByEmpireFromRows(
+          data.city,
+          'income',
+          '💰 Revenus',
+          'city'
+        )
+      },
+      {
+        title: `💸 Villes — ${day} • Dépenses`,
+        color: 0xe74c3c,
+        fields: rankingFieldsByEmpireFromRows(
+          data.city,
+          'expense',
+          '💸 Dépenses',
+          'city'
+        )
+      }
+    ];
 
-        const sections = [
-        {
-            title: `🏆 Empires — ${day} • Revenus`,
-            color: 0x2ecc71,
-            fields: rankingFields(empires, 'income', '💰 Revenus')
-        },
-        {
-            title: `💸 Empires — ${day} • Dépenses`,
-            color: 0xe74c3c,
-            fields: rankingFields(empires, 'expense', '💸 Dépenses')
-        },
-        {
-            title: `🏆 Provinces — ${day} • Revenus`,
-            color: 0x2ecc71,
-            fields: rankingFieldsGroupedByEmpire(provinces, 'income', '💰 Revenus')
-        },
-        {
-            title: `💸 Provinces — ${day} • Dépenses`,
-            color: 0xe74c3c,
-            fields: rankingFieldsGroupedByEmpire(provinces, 'expense', '💸 Dépenses')
-        },
-        {
-            title: `🏆 Villes — ${day} • Revenus`,
-            color: 0x2ecc71,
-            fields: rankingFieldsGroupedByEmpire(cities, 'income', '💰 Revenus')
-        },
-        {
-            title: `💸 Villes — ${day} • Dépenses`,
-            color: 0xe74c3c,
-            fields: rankingFieldsGroupedByEmpire(cities, 'expense', '💸 Dépenses')
-        }
-        ];
+    // =========================
+    // 📨 DISCORD SEND
+    // =========================
 
-for (const section of sections) {
-  if (!section.fields || section.fields.length === 0) {
-    console.log(`⏭️ Section ignorée (vide) : ${section.title}`);
-    continue;
-  }
+    for (const section of sections) {
+      if (!section.fields || section.fields.length === 0) {
+        console.log(`⏭️ Section ignorée (vide) : ${section.title}`);
+        continue;
+      }
 
-  await sendWebhookGuaranteed(DISCORD_STATS_WEBHOOK, {
-    embeds: [{
-      title: section.title,
-      color: section.color,
-      fields: section.fields
-    }]
-  });
+      await sendWebhookGuaranteed(DISCORD_STATS_WEBHOOK, {
+        embeds: [{
+          title: section.title,
+          color: section.color,
+          fields: section.fields
+        }]
+      });
 
-  await new Promise(r => setTimeout(r, 300));
-}
+      // confort anti-rate-limit
+      await new Promise(r => setTimeout(r, 300));
+    }
 
     sentDays.add(day);
     saveJSON(STATS_SENT_FILE, [...sentDays]);
