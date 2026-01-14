@@ -23,6 +23,8 @@ const WORLD = JSON.parse(
 // Index inverse : ville → province
 const CITY_TO_REGION = {};
 const REGION_TO_EMPIRE = {};
+const STATS_FILE = `${DATA_DIR}/daily_tax_stats.json`;
+const STATS_SENT_FILE = `${DATA_DIR}/stats_sent_days.json`;
 
 for (const [empire, data] of Object.entries(WORLD)) {
   for (const [region, cities] of Object.entries(data.regions)) {
@@ -470,7 +472,11 @@ async function sendDailyRanking(stats) {
   const sentDays = new Set(loadJSON(STATS_SENT_FILE, []));
 
   for (const [day, data] of Object.entries(stats)) {
-    if (sentDays.has(day)) continue;
+    if (sentDays.has(day)) continue; // ⛔ déjà envoyé
+
+    // ⚠️ OPTIONNEL MAIS RECOMMANDÉ :
+    // n’envoyer que si on a bien dépassé minuit
+    if (day === new Date().toISOString().slice(0, 10)) continue;
 
     const embeds = [
       {
@@ -674,12 +680,13 @@ if (timeRegex.test(time) && eventText) {
   const dailyLogs = buildDailyFinanceLogs(events, WORLD);
   saveDailyLogs(dailyLogs);
 
-  await sendToDiscord(events);
+
   //Stats to Discord
   const dailyStats = buildDailyStats(events);
   saveJSON(STATS_FILE, dailyStats);
   await sendDailyRanking(dailyStats);
 
+  await sendToDiscord(events);
   await browser.close();
 
   console.log(`✅ Terminé — total événements : ${events.length}`);
