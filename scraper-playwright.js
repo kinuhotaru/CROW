@@ -20,6 +20,18 @@ const EVENT_TTL_MS = 1000 * 60 * 60 * 24 * 30; // 30 jours de récursion
 const WORLD = JSON.parse(
   fs.readFileSync('./kraland_territories.json', 'utf8')
 );
+// Index inverse : ville → province
+const CITY_TO_REGION = {};
+const REGION_TO_EMPIRE = {};
+
+for (const [empire, data] of Object.entries(WORLD)) {
+  for (const [region, cities] of Object.entries(data.regions)) {
+    REGION_TO_EMPIRE[region] = empire;
+    for (const city of cities) {
+      CITY_TO_REGION[city] = region;
+    }
+  }
+}
 const STATS_FILE = `${DATA_DIR}/tax_stats.json`;
 const STATS_SENT_FILE = `${DATA_DIR}/stats_sent_days.json`;
 
@@ -235,31 +247,50 @@ async function sendWebhookGuaranteed(payload) {
 function extractTaxAmount(text) {
   if (!text) return null;
 
-  // Ex: "récolte 739 ÐE d'impôts"
   const match = text.match(/récolte\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/i);
   if (!match) return null;
 
-  return{
-    amount: parseInt(match[1].replace(/\s/g, ''), 10),
+  return {
+    amount: Number(match[1].replace(/\s/g, '')),
     currency: match[2]
-  }
+  };
 }
 
 function buildTaxStats(events) {
   const stats = {};
 
   for (const e of events) {
-    const amount = extractTaxAmount(e.text);
-    if (amount === null) continue;
+    const tax = extractTaxAmount(e.text);
+    if (!tax) continue;
 
+    const { amount } = tax;
     const day = e.date;
-    const empire = e.empire || 'Inconnu';
-    const province = e.province || 'Inconnu';
-    const city = e.city || null;
 
+    // --- Empire ---
+    const empire = e.empire && WORLD[e.empire]
+      ? e.empire
+      : REGION_TO_EMPIRE[e.province] || 'Inconnu';
+
+    if (!WORLD[empire]) continue;
+
+    const currency = WORLD[empire].currency;
+
+    // --- Province ---
+    let province = e.province;
+
+    // Si on a une ville, on remonte à la province
+    if (e.city && CITY_TO_REGION[e.city]) {
+      province = CITY_TO_REGION[e.city];
+    }
+
+    if (!province || !WORLD[empire].regions[province]) {
+      province = 'Inconnu';
+    }
+
+    // --- Init structures ---
     stats[day] ??= {};
     stats[day][empire] ??= {
-      currency: WORLD[empire]?.currency ?? '?',
+      currency,
       total: 0,
       provinces: {}
     };
@@ -274,9 +305,9 @@ function buildTaxStats(events) {
 
     empireBlock.provinces[province].total += amount;
 
-    if (city) {
-      empireBlock.provinces[province].cities[city] ??= 0;
-      empireBlock.provinces[province].cities[city] += amount;
+    if (e.city) {
+      empireBlock.provinces[province].cities[e.city] ??= 0;
+      empireBlock.provinces[province].cities[e.city] += amount;
     }
   }
 
@@ -485,6 +516,15 @@ function renderBars(data, maxBars = 5, width = 20) {
     const bar = '█'.repeat(size) + '░'.repeat(width - size);
     return `**${label}**\n${bar} ${value.toLocaleString()}`;
   });
+}
+
+function groupEventsByDate(events) {
+  return events.reduce((acc, e) => {
+    if (!e.date) return acc;
+    acc[e.date] ??= [];
+    acc[e.date].push(e);
+    return acc;
+  }, {});
 }
 
 async function sendDailyStats(events) {
