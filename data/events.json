@@ -671,6 +671,36 @@
   },
   {
     "date": "2026-01-07",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "",
+    "text": "La province Plaine Irradiée récolte 281 ¢¢ d'impôts.",
+    "key": "2026-01-07|00:01|confederation libre|plaine irradiee||la province plaine irradiee recolte 281 ¢¢ d'impots.",
+    "firstSeen": "2026-01-14T05:54:33.427Z"
+  },
+  {
+    "date": "2026-01-07",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "",
+    "text": "La province Sibéria récolte 169 Éf d'impôts.",
+    "key": "2026-01-07|00:01|paradigme vert|siberia||la province siberia recolte 169 ef d'impots.",
+    "firstSeen": "2026-01-14T05:54:34.536Z"
+  },
+  {
+    "date": "2026-01-07",
+    "time": "00:01",
+    "empire": "Mondial",
+    "province": "",
+    "city": "",
+    "text": "Il se murmure que la relique Méta-Concepts de Bolo Polo aurait fait sa réapparition dans le cybermonde.",
+    "key": "2026-01-07|00:01|mondial|||il se murmure que la relique meta-concepts de bolo polo aurait fait sa reapparition dans le cybermonde.",
+    "firstSeen": "2026-01-14T05:54:35.616Z"
+  },
+  {
+    "date": "2026-01-07",
     "time": "00:02",
     "empire": "Empire Brun",
     "province": "Sicilia",
@@ -1751,6 +1781,16 @@
   },
   {
     "date": "2026-01-07",
+    "time": "12:08",
+    "empire": "Confédération Libre",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Bladimir Bladimirovitch Mutin a réussi l'examen du ruban et obtenu la récompense Ruban Gris, ce qui lui permet de poursuivre sa carrière dans la Confédération Libre.",
+    "key": "2026-01-07|12:08|confederation libre|sicilia|trou perdu|bladimir bladimirovitch mutin a reussi l'examen du ruban et obtenu la recompense ruban gris, ce qui lui permet de poursuivre sa carriere dans la confederation libre.",
+    "firstSeen": "2026-01-14T05:54:26.675Z"
+  },
+  {
+    "date": "2026-01-07",
     "time": "12:09",
     "empire": "République de Kraland",
     "province": "Elmérie",
@@ -2008,6 +2048,16 @@
     "text": "Capitaine Igloo a retiré sa candidature aux élections pour le poste de Khan de la province Elmérie : « Cap sur l’horizon, équipage. Moi, capitaine de ce navire battu par les vents et les ambitions, je range aujourd’hui mon sabre électoral dans son fourreau. Je me retire de la course au titre de Khan. Non par faiblesse, mais par lecture attentive des courants du destin. Les astres ont parlé, et Sincérité les a entendus avant nous tous. Qu’il prenne la barre. Je lui cède ma place avec confiance, car un bon capitaine sait reconnaître la bonne étoile quand elle brille sur un autre mât. Le navire continue sa route. Moi, je me concentre sur Igloo. »",
     "key": "2026-01-07|14:08|khanat elmerien|elmerie||capitaine igloo a retire sa candidature aux elections pour le poste de khan de la province elmerie : \" cap sur l'horizon, equipage. moi, capitaine de ce navire battu par les vents et les ambitions, je range aujourd'hui mon sabre electoral dans son fourreau. je me retire de la course au titre de khan. non par faiblesse, mais par lecture attentive des courants du destin. les astres ont parle, et sincerite les a entendus avant nous tous. qu'il prenne la barre. je lui cede ma place avec confiance, car un bon capitaine sait reconnaitre la bonne etoile quand elle brille sur un autre mat. le navire continue sa route. moi, je me concentre sur igloo. \"",
     "firstSeen": "2026-01-14T05:24:56.602Z"
+  },
+  {
+    "date": "2026-01-07",
+    "time": "14:08",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Capitaine Igloo a retiré sa candidature aux élections pour le poste de Khan de la province Elmérie : « Cap sur l’horizon, équipage. Moi, capitaine de ce navire battu par les vents et les ambitions, je range aujourd’hui mon sabre électoral dans son fourreau. Je me retire de la course au titre de Khan. Non par faiblesse, mais par lecture attentive des courants du destin. Les astres ont parlé, et Sincérité les a entendus avant nous tous. Qu’il prenne la barre. Je lui cède ma place avec confiance, car un bon capitaine sait reconnaître la bonne étoile quand elle brille sur un autre mât. Le navire continue sa route. Moi, je me concentre sur Igloo. »",
+    "key": "2026-01-07|14:08|khanat elmerien|elmerie|igloo|capitaine igloo a retire sa candidature aux elections pour le poste de khan de la province elmerie : \" cap sur l'horizon, equipage. moi, capitaine de ce navire battu par les vents et les ambitions, je range aujourd'hui mon sabre electoral dans son fourreau. je me retire de la course au titre de khan. non par faiblesse, mais par lecture attentive des courants du destin. les astres ont parle, et sincerite les a entendus avant nous tous. qu'il prenne la barre. je lui cede ma place avec confiance, car un bon capitaine sait reconnaitre la bonne etoile quand elle brille sur un autre mat. le navire continue sa route. moi, je me concentre sur igloo. \"",
+    "firstSeen": "2026-01-14T05:54:25.555Z"
   },
   {
     "date": "2026-01-07",
@@ -2751,6 +2801,16 @@
   },
   {
     "date": "2026-01-07",
+    "time": "23:12",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "",
+    "text": "Le Ministre de l'Économie Simon Halden a adressé un discours à la population : « Citoyennes, citoyens, Voilà bientôt une semaine que j’ai pris mes fonctions au ministère de l’Économie. Je tiens d’ores et déjà à remercier l’ensemble des acteurs — citoyens, entrepreneurs, bâtisseurs et fonctionnaires — qui se sont emparés de cette dynamique de reconstruction avec sérieux et pragmatisme en suivant notre programme économique. Les premiers indicateurs sont plus qu'encourageants, et la Confédération se positionne aujourd’hui de manière solide dans le Cybermonde. Conformément à l’esprit de clarté et de responsabilité qui guide mon action, un bilan économique sera présenté à l’issue de cette première semaine, afin de mesurer les avancées, identifier les points de tension et ajuster nos priorités si nécessaire. Merci à toutes et tous pour votre implication et bien entendu un grand merci à notre Président qui est à la base de nos actions. La reconstruction est collective, et elle est déjà en marche. »",
+    "key": "2026-01-07|23:12|confederation libre|acropole||le ministre de l'economie simon halden a adresse un discours a la population : \" citoyennes, citoyens, voila bientot une semaine que j'ai pris mes fonctions au ministere de l'economie. je tiens d'ores et deja a remercier l'ensemble des acteurs — citoyens, entrepreneurs, batisseurs et fonctionnaires — qui se sont empares de cette dynamique de reconstruction avec serieux et pragmatisme en suivant notre programme economique. les premiers indicateurs sont plus qu'encourageants, et la confederation se positionne aujourd'hui de maniere solide dans le cybermonde. conformement a l'esprit de clarte et de responsabilite qui guide mon action, un bilan economique sera presente a l'issue de cette premiere semaine, afin de mesurer les avancees, identifier les points de tension et ajuster nos priorites si necessaire. merci a toutes et tous pour votre implication et bien entendu un grand merci a notre president qui est a la base de nos actions. la reconstruction est collective, et elle est deja en marche. \"",
+    "firstSeen": "2026-01-14T05:54:20.980Z"
+  },
+  {
+    "date": "2026-01-07",
     "time": "23:14",
     "empire": "Confédération Libre",
     "province": "Acropole",
@@ -2758,6 +2818,16 @@
     "text": "Evan Garcia Liszt s'est fait agresser par un groupe de créatures mené par Cheval.",
     "key": "2026-01-07|23:14|confederation libre|acropole|leprosie|evan garcia liszt s'est fait agresser par un groupe de creatures mene par cheval.",
     "firstSeen": "2026-01-14T05:24:49.818Z"
+  },
+  {
+    "date": "2026-01-07",
+    "time": "23:14",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "",
+    "text": "Evan Garcia Liszt s'est fait agresser par un groupe de créatures mené par Cheval.",
+    "key": "2026-01-07|23:14|confederation libre|acropole||evan garcia liszt s'est fait agresser par un groupe de creatures mene par cheval.",
+    "firstSeen": "2026-01-14T05:54:20.980Z"
   },
   {
     "date": "2026-01-07",
@@ -3471,6 +3541,36 @@
   },
   {
     "date": "2026-01-08",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Le Khanat Elmérien récolte 806 ÐE d'impôts. Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 81 ÐE, Ministère de la Guerre 81 ÐE, Ministère de la Justice 81 ÐE, Ministère des Affaires Étrangères 81 ÐE, Ministère de l'Économie 81 ÐE, Ministère de la Recherche 81 ÐE, Ministère de l'Intérieur 81 ÐE, Ministère de l'Information 81 ÐE, Ministère des Services Secrets 81 ÐE, Ministère du Travail 77 ÐE.",
+    "key": "2026-01-08|00:01|khanat elmerien|milieu|structural|le khanat elmerien recolte 806 ðe d'impots. les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 81 ðe, ministere de la guerre 81 ðe, ministere de la justice 81 ðe, ministere des affaires etrangeres 81 ðe, ministere de l'economie 81 ðe, ministere de la recherche 81 ðe, ministere de l'interieur 81 ðe, ministere de l'information 81 ðe, ministere des services secrets 81 ðe, ministere du travail 77 ðe.",
+    "firstSeen": "2026-01-14T05:54:18.737Z"
+  },
+  {
+    "date": "2026-01-08",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Structural",
+    "text": "La province Bananie récolte 336 ÐE d'impôts.",
+    "key": "2026-01-08|00:01|khanat elmerien|bananie|structural|la province bananie recolte 336 ðe d'impots.",
+    "firstSeen": "2026-01-14T05:54:18.737Z"
+  },
+  {
+    "date": "2026-01-08",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Lampe du Génie",
+    "text": "La province Santa Banana récolte 335 MØ d'impôts.",
+    "key": "2026-01-08|00:01|empire brun|santa banana|lampe du genie|la province santa banana recolte 335 mø d'impots.",
+    "firstSeen": "2026-01-14T05:54:19.886Z"
+  },
+  {
+    "date": "2026-01-08",
     "time": "00:03",
     "empire": "Confédération Libre",
     "province": "Plaine Irradiée",
@@ -3751,6 +3851,16 @@
   },
   {
     "date": "2026-01-08",
+    "time": "01:43",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Kraland",
+    "city": "",
+    "text": "Le Ministre de la Recherche Diagonale a adressé un discours à la population : « Nobles de Ruthvénie ! Et les autres. Suite au premier SISO tenu a Structural par le GOAT (oui ce sont des acronymes mais j'ai fait dix heures de route pour arriver à mon ministère, il n'y a pas d'eau chaude ni d'électricité et une seule bougie et je n'ai toujours pas vu Marianne... alors vous irez voir sur la place internationale pour les détails), la livraison de technologies aléocrates à la Ruthvénie va pouvoir commencer. Le budget étant... mmm... limité !... et en partie dédié aux besoins de notre vénéré Monarque, nous allons commencer par développer des infrastructures pour limiter l'évasion fiscale et économiser de précieuses couronnes. Ensuite, on pushera directement sur l'environnement de prod on essaimera dans toutes les universités Ruthvènes. C'est un petit peu lent, mais bon, il y a moins d'une semaine c'était l'apocalypse. Relativisons. Pour celles qui sont intéressées par la théologie, l'UFR de Théologie Quantique de Ruthvenville vient d'ouvrir. Vous pourrez y discuter de choses fascinantes comme \"peut-on être ET ne pas être en relation monogame\", \"peut-on être hétérosexuelle et faire des rêves humides de la Grande Déesse\", etc. Diagonale, Ministre de la Recherche. PS: On m'a informé qu'une pluie de chaussettes à paillettes avait eu lieu sur le nord de la Ruthvénie. Le secrétariat de l'accueil de la conf-call du think-tank du Mynistère de la Vérité Quantique m'a confirmé n'y être pour rien. Il s'agit probablement d'un événement météorologique tout à fait normal, probablement un textilonimbus. Le bon côté des choses, c'est que vous aurez chaud aux pieds la nuit. (bon, par contre c'est majoritairement du taille S. Mais si les hommes cisgenre meurent de froid, ce sera la sélection naturelle.) »",
+    "key": "2026-01-08|01:43|royaume de ruthvenie|kraland||le ministre de la recherche diagonale a adresse un discours a la population : \" nobles de ruthvenie ! et les autres. suite au premier siso tenu a structural par le goat (oui ce sont des acronymes mais j'ai fait dix heures de route pour arriver a mon ministere, il n'y a pas d'eau chaude ni d'electricite et une seule bougie et je n'ai toujours pas vu marianne... alors vous irez voir sur la place internationale pour les details), la livraison de technologies aleocrates a la ruthvenie va pouvoir commencer. le budget etant... mmm... limite !... et en partie dedie aux besoins de notre venere monarque, nous allons commencer par developper des infrastructures pour limiter l'evasion fiscale et economiser de precieuses couronnes. ensuite, on pushera directement sur l'environnement de prod on essaimera dans toutes les universites ruthvenes. c'est un petit peu lent, mais bon, il y a moins d'une semaine c'etait l'apocalypse. relativisons. pour celles qui sont interessees par la theologie, l'ufr de theologie quantique de ruthvenville vient d'ouvrir. vous pourrez y discuter de choses fascinantes comme \"peut-on etre et ne pas etre en relation monogame\", \"peut-on etre heterosexuelle et faire des reves humides de la grande deesse\", etc. diagonale, ministre de la recherche. ps: on m'a informe qu'une pluie de chaussettes a paillettes avait eu lieu sur le nord de la ruthvenie. le secretariat de l'accueil de la conf-call du think-tank du mynistere de la verite quantique m'a confirme n'y etre pour rien. il s'agit probablement d'un evenement meteorologique tout a fait normal, probablement un textilonimbus. le bon cote des choses, c'est que vous aurez chaud aux pieds la nuit. (bon, par contre c'est majoritairement du taille s. mais si les hommes cisgenre meurent de froid, ce sera la selection naturelle.) \"",
+    "firstSeen": "2026-01-14T05:54:16.488Z"
+  },
+  {
+    "date": "2026-01-08",
     "time": "02:05",
     "empire": "Confédération Libre",
     "province": "Acropole",
@@ -3768,6 +3878,16 @@
     "text": "Alex KidoWski a fait la déclaration officielle suivante aux habitants de la province Kraland : « Construisez une prison, 🏘️😀 Dans un coin de la ville, au Nord de préférence, entourée de végétation. Le travail c'est la santé ! »",
     "key": "2026-01-08|02:05|republique de kraland|kraland|forum|alex kidowski a fait la declaration officielle suivante aux habitants de la province kraland : \" construisez une prison, 🏘️😀 dans un coin de la ville, au nord de preference, entouree de vegetation. le travail c'est la sante ! \"",
     "firstSeen": "2026-01-14T05:24:43.037Z"
+  },
+  {
+    "date": "2026-01-08",
+    "time": "02:05",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "",
+    "text": "Alex KidoWski a fait la déclaration officielle suivante aux habitants de la province Kraland : « Construisez une prison, 🏘️😀 Dans un coin de la ville, au Nord de préférence, entourée de végétation. Le travail c'est la santé ! »",
+    "key": "2026-01-08|02:05|republique de kraland|kraland||alex kidowski a fait la declaration officielle suivante aux habitants de la province kraland : \" construisez une prison, 🏘️😀 dans un coin de la ville, au nord de preference, entouree de vegetation. le travail c'est la sante ! \"",
+    "firstSeen": "2026-01-14T05:54:16.488Z"
   },
   {
     "date": "2026-01-08",
@@ -4481,6 +4601,16 @@
   },
   {
     "date": "2026-01-08",
+    "time": "16:35",
+    "empire": "Empire Brun",
+    "province": "Plaine Irradiée",
+    "city": "Gynerak",
+    "text": "La Ministre de l'Économie (f.f.) Agatha von Krarovich a versé 1000 MØ au Ministère de la Recherche.",
+    "key": "2026-01-08|16:35|empire brun|plaine irradiee|gynerak|la ministre de l'economie (f.f.) agatha von krarovich a verse 1000 mø au ministere de la recherche.",
+    "firstSeen": "2026-01-14T05:54:11.887Z"
+  },
+  {
+    "date": "2026-01-08",
     "time": "16:50",
     "empire": "Confédération Libre",
     "province": "Plaine Irradiée",
@@ -4491,6 +4621,16 @@
   },
   {
     "date": "2026-01-08",
+    "time": "16:50",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Gynerak",
+    "text": "Le Gouverneur Pr Jean-Michel Nobyl a nommé Aladin au poste de Bourgmestre de la ville Atome.",
+    "key": "2026-01-08|16:50|confederation libre|plaine irradiee|gynerak|le gouverneur pr jean-michel nobyl a nomme aladin au poste de bourgmestre de la ville atome.",
+    "firstSeen": "2026-01-14T05:54:11.887Z"
+  },
+  {
+    "date": "2026-01-08",
     "time": "16:53",
     "empire": "Confédération Libre",
     "province": "Plaine Irradiée",
@@ -4498,6 +4638,16 @@
     "text": "Le Gouverneur Pr Jean-Michel Nobyl a adressé un discours à la population : « Chers mutants ! Je nomme Aladin pour s'occuper d'Atome, vu que c'est le seul candidat jusqu'à maintenant et que nous avons une urgence sur les bras. Sinon qui est en train d'arracher les arbres mutants de la ville !!! Aladin veuillez trouver tout de suite qui est cette personne ! Mais que fait la police ? Isotropine, on a besoin de votre hache ! »",
     "key": "2026-01-08|16:53|confederation libre|plaine irradiee||le gouverneur pr jean-michel nobyl a adresse un discours a la population : \" chers mutants ! je nomme aladin pour s'occuper d'atome, vu que c'est le seul candidat jusqu'a maintenant et que nous avons une urgence sur les bras. sinon qui est en train d'arracher les arbres mutants de la ville !!! aladin veuillez trouver tout de suite qui est cette personne ! mais que fait la police ? isotropine, on a besoin de votre hache ! \"",
     "firstSeen": "2026-01-14T05:24:40.249Z"
+  },
+  {
+    "date": "2026-01-08",
+    "time": "16:53",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Gynerak",
+    "text": "Le Gouverneur Pr Jean-Michel Nobyl a adressé un discours à la population : « Chers mutants ! Je nomme Aladin pour s'occuper d'Atome, vu que c'est le seul candidat jusqu'à maintenant et que nous avons une urgence sur les bras. Sinon qui est en train d'arracher les arbres mutants de la ville !!! Aladin veuillez trouver tout de suite qui est cette personne ! Mais que fait la police ? Isotropine, on a besoin de votre hache ! »",
+    "key": "2026-01-08|16:53|confederation libre|plaine irradiee|gynerak|le gouverneur pr jean-michel nobyl a adresse un discours a la population : \" chers mutants ! je nomme aladin pour s'occuper d'atome, vu que c'est le seul candidat jusqu'a maintenant et que nous avons une urgence sur les bras. sinon qui est en train d'arracher les arbres mutants de la ville !!! aladin veuillez trouver tout de suite qui est cette personne ! mais que fait la police ? isotropine, on a besoin de votre hache ! \"",
+    "firstSeen": "2026-01-14T05:54:11.887Z"
   },
   {
     "date": "2026-01-08",
@@ -5251,6 +5401,16 @@
   },
   {
     "date": "2026-01-08",
+    "time": "22:26",
+    "empire": "République de Kraland",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "La Première Ministre Magritte Lenouar a adressé un discours à la population : « Bonjour Kralandais ! Bonjour Kramarades ! C'est vraiment très compliqué en ce moment... J'ai un peu l'impression que le Cybermonde nous a demandé la racine carré de 1764 juste avant de balancer notre calculatrice par la fenêtre... Heureusement ! La République a toujours la bonne réponse ! Que ce soit la vie, l'Univers ou n'importe quoi, la République a toujours la réponse appropriée ! Ce sera pas l'absence matérielle de bouton racine carré qui va empêcher le Social-Graffitisme de trouver la racine carré de 1764 ! On en reparlera. Donc ! Je viens voir tous les Kramarades aujourd'hui pour les prévenir d'une chose : les prisons et les commissariats vont être détruites ! La Ministre Cassandre a parlé pendant longtemps et plein de fois sur le fait que la Police était interdite en République de Kraland ! La police est un concept qui sert à rien dans un pays où personne a quoi que ce soit d'utile à voler parce que tout a déjà été partagé avec tous les autres Kramarades ! Il n'y a pas de crime dans un pays où la richesse c'est le Kramarade qu'on a en nous ! Construire des prisons, construire des Commissariats, recruter des policiers, c'est aller contre l'idée même de la République et de la redistribution des richesses ! Il faut donner ce que vous avez en trop Kramarades et pas avoir peur que le voleur passe ! Enfin, dans tous les cas, les prisons et les commissariats seront détruits demain ou après demain ! Le parti les fera remplacer par des drapeaux, des statues et peut-être même des fontaines ! Bonne chance Kramarades ! »",
+    "key": "2026-01-08|22:26|republique de kraland|ruthvenie|lantenac-du-lac|la premiere ministre magritte lenouar a adresse un discours a la population : \" bonjour kralandais ! bonjour kramarades ! c'est vraiment tres complique en ce moment... j'ai un peu l'impression que le cybermonde nous a demande la racine carre de 1764 juste avant de balancer notre calculatrice par la fenetre... heureusement ! la republique a toujours la bonne reponse ! que ce soit la vie, l'univers ou n'importe quoi, la republique a toujours la reponse appropriee ! ce sera pas l'absence materielle de bouton racine carre qui va empecher le social-graffitisme de trouver la racine carre de 1764 ! on en reparlera. donc ! je viens voir tous les kramarades aujourd'hui pour les prevenir d'une chose : les prisons et les commissariats vont etre detruites ! la ministre cassandre a parle pendant longtemps et plein de fois sur le fait que la police etait interdite en republique de kraland ! la police est un concept qui sert a rien dans un pays ou personne a quoi que ce soit d'utile a voler parce que tout a deja ete partage avec tous les autres kramarades ! il n'y a pas de crime dans un pays ou la richesse c'est le kramarade qu'on a en nous ! construire des prisons, construire des commissariats, recruter des policiers, c'est aller contre l'idee meme de la republique et de la redistribution des richesses ! il faut donner ce que vous avez en trop kramarades et pas avoir peur que le voleur passe ! enfin, dans tous les cas, les prisons et les commissariats seront detruits demain ou apres demain ! le parti les fera remplacer par des drapeaux, des statues et peut-etre meme des fontaines ! bonne chance kramarades ! \"",
+    "firstSeen": "2026-01-14T05:54:07.289Z"
+  },
+  {
+    "date": "2026-01-08",
     "time": "22:34",
     "empire": "Royaume de Ruthvénie",
     "province": "Ruthvénie",
@@ -5991,6 +6151,26 @@
   },
   {
     "date": "2026-01-09",
+    "time": "00:01",
+    "empire": "Provinces indépendantes",
+    "province": "Australine",
+    "city": "Trou Perdu",
+    "text": "La province Australine récolte 0 PO d'impôts.",
+    "key": "2026-01-09|00:01|provinces independantes|australine|trou perdu|la province australine recolte 0 po d'impots.",
+    "firstSeen": "2026-01-14T05:54:03.756Z"
+  },
+  {
+    "date": "2026-01-09",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "",
+    "text": "La province Bananie récolte 429 ÐE d'impôts.",
+    "key": "2026-01-09|00:01|khanat elmerien|bananie||la province bananie recolte 429 ðe d'impots.",
+    "firstSeen": "2026-01-14T05:54:04.867Z"
+  },
+  {
+    "date": "2026-01-09",
     "time": "00:02",
     "empire": "Khanat Elmérien",
     "province": "",
@@ -5998,6 +6178,16 @@
     "text": "Rhadamanthe Seraven a fondé l'organisation politique Pacifista.",
     "key": "2026-01-09|00:02|khanat elmerien|||rhadamanthe seraven a fonde l'organisation politique pacifista.",
     "firstSeen": "2026-01-14T05:24:30.697Z"
+  },
+  {
+    "date": "2026-01-09",
+    "time": "00:02",
+    "empire": "Khanat Elmérien",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Rhadamanthe Seraven a fondé l'organisation politique Pacifista.",
+    "key": "2026-01-09|00:02|khanat elmerien|sicilia|trou perdu|rhadamanthe seraven a fonde l'organisation politique pacifista.",
+    "firstSeen": "2026-01-14T05:54:03.756Z"
   },
   {
     "date": "2026-01-09",
@@ -6261,6 +6451,16 @@
   },
   {
     "date": "2026-01-09",
+    "time": "00:45",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "La Gouverneure Simone Voile a adressé un discours à la population : « Kramarades, ouvrez vos chakras et fermez vos manuels d'histoire officiels ! On nous ment ! On nous endort avec des histoires de budget et de \"bugs\" informatiques... Foutaises ! J'ai passé la nuit à analyser les fluctuations du marché du fenouil et les vieilles gravures des temples bruns, et la vérité m'a frappée comme une brique de l'Hélénie en pleine face ! Les Superviseurs... ces entités invisibles qui tirent les ficelles, qui décident de la pluie, du beau temps et de la fiscalité... Vous croyez vraiment qu'ils sont là pour nous ? NON ! Ce sont EUX ! Les Annunakis ! Ces Singes Cosmiques venus du fond de la galaxie ! Ils ne sont pas juste des \"admins\". Ils sont nos créateurs maudits ! Il y a des millénaires, ces primates célestes sont descendus et ont... copulé avec nos ancêtres ! Oui, ils ont souillé notre pureté fluide avec leur ADN de brute rigide ! C'est de là que vient tout notre malheur ! Cette obsession pour la propriété, pour les frontières, pour la binarité \"Homme/Femme\", \"Rouge/Brun\"... C'est leur héritage génétique ! Ils ont injecté la Rigidité dans notre sang pour nous contrôler ! Pourquoi croyez-vous que la vie est parfois si dure ? C'est le plan des Singes ! Ils veulent nous transformer en bananes dociles dans leur régime totalitaire ! Mais je les vois... Je vois leur poil cosmique dépasser des nuages ! Ils manipulent les taux de change pour nous empêcher d'atteindre l'Élasticité Suprême ! Kramarades, la seule façon de vaincre l'Annunaki-Superviseur qui sommeille en nous, c'est la Déconstruction Totale ! Refusez leur logique simiesque ! Soyez mous ! Soyez flous ! Glissez entre leurs gros doigts velus ! Ils ont baisé nos ancêtres, mais ils ne baiseront pas nos esprits ! Le Fenouil est la clé, il vibre à une fréquence qu'ils ne supportent pas ! KRA20KRA ! Nous sachons ! Simone Voile Gouverneure d'Hélénie, Traqueuse de Primates (...) »",
+    "key": "2026-01-09|00:45|republique de kraland|||la gouverneure simone voile a adresse un discours a la population : \" kramarades, ouvrez vos chakras et fermez vos manuels d'histoire officiels ! on nous ment ! on nous endort avec des histoires de budget et de \"bugs\" informatiques... foutaises ! j'ai passe la nuit a analyser les fluctuations du marche du fenouil et les vieilles gravures des temples bruns, et la verite m'a frappee comme une brique de l'helenie en pleine face ! les superviseurs... ces entites invisibles qui tirent les ficelles, qui decident de la pluie, du beau temps et de la fiscalite... vous croyez vraiment qu'ils sont la pour nous ? non ! ce sont eux ! les annunakis ! ces singes cosmiques venus du fond de la galaxie ! ils ne sont pas juste des \"admins\". ils sont nos createurs maudits ! il y a des millenaires, ces primates celestes sont descendus et ont... copule avec nos ancetres ! oui, ils ont souille notre purete fluide avec leur adn de brute rigide ! c'est de la que vient tout notre malheur ! cette obsession pour la propriete, pour les frontieres, pour la binarite \"homme/femme\", \"rouge/brun\"... c'est leur heritage genetique ! ils ont injecte la rigidite dans notre sang pour nous controler ! pourquoi croyez-vous que la vie est parfois si dure ? c'est le plan des singes ! ils veulent nous transformer en bananes dociles dans leur regime totalitaire ! mais je les vois... je vois leur poil cosmique depasser des nuages ! ils manipulent les taux de change pour nous empecher d'atteindre l'elasticite supreme ! kramarades, la seule facon de vaincre l'annunaki-superviseur qui sommeille en nous, c'est la deconstruction totale ! refusez leur logique simiesque ! soyez mous ! soyez flous ! glissez entre leurs gros doigts velus ! ils ont baise nos ancetres, mais ils ne baiseront pas nos esprits ! le fenouil est la cle, il vibre a une frequence qu'ils ne supportent pas ! kra20kra ! nous sachons ! simone voile gouverneure d'helenie, traqueuse de primates (...) \"",
+    "firstSeen": "2026-01-14T05:54:02.657Z"
+  },
+  {
+    "date": "2026-01-09",
     "time": "00:48",
     "empire": "Royaume de Ruthvénie",
     "province": "Crab Key",
@@ -6508,6 +6708,16 @@
     "text": "La Régente Stella Artois a adressé un discours à la population : « Yööööhm le Paradigme ! On sort tout juste d'une séance de méditation avec les quelques personnes qui sont venues me voir et c'était vraiment super. Super super même. Elles sont super sympas, sauf une mais heureusement elle est repartie. On en a profité pour discuter de choses très profondes, de sujets hyper importants et nous sommes tombées d'accord. Enfin je crois. Il faudra vérifier au réveil. C'est pour ça que maintenant nous avons deux ministres de plus. Miliana sera en charge de la tournée de chapeaux pour récolter de l'argent et Mina a reçu trois missions primordiales pour la recherche au Paradigme. Ou alors c'est l'inverse ? Je suis vraiment plus très sûre. Quoi qu'il en soit elles savent ce qu'elles ont à faire et elles auront Kardia Ravenloft pour leur porter assistance. Le Paradigme avance, très chère population. Le recensement débute sur les chapeaux de r... Pffrrrrrr HAHAHAHA hé Mina tu t'occupes aussi des chapeaux de roues ou pas ? *Elle quitte l'antenne en riant.* »",
     "key": "2026-01-09|02:54|paradigme vert|milieu|trou perdu|la regente stella artois a adresse un discours a la population : \" yoooohm le paradigme ! on sort tout juste d'une seance de meditation avec les quelques personnes qui sont venues me voir et c'etait vraiment super. super super meme. elles sont super sympas, sauf une mais heureusement elle est repartie. on en a profite pour discuter de choses tres profondes, de sujets hyper importants et nous sommes tombees d'accord. enfin je crois. il faudra verifier au reveil. c'est pour ca que maintenant nous avons deux ministres de plus. miliana sera en charge de la tournee de chapeaux pour recolter de l'argent et mina a recu trois missions primordiales pour la recherche au paradigme. ou alors c'est l'inverse ? je suis vraiment plus tres sure. quoi qu'il en soit elles savent ce qu'elles ont a faire et elles auront kardia ravenloft pour leur porter assistance. le paradigme avance, tres chere population. le recensement debute sur les chapeaux de r... pffrrrrrr hahahaha he mina tu t'occupes aussi des chapeaux de roues ou pas ? *elle quitte l'antenne en riant.* \"",
     "firstSeen": "2026-01-14T05:24:26.302Z"
+  },
+  {
+    "date": "2026-01-09",
+    "time": "02:54",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "La Régente Stella Artois a adressé un discours à la population : « Yööööhm le Paradigme ! On sort tout juste d'une séance de méditation avec les quelques personnes qui sont venues me voir et c'était vraiment super. Super super même. Elles sont super sympas, sauf une mais heureusement elle est repartie. On en a profité pour discuter de choses très profondes, de sujets hyper importants et nous sommes tombées d'accord. Enfin je crois. Il faudra vérifier au réveil. C'est pour ça que maintenant nous avons deux ministres de plus. Miliana sera en charge de la tournée de chapeaux pour récolter de l'argent et Mina a reçu trois missions primordiales pour la recherche au Paradigme. Ou alors c'est l'inverse ? Je suis vraiment plus très sûre. Quoi qu'il en soit elles savent ce qu'elles ont à faire et elles auront Kardia Ravenloft pour leur porter assistance. Le Paradigme avance, très chère population. Le recensement débute sur les chapeaux de r... Pffrrrrrr HAHAHAHA hé Mina tu t'occupes aussi des chapeaux de roues ou pas ? *Elle quitte l'antenne en riant.* »",
+    "key": "2026-01-09|02:54|paradigme vert|||la regente stella artois a adresse un discours a la population : \" yoooohm le paradigme ! on sort tout juste d'une seance de meditation avec les quelques personnes qui sont venues me voir et c'etait vraiment super. super super meme. elles sont super sympas, sauf une mais heureusement elle est repartie. on en a profite pour discuter de choses tres profondes, de sujets hyper importants et nous sommes tombees d'accord. enfin je crois. il faudra verifier au reveil. c'est pour ca que maintenant nous avons deux ministres de plus. miliana sera en charge de la tournee de chapeaux pour recolter de l'argent et mina a recu trois missions primordiales pour la recherche au paradigme. ou alors c'est l'inverse ? je suis vraiment plus tres sure. quoi qu'il en soit elles savent ce qu'elles ont a faire et elles auront kardia ravenloft pour leur porter assistance. le paradigme avance, tres chere population. le recensement debute sur les chapeaux de r... pffrrrrrr hahahaha he mina tu t'occupes aussi des chapeaux de roues ou pas ? *elle quitte l'antenne en riant.* \"",
+    "firstSeen": "2026-01-14T05:54:01.235Z"
   },
   {
     "date": "2026-01-09",
@@ -7511,6 +7721,16 @@
   },
   {
     "date": "2026-01-09",
+    "time": "20:28",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "Golshifteh Rafani a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun.",
+    "key": "2026-01-09|20:28|empire brun|||golshifteh rafani a reussi l'examen du ruban et obtenu la recompense ruban brun, ce qui lui permet de poursuivre sa carriere dans l'empire brun.",
+    "firstSeen": "2026-01-14T05:53:56.492Z"
+  },
+  {
+    "date": "2026-01-09",
     "time": "20:45",
     "empire": "Paradigme Vert",
     "province": "Mystisie",
@@ -8391,6 +8611,36 @@
   },
   {
     "date": "2026-01-10",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "La Confédération Libre récolte 1057 ¢¢ d'impôts et paie 100 ¢¢ pour ses employés (soldats). Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 96 ¢¢, Ministère de la Guerre 96 ¢¢, Ministère de la Justice 96 ¢¢, Ministère des Affaires Étrangères 96 ¢¢, Ministère de l'Économie 96 ¢¢, Ministère de la Recherche 96 ¢¢, Ministère de l'Intérieur 96 ¢¢, Ministère de l'Information 96 ¢¢, Ministère des Services Secrets 96 ¢¢, Ministère du Travail 93 ¢¢.",
+    "key": "2026-01-10|00:01|confederation libre|||la confederation libre recolte 1057 ¢¢ d'impots et paie 100 ¢¢ pour ses employes (soldats). les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 96 ¢¢, ministere de la guerre 96 ¢¢, ministere de la justice 96 ¢¢, ministere des affaires etrangeres 96 ¢¢, ministere de l'economie 96 ¢¢, ministere de la recherche 96 ¢¢, ministere de l'interieur 96 ¢¢, ministere de l'information 96 ¢¢, ministere des services secrets 96 ¢¢, ministere du travail 93 ¢¢.",
+    "firstSeen": "2026-01-14T05:53:52.990Z"
+  },
+  {
+    "date": "2026-01-10",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "",
+    "text": "La province Irendol récolte 195 Éf d'impôts.",
+    "key": "2026-01-10|00:01|paradigme vert|irendol||la province irendol recolte 195 ef d'impots.",
+    "firstSeen": "2026-01-14T05:53:54.070Z"
+  },
+  {
+    "date": "2026-01-10",
+    "time": "00:01",
+    "empire": "Mondial",
+    "province": "",
+    "city": "",
+    "text": "Il se murmure que la relique Bouteille de Gontrand de la Mortandière aurait fait sa réapparition dans le cybermonde.",
+    "key": "2026-01-10|00:01|mondial|||il se murmure que la relique bouteille de gontrand de la mortandiere aurait fait sa reapparition dans le cybermonde.",
+    "firstSeen": "2026-01-14T05:53:55.273Z"
+  },
+  {
+    "date": "2026-01-10",
     "time": "00:02",
     "empire": "Royaume de Ruthvénie",
     "province": "Ruthvénie",
@@ -8501,6 +8751,16 @@
   },
   {
     "date": "2026-01-10",
+    "time": "00:17",
+    "empire": "Confédération Libre",
+    "province": "Bouletie",
+    "city": "",
+    "text": "Le Ministre de l'Économie Simon Halden a adressé un discours à la population : « Citoyennes, citoyens, Une semaine s’est écoulée depuis la mise en œuvre du programme économique de la Confédération Libre. Il est temps d’en dresser un premier bilan. Avec 48 citoyens actifs, notre pays affiche aujourd’hui la meilleure richesse moyenne du Cybermonde, la meilleure richesse médiane, ainsi qu’un coefficient d’inégalité maîtrisé, signe d’une croissance globalement équilibrée. Ces résultats sont le fruit d’un effort collectif, porté par l’ensemble des provinces. Les provinces d’Acropole et du Milieu concentrent actuellement la plus grande part des recettes fiscales. Cela tient à leur densité de population et à leur rôle institutionnel, mais cette dynamique doit encore plus profiter à l’ensemble de la Confédération. Les provinces moins peuplées jouent elles aussi un rôle essentiel, qu’il s’agisse de production, de spécialisation ou de projets locaux. Il faut désormais accentuer l'effort sur les provinces moins peuplées. L’économie se porte bien. Les demandes de subventions se multiplient, émanant de provinces comme d’autres ministères. Afin d’accompagner cette croissance sans fragiliser nos finances publiques, nous avons fait le choix d’un engagement responsable : certains investissements initiaux seront assumés sur fonds propres, dans l’intérêt commun. Enfin, dans nos grandes villes comme dans nos territoires en développement, les scieries et briqueteries se structurent rapidement. Sécuriser ces filières de production est désormais une priorité partagée, car elles sont le socle sur lequel repose l’ensemble de notre économie. Enfin les commerces continuent de naître et c'est une excellente nouvelle. La Confédération avance ensemble. Notre responsabilité est désormais de consolider cette dynamique collective. »",
+    "key": "2026-01-10|00:17|confederation libre|bouletie||le ministre de l'economie simon halden a adresse un discours a la population : \" citoyennes, citoyens, une semaine s'est ecoulee depuis la mise en œuvre du programme economique de la confederation libre. il est temps d'en dresser un premier bilan. avec 48 citoyens actifs, notre pays affiche aujourd'hui la meilleure richesse moyenne du cybermonde, la meilleure richesse mediane, ainsi qu'un coefficient d'inegalite maitrise, signe d'une croissance globalement equilibree. ces resultats sont le fruit d'un effort collectif, porte par l'ensemble des provinces. les provinces d'acropole et du milieu concentrent actuellement la plus grande part des recettes fiscales. cela tient a leur densite de population et a leur role institutionnel, mais cette dynamique doit encore plus profiter a l'ensemble de la confederation. les provinces moins peuplees jouent elles aussi un role essentiel, qu'il s'agisse de production, de specialisation ou de projets locaux. il faut desormais accentuer l'effort sur les provinces moins peuplees. l'economie se porte bien. les demandes de subventions se multiplient, emanant de provinces comme d'autres ministeres. afin d'accompagner cette croissance sans fragiliser nos finances publiques, nous avons fait le choix d'un engagement responsable : certains investissements initiaux seront assumes sur fonds propres, dans l'interet commun. enfin, dans nos grandes villes comme dans nos territoires en developpement, les scieries et briqueteries se structurent rapidement. securiser ces filieres de production est desormais une priorite partagee, car elles sont le socle sur lequel repose l'ensemble de notre economie. enfin les commerces continuent de naitre et c'est une excellente nouvelle. la confederation avance ensemble. notre responsabilite est desormais de consolider cette dynamique collective. \"",
+    "firstSeen": "2026-01-14T05:53:51.908Z"
+  },
+  {
+    "date": "2026-01-10",
     "time": "00:20",
     "empire": "Khanat Elmérien",
     "province": "Elmérie",
@@ -8518,6 +8778,16 @@
     "text": "Giada Giulia Gluanta a trouvé un gros filon de pierre dans la province Bouletie.",
     "key": "2026-01-10|00:20|khanat elmerien|bouletie|gueule du lezard|giada giulia gluanta a trouve un gros filon de pierre dans la province bouletie.",
     "firstSeen": "2026-01-14T05:24:15.101Z"
+  },
+  {
+    "date": "2026-01-10",
+    "time": "00:20",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "",
+    "text": "Giada Giulia Gluanta a trouvé un gros filon de pierre dans la province Bouletie.",
+    "key": "2026-01-10|00:20|khanat elmerien|bouletie||giada giulia gluanta a trouve un gros filon de pierre dans la province bouletie.",
+    "firstSeen": "2026-01-14T05:53:51.908Z"
   },
   {
     "date": "2026-01-10",
@@ -9248,6 +9518,16 @@
     "text": "Emile Liarr a réussi l'examen du ruban et obtenu la récompense Ruban Bicolore, ce qui lui permet de poursuivre sa carrière dans le Royaume de Ruthvénie.",
     "key": "2026-01-10|11:31|royaume de ruthvenie|elmerie|gueule du lezard|emile liarr a reussi l'examen du ruban et obtenu la recompense ruban bicolore, ce qui lui permet de poursuivre sa carriere dans le royaume de ruthvenie.",
     "firstSeen": "2026-01-14T05:24:10.051Z"
+  },
+  {
+    "date": "2026-01-10",
+    "time": "11:31",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Emile Liarr a réussi l'examen du ruban et obtenu la récompense Ruban Bicolore, ce qui lui permet de poursuivre sa carrière dans le Royaume de Ruthvénie.",
+    "key": "2026-01-10|11:31|royaume de ruthvenie|||emile liarr a reussi l'examen du ruban et obtenu la recompense ruban bicolore, ce qui lui permet de poursuivre sa carriere dans le royaume de ruthvenie.",
+    "firstSeen": "2026-01-14T05:53:47.675Z"
   },
   {
     "date": "2026-01-10",
@@ -10011,6 +10291,16 @@
   },
   {
     "date": "2026-01-10",
+    "time": "20:17",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Forum",
+    "text": "Bogdan D'Arken n'a pas réussi à utiliser ses prérogatives de Diplomate pour devenir Intendant de la province Kraland : « Un petit bn oost à la production peut-être ? Je m'occupe d'améliorer l'intendance »",
+    "key": "2026-01-10|20:17|republique de kraland|kraland|forum|bogdan d'arken n'a pas reussi a utiliser ses prerogatives de diplomate pour devenir intendant de la province kraland : \" un petit bn oost a la production peut-etre ? je m'occupe d'ameliorer l'intendance \"",
+    "firstSeen": "2026-01-14T05:53:43.452Z"
+  },
+  {
+    "date": "2026-01-10",
     "time": "20:24",
     "empire": "Empire Brun",
     "province": "Forêt de Jade",
@@ -10248,6 +10538,16 @@
     "text": "Henry McCleft a fait la déclaration officielle suivante aux habitants de l'Empire Brun : « Euhla, l'Bysmuth! A'ec ton nom d'tartine, lô. J'suis pas à poil, t'es con ou queuwa? T'apprécies pas mon short en satin, v'nu tout droit des Karaïbes? Qu'même on voit les ptits palmiers dessus? Ca, mec! T'as la clâsse ou ty l'as pô. »",
     "key": "2026-01-10|22:13|empire brun|elmerie|igloo|henry mccleft a fait la declaration officielle suivante aux habitants de l'empire brun : \" euhla, l'bysmuth! a'ec ton nom d'tartine, lo. j'suis pas a poil, t'es con ou queuwa? t'apprecies pas mon short en satin, v'nu tout droit des karaibes? qu'meme on voit les ptits palmiers dessus? ca, mec! t'as la classe ou ty l'as po. \"",
     "firstSeen": "2026-01-14T05:23:54.003Z"
+  },
+  {
+    "date": "2026-01-10",
+    "time": "22:13",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "Henry McCleft a fait la déclaration officielle suivante aux habitants de l'Empire Brun : « Euhla, l'Bysmuth! A'ec ton nom d'tartine, lô. J'suis pas à poil, t'es con ou queuwa? T'apprécies pas mon short en satin, v'nu tout droit des Karaïbes? Qu'même on voit les ptits palmiers dessus? Ca, mec! T'as la clâsse ou ty l'as pô. »",
+    "key": "2026-01-10|22:13|empire brun|||henry mccleft a fait la declaration officielle suivante aux habitants de l'empire brun : \" euhla, l'bysmuth! a'ec ton nom d'tartine, lo. j'suis pas a poil, t'es con ou queuwa? t'apprecies pas mon short en satin, v'nu tout droit des karaibes? qu'meme on voit les ptits palmiers dessus? ca, mec! t'as la classe ou ty l'as po. \"",
+    "firstSeen": "2026-01-14T05:53:35.714Z"
   },
   {
     "date": "2026-01-10",
@@ -11041,6 +11341,36 @@
   },
   {
     "date": "2026-01-11",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Port Magmor",
+    "text": "La province Géofront récolte 498 Co d'impôts.",
+    "key": "2026-01-11|00:01|royaume de ruthvenie|geofront|port magmor|la province geofront recolte 498 co d'impots.",
+    "firstSeen": "2026-01-14T05:53:32.173Z"
+  },
+  {
+    "date": "2026-01-11",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "Gueule du Lézard",
+    "text": "La province Capsulie récolte 190 ÐE d'impôts.",
+    "key": "2026-01-11|00:01|khanat elmerien|capsulie|gueule du lezard|la province capsulie recolte 190 ðe d'impots.",
+    "firstSeen": "2026-01-14T05:53:33.301Z"
+  },
+  {
+    "date": "2026-01-11",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Gynerak",
+    "text": "La province Karaïbes récolte 161 FK d'impôts et paie 50 FK pour ses employés (policiers et soldats).",
+    "key": "2026-01-11|00:01|republique de kraland|karaibes|gynerak|la province karaibes recolte 161 fk d'impots et paie 50 fk pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-01-14T05:53:34.490Z"
+  },
+  {
+    "date": "2026-01-11",
     "time": "00:03",
     "empire": "Empire Brun",
     "province": "Niarkalistan",
@@ -11248,6 +11578,16 @@
     "text": "L'Intendant Stefan de Crab vient de modifier le taux d'imposition sur la conversion d'or (qui passe de 10% à 15%) : « Comme je me suis trompé hier, Je rectifie en taxant cette fois la bonne chose. Et ça me coûte 100 CR. Disons que c'est pour le bon programme ! Un bon développement ne peut se faire sans sacrifice ! Il va falloir que je prie le Dieu Boulet au moins 6 heures aujourd'hui... »",
     "key": "2026-01-11|00:45|royaume de ruthvenie|crab key|port magmor|l'intendant stefan de crab vient de modifier le taux d'imposition sur la conversion d'or (qui passe de 10% a 15%) : \" comme je me suis trompe hier, je rectifie en taxant cette fois la bonne chose. et ca me coute 100 cr. disons que c'est pour le bon programme ! un bon developpement ne peut se faire sans sacrifice ! il va falloir que je prie le dieu boulet au moins 6 heures aujourd'hui... \"",
     "firstSeen": "2026-01-14T05:23:48.667Z"
+  },
+  {
+    "date": "2026-01-11",
+    "time": "00:45",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "",
+    "text": "L'Intendant Stefan de Crab vient de modifier le taux d'imposition sur la conversion d'or (qui passe de 10% à 15%) : « Comme je me suis trompé hier, Je rectifie en taxant cette fois la bonne chose. Et ça me coûte 100 CR. Disons que c'est pour le bon programme ! Un bon développement ne peut se faire sans sacrifice ! Il va falloir que je prie le Dieu Boulet au moins 6 heures aujourd'hui... »",
+    "key": "2026-01-11|00:45|royaume de ruthvenie|crab key||l'intendant stefan de crab vient de modifier le taux d'imposition sur la conversion d'or (qui passe de 10% a 15%) : \" comme je me suis trompe hier, je rectifie en taxant cette fois la bonne chose. et ca me coute 100 cr. disons que c'est pour le bon programme ! un bon developpement ne peut se faire sans sacrifice ! il va falloir que je prie le dieu boulet au moins 6 heures aujourd'hui... \"",
+    "firstSeen": "2026-01-14T05:53:31.102Z"
   },
   {
     "date": "2026-01-11",
@@ -11971,6 +12311,16 @@
   },
   {
     "date": "2026-01-11",
+    "time": "14:27",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Trésorville",
+    "text": "Jalala s'est présenté aux élections pour le poste de Gouverneur de la province Milieu : « \"Comme annoncé sur la place provinciale, je candidate pour le poste de gouverneur ! Vous pouvez voir mon petit programme ici !\" »",
+    "key": "2026-01-11|14:27|confederation libre|milieu|tresorville|jalala s'est presente aux elections pour le poste de gouverneur de la province milieu : \" \"comme annonce sur la place provinciale, je candidate pour le poste de gouverneur ! vous pouvez voir mon petit programme ici !\" \"",
+    "firstSeen": "2026-01-14T05:53:27.260Z"
+  },
+  {
+    "date": "2026-01-11",
     "time": "14:30",
     "empire": "Khanat Elmérien",
     "province": "",
@@ -11981,6 +12331,16 @@
   },
   {
     "date": "2026-01-11",
+    "time": "14:30",
+    "empire": "Khanat Elmérien",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "TifaLockHeart a réussi l'examen du ruban et obtenu la récompense Ruban Mauve, ce qui lui permet de poursuivre sa carrière dans le Khanat Elmérien.",
+    "key": "2026-01-11|14:30|khanat elmerien|karaibes|tresorville|tifalockheart a reussi l'examen du ruban et obtenu la recompense ruban mauve, ce qui lui permet de poursuivre sa carriere dans le khanat elmerien.",
+    "firstSeen": "2026-01-14T05:53:27.260Z"
+  },
+  {
+    "date": "2026-01-11",
     "time": "14:43",
     "empire": "Paradigme Vert",
     "province": "",
@@ -11988,6 +12348,16 @@
     "text": "Corbeau Sceptique a réussi l'examen du ruban et obtenu la récompense Ruban Vert, ce qui lui permet de poursuivre sa carrière dans le Paradigme Vert.",
     "key": "2026-01-11|14:43|paradigme vert|||corbeau sceptique a reussi l'examen du ruban et obtenu la recompense ruban vert, ce qui lui permet de poursuivre sa carriere dans le paradigme vert.",
     "firstSeen": "2026-01-14T05:23:45.870Z"
+  },
+  {
+    "date": "2026-01-11",
+    "time": "14:43",
+    "empire": "Paradigme Vert",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Corbeau Sceptique a réussi l'examen du ruban et obtenu la récompense Ruban Vert, ce qui lui permet de poursuivre sa carrière dans le Paradigme Vert.",
+    "key": "2026-01-11|14:43|paradigme vert|karaibes|tresorville|corbeau sceptique a reussi l'examen du ruban et obtenu la recompense ruban vert, ce qui lui permet de poursuivre sa carriere dans le paradigme vert.",
+    "firstSeen": "2026-01-14T05:53:27.260Z"
   },
   {
     "date": "2026-01-11",
@@ -12501,6 +12871,16 @@
   },
   {
     "date": "2026-01-11",
+    "time": "20:04",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "",
+    "text": "KaNaar s'est fait agresser par un groupe de créatures mené par Invocateur de Magmor.",
+    "key": "2026-01-11|20:04|royaume de ruthvenie|crab key||kanaar s'est fait agresser par un groupe de creatures mene par invocateur de magmor.",
+    "firstSeen": "2026-01-14T05:53:20.817Z"
+  },
+  {
+    "date": "2026-01-11",
     "time": "20:07",
     "empire": "Confédération Libre",
     "province": "Acropole",
@@ -12771,6 +13151,16 @@
   },
   {
     "date": "2026-01-11",
+    "time": "21:42",
+    "empire": "Palladium Corporation",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "LoulouDuck a réussi l'examen du ruban et obtenu la récompense Ruban Jaune, ce qui lui permet de poursuivre sa carrière dans la Palladium Corporation.",
+    "key": "2026-01-11|21:42|palladium corporation|kraland|quartier supreme|loulouduck a reussi l'examen du ruban et obtenu la recompense ruban jaune, ce qui lui permet de poursuivre sa carriere dans la palladium corporation.",
+    "firstSeen": "2026-01-14T05:53:19.625Z"
+  },
+  {
+    "date": "2026-01-11",
     "time": "21:51",
     "empire": "Paradigme Vert",
     "province": "Forêt de Jade",
@@ -12988,6 +13378,16 @@
     "text": "La Première Ministre Magritte Lenouar a défini une nouvelle répartition budgétaire. Premier Ministre 1% Ministre de la Guerre 0% Ministre de la Justice 0% Ministre des Affaires Étrangères 0% Ministre de l'Économie 0% Ministre de la Recherche 99% Ministre de l'Intérieur 0% Ministre de l'Information 0% Directeur des Services Secrets 0% Ministre du Travail 0%",
     "key": "2026-01-11|23:42|republique de kraland|||la premiere ministre magritte lenouar a defini une nouvelle repartition budgetaire. premier ministre 1% ministre de la guerre 0% ministre de la justice 0% ministre des affaires etrangeres 0% ministre de l'economie 0% ministre de la recherche 99% ministre de l'interieur 0% ministre de l'information 0% directeur des services secrets 0% ministre du travail 0%",
     "firstSeen": "2026-01-14T05:23:33.972Z"
+  },
+  {
+    "date": "2026-01-11",
+    "time": "23:42",
+    "empire": "République de Kraland",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "La Première Ministre Magritte Lenouar a défini une nouvelle répartition budgétaire. Premier Ministre 1% Ministre de la Guerre 0% Ministre de la Justice 0% Ministre des Affaires Étrangères 0% Ministre de l'Économie 0% Ministre de la Recherche 99% Ministre de l'Intérieur 0% Ministre de l'Information 0% Directeur des Services Secrets 0% Ministre du Travail 0%",
+    "key": "2026-01-11|23:42|republique de kraland|ruthvenie|lantenac-du-lac|la premiere ministre magritte lenouar a defini une nouvelle repartition budgetaire. premier ministre 1% ministre de la guerre 0% ministre de la justice 0% ministre des affaires etrangeres 0% ministre de l'economie 0% ministre de la recherche 99% ministre de l'interieur 0% ministre de l'information 0% directeur des services secrets 0% ministre du travail 0%",
+    "firstSeen": "2026-01-14T05:53:18.413Z"
   },
   {
     "date": "2026-01-11",
@@ -13651,6 +14051,26 @@
   },
   {
     "date": "2026-01-12",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Blofeldopolis",
+    "text": "La province Plaine Irradiée récolte 445 ¢¢ d'impôts.",
+    "key": "2026-01-12|00:01|confederation libre|plaine irradiee|blofeldopolis|la province plaine irradiee recolte 445 ¢¢ d'impots.",
+    "firstSeen": "2026-01-14T05:53:15.774Z"
+  },
+  {
+    "date": "2026-01-12",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Grand Jardin",
+    "text": "La province Sibéria récolte 215 Éf d'impôts.",
+    "key": "2026-01-12|00:01|paradigme vert|siberia|grand jardin|la province siberia recolte 215 ef d'impots.",
+    "firstSeen": "2026-01-14T05:53:16.871Z"
+  },
+  {
+    "date": "2026-01-12",
     "time": "00:02",
     "empire": "Confédération Libre",
     "province": "Acropole",
@@ -13988,6 +14408,16 @@
     "text": "Aurelthar a réussi l'examen du ruban et obtenu la récompense Ruban Mauve, ce qui lui permet de poursuivre sa carrière dans le Khanat Elmérien.",
     "key": "2026-01-12|04:56|khanat elmerien|||aurelthar a reussi l'examen du ruban et obtenu la recompense ruban mauve, ce qui lui permet de poursuivre sa carriere dans le khanat elmerien.",
     "firstSeen": "2026-01-14T05:23:28.655Z"
+  },
+  {
+    "date": "2026-01-12",
+    "time": "04:56",
+    "empire": "Khanat Elmérien",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Aurelthar a réussi l'examen du ruban et obtenu la récompense Ruban Mauve, ce qui lui permet de poursuivre sa carrière dans le Khanat Elmérien.",
+    "key": "2026-01-12|04:56|khanat elmerien|ile aux kanards|kanardville|aurelthar a reussi l'examen du ruban et obtenu la recompense ruban mauve, ce qui lui permet de poursuivre sa carriere dans le khanat elmerien.",
+    "firstSeen": "2026-01-14T05:53:13.561Z"
   },
   {
     "date": "2026-01-12",
@@ -14751,6 +15181,16 @@
   },
   {
     "date": "2026-01-12",
+    "time": "19:23",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "Coup d'État ! Henry McCleft a usurpé l'empereur : « Un jour a passé depuis la tentative d'usurpation avortée. Henry, éprouvé, s'est enfermé à double tour dans une chambre de la toute nouvelle auberge de Léprosie. Seul. Même les charmes insistants des plus belles zombies du village n'ont pu le sortir de sa retraite. Quand sonne l'heure de l'apéro, cependant, la porte s'ouvre doucement. Bonsoaaar, chers fidèles. La personne qui sort de la chambre, eh bien... Est vêtue d'une longue toge religieuse et porte un collier à l'aspect précieux, représentant une rune compliquée. Humpf. je constâte que cela n'a pas changé en Léprosie, depuis mon dernier passage. Toujours cette corrrrRRrruption! Cet étalâge de chair nue! Cet... alcool! Il...? Elle? renifle un verre qui traine là, témoin de la fête de la veille. Ah non, ce n'est pas alcoOoolisé. Resterait-il de l'espoar? Grande inspiration. Ahem. Votre attentiOOon, s'il vous plaît. Je suis la Grande Prêêêtresse Henriette, du Culte Lapidaire et Fumerollé des Trépanateurs! Le CLeFT. Puisque mon incâpable de fils est incapâAAable de régner comme il se doit... JE L'USURPE! Henry, je suis ta mère. Et je vais à prééésent être... IMPERATRICE DE L'EMPIRE BRUN! C'est feu ton père qui serait fier de toi. De moi. de NOUS! Mouaaahahaha! »",
+    "key": "2026-01-12|19:23|empire brun|||coup d'etat ! henry mccleft a usurpe l'empereur : \" un jour a passe depuis la tentative d'usurpation avortee. henry, eprouve, s'est enferme a double tour dans une chambre de la toute nouvelle auberge de leprosie. seul. meme les charmes insistants des plus belles zombies du village n'ont pu le sortir de sa retraite. quand sonne l'heure de l'apero, cependant, la porte s'ouvre doucement. bonsoaaar, chers fideles. la personne qui sort de la chambre, eh bien... est vetue d'une longue toge religieuse et porte un collier a l'aspect precieux, representant une rune compliquee. humpf. je constate que cela n'a pas change en leprosie, depuis mon dernier passage. toujours cette corrrrrrrruption! cet etalage de chair nue! cet... alcool! il...? elle? renifle un verre qui traine la, temoin de la fete de la veille. ah non, ce n'est pas alcoooolise. resterait-il de l'espoar? grande inspiration. ahem. votre attentiooon, s'il vous plait. je suis la grande preeetresse henriette, du culte lapidaire et fumerolle des trepanateurs! le cleft. puisque mon incapable de fils est incapaaaable de regner comme il se doit... je l'usurpe! henry, je suis ta mere. et je vais a preeesent etre... imperatrice de l'empire brun! c'est feu ton pere qui serait fier de toi. de moi. de nous! mouaaahahaha! \"",
+    "firstSeen": "2026-01-14T05:53:09.897Z"
+  },
+  {
+    "date": "2026-01-12",
     "time": "19:28",
     "empire": "Confédération Libre",
     "province": "Acropole",
@@ -14988,6 +15428,16 @@
     "text": "Une rumeur court parmi les habitants de la Confédération Libre : « J'enregistre ces messages audio dans l'espoir que le système automatique d'annonce les diffusera sur les ondes radio quand il sera de nouveau alimenté en électricité, après l'effondrement. Je m’appelle Dr Wale. Je travaille pour une organisation Warrior qui combat les anomalies qui menacent notre réalité. Ce n’est pas de la paranoïa. Le département s’occupe de choses qui s’effacent elles-mêmes de l’esprit. Des idées qui pourrissent leurs propres empreintes. Des faits qui ne peuvent pas survivre au fait d’être connus. Je vais lire à ce micro mes notes des dernières semaines. Je ne me souviens moi-même de rien. La seule façon d'échapper à la folie était l'oubli chimique. Je suis condamné: si je sors de mon bureau, l'entité M##M#R que nous avons tenté de mettre en contingence m'aura à mon tour. Si vous m'écoutez, c'est qu'à défaut de l'avoir neutralisé l'arme d'oubli général aura fonctionné. Il sera toujours là, mais vous aurez survécu. On aura perdu une grande bataille, mais pas la guerre. »",
     "key": "2026-01-12|21:38|confederation libre|||une rumeur court parmi les habitants de la confederation libre : \" j'enregistre ces messages audio dans l'espoir que le systeme automatique d'annonce les diffusera sur les ondes radio quand il sera de nouveau alimente en electricite, apres l'effondrement. je m'appelle dr wale. je travaille pour une organisation warrior qui combat les anomalies qui menacent notre realite. ce n'est pas de la paranoia. le departement s'occupe de choses qui s'effacent elles-memes de l'esprit. des idees qui pourrissent leurs propres empreintes. des faits qui ne peuvent pas survivre au fait d'etre connus. je vais lire a ce micro mes notes des dernieres semaines. je ne me souviens moi-meme de rien. la seule facon d'echapper a la folie etait l'oubli chimique. je suis condamne: si je sors de mon bureau, l'entite m##m#r que nous avons tente de mettre en contingence m'aura a mon tour. si vous m'ecoutez, c'est qu'a defaut de l'avoir neutralise l'arme d'oubli general aura fonctionne. il sera toujours la, mais vous aurez survecu. on aura perdu une grande bataille, mais pas la guerre. \"",
     "firstSeen": "2026-01-14T05:23:22.573Z"
+  },
+  {
+    "date": "2026-01-12",
+    "time": "21:38",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
+    "text": "Une rumeur court parmi les habitants de la Confédération Libre : « J'enregistre ces messages audio dans l'espoir que le système automatique d'annonce les diffusera sur les ondes radio quand il sera de nouveau alimenté en électricité, après l'effondrement. Je m’appelle Dr Wale. Je travaille pour une organisation Warrior qui combat les anomalies qui menacent notre réalité. Ce n’est pas de la paranoïa. Le département s’occupe de choses qui s’effacent elles-mêmes de l’esprit. Des idées qui pourrissent leurs propres empreintes. Des faits qui ne peuvent pas survivre au fait d’être connus. Je vais lire à ce micro mes notes des dernières semaines. Je ne me souviens moi-même de rien. La seule façon d'échapper à la folie était l'oubli chimique. Je suis condamné: si je sors de mon bureau, l'entité M##M#R que nous avons tenté de mettre en contingence m'aura à mon tour. Si vous m'écoutez, c'est qu'à défaut de l'avoir neutralisé l'arme d'oubli général aura fonctionné. Il sera toujours là, mais vous aurez survécu. On aura perdu une grande bataille, mais pas la guerre. »",
+    "key": "2026-01-12|21:38|confederation libre|plaine irradiee|atome|une rumeur court parmi les habitants de la confederation libre : \" j'enregistre ces messages audio dans l'espoir que le systeme automatique d'annonce les diffusera sur les ondes radio quand il sera de nouveau alimente en electricite, apres l'effondrement. je m'appelle dr wale. je travaille pour une organisation warrior qui combat les anomalies qui menacent notre realite. ce n'est pas de la paranoia. le departement s'occupe de choses qui s'effacent elles-memes de l'esprit. des idees qui pourrissent leurs propres empreintes. des faits qui ne peuvent pas survivre au fait d'etre connus. je vais lire a ce micro mes notes des dernieres semaines. je ne me souviens moi-meme de rien. la seule facon d'echapper a la folie etait l'oubli chimique. je suis condamne: si je sors de mon bureau, l'entite m##m#r que nous avons tente de mettre en contingence m'aura a mon tour. si vous m'ecoutez, c'est qu'a defaut de l'avoir neutralise l'arme d'oubli general aura fonctionne. il sera toujours la, mais vous aurez survecu. on aura perdu une grande bataille, mais pas la guerre. \"",
+    "firstSeen": "2026-01-14T05:53:08.488Z"
   },
   {
     "date": "2026-01-12",
@@ -15248,6 +15698,16 @@
     "text": "Le Ministre de l'Économie Floran Baumé a modifié le taux d'imposition des revenus de la province Santa Banana (de 20% à 60%) : « Santabananiens bonsoir, c'est le méchant Floran qui vient vous casser les bonbons encore plus qu'aux autres Bruns ! Alors voilà : il y a les choses et les gens que je déteste. Ils sont très nombreux oui oui. Mais il y a également les trucs qui me foutent la rage, le seum, la haine, enfin vous voyez le concept. Ne pas recevoir de réponse à mes missives ministérielles en fait partie. Et voir du pognon qui devrait servir dormir dans la caisse d'un palais me dégoute tout autant. J'ajuste donc vos impôts en conséquence. Si cela vous contrarie, je vous invite à réveiller le Sheik Oussama Al Khaïd et lui dire que je l'attends dans mon bureau. »",
     "key": "2026-01-12|23:16|empire brun|ruthvenie|ruthvenville|le ministre de l'economie floran baume a modifie le taux d'imposition des revenus de la province santa banana (de 20% a 60%) : \" santabananiens bonsoir, c'est le mechant floran qui vient vous casser les bonbons encore plus qu'aux autres bruns ! alors voila : il y a les choses et les gens que je deteste. ils sont tres nombreux oui oui. mais il y a egalement les trucs qui me foutent la rage, le seum, la haine, enfin vous voyez le concept. ne pas recevoir de reponse a mes missives ministerielles en fait partie. et voir du pognon qui devrait servir dormir dans la caisse d'un palais me degoute tout autant. j'ajuste donc vos impots en consequence. si cela vous contrarie, je vous invite a reveiller le sheik oussama al khaid et lui dire que je l'attends dans mon bureau. \"",
     "firstSeen": "2026-01-14T05:23:19.143Z"
+  },
+  {
+    "date": "2026-01-12",
+    "time": "23:16",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie Floran Baumé a modifié le taux d'imposition des revenus de la province Santa Banana (de 20% à 60%) : « Santabananiens bonsoir, c'est le méchant Floran qui vient vous casser les bonbons encore plus qu'aux autres Bruns ! Alors voilà : il y a les choses et les gens que je déteste. Ils sont très nombreux oui oui. Mais il y a également les trucs qui me foutent la rage, le seum, la haine, enfin vous voyez le concept. Ne pas recevoir de réponse à mes missives ministérielles en fait partie. Et voir du pognon qui devrait servir dormir dans la caisse d'un palais me dégoute tout autant. J'ajuste donc vos impôts en conséquence. Si cela vous contrarie, je vous invite à réveiller le Sheik Oussama Al Khaïd et lui dire que je l'attends dans mon bureau. »",
+    "key": "2026-01-12|23:16|empire brun|||le ministre de l'economie floran baume a modifie le taux d'imposition des revenus de la province santa banana (de 20% a 60%) : \" santabananiens bonsoir, c'est le mechant floran qui vient vous casser les bonbons encore plus qu'aux autres bruns ! alors voila : il y a les choses et les gens que je deteste. ils sont tres nombreux oui oui. mais il y a egalement les trucs qui me foutent la rage, le seum, la haine, enfin vous voyez le concept. ne pas recevoir de reponse a mes missives ministerielles en fait partie. et voir du pognon qui devrait servir dormir dans la caisse d'un palais me degoute tout autant. j'ajuste donc vos impots en consequence. si cela vous contrarie, je vous invite a reveiller le sheik oussama al khaid et lui dire que je l'attends dans mon bureau. \"",
+    "firstSeen": "2026-01-14T05:53:07.111Z"
   },
   {
     "date": "2026-01-12",
@@ -16091,6 +16551,36 @@
   },
   {
     "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "La province Ruthvénie récolte 822 Co d'impôts.",
+    "key": "2026-01-13|00:01|royaume de ruthvenie|ruthvenie||la province ruthvenie recolte 822 co d'impots.",
+    "firstSeen": "2026-01-14T05:53:03.232Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Kanardville",
+    "text": "La province Forêt de Jade récolte 1416 Éf d'impôts.",
+    "key": "2026-01-13|00:01|paradigme vert|foret de jade|kanardville|la province foret de jade recolte 1416 ef d'impots.",
+    "firstSeen": "2026-01-14T05:53:04.356Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "",
+    "text": "La province Kraland récolte 324 FK d'impôts.",
+    "key": "2026-01-13|00:01|republique de kraland|kraland||la province kraland recolte 324 fk d'impots.",
+    "firstSeen": "2026-01-14T05:53:05.474Z"
+  },
+  {
+    "date": "2026-01-13",
     "time": "00:03",
     "empire": "Empire Brun",
     "province": "Plaine Irradiée",
@@ -16511,6 +17001,16 @@
   },
   {
     "date": "2026-01-13",
+    "time": "01:27",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Roi Landraël a adressé un discours à la population : « C’est avec une émotion… toute particulière… que j’ai appris la tragédie que vous connaissez tous. Feu Chilmerdic Croix, Croix, Truc, Truc a été victime d’un terrible accident. Une sombre histoire mêlant carrosse et étouffement simultané avec les chaussettes qu’il affectionnait tant. Il sera regretté. Ainsi va la vie. Le déroulé précis de cette tragédie reste à établir, mais… nous y reviendrons. Voici une image que j’ai pu extraire des archives royales : La question qu’il faut désormais se poser devient donc… mais qui a bien pu instiguer cette passion pour les chaussettes chez feu notre monarque ? Ces circonstances exceptionnelles appellent logiquement des actes qui le sont tout autant. C’est pourquoi j’ai le plaisir de vous annoncer aujourd’hui que, devant la grande vague de soulagement soutien qui s’est levée dans tout le Royaume, j’ai accepté de devenir Roi de Ruthvénie. Je préfère lever immédiatement toute ambiguïté. Si je suis Roi ce soir, ce n’est pas en vertu d’un lignage imaginaire, reconstitué dans les souvenirs approximatifs des uns et des autres. Je dois vous faire une confidence : je ne sais pas d’où je viens. Tout ce que je sais, c’est que je me suis réveillé ici, dans le Royaume, après un terrible cauchemar à base de tentacules… et avec une foi inébranlable en la Grande Déesse. Par ailleurs, je rappelle aux esprits chagrins que toute la noblesse a été révoquée par Chilmerdic le Fainéant. Il n’existait donc, jusqu’à aujourd’hui, aucune noblesse officielle. »",
+    "key": "2026-01-13|01:27|royaume de ruthvenie|||le roi landrael a adresse un discours a la population : \" c'est avec une emotion... toute particuliere... que j'ai appris la tragedie que vous connaissez tous. feu chilmerdic croix, croix, truc, truc a ete victime d'un terrible accident. une sombre histoire melant carrosse et etouffement simultane avec les chaussettes qu'il affectionnait tant. il sera regrette. ainsi va la vie. le deroule precis de cette tragedie reste a etablir, mais... nous y reviendrons. voici une image que j'ai pu extraire des archives royales : la question qu'il faut desormais se poser devient donc... mais qui a bien pu instiguer cette passion pour les chaussettes chez feu notre monarque ? ces circonstances exceptionnelles appellent logiquement des actes qui le sont tout autant. c'est pourquoi j'ai le plaisir de vous annoncer aujourd'hui que, devant la grande vague de soulagement soutien qui s'est levee dans tout le royaume, j'ai accepte de devenir roi de ruthvenie. je prefere lever immediatement toute ambiguite. si je suis roi ce soir, ce n'est pas en vertu d'un lignage imaginaire, reconstitue dans les souvenirs approximatifs des uns et des autres. je dois vous faire une confidence : je ne sais pas d'ou je viens. tout ce que je sais, c'est que je me suis reveille ici, dans le royaume, apres un terrible cauchemar a base de tentacules... et avec une foi inebranlable en la grande deesse. par ailleurs, je rappelle aux esprits chagrins que toute la noblesse a ete revoquee par chilmerdic le faineant. il n'existait donc, jusqu'a aujourd'hui, aucune noblesse officielle. \"",
+    "firstSeen": "2026-01-14T05:53:00.971Z"
+  },
+  {
+    "date": "2026-01-13",
     "time": "01:34",
     "empire": "République de Kraland",
     "province": "Karaïbes",
@@ -16751,6 +17251,16 @@
   },
   {
     "date": "2026-01-13",
+    "time": "07:43",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Comte Baptiste Le Tellier a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël : « Chers sujets de Fort Emouchet, Dans la droite lignée de notre duchesse, le comté de Fort Emouchet prête allégeance à sa Majesté notre Roi et lui présente tous ses voeux de succès dans sa mission divine à la tête de notre Destin. Longue vie à notre Roi ! Que La Dame de l’Etang veille sur lui ! »",
+    "key": "2026-01-13|07:43|royaume de ruthvenie|||le comte baptiste le tellier a prete allegeance envers le roi du royaume de ruthvenie landrael : \" chers sujets de fort emouchet, dans la droite lignee de notre duchesse, le comte de fort emouchet prete allegeance a sa majeste notre roi et lui presente tous ses voeux de succes dans sa mission divine a la tete de notre destin. longue vie a notre roi ! que la dame de l'etang veille sur lui ! \"",
+    "firstSeen": "2026-01-14T05:52:59.768Z"
+  },
+  {
+    "date": "2026-01-13",
     "time": "07:45",
     "empire": "Khanat Elmérien",
     "province": "Valégro",
@@ -16961,6 +17471,26 @@
   },
   {
     "date": "2026-01-13",
+    "time": "10:27",
+    "empire": "République de Kraland",
+    "province": "Sicilia",
+    "city": "",
+    "text": "Le Ministre de l'Économie MichelDruKra a modifié le taux d'imposition des revenus de la province Hélénie (de 60% à 40%) : « Idem »",
+    "key": "2026-01-13|10:27|republique de kraland|sicilia||le ministre de l'economie micheldrukra a modifie le taux d'imposition des revenus de la province helenie (de 60% a 40%) : \" idem \"",
+    "firstSeen": "2026-01-14T05:52:58.544Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "10:27",
+    "empire": "République de Kraland",
+    "province": "Sicilia",
+    "city": "",
+    "text": "Le Ministre de l'Économie MichelDruKra a modifié le taux d'imposition des revenus de la province Kraland (de 60% à 40%) : « Kramarades, Réjouissez-vous ! Vos efforts portent leurs fruits et permettent désormais aux provinces d’assurer elles-même leurs collectes de fond. La Glorieuse Première Ministre (loué soit son nom !) a donc décidé de diminuer le taux d’imposition des territoires déconcentrés de la République ! C’est-y pas l’Bonheur, ça ? »",
+    "key": "2026-01-13|10:27|republique de kraland|sicilia||le ministre de l'economie micheldrukra a modifie le taux d'imposition des revenus de la province kraland (de 60% a 40%) : \" kramarades, rejouissez-vous ! vos efforts portent leurs fruits et permettent desormais aux provinces d'assurer elles-meme leurs collectes de fond. la glorieuse premiere ministre (loue soit son nom !) a donc decide de diminuer le taux d'imposition des territoires deconcentres de la republique ! c'est-y pas l'bonheur, ca ? \"",
+    "firstSeen": "2026-01-14T05:52:58.545Z"
+  },
+  {
+    "date": "2026-01-13",
     "time": "10:28",
     "empire": "République de Kraland",
     "province": "",
@@ -16968,6 +17498,16 @@
     "text": "Le Ministre de l'Économie MichelDruKra a modifié le taux d'imposition des revenus de la province Karaïbes (de 60% à 40%) : « Pareil »",
     "key": "2026-01-13|10:28|republique de kraland|||le ministre de l'economie micheldrukra a modifie le taux d'imposition des revenus de la province karaibes (de 60% a 40%) : \" pareil \"",
     "firstSeen": "2026-01-14T05:23:11.097Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "10:28",
+    "empire": "République de Kraland",
+    "province": "Sicilia",
+    "city": "",
+    "text": "Le Ministre de l'Économie MichelDruKra a modifié le taux d'imposition des revenus de la province Karaïbes (de 60% à 40%) : « Pareil »",
+    "key": "2026-01-13|10:28|republique de kraland|sicilia||le ministre de l'economie micheldrukra a modifie le taux d'imposition des revenus de la province karaibes (de 60% a 40%) : \" pareil \"",
+    "firstSeen": "2026-01-14T05:52:58.544Z"
   },
   {
     "date": "2026-01-13",
@@ -16981,6 +17521,16 @@
   },
   {
     "date": "2026-01-13",
+    "time": "10:29",
+    "empire": "République de Kraland",
+    "province": "Sicilia",
+    "city": "",
+    "text": "Le Ministre de l'Économie MichelDruKra a modifié le taux d'imposition des revenus de la province Slavonie (de 60% à 40%) : « Itou »",
+    "key": "2026-01-13|10:29|republique de kraland|sicilia||le ministre de l'economie micheldrukra a modifie le taux d'imposition des revenus de la province slavonie (de 60% a 40%) : \" itou \"",
+    "firstSeen": "2026-01-14T05:52:58.544Z"
+  },
+  {
+    "date": "2026-01-13",
     "time": "11:28",
     "empire": "Empire Brun",
     "province": "",
@@ -16991,6 +17541,16 @@
   },
   {
     "date": "2026-01-13",
+    "time": "11:28",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "",
+    "text": "Imoen Bint Wololo Al Rasha a fondé l'organisation de presse Le Bureau des Rumeurs.",
+    "key": "2026-01-13|11:28|empire brun|sicilia||imoen bint wololo al rasha a fonde l'organisation de presse le bureau des rumeurs.",
+    "firstSeen": "2026-01-14T05:52:58.544Z"
+  },
+  {
+    "date": "2026-01-13",
     "time": "11:32",
     "empire": "Empire Brun",
     "province": "Sicilia",
@@ -16998,6 +17558,16 @@
     "text": "L'Intendant Marvolo Maltuvar vient de modifier le taux d'imposition sur la conversion d'or (qui passe de 10% à 5%) : « buongiorno Sicilia, come stai ? La recherche occupe, il est vrai, une place considérable et requiert un temps certain au sein de l’Empire. Toutefois, il apparaît que l’or noir ne se laissera point apprivoiser dans l’immédiat ; quelques maladresses dans le processus semblent en avoir retardé l’avènement… qu’il en soit ainsi. Mais ce n’est point de cet or sombre que je souhaite m’entretenir aujourd’hui, mais bien de l’or jaune, cette substance éclatante qui capte le regard et attise tant de convoitises. Afin d’encourager nos chers Siciliens à descendre au cœur de la roche et à tenter fortune dans les entrailles de la terre, et ainsi contribuer à l’essor de notre très cher Trou Perdu, une réduction de l’imposition sur l’or entre en vigueur dès ce jour. S’agit-il là d’une mesure définitive ? Ou d’un allègement temporaire ? L’avenir et l’évolution des besoins de la cité nous guideront. Nous aviserons selon les nécessités des jours à venir. D’ici là, profitez pleinement de cette faveur fiscale, tant qu’elle sera accordée. Suivez le fil, chers habitants… car qui sait ? Peut-être trouverez-vous, au détour d’un coup de pioche, le filon qui changera votre destinée. »",
     "key": "2026-01-13|11:32|empire brun|sicilia|tresorville|l'intendant marvolo maltuvar vient de modifier le taux d'imposition sur la conversion d'or (qui passe de 10% a 5%) : \" buongiorno sicilia, come stai ? la recherche occupe, il est vrai, une place considerable et requiert un temps certain au sein de l'empire. toutefois, il apparait que l'or noir ne se laissera point apprivoiser dans l'immediat ; quelques maladresses dans le processus semblent en avoir retarde l'avenement... qu'il en soit ainsi. mais ce n'est point de cet or sombre que je souhaite m'entretenir aujourd'hui, mais bien de l'or jaune, cette substance eclatante qui capte le regard et attise tant de convoitises. afin d'encourager nos chers siciliens a descendre au cœur de la roche et a tenter fortune dans les entrailles de la terre, et ainsi contribuer a l'essor de notre tres cher trou perdu, une reduction de l'imposition sur l'or entre en vigueur des ce jour. s'agit-il la d'une mesure definitive ? ou d'un allegement temporaire ? l'avenir et l'evolution des besoins de la cite nous guideront. nous aviserons selon les necessites des jours a venir. d'ici la, profitez pleinement de cette faveur fiscale, tant qu'elle sera accordee. suivez le fil, chers habitants... car qui sait ? peut-etre trouverez-vous, au detour d'un coup de pioche, le filon qui changera votre destinee. \"",
     "firstSeen": "2026-01-14T05:23:09.636Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "11:32",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "",
+    "text": "L'Intendant Marvolo Maltuvar vient de modifier le taux d'imposition sur la conversion d'or (qui passe de 10% à 5%) : « buongiorno Sicilia, come stai ? La recherche occupe, il est vrai, une place considérable et requiert un temps certain au sein de l’Empire. Toutefois, il apparaît que l’or noir ne se laissera point apprivoiser dans l’immédiat ; quelques maladresses dans le processus semblent en avoir retardé l’avènement… qu’il en soit ainsi. Mais ce n’est point de cet or sombre que je souhaite m’entretenir aujourd’hui, mais bien de l’or jaune, cette substance éclatante qui capte le regard et attise tant de convoitises. Afin d’encourager nos chers Siciliens à descendre au cœur de la roche et à tenter fortune dans les entrailles de la terre, et ainsi contribuer à l’essor de notre très cher Trou Perdu, une réduction de l’imposition sur l’or entre en vigueur dès ce jour. S’agit-il là d’une mesure définitive ? Ou d’un allègement temporaire ? L’avenir et l’évolution des besoins de la cité nous guideront. Nous aviserons selon les nécessités des jours à venir. D’ici là, profitez pleinement de cette faveur fiscale, tant qu’elle sera accordée. Suivez le fil, chers habitants… car qui sait ? Peut-être trouverez-vous, au détour d’un coup de pioche, le filon qui changera votre destinée. »",
+    "key": "2026-01-13|11:32|empire brun|sicilia||l'intendant marvolo maltuvar vient de modifier le taux d'imposition sur la conversion d'or (qui passe de 10% a 5%) : \" buongiorno sicilia, come stai ? la recherche occupe, il est vrai, une place considerable et requiert un temps certain au sein de l'empire. toutefois, il apparait que l'or noir ne se laissera point apprivoiser dans l'immediat ; quelques maladresses dans le processus semblent en avoir retarde l'avenement... qu'il en soit ainsi. mais ce n'est point de cet or sombre que je souhaite m'entretenir aujourd'hui, mais bien de l'or jaune, cette substance eclatante qui capte le regard et attise tant de convoitises. afin d'encourager nos chers siciliens a descendre au cœur de la roche et a tenter fortune dans les entrailles de la terre, et ainsi contribuer a l'essor de notre tres cher trou perdu, une reduction de l'imposition sur l'or entre en vigueur des ce jour. s'agit-il la d'une mesure definitive ? ou d'un allegement temporaire ? l'avenir et l'evolution des besoins de la cite nous guideront. nous aviserons selon les necessites des jours a venir. d'ici la, profitez pleinement de cette faveur fiscale, tant qu'elle sera accordee. suivez le fil, chers habitants... car qui sait ? peut-etre trouverez-vous, au detour d'un coup de pioche, le filon qui changera votre destinee. \"",
+    "firstSeen": "2026-01-14T05:52:58.544Z"
   },
   {
     "date": "2026-01-13",
@@ -17211,6 +17781,16 @@
   },
   {
     "date": "2026-01-13",
+    "time": "15:09",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "La Comtesse Alice Chain a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël : « Comme à son habitude, Alice traîne son escabeau jusqu'à la tribune. Elle s'installe puis règle le micro toujours mal placé au vu de sa taille quelques Larsens presque mélodieux griffent le silence. Elle porte un magnifique t-shirt “Make Rhuthvénie Great Again” ! D’un coup sec, elle arbore un enthousiasme sincère et hurle… MIAOU !!! Vive notre Roi !! Sardine à l’huile pour tous !! Vive le plus grand aubergiste de tous les temps !! La cité de Ruthvenville, ville royale, capitale du royaume, jure allégeance ! Hasta la muerte ! »",
+    "key": "2026-01-13|15:09|royaume de ruthvenie|warriorland|blofeldopolis|la comtesse alice chain a prete allegeance envers le roi du royaume de ruthvenie landrael : \" comme a son habitude, alice traine son escabeau jusqu'a la tribune. elle s'installe puis regle le micro toujours mal place au vu de sa taille quelques larsens presque melodieux griffent le silence. elle porte un magnifique t-shirt \"make rhuthvenie great again\" ! d'un coup sec, elle arbore un enthousiasme sincere et hurle... miaou !!! vive notre roi !! sardine a l'huile pour tous !! vive le plus grand aubergiste de tous les temps !! la cite de ruthvenville, ville royale, capitale du royaume, jure allegeance ! hasta la muerte ! \"",
+    "firstSeen": "2026-01-14T05:52:57.330Z"
+  },
+  {
+    "date": "2026-01-13",
     "time": "15:16",
     "empire": "Empire Brun",
     "province": "",
@@ -17218,6 +17798,16 @@
     "text": "Thanaël le Joyeux a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun.",
     "key": "2026-01-13|15:16|empire brun|||thanael le joyeux a reussi l'examen du ruban et obtenu la recompense ruban brun, ce qui lui permet de poursuivre sa carriere dans l'empire brun.",
     "firstSeen": "2026-01-14T05:23:09.635Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "15:16",
+    "empire": "Empire Brun",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Thanaël le Joyeux a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun.",
+    "key": "2026-01-13|15:16|empire brun|warriorland|blofeldopolis|thanael le joyeux a reussi l'examen du ruban et obtenu la recompense ruban brun, ce qui lui permet de poursuivre sa carriere dans l'empire brun.",
+    "firstSeen": "2026-01-14T05:52:57.330Z"
   },
   {
     "date": "2026-01-13",
@@ -17231,6 +17821,16 @@
   },
   {
     "date": "2026-01-13",
+    "time": "15:24",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "La Ministre de l'Intérieur Marianne a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël : « Sujets du Royaume. Il est parfaitement naturel que vous vous posiez des questions sur notre Roi, sa légitimité, et la loyauté que vous lui devez ou nom. On parle de droit transmis par le sang. Cela a pu être vrai mais notre défunt Roi est parti sans héritier, direct ou indirect. il y en a bien une qui a prétendu être sa fille mais il l'a nié avec la plus grande énergie. Mais si un Roi doit absolument avoir du sang d'un Roi précédent, il y a bien un moment où la lignée royale a dû commencer. Le premier Roi d'une dynastie. Car c'est bien de cela qu'il s'agit ! En l'absence d'héritier, le Roi Landraël, béni par la Grande Déesse, marque le début d'une nouvelle lignée. C'est une monarchie de droit divin sous le regard de la Grande Déesse. Une Déesse qui ne laissera pas un idiot incompétent accroc aux dessins animés au pouvoir. Elle ne laissera pas le Royaume dépérir avec un individu inutile sous cette couronne qui se prélasserait à longueur de journée. Le Roi Landraël est le champion de la Déesse. L'Élu. Longue vie au Roi Landraël ! Louée soit la Grande Déesse ! »",
+    "key": "2026-01-13|15:24|royaume de ruthvenie|warriorland|blofeldopolis|la ministre de l'interieur marianne a prete allegeance envers le roi du royaume de ruthvenie landrael : \" sujets du royaume. il est parfaitement naturel que vous vous posiez des questions sur notre roi, sa legitimite, et la loyaute que vous lui devez ou nom. on parle de droit transmis par le sang. cela a pu etre vrai mais notre defunt roi est parti sans heritier, direct ou indirect. il y en a bien une qui a pretendu etre sa fille mais il l'a nie avec la plus grande energie. mais si un roi doit absolument avoir du sang d'un roi precedent, il y a bien un moment ou la lignee royale a du commencer. le premier roi d'une dynastie. car c'est bien de cela qu'il s'agit ! en l'absence d'heritier, le roi landrael, beni par la grande deesse, marque le debut d'une nouvelle lignee. c'est une monarchie de droit divin sous le regard de la grande deesse. une deesse qui ne laissera pas un idiot incompetent accroc aux dessins animes au pouvoir. elle ne laissera pas le royaume deperir avec un individu inutile sous cette couronne qui se prelasserait a longueur de journee. le roi landrael est le champion de la deesse. l'elu. longue vie au roi landrael ! louee soit la grande deesse ! \"",
+    "firstSeen": "2026-01-14T05:52:57.330Z"
+  },
+  {
+    "date": "2026-01-13",
     "time": "15:44",
     "empire": "Empire Brun",
     "province": "",
@@ -17238,6 +17838,16 @@
     "text": "Logan Aska a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun.",
     "key": "2026-01-13|15:44|empire brun|||logan aska a reussi l'examen du ruban et obtenu la recompense ruban brun, ce qui lui permet de poursuivre sa carriere dans l'empire brun.",
     "firstSeen": "2026-01-14T05:23:09.635Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "15:44",
+    "empire": "Empire Brun",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Logan Aska a réussi l'examen du ruban et obtenu la récompense Ruban Brun, ce qui lui permet de poursuivre sa carrière dans l'Empire Brun.",
+    "key": "2026-01-13|15:44|empire brun|warriorland|blofeldopolis|logan aska a reussi l'examen du ruban et obtenu la recompense ruban brun, ce qui lui permet de poursuivre sa carriere dans l'empire brun.",
+    "firstSeen": "2026-01-14T05:52:57.329Z"
   },
   {
     "date": "2026-01-13",
@@ -17741,6 +18351,16 @@
   },
   {
     "date": "2026-01-13",
+    "time": "21:17",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Léprosie",
+    "text": "Un groupe de créatures mené par 1 Primitif Elmérien attaque La Tapette.",
+    "key": "2026-01-13|21:17|khanat elmerien|elmerie|leprosie|un groupe de creatures mene par 1 primitif elmerien attaque la tapette.",
+    "firstSeen": "2026-01-14T05:52:54.205Z"
+  },
+  {
+    "date": "2026-01-13",
     "time": "21:25",
     "empire": "République de Kraland",
     "province": "Karaïbes",
@@ -17998,6 +18618,16 @@
     "text": "Les projets de mariage de la Régente avec Zyor Mawi inquiètent la population. La Régente va-t-elle une fois de plus disparaître pendant des mois ? Des écolières en larmes interrompent les cours pour pleurer dans les rues.",
     "key": "2026-01-13|22:03|paradigme vert|capsulie|caps lock|les projets de mariage de la regente avec zyor mawi inquietent la population. la regente va-t-elle une fois de plus disparaitre pendant des mois ? des ecolieres en larmes interrompent les cours pour pleurer dans les rues.",
     "firstSeen": "2026-01-14T05:23:02.952Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "22:03",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "Les projets de mariage de la Régente avec Zyor Mawi inquiètent la population. La Régente va-t-elle une fois de plus disparaître pendant des mois ? Des écolières en larmes interrompent les cours pour pleurer dans les rues.",
+    "key": "2026-01-13|22:03|paradigme vert|||les projets de mariage de la regente avec zyor mawi inquietent la population. la regente va-t-elle une fois de plus disparaitre pendant des mois ? des ecolieres en larmes interrompent les cours pour pleurer dans les rues.",
+    "firstSeen": "2026-01-14T05:52:52.986Z"
   },
   {
     "date": "2026-01-13",
@@ -18941,6 +19571,26 @@
   },
   {
     "date": "2026-01-14",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Forum",
+    "text": "La province Milieu récolte 1154 ¢¢ d'impôts.",
+    "key": "2026-01-14|00:01|confederation libre|milieu|forum|la province milieu recolte 1154 ¢¢ d'impots.",
+    "firstSeen": "2026-01-14T05:52:49.438Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Léprosie",
+    "text": "La province Mystisie récolte 891 MØ d'impôts.",
+    "key": "2026-01-14|00:01|empire brun|mystisie|leprosie|la province mystisie recolte 891 mø d'impots.",
+    "firstSeen": "2026-01-14T05:52:50.546Z"
+  },
+  {
+    "date": "2026-01-14",
     "time": "00:02",
     "empire": "Khanat Elmérien",
     "province": "Capsulie",
@@ -18971,6 +19621,16 @@
   },
   {
     "date": "2026-01-14",
+    "time": "00:02",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Le Khan fRAN9OIS6aNDR2 a adressé un discours à la population : « cAPSULIE § aBEL x S4EST BIEN D2FENDU? MAIS IL N4A PAS SÜ FAIRE FACE 0 MA MAITRISE DU BÄTON; d2SORMAIS? C4EST MOI LE kHAN § iL FAUT QUELQU4UN POUR DIRIGER LA tRIBU MAINTENANT; pLOUF? PLOUF ;;; cA SERA rICHARD pINARD § »",
+    "key": "2026-01-14|00:02|khanat elmerien|capsulie|caps lock|le khan fran9ois6andr2 a adresse un discours a la population : \" capsulie § abel x s4est bien d2fendu? mais il n4a pas su faire face 0 ma maitrise du baton; d2sormais? c4est moi le khan § il faut quelqu4un pour diriger la tribu maintenant; plouf? plouf ;;; ca sera richard pinard § \"",
+    "firstSeen": "2026-01-14T05:52:48.301Z"
+  },
+  {
+    "date": "2026-01-14",
     "time": "00:03",
     "empire": "Khanat Elmérien",
     "province": "Capsulie",
@@ -18998,6 +19658,26 @@
     "text": "Le Khan fRAN9OIS6aNDR2 a nommé Richard Pinard au poste de Chef de Tribu de la ville CAPS LOCK.",
     "key": "2026-01-14|00:03|khanat elmerien|capsulie||le khan fran9ois6andr2 a nomme richard pinard au poste de chef de tribu de la ville caps lock.",
     "firstSeen": "2026-01-14T05:22:58.927Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:03",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "CAPS LOCK",
+    "text": "Un groupe de créatures mené par 1 Araignée-Éboueuse attaque Passe-Muraille.",
+    "key": "2026-01-14|00:03|khanat elmerien|bananie|caps lock|un groupe de creatures mene par 1 araignee-eboueuse attaque passe-muraille.",
+    "firstSeen": "2026-01-14T05:52:48.300Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:03",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Le Khan fRAN9OIS6aNDR2 a nommé Richard Pinard au poste de Chef de Tribu de la ville CAPS LOCK.",
+    "key": "2026-01-14|00:03|khanat elmerien|capsulie|caps lock|le khan fran9ois6andr2 a nomme richard pinard au poste de chef de tribu de la ville caps lock.",
+    "firstSeen": "2026-01-14T05:52:48.301Z"
   },
   {
     "date": "2026-01-14",
@@ -19488,5 +20168,25 @@
     "text": "Seraphiel Ravenloft a fait la déclaration officielle suivante aux habitants de la province Forêt de Jade : « Elmérien ou devrais-je dire, Tapette et Cap'tain Igloo ! Je constate que vous avez jugé opportun de lancer un raid précisément au moment où je me trouvais indisponible, occupé à tester les qualités acoustiques de ma nouvelle chambre de détention. Mais qu'elle bande de lâche. J’ai bien entendu parler de votre contre-contre-contre raid durant mon séjour carcéral. Hélas, permettez-moi de noter quelques lacunes manifestes dans l’exécution. Vous n’êtes pas venu accompagné d’un spécialiste en sylviculture ni même d’un de ces artistes elmériens capables de transformer un crime forestier en performance culturelle. Plus troublant encore : vous ne vous êtes même pas approché de mon cercueil. J’ignore donc toujours ce que vous pensiez avoir raider au juste. La seule chose que j’aie pu observer fut un groupe d’Elmériens visiblement désorientés, errant dans la forêt comme s’ils cherchaient leur gouvernement. Dramatisation Notre réponse sera, bien entendu, terrible et quand je dis terrible, je ne parle pas des images de d'Elsie en grand format. Préparez-vous donc au contre-contre-contre-contre-contre raid. La nuit apprécie les répétitions. »",
     "key": "2026-01-14|05:02|paradigme vert|foret de jade||seraphiel ravenloft a fait la declaration officielle suivante aux habitants de la province foret de jade : \" elmerien ou devrais-je dire, tapette et cap'tain igloo ! je constate que vous avez juge opportun de lancer un raid precisement au moment ou je me trouvais indisponible, occupe a tester les qualites acoustiques de ma nouvelle chambre de detention. mais qu'elle bande de lache. j'ai bien entendu parler de votre contre-contre-contre raid durant mon sejour carceral. helas, permettez-moi de noter quelques lacunes manifestes dans l'execution. vous n'etes pas venu accompagne d'un specialiste en sylviculture ni meme d'un de ces artistes elmeriens capables de transformer un crime forestier en performance culturelle. plus troublant encore : vous ne vous etes meme pas approche de mon cercueil. j'ignore donc toujours ce que vous pensiez avoir raider au juste. la seule chose que j'aie pu observer fut un groupe d'elmeriens visiblement desorientes, errant dans la foret comme s'ils cherchaient leur gouvernement. dramatisation notre reponse sera, bien entendu, terrible et quand je dis terrible, je ne parle pas des images de d'elsie en grand format. preparez-vous donc au contre-contre-contre-contre-contre raid. la nuit apprecie les repetitions. \"",
     "firstSeen": "2026-01-14T05:22:55.077Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "05:02",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Igloo",
+    "text": "Seraphiel Ravenloft a fait la déclaration officielle suivante aux habitants de la province Forêt de Jade : « Elmérien ou devrais-je dire, Tapette et Cap'tain Igloo ! Je constate que vous avez jugé opportun de lancer un raid précisément au moment où je me trouvais indisponible, occupé à tester les qualités acoustiques de ma nouvelle chambre de détention. Mais qu'elle bande de lâche. J’ai bien entendu parler de votre contre-contre-contre raid durant mon séjour carcéral. Hélas, permettez-moi de noter quelques lacunes manifestes dans l’exécution. Vous n’êtes pas venu accompagné d’un spécialiste en sylviculture ni même d’un de ces artistes elmériens capables de transformer un crime forestier en performance culturelle. Plus troublant encore : vous ne vous êtes même pas approché de mon cercueil. J’ignore donc toujours ce que vous pensiez avoir raider au juste. La seule chose que j’aie pu observer fut un groupe d’Elmériens visiblement désorientés, errant dans la forêt comme s’ils cherchaient leur gouvernement. Dramatisation Notre réponse sera, bien entendu, terrible et quand je dis terrible, je ne parle pas des images de d'Elsie en grand format. Préparez-vous donc au contre-contre-contre-contre-contre raid. La nuit apprécie les répétitions. »",
+    "key": "2026-01-14|05:02|paradigme vert|foret de jade|igloo|seraphiel ravenloft a fait la declaration officielle suivante aux habitants de la province foret de jade : \" elmerien ou devrais-je dire, tapette et cap'tain igloo ! je constate que vous avez juge opportun de lancer un raid precisement au moment ou je me trouvais indisponible, occupe a tester les qualites acoustiques de ma nouvelle chambre de detention. mais qu'elle bande de lache. j'ai bien entendu parler de votre contre-contre-contre raid durant mon sejour carceral. helas, permettez-moi de noter quelques lacunes manifestes dans l'execution. vous n'etes pas venu accompagne d'un specialiste en sylviculture ni meme d'un de ces artistes elmeriens capables de transformer un crime forestier en performance culturelle. plus troublant encore : vous ne vous etes meme pas approche de mon cercueil. j'ignore donc toujours ce que vous pensiez avoir raider au juste. la seule chose que j'aie pu observer fut un groupe d'elmeriens visiblement desorientes, errant dans la foret comme s'ils cherchaient leur gouvernement. dramatisation notre reponse sera, bien entendu, terrible et quand je dis terrible, je ne parle pas des images de d'elsie en grand format. preparez-vous donc au contre-contre-contre-contre-contre raid. la nuit apprecie les repetitions. \"",
+    "firstSeen": "2026-01-14T05:52:45.230Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "06:41",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Robin des Bars a créé une ambiance de fête dans le bâtiment Auberge « L'Antigel » (pour 24 heures) : « Les repas de viande sont à fêter aujourd’hui ! Nourrissez vous bien. »",
+    "key": "2026-01-14|06:41|khanat elmerien|elmerie|igloo|robin des bars a cree une ambiance de fete dans le batiment auberge \" l'antigel \" (pour 24 heures) : \" les repas de viande sont a feter aujourd'hui ! nourrissez vous bien. \"",
+    "firstSeen": "2026-01-14T05:52:45.229Z"
   }
 ]
