@@ -387,26 +387,14 @@ function rankingFieldsByEmpireFromRows(rows, type, label, level) {
   const fields = [];
   let fieldCount = 0;
   const MAX_FIELDS = 25;
-  let isFirstEmpire = true;
 
   for (const [empire, items] of Object.entries(grouped)) {
     if (fieldCount >= MAX_FIELDS) break;
 
-    // 🏰 Ajouter un espace avant l'empire sauf pour le premier
-    if (!isFirstEmpire) {
-      fields.push({
-        name: '\u200B',
-        value: '\u200B',
-        inline: false
-      });
-      fieldCount++;
-    }
-    isFirstEmpire = false;
-
-    // 🏰 Header empire (value vide pour coller avec ses villes)
+    // 🏰 Header empire
     fields.push({
       name: `🏰 ${empire}`,
-      value: '',
+      value: '\u200B',
       inline: false
     });
     fieldCount++;
