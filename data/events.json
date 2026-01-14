@@ -22058,5 +22058,25 @@
     "text": "Construction d'un bâtiment Station-Service dans la ville Trou Perdu en [15,9].",
     "key": "2026-01-15|00:28|empire brun|sicilia|trou perdu|construction d'un batiment station-service dans la ville trou perdu en [15,9].",
     "firstSeen": "2026-01-14T23:30:44.464Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "00:43",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Saphir Ravenmaid a ouvert un chantier privé dans la ville Garinaville en [5,4].",
+    "key": "2026-01-15|00:43|paradigme vert|siberia|garinaville|saphir ravenmaid a ouvert un chantier prive dans la ville garinaville en [5,4].",
+    "firstSeen": "2026-01-14T23:46:40.951Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "00:45",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de la Recherche Miliana Ravenloft a lancé la recherche de la technologie n°27 : « Chères dames, messieurs, Kanards, IA et autres créatures issues d'origines insondables... Vous me mettez dans une situation très difficile. Oulala, que de responsabilités ! Vous ne vous êtes pas mis d'accord dans les temps. Je vais donc, en mon âme et conscience de ministre, devoir trancher. Dans un premier temps, sachez que je vous aime tous ! Que vous soyez du côté de la magie Miliana lancera des paillettes biodégradables mais également du côté de mon chef frère en quête du carburant le plus écologique possible. Mais aussi du côté des banques ! Chaque piste est bonne, et je vous remercie pour toutes vos idées. Mais voilà ! Il est temps de trancher ! Pas ma tête, je vous en prie, j'aime vivre... Je vais devoir, à mon grand regret et pour la première fois, m'opposer à notre régente et à Sibéria... Mais pas pour vous embêter, promis ! Non, le souci, c'est que notre chère régente nous a confié des travaux, et ceux-ci demeurent ma priorité absolue. Hélas, l'arcane est une science instable qui ne se développe pas en une seule recherche. Or, nos trois chercheurs sont formels : nous avons BESOINS de protéger et de déplacer de larges volumes de ressources. Par principe, je préfère me ranger derrière les chercheurs ; ainsi, nous allons révolutionner le monde à l'aide d'un système de gestion des ressources fiable ! Qui sait ? Avec un peu de chance, cette révolution posera le premier pavé de la fin de l'ère des énergies fossiles polluantes pour l'ensemble du cybermonde ! »",
+    "key": "2026-01-15|00:45|paradigme vert|||le ministre de la recherche miliana ravenloft a lance la recherche de la technologie n°27 : \" cheres dames, messieurs, kanards, ia et autres creatures issues d'origines insondables... vous me mettez dans une situation tres difficile. oulala, que de responsabilites ! vous ne vous etes pas mis d'accord dans les temps. je vais donc, en mon ame et conscience de ministre, devoir trancher. dans un premier temps, sachez que je vous aime tous ! que vous soyez du cote de la magie miliana lancera des paillettes biodegradables mais egalement du cote de mon chef frere en quete du carburant le plus ecologique possible. mais aussi du cote des banques ! chaque piste est bonne, et je vous remercie pour toutes vos idees. mais voila ! il est temps de trancher ! pas ma tete, je vous en prie, j'aime vivre... je vais devoir, a mon grand regret et pour la premiere fois, m'opposer a notre regente et a siberia... mais pas pour vous embeter, promis ! non, le souci, c'est que notre chere regente nous a confie des travaux, et ceux-ci demeurent ma priorite absolue. helas, l'arcane est une science instable qui ne se developpe pas en une seule recherche. or, nos trois chercheurs sont formels : nous avons besoins de proteger et de deplacer de larges volumes de ressources. par principe, je prefere me ranger derriere les chercheurs ; ainsi, nous allons revolutionner le monde a l'aide d'un systeme de gestion des ressources fiable ! qui sait ? avec un peu de chance, cette revolution posera le premier pave de la fin de l'ere des energies fossiles polluantes pour l'ensemble du cybermonde ! \"",
+    "firstSeen": "2026-01-14T23:46:40.950Z"
   }
 ]
