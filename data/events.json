@@ -16091,6 +16091,46 @@
   },
   {
     "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Camp des Bagnards",
+    "text": "La province Crab Key récolte 922 Co d'impôts.",
+    "key": "2026-01-13|00:01|royaume de ruthvenie|crab key|camp des bagnards|la province crab key recolte 922 co d'impots.",
+    "firstSeen": "2026-01-14T07:01:20.235Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "La province Milieu récolte 1176 ¢¢ d'impôts.",
+    "key": "2026-01-13|00:01|confederation libre|milieu||la province milieu recolte 1176 ¢¢ d'impots.",
+    "firstSeen": "2026-01-14T07:01:21.480Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "",
+    "text": "La province Mystisie récolte 470 MØ d'impôts.",
+    "key": "2026-01-13|00:01|empire brun|mystisie||la province mystisie recolte 470 mø d'impots.",
+    "firstSeen": "2026-01-14T07:01:22.779Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "Trou Perdu",
+    "text": "La province Slavonie récolte 162 FK d'impôts.",
+    "key": "2026-01-13|00:01|republique de kraland|slavonie|trou perdu|la province slavonie recolte 162 fk d'impots.",
+    "firstSeen": "2026-01-14T07:01:22.779Z"
+  },
+  {
+    "date": "2026-01-13",
     "time": "00:03",
     "empire": "Empire Brun",
     "province": "Plaine Irradiée",
@@ -16561,6 +16601,16 @@
   },
   {
     "date": "2026-01-13",
+    "time": "02:19",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "La Première Ministre Magritte Lenouar a défini une nouvelle répartition budgétaire. Premier Ministre 1% Ministre de la Guerre 0% Ministre de la Justice 0% Ministre des Affaires Étrangères 0% Ministre de l'Économie 39% Ministre de la Recherche 40% Ministre de l'Intérieur 20% Ministre de l'Information 0% Directeur des Services Secrets 0% Ministre du Travail 0%",
+    "key": "2026-01-13|02:19|republique de kraland|karaibes|tresorville|la premiere ministre magritte lenouar a defini une nouvelle repartition budgetaire. premier ministre 1% ministre de la guerre 0% ministre de la justice 0% ministre des affaires etrangeres 0% ministre de l'economie 39% ministre de la recherche 40% ministre de l'interieur 20% ministre de l'information 0% directeur des services secrets 0% ministre du travail 0%",
+    "firstSeen": "2026-01-14T07:01:17.689Z"
+  },
+  {
+    "date": "2026-01-13",
     "time": "02:21",
     "empire": "République de Kraland",
     "province": "Karaïbes",
@@ -16631,6 +16681,16 @@
   },
   {
     "date": "2026-01-13",
+    "time": "04:11",
+    "empire": "Paradigme Vert",
+    "province": "Elmérie",
+    "city": "",
+    "text": "Morgan Ravenloft a réussi l'examen du ruban et obtenu la récompense Ruban Vert, ce qui lui permet de poursuivre sa carrière dans le Paradigme Vert.",
+    "key": "2026-01-13|04:11|paradigme vert|elmerie||morgan ravenloft a reussi l'examen du ruban et obtenu la recompense ruban vert, ce qui lui permet de poursuivre sa carriere dans le paradigme vert.",
+    "firstSeen": "2026-01-14T07:01:17.688Z"
+  },
+  {
+    "date": "2026-01-13",
     "time": "05:17",
     "empire": "Khanat Elmérien",
     "province": "Elmérie",
@@ -16638,6 +16698,16 @@
     "text": "Un groupe de créatures mené par 1 Primitif Elmérien Guerrier attaque Gontrand.",
     "key": "2026-01-13|05:17|khanat elmerien|elmerie|igloo|un groupe de creatures mene par 1 primitif elmerien guerrier attaque gontrand.",
     "firstSeen": "2026-01-14T06:24:53.748Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "05:17",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "",
+    "text": "Un groupe de créatures mené par 1 Primitif Elmérien Guerrier attaque Gontrand.",
+    "key": "2026-01-13|05:17|khanat elmerien|elmerie||un groupe de creatures mene par 1 primitif elmerien guerrier attaque gontrand.",
+    "firstSeen": "2026-01-14T07:01:17.688Z"
   },
   {
     "date": "2026-01-13",
@@ -16811,6 +16881,16 @@
   },
   {
     "date": "2026-01-13",
+    "time": "08:02",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "La Duchesse DameDémerzel a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël : « Votre Majesté C’est avec plaisir que je prête allégeance à notre souverain, que la Grande Déesse, rebondie soit Sa croupe, vous éclaire dans votre règne. Le Géofront sera un Duché loyal envers la couronne. »",
+    "key": "2026-01-13|08:02|royaume de ruthvenie|sicilia|trou perdu|la duchesse damedemerzel a prete allegeance envers le roi du royaume de ruthvenie landrael : \" votre majeste c'est avec plaisir que je prete allegeance a notre souverain, que la grande deesse, rebondie soit sa croupe, vous eclaire dans votre regne. le geofront sera un duche loyal envers la couronne. \"",
+    "firstSeen": "2026-01-14T07:01:16.229Z"
+  },
+  {
+    "date": "2026-01-13",
     "time": "08:03",
     "empire": "Empire Brun",
     "province": "Sicilia",
@@ -16961,6 +17041,26 @@
   },
   {
     "date": "2026-01-13",
+    "time": "10:27",
+    "empire": "République de Kraland",
+    "province": "Sicilia",
+    "city": "Trésorville",
+    "text": "Le Ministre de l'Économie MichelDruKra a modifié le taux d'imposition des revenus de la province Hélénie (de 60% à 40%) : « Idem »",
+    "key": "2026-01-13|10:27|republique de kraland|sicilia|tresorville|le ministre de l'economie micheldrukra a modifie le taux d'imposition des revenus de la province helenie (de 60% a 40%) : \" idem \"",
+    "firstSeen": "2026-01-14T07:01:14.818Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "10:27",
+    "empire": "République de Kraland",
+    "province": "Sicilia",
+    "city": "Trésorville",
+    "text": "Le Ministre de l'Économie MichelDruKra a modifié le taux d'imposition des revenus de la province Kraland (de 60% à 40%) : « Kramarades, Réjouissez-vous ! Vos efforts portent leurs fruits et permettent désormais aux provinces d’assurer elles-même leurs collectes de fond. La Glorieuse Première Ministre (loué soit son nom !) a donc décidé de diminuer le taux d’imposition des territoires déconcentrés de la République ! C’est-y pas l’Bonheur, ça ? »",
+    "key": "2026-01-13|10:27|republique de kraland|sicilia|tresorville|le ministre de l'economie micheldrukra a modifie le taux d'imposition des revenus de la province kraland (de 60% a 40%) : \" kramarades, rejouissez-vous ! vos efforts portent leurs fruits et permettent desormais aux provinces d'assurer elles-meme leurs collectes de fond. la glorieuse premiere ministre (loue soit son nom !) a donc decide de diminuer le taux d'imposition des territoires deconcentres de la republique ! c'est-y pas l'bonheur, ca ? \"",
+    "firstSeen": "2026-01-14T07:01:14.818Z"
+  },
+  {
+    "date": "2026-01-13",
     "time": "10:28",
     "empire": "République de Kraland",
     "province": "Sicilia",
@@ -16968,6 +17068,16 @@
     "text": "Le Ministre de l'Économie MichelDruKra a modifié le taux d'imposition des revenus de la province Karaïbes (de 60% à 40%) : « Pareil »",
     "key": "2026-01-13|10:28|republique de kraland|sicilia||le ministre de l'economie micheldrukra a modifie le taux d'imposition des revenus de la province karaibes (de 60% a 40%) : \" pareil \"",
     "firstSeen": "2026-01-14T06:24:52.303Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "10:28",
+    "empire": "République de Kraland",
+    "province": "Sicilia",
+    "city": "Trésorville",
+    "text": "Le Ministre de l'Économie MichelDruKra a modifié le taux d'imposition des revenus de la province Karaïbes (de 60% à 40%) : « Pareil »",
+    "key": "2026-01-13|10:28|republique de kraland|sicilia|tresorville|le ministre de l'economie micheldrukra a modifie le taux d'imposition des revenus de la province karaibes (de 60% a 40%) : \" pareil \"",
+    "firstSeen": "2026-01-14T07:01:14.818Z"
   },
   {
     "date": "2026-01-13",
@@ -16981,6 +17091,16 @@
   },
   {
     "date": "2026-01-13",
+    "time": "10:29",
+    "empire": "République de Kraland",
+    "province": "Sicilia",
+    "city": "Trésorville",
+    "text": "Le Ministre de l'Économie MichelDruKra a modifié le taux d'imposition des revenus de la province Slavonie (de 60% à 40%) : « Itou »",
+    "key": "2026-01-13|10:29|republique de kraland|sicilia|tresorville|le ministre de l'economie micheldrukra a modifie le taux d'imposition des revenus de la province slavonie (de 60% a 40%) : \" itou \"",
+    "firstSeen": "2026-01-14T07:01:14.818Z"
+  },
+  {
+    "date": "2026-01-13",
     "time": "11:28",
     "empire": "Empire Brun",
     "province": "Sicilia",
@@ -16988,6 +17108,16 @@
     "text": "Imoen Bint Wololo Al Rasha a fondé l'organisation de presse Le Bureau des Rumeurs.",
     "key": "2026-01-13|11:28|empire brun|sicilia||imoen bint wololo al rasha a fonde l'organisation de presse le bureau des rumeurs.",
     "firstSeen": "2026-01-14T06:24:52.303Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "11:28",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trésorville",
+    "text": "Imoen Bint Wololo Al Rasha a fondé l'organisation de presse Le Bureau des Rumeurs.",
+    "key": "2026-01-13|11:28|empire brun|sicilia|tresorville|imoen bint wololo al rasha a fonde l'organisation de presse le bureau des rumeurs.",
+    "firstSeen": "2026-01-14T07:01:14.818Z"
   },
   {
     "date": "2026-01-13",
@@ -17001,6 +17131,16 @@
   },
   {
     "date": "2026-01-13",
+    "time": "11:32",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trésorville",
+    "text": "L'Intendant Marvolo Maltuvar vient de modifier le taux d'imposition sur la conversion d'or (qui passe de 10% à 5%) : « buongiorno Sicilia, come stai ? La recherche occupe, il est vrai, une place considérable et requiert un temps certain au sein de l’Empire. Toutefois, il apparaît que l’or noir ne se laissera point apprivoiser dans l’immédiat ; quelques maladresses dans le processus semblent en avoir retardé l’avènement… qu’il en soit ainsi. Mais ce n’est point de cet or sombre que je souhaite m’entretenir aujourd’hui, mais bien de l’or jaune, cette substance éclatante qui capte le regard et attise tant de convoitises. Afin d’encourager nos chers Siciliens à descendre au cœur de la roche et à tenter fortune dans les entrailles de la terre, et ainsi contribuer à l’essor de notre très cher Trou Perdu, une réduction de l’imposition sur l’or entre en vigueur dès ce jour. S’agit-il là d’une mesure définitive ? Ou d’un allègement temporaire ? L’avenir et l’évolution des besoins de la cité nous guideront. Nous aviserons selon les nécessités des jours à venir. D’ici là, profitez pleinement de cette faveur fiscale, tant qu’elle sera accordée. Suivez le fil, chers habitants… car qui sait ? Peut-être trouverez-vous, au détour d’un coup de pioche, le filon qui changera votre destinée. »",
+    "key": "2026-01-13|11:32|empire brun|sicilia|tresorville|l'intendant marvolo maltuvar vient de modifier le taux d'imposition sur la conversion d'or (qui passe de 10% a 5%) : \" buongiorno sicilia, come stai ? la recherche occupe, il est vrai, une place considerable et requiert un temps certain au sein de l'empire. toutefois, il apparait que l'or noir ne se laissera point apprivoiser dans l'immediat ; quelques maladresses dans le processus semblent en avoir retarde l'avenement... qu'il en soit ainsi. mais ce n'est point de cet or sombre que je souhaite m'entretenir aujourd'hui, mais bien de l'or jaune, cette substance eclatante qui capte le regard et attise tant de convoitises. afin d'encourager nos chers siciliens a descendre au cœur de la roche et a tenter fortune dans les entrailles de la terre, et ainsi contribuer a l'essor de notre tres cher trou perdu, une reduction de l'imposition sur l'or entre en vigueur des ce jour. s'agit-il la d'une mesure definitive ? ou d'un allegement temporaire ? l'avenir et l'evolution des besoins de la cite nous guideront. nous aviserons selon les necessites des jours a venir. d'ici la, profitez pleinement de cette faveur fiscale, tant qu'elle sera accordee. suivez le fil, chers habitants... car qui sait ? peut-etre trouverez-vous, au detour d'un coup de pioche, le filon qui changera votre destinee. \"",
+    "firstSeen": "2026-01-14T07:01:14.818Z"
+  },
+  {
+    "date": "2026-01-13",
     "time": "11:37",
     "empire": "Royaume de Ruthvénie",
     "province": "Ruthvénie",
@@ -17008,6 +17148,16 @@
     "text": "La Duchesse Felicity Stone a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël : « 2/2 Il va de soit que Sa Majesté, Landraël 1er, bénéficiera de mon soutien, plein et entier, ainsi que de celui de tous les habitants de notre merveilleux Duché, à n'en point douter. Votre Majesté, *Felicity s'incline respectueusement, comme s'il se trouvait devant lui* en ce jour de Votre Ascension au Trône, je vous fais humblement Serment d'Allégeance. Je demeurerai à votre service tant et aussi longtemps que vous porterez La Couronne et siègerez sur Le Trône. Pour la grandeur du Royaume ! *Felicity salue les présents chaleureusement, puis s'en retourne à son bureau* »",
     "key": "2026-01-13|11:37|royaume de ruthvenie|ruthvenie||la duchesse felicity stone a prete allegeance envers le roi du royaume de ruthvenie landrael : \" 2/2 il va de soit que sa majeste, landrael 1er, beneficiera de mon soutien, plein et entier, ainsi que de celui de tous les habitants de notre merveilleux duche, a n'en point douter. votre majeste, *felicity s'incline respectueusement, comme s'il se trouvait devant lui* en ce jour de votre ascension au trone, je vous fais humblement serment d'allegeance. je demeurerai a votre service tant et aussi longtemps que vous porterez la couronne et siegerez sur le trone. pour la grandeur du royaume ! *felicity salue les presents chaleureusement, puis s'en retourne a son bureau* \"",
     "firstSeen": "2026-01-14T06:24:52.302Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "11:37",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Trésorville",
+    "text": "La Duchesse Felicity Stone a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël : « 2/2 Il va de soit que Sa Majesté, Landraël 1er, bénéficiera de mon soutien, plein et entier, ainsi que de celui de tous les habitants de notre merveilleux Duché, à n'en point douter. Votre Majesté, *Felicity s'incline respectueusement, comme s'il se trouvait devant lui* en ce jour de Votre Ascension au Trône, je vous fais humblement Serment d'Allégeance. Je demeurerai à votre service tant et aussi longtemps que vous porterez La Couronne et siègerez sur Le Trône. Pour la grandeur du Royaume ! *Felicity salue les présents chaleureusement, puis s'en retourne à son bureau* »",
+    "key": "2026-01-13|11:37|royaume de ruthvenie|ruthvenie|tresorville|la duchesse felicity stone a prete allegeance envers le roi du royaume de ruthvenie landrael : \" 2/2 il va de soit que sa majeste, landrael 1er, beneficiera de mon soutien, plein et entier, ainsi que de celui de tous les habitants de notre merveilleux duche, a n'en point douter. votre majeste, *felicity s'incline respectueusement, comme s'il se trouvait devant lui* en ce jour de votre ascension au trone, je vous fais humblement serment d'allegeance. je demeurerai a votre service tant et aussi longtemps que vous porterez la couronne et siegerez sur le trone. pour la grandeur du royaume ! *felicity salue les presents chaleureusement, puis s'en retourne a son bureau* \"",
+    "firstSeen": "2026-01-14T07:01:14.818Z"
   },
   {
     "date": "2026-01-13",
@@ -17021,6 +17171,16 @@
   },
   {
     "date": "2026-01-13",
+    "time": "11:38",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Trésorville",
+    "text": "Felicity Stone a fait la déclaration officielle suivante aux habitants du Royaume de Ruthvénie : « 1/2 Lady Felicity Stone, Proclamée Duchesse de Ruthvénie par le concierge qui vient de la réveiller en passant nettoyer l'ancien bureau du précédent Duc et désormais Roi, Sa Majesté Landraël 1er (Récapitulatif de la scène:) Spoiler *Le héraut de Felicity sort du Palais Ducal et se présente sur la grande place, suivi peu après par Sa Maîtresse.* : Oyez ! Oyez ! Habitants de Ruthvénie ! C'est pour moi un immense plaisir que de vous présenter votre nouvelle Duchesse ! et j'ai nommé, ma maîtresse, Lady Felicity Stone ! *proclame-t-il, visiblement fier* *Vagues de 'Hourra!\" et d'applaudissements par les figurants à la solde de Felicity, dispersés dans la foule* : Cher peuple de Ruthvénie, *dit alors Felicity, avec un grand enthousiasme* vous me voyez des plus honorée que d'avoir été choisie par Notre Majesté pour lui succéder en tant que Duchesse de Ruthvénie, afin de poursuivre l'excellent travail qu'il a effectué jusque là pour notre Province Capitale. Je tâcherai de ne point le décevoir, en suivant au mieux son exemple, et de me montrer à la hauteur de ses attentes et des vôtres envers le détenteur de cette Noble et Illustre fonction. »",
+    "key": "2026-01-13|11:38|royaume de ruthvenie|ruthvenie|tresorville|felicity stone a fait la declaration officielle suivante aux habitants du royaume de ruthvenie : \" 1/2 lady felicity stone, proclamee duchesse de ruthvenie par le concierge qui vient de la reveiller en passant nettoyer l'ancien bureau du precedent duc et desormais roi, sa majeste landrael 1er (recapitulatif de la scene:) spoiler *le heraut de felicity sort du palais ducal et se presente sur la grande place, suivi peu apres par sa maitresse.* : oyez ! oyez ! habitants de ruthvenie ! c'est pour moi un immense plaisir que de vous presenter votre nouvelle duchesse ! et j'ai nomme, ma maitresse, lady felicity stone ! *proclame-t-il, visiblement fier* *vagues de 'hourra!\" et d'applaudissements par les figurants a la solde de felicity, disperses dans la foule* : cher peuple de ruthvenie, *dit alors felicity, avec un grand enthousiasme* vous me voyez des plus honoree que d'avoir ete choisie par notre majeste pour lui succeder en tant que duchesse de ruthvenie, afin de poursuivre l'excellent travail qu'il a effectue jusque la pour notre province capitale. je tacherai de ne point le decevoir, en suivant au mieux son exemple, et de me montrer a la hauteur de ses attentes et des votres envers le detenteur de cette noble et illustre fonction. \"",
+    "firstSeen": "2026-01-14T07:01:14.818Z"
+  },
+  {
+    "date": "2026-01-13",
     "time": "12:10",
     "empire": "Royaume de Ruthvénie",
     "province": "Ruthvénie",
@@ -17028,6 +17188,16 @@
     "text": "Le Préfet de Police Anarion l'Enflammé a démissionné de sa fonction.",
     "key": "2026-01-13|12:10|royaume de ruthvenie|ruthvenie||le prefet de police anarion l'enflamme a demissionne de sa fonction.",
     "firstSeen": "2026-01-14T06:24:52.302Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "12:10",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Trésorville",
+    "text": "Le Préfet de Police Anarion l'Enflammé a démissionné de sa fonction.",
+    "key": "2026-01-13|12:10|royaume de ruthvenie|ruthvenie|tresorville|le prefet de police anarion l'enflamme a demissionne de sa fonction.",
+    "firstSeen": "2026-01-14T07:01:14.818Z"
   },
   {
     "date": "2026-01-13",
@@ -17058,6 +17228,36 @@
     "text": "Le Roi Landraël a nommé Darth Leo au poste de Directeur des Services Secrets.",
     "key": "2026-01-13|12:11|royaume de ruthvenie|||le roi landrael a nomme darth leo au poste de directeur des services secrets.",
     "firstSeen": "2026-01-14T06:24:52.302Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "12:11",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Le Roi Landraël a nommé Ed Wyplenel au poste de Ministre de la Justice.",
+    "key": "2026-01-13|12:11|royaume de ruthvenie|karaibes|tresorville|le roi landrael a nomme ed wyplenel au poste de ministre de la justice.",
+    "firstSeen": "2026-01-14T07:01:14.818Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "12:11",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Le Roi Landraël a nommé Felony au poste de Ministre des Affaires Étrangères.",
+    "key": "2026-01-13|12:11|royaume de ruthvenie|karaibes|tresorville|le roi landrael a nomme felony au poste de ministre des affaires etrangeres.",
+    "firstSeen": "2026-01-14T07:01:14.818Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "12:11",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Le Roi Landraël a nommé Darth Leo au poste de Directeur des Services Secrets.",
+    "key": "2026-01-13|12:11|royaume de ruthvenie|karaibes|tresorville|le roi landrael a nomme darth leo au poste de directeur des services secrets.",
+    "firstSeen": "2026-01-14T07:01:14.818Z"
   },
   {
     "date": "2026-01-13",
@@ -17391,6 +17591,16 @@
   },
   {
     "date": "2026-01-13",
+    "time": "18:00",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "",
+    "text": "Tinylia Cératy a trouvé un gros filon de pierre dans la province Bouletie : « et hop on en a sacrement besoin, et je pense qu'on va en trouver ! »",
+    "key": "2026-01-13|18:00|khanat elmerien|bouletie||tinylia ceraty a trouve un gros filon de pierre dans la province bouletie : \" et hop on en a sacrement besoin, et je pense qu'on va en trouver ! \"",
+    "firstSeen": "2026-01-14T07:01:13.403Z"
+  },
+  {
+    "date": "2026-01-13",
     "time": "18:19",
     "empire": "Confédération Libre",
     "province": "Acropole",
@@ -17638,6 +17848,16 @@
     "text": "Un groupe de créatures mené par 1 Cheval attaque Zelphi.",
     "key": "2026-01-13|20:02|empire brun|sicilia|port magmor|un groupe de creatures mene par 1 cheval attaque zelphi.",
     "firstSeen": "2026-01-14T06:24:47.074Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "20:02",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "",
+    "text": "Un groupe de créatures mené par 1 Cheval attaque Zelphi.",
+    "key": "2026-01-13|20:02|empire brun|sicilia||un groupe de creatures mene par 1 cheval attaque zelphi.",
+    "firstSeen": "2026-01-14T07:01:11.522Z"
   },
   {
     "date": "2026-01-13",
@@ -17891,6 +18111,16 @@
   },
   {
     "date": "2026-01-13",
+    "time": "21:37",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "",
+    "text": "La Tapette a fait la déclaration officielle suivante aux habitants de la province Forêt de Jade : « Paradigm-Accalmiens ! En représailles à votre contre-raid, je vous annonce que je viens vous contre-contre-contre-raider avec le Cap'tain Igloo. Oui, je rajoute un contre, pour garder une avance. Parce qu'en plus, d'abord, ça se permet d'imiter nos raids mieux que nous. Alors que tout le Cybermonde sait que les plus raids, c'est nous ! Je suis une tapette avec une hache, et je n'hésiterai pas à m'en servir, vous êtes prévenus !!! Des passants surpris virent passer une tapette coiffée, armée d'une hache, et sautiller gaiement jusqu'au camp de bûcherons. »",
+    "key": "2026-01-13|21:37|paradigme vert|foret de jade||la tapette a fait la declaration officielle suivante aux habitants de la province foret de jade : \" paradigm-accalmiens ! en represailles a votre contre-raid, je vous annonce que je viens vous contre-contre-contre-raider avec le cap'tain igloo. oui, je rajoute un contre, pour garder une avance. parce qu'en plus, d'abord, ca se permet d'imiter nos raids mieux que nous. alors que tout le cybermonde sait que les plus raids, c'est nous ! je suis une tapette avec une hache, et je n'hesiterai pas a m'en servir, vous etes prevenus !!! des passants surpris virent passer une tapette coiffee, armee d'une hache, et sautiller gaiement jusqu'au camp de bucherons. \"",
+    "firstSeen": "2026-01-14T07:01:09.184Z"
+  },
+  {
+    "date": "2026-01-13",
     "time": "21:38",
     "empire": "Royaume de Ruthvénie",
     "province": "Forêt de Jade",
@@ -18058,6 +18288,16 @@
     "text": "Floran Baumé a brûlé par erreur des notes scientifiques importantes. La recherche est perturbée (-3 à la technologie n°2).",
     "key": "2026-01-13|22:30|empire brun|||floran baume a brule par erreur des notes scientifiques importantes. la recherche est perturbee (-3 a la technologie n°2).",
     "firstSeen": "2026-01-14T06:24:45.626Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "22:30",
+    "empire": "Empire Brun",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Floran Baumé a brûlé par erreur des notes scientifiques importantes. La recherche est perturbée (-3 à la technologie n°2).",
+    "key": "2026-01-13|22:30|empire brun|foret de jade|accalmie|floran baume a brule par erreur des notes scientifiques importantes. la recherche est perturbee (-3 a la technologie n°2).",
+    "firstSeen": "2026-01-14T07:01:07.733Z"
   },
   {
     "date": "2026-01-13",
@@ -18308,6 +18548,16 @@
     "text": "Pr Jean-Michel Nobyl a découvert la technologie Production en Série en faveur de la Confédération Libre : « La Production en Série permet à chaque ville d'extraire directement de l'or, ce qui ajoute 100 FK chaque jour aux impôts perçus (répartis ensuite entre ville, province et empire). »",
     "key": "2026-01-13|23:59|confederation libre|||pr jean-michel nobyl a decouvert la technologie production en serie en faveur de la confederation libre : \" la production en serie permet a chaque ville d'extraire directement de l'or, ce qui ajoute 100 fk chaque jour aux impots percus (repartis ensuite entre ville, province et empire). \"",
     "firstSeen": "2026-01-14T06:24:44.210Z"
+  },
+  {
+    "date": "2026-01-13",
+    "time": "23:59",
+    "empire": "Confédération Libre",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "Pr Jean-Michel Nobyl a découvert la technologie Production en Série en faveur de la Confédération Libre : « La Production en Série permet à chaque ville d'extraire directement de l'or, ce qui ajoute 100 FK chaque jour aux impôts perçus (répartis ensuite entre ville, province et empire). »",
+    "key": "2026-01-13|23:59|confederation libre|kraland|quartier supreme|pr jean-michel nobyl a decouvert la technologie production en serie en faveur de la confederation libre : \" la production en serie permet a chaque ville d'extraire directement de l'or, ce qui ajoute 100 fk chaque jour aux impots percus (repartis ensuite entre ville, province et empire). \"",
+    "firstSeen": "2026-01-14T07:01:05.891Z"
   },
   {
     "date": "2026-01-14",
@@ -18941,6 +19191,46 @@
   },
   {
     "date": "2026-01-14",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "",
+    "text": "La province Géofront récolte 191 Co d'impôts et paie 125 Co pour ses employés (policiers et soldats).",
+    "key": "2026-01-14|00:01|royaume de ruthvenie|geofront||la province geofront recolte 191 co d'impots et paie 125 co pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-01-14T07:01:03.337Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Ruthvenville",
+    "text": "La province Warriorland récolte 353 ¢¢ d'impôts.",
+    "key": "2026-01-14|00:01|confederation libre|warriorland|ruthvenville|la province warriorland recolte 353 ¢¢ d'impots.",
+    "firstSeen": "2026-01-14T07:01:03.337Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "",
+    "text": "La province Capsulie récolte 613 ÐE d'impôts.",
+    "key": "2026-01-14|00:01|khanat elmerien|capsulie||la province capsulie recolte 613 ðe d'impots.",
+    "firstSeen": "2026-01-14T07:01:04.607Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "",
+    "text": "La province Karaïbes récolte 330 FK d'impôts et paie 50 FK pour ses employés (policiers et soldats).",
+    "key": "2026-01-14|00:01|republique de kraland|karaibes||la province karaibes recolte 330 fk d'impots et paie 50 fk pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-01-14T07:01:05.891Z"
+  },
+  {
+    "date": "2026-01-14",
     "time": "00:02",
     "empire": "Khanat Elmérien",
     "province": "Capsulie",
@@ -19301,6 +19591,16 @@
   },
   {
     "date": "2026-01-14",
+    "time": "01:05",
+    "empire": "Confédération Libre",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Layla Al-Khaïd a fondé l'organisation commerciale Al-Khaïd Oil.",
+    "key": "2026-01-14|01:05|confederation libre|foret de jade|accalmie|layla al-khaid a fonde l'organisation commerciale al-khaid oil.",
+    "firstSeen": "2026-01-14T07:00:59.464Z"
+  },
+  {
+    "date": "2026-01-14",
     "time": "01:09",
     "empire": "Paradigme Vert",
     "province": "",
@@ -19308,6 +19608,16 @@
     "text": "La Ministre de l'Économie Mina & Lilith Evermore a versé 2900 Éf au Ministère de la Recherche.",
     "key": "2026-01-14|01:09|paradigme vert|||la ministre de l'economie mina & lilith evermore a verse 2900 ef au ministere de la recherche.",
     "firstSeen": "2026-01-14T06:24:38.992Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "01:09",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "La Ministre de l'Économie Mina & Lilith Evermore a versé 2900 Éf au Ministère de la Recherche.",
+    "key": "2026-01-14|01:09|paradigme vert|foret de jade|accalmie|la ministre de l'economie mina & lilith evermore a verse 2900 ef au ministere de la recherche.",
+    "firstSeen": "2026-01-14T07:00:59.464Z"
   },
   {
     "date": "2026-01-14",
@@ -19558,5 +19868,85 @@
     "text": "Construction d'un bâtiment Librairie dans la ville Accalmie en [11,12].",
     "key": "2026-01-14|07:23|paradigme vert|foret de jade|accalmie|construction d'un batiment librairie dans la ville accalmie en [11,12].",
     "firstSeen": "2026-01-14T06:24:36.375Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "07:27",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "Bisouville",
+    "text": "Giada Giulia Gluanta a acheté le bâtiment Petite Briqueterie « Brikabrak » au prix de 2689 FK.",
+    "key": "2026-01-14|07:27|republique de kraland|helenie|bisouville|giada giulia gluanta a achete le batiment petite briqueterie \" brikabrak \" au prix de 2689 fk.",
+    "firstSeen": "2026-01-14T07:00:56.810Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "07:29",
+    "empire": "Empire Brun",
+    "province": "Capsulie",
+    "city": "Igloo",
+    "text": "La Ministre de la Recherche Shana Al Khaïd a fixé le salaire pour la recherche technologique à 40 MØ : « 400 % ! Oui, vous avez bien entendu : 400 % d’augmentation salariale. Fini les excuses du type : « J’ai renversé mon café sur le clavier ». Récompensons nos chercheurs. Continuons d’avancer et d’être la plus grande puissance technologique sous l’Empire Charlie ! Construisons-lui la plus grande litière hi-tech pour le féliciter de sa prestation… hum, je m’égare. Floran, je compte sur toi pour taxer le reste. Quant à nos chercheurs, eux peuvent enfin souffler un peu, car c’est une fois de plus grâce à eux que les riches s’engraisseront. »",
+    "key": "2026-01-14|07:29|empire brun|capsulie|igloo|la ministre de la recherche shana al khaid a fixe le salaire pour la recherche technologique a 40 mø : \" 400 % ! oui, vous avez bien entendu : 400 % d'augmentation salariale. fini les excuses du type : \" j'ai renverse mon cafe sur le clavier \". recompensons nos chercheurs. continuons d'avancer et d'etre la plus grande puissance technologique sous l'empire charlie ! construisons-lui la plus grande litiere hi-tech pour le feliciter de sa prestation... hum, je m'egare. floran, je compte sur toi pour taxer le reste. quant a nos chercheurs, eux peuvent enfin souffler un peu, car c'est une fois de plus grace a eux que les riches s'engraisseront. \"",
+    "firstSeen": "2026-01-14T07:00:56.810Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "07:36",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "Igloo",
+    "text": "Trøels s'est fait agresser par un groupe de créatures mené par Primitif Elmérien.",
+    "key": "2026-01-14|07:36|khanat elmerien|capsulie|igloo|trøels s'est fait agresser par un groupe de creatures mene par primitif elmerien.",
+    "firstSeen": "2026-01-14T07:00:56.810Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "07:37",
+    "empire": "Empire Brun",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "La Ministre de la Recherche Shana Al Khaïd a adressé un discours à la population : « Alors… si je prends 10, que je le multiplie par 7 parce que c’est un chiffre sérieux, que je divise le tout par 3 (pour l’équilibre),que j’élève 6 à la puissance 8 sans raison valable, mais avec conviction . j'y ajoute ensuite le sinus de 30°, parce que la trigonométrie rassure toujours les comité. Je retranche 4 pour rester modeste, puis je mets le tout au carré afin d’impressionner le budget… On tombe bien sur 400 %, Floran ? Enfin… à une marge d’erreur près. »",
+    "key": "2026-01-14|07:37|empire brun|elmerie|igloo|la ministre de la recherche shana al khaid a adresse un discours a la population : \" alors... si je prends 10, que je le multiplie par 7 parce que c'est un chiffre serieux, que je divise le tout par 3 (pour l'equilibre),que j'eleve 6 a la puissance 8 sans raison valable, mais avec conviction . j'y ajoute ensuite le sinus de 30°, parce que la trigonometrie rassure toujours les comite. je retranche 4 pour rester modeste, puis je mets le tout au carre afin d'impressionner le budget... on tombe bien sur 400 %, floran ? enfin... a une marge d'erreur pres. \"",
+    "firstSeen": "2026-01-14T07:00:56.809Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "07:37",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Un groupe de créatures mené par 1 Sbleune Rouge attaque Trøels.",
+    "key": "2026-01-14|07:37|khanat elmerien|elmerie|igloo|un groupe de creatures mene par 1 sbleune rouge attaque trøels.",
+    "firstSeen": "2026-01-14T07:00:56.810Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "07:44",
+    "empire": "Empire Brun",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "La Ministre de la Recherche Shana Al Khaïd a adressé un discours à la population : « Top 3 des chercheurs de l’Empire ! 1. Silas l’Intrépide 2. Shaelys la Renarde 3. Floran le bullied Je serais Charlie je ferais croire que celui qui découvrira la formule de l'essence aura un aigle a mettre sur sa table de chevet. »",
+    "key": "2026-01-14|07:44|empire brun|elmerie|igloo|la ministre de la recherche shana al khaid a adresse un discours a la population : \" top 3 des chercheurs de l'empire ! 1. silas l'intrepide 2. shaelys la renarde 3. floran le bullied je serais charlie je ferais croire que celui qui decouvrira la formule de l'essence aura un aigle a mettre sur sa table de chevet. \"",
+    "firstSeen": "2026-01-14T07:00:56.809Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "07:49",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Bonnie Red a donné un spectacle distrayant dans le bâtiment Auberge « L'Antigel » mais sa prestation a été ridicule : « Euh... comment les rejetons de Magmor appellent-ils les jambes de leurs victimes ? Les pattes alimentaires ! »",
+    "key": "2026-01-14|07:49|khanat elmerien|elmerie|igloo|bonnie red a donne un spectacle distrayant dans le batiment auberge \" l'antigel \" mais sa prestation a ete ridicule : \" euh... comment les rejetons de magmor appellent-ils les jambes de leurs victimes ? les pattes alimentaires ! \"",
+    "firstSeen": "2026-01-14T07:00:56.809Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "07:55",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Sakura Tiwanaku a ouvert un chantier privé dans la ville CAPS LOCK en [15,6].",
+    "key": "2026-01-14|07:55|khanat elmerien|capsulie|caps lock|sakura tiwanaku a ouvert un chantier prive dans la ville caps lock en [15,6].",
+    "firstSeen": "2026-01-14T07:00:56.809Z"
   }
 ]
