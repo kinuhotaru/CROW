@@ -180,8 +180,8 @@ function chunkEmbedLines(lines, maxLength = 4096) {
 }
 
 async function sendWebhookGuaranteed(webhookUrl, payload) {
-  if (!webhookUrl) {
-    console.warn('⚠️ Webhook non défini, envoi ignoré');
+  if (!webhookUrl || typeof webhookUrl !== 'string') {
+    console.warn('⚠️ Webhook invalide, envoi ignoré');
     return;
   }
 
@@ -689,6 +689,8 @@ if (timeRegex.test(time) && eventText) {
   //Stats to Discord
   const dailyStats = buildDailyFinanceTables(events);
   saveJSON(STATS_FILE, dailyStats);
+    console.log('EVENTS WEBHOOK =', DISCORD_EVENTS_WEBHOOK);
+    console.log('STATS WEBHOOK  =', DISCORD_STATS_WEBHOOK);  
   await sendDailyRanking(dailyStats);
 
   await sendToDiscord(events);

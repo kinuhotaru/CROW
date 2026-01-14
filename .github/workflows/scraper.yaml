@@ -33,7 +33,8 @@ jobs:
 
       - name: 🚀 Run scraper
         env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          DISCORD_EVENTS_WEBHOOK: ${{ secrets.DISCORD_EVENTS_WEBHOOK }}
+          DISCORD_STATS_WEBHOOK: ${{ secrets.DISCORD_STATS_WEBHOOK }}
         run: node scraper-playwright.js
 
       - name: 💾 Commit data files
