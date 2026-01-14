@@ -1,6 +1,7 @@
-﻿import fs from 'fs';
+import fs from 'fs';
 import { chromium } from 'playwright';
 import fetch from 'node-fetch';
+import WORLD from './kraland_territories.json';
 
 /* =========================
    ⚙️ CONFIG
@@ -9,11 +10,17 @@ import fetch from 'node-fetch';
 const BASE_URL = 'http://www.kraland.org/monde/evenements';
 const DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK;
 
+//DATA Logs
 const DATA_DIR = './data';
 const EVENTS_FILE = `${DATA_DIR}/events.json`;
 const INDEX_FILE = `${DATA_DIR}/event_index.json`;
 const SENT_FILE = `${DATA_DIR}/sent_keys.json`;
 const EVENT_TTL_MS = 1000 * 60 * 60 * 24 * 30; // 30 jours de récursion
+
+//STATS Bourse
+
+const STATS_FILE = `${DATA_DIR}/tax_stats.json`;
+const STATS_SENT_FILE = `${DATA_DIR}/stats_sent_days.json`;
 
 const MAX_PAGES = 500;
 const MAX_EMPTY_PAGES = 5;
@@ -222,6 +229,157 @@ async function sendWebhookGuaranteed(payload) {
   }
 }
 
+// UTILITAIRES DE STATISTIQUE
+
+function extractTaxAmount(text) {
+  if (!text) return null;
+
+  // Ex: "récolte 739 ÐE d'impôts"
+  const match = text.match(/récolte\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/i);
+  if (!match) return null;
+
+  const amount = parseInt(match[1].replace(/\s/g, ''), 10);
+  return Number.isNaN(amount) ? null : amount;
+}
+
+function buildTaxStats(events) {
+  const stats = {};
+
+  for (const e of events) {
+    const amount = extractTaxAmount(e.text);
+    if (amount === null) continue;
+
+    const day = e.date;
+    const empire = e.empire || 'Inconnu';
+    const province = e.province || 'Inconnu';
+    const city = e.city || null;
+
+    stats[day] ??= {};
+    stats[day][empire] ??= {
+      currency: WORLD[empire]?.currency ?? '?',
+      total: 0,
+      provinces: {}
+    };
+
+    const empireBlock = stats[day][empire];
+    empireBlock.total += amount;
+
+    empireBlock.provinces[province] ??= {
+      total: 0,
+      cities: {}
+    };
+
+    empireBlock.provinces[province].total += amount;
+
+    if (city) {
+      empireBlock.provinces[province].cities[city] ??= 0;
+      empireBlock.provinces[province].cities[city] += amount;
+    }
+  }
+
+  return stats;
+}
+
+function getYesterdayISO() {
+  const d = new Date();
+  d.setDate(d.getDate() - 1);
+  return d.toISOString().slice(0, 10);
+}
+
+async function sendDailyFiscalReports(stats) {
+  const sentDays = new Set(loadJSON(STATS_SENT_FILE, []));
+  const day = getYesterdayISO();
+
+  if (sentDays.has(day)) {
+    console.log(`📭 Rapports fiscaux déjà envoyés pour ${day}`);
+    return;
+  }
+
+  await sendEmpireRanking(stats, day);
+  await sendTopProvinces(stats, day);
+
+  sentDays.add(day);
+  saveJSON(STATS_SENT_FILE, [...sentDays]);
+
+  console.log(`📊 Rapports fiscaux envoyés pour ${day}`);
+}
+
+/* =========================
+   🏬 EMPIRE RANKING IMPOTS
+========================= */
+
+//Rapport - Classement des empires
+
+async function sendEmpireRanking(stats, day) {
+  const dayStats = stats[day];
+  if (!dayStats) return;
+
+  const ranking = Object.entries(dayStats)
+    .map(([empire, data]) => ({
+      empire,
+      total: data.total,
+      currency: data.currency
+    }))
+    .sort((a, b) => b.total - a.total);
+
+  const lines = ranking.map(
+    (e, i) => `**${i + 1}. ${e.empire}** — ${e.total.toLocaleString()} ${e.currency}`
+  );
+
+  const chunks = chunkEmbedLines(lines);
+
+  for (let i = 0; i < chunks.length; i++) {
+    await sendWebhookGuaranteed({
+      embeds: [{
+        title: `🏆 Classement des Empires — ${day}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
+        color: 0xF1C40F,
+        description: chunks[i],
+        footer: { text: 'CROWS Fiscal Report' }
+      }]
+    });
+  }
+}
+
+//Rapport - Classement des meilleures provinces
+async function sendTopProvinces(stats, day, limit = 10) {
+  const dayStats = stats[day];
+  if (!dayStats) return;
+
+  const provinces = [];
+
+  for (const [empire, eData] of Object.entries(dayStats)) {
+    for (const [province, pData] of Object.entries(eData.provinces)) {
+      provinces.push({
+        empire,
+        province,
+        total: pData.total,
+        currency: eData.currency
+      });
+    }
+  }
+
+  provinces.sort((a, b) => b.total - a.total);
+
+  const top = provinces.slice(0, limit);
+
+  const lines = top.map(
+    (p, i) =>
+      `**${i + 1}. ${p.province}** (${p.empire}) — ${p.total.toLocaleString()} ${p.currency}`
+  );
+
+  const chunks = chunkEmbedLines(lines);
+
+  for (let i = 0; i < chunks.length; i++) {
+    await sendWebhookGuaranteed({
+      embeds: [{
+        title: `📊 Top Provinces — ${day}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
+        color: 0x3498DB,
+        description: chunks[i],
+        footer: { text: 'CROWS Fiscal Report' }
+      }]
+    });
+  }
+}
 /* =========================
    📨 DISCORD
 ========================= */
@@ -348,8 +506,17 @@ const { scrapedEvents, next } = await page.evaluate(() => {
     const province = provinceText.textContent.replace(/\u00a0/g, ' ').trim();
     const cityText = tds[0]?.querySelector('p')?.innerText?.trim();
 
-    if (province) currentProvince = province;
-    if (cityText) currentCity = cityText;
+        if (province) {
+        currentProvince = province;
+        } else {
+        currentProvince = "";
+        }
+
+        if (cityText) {
+        currentCity = cityText;
+        } else {
+        currentCity = "";
+        }
 
     // --- EVENT ---
     const time = tds[1]?.innerText?.trim();
@@ -417,11 +584,11 @@ if (timeRegex.test(time) && eventText) {
             firstSeen
         });
 
-        newCount++;
+            newCount++;
 
-        if (isExpired) {
-            console.log(`♻️ Événement réautorisé après expiration (${e.date} ${e.time})`);
-        }
+            if (isExpired) {
+                console.log(`♻️ Événement réautorisé après expiration (${e.date} ${e.time})`);
+            }
         }
     }
 
@@ -440,9 +607,16 @@ if (timeRegex.test(time) && eventText) {
     nextUrl = next;
   }
 
+  //Gestion des event
   sortEvents(events);
   saveJSON(EVENTS_FILE, events);
   saveJSON(INDEX_FILE, [...index.values()]);
+
+  //Gestion des stats impôts
+  const taxStats = buildTaxStats(events);
+  saveJSON(STATS_FILE, taxStats);
+
+  await sendDailyFiscalReports(taxStats);
 
   await sendToDiscord(events);
   await browser.close();

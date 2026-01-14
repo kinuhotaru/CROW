@@ -1,0 +1,62 @@
+{
+  "République de Kraland": {
+    "currency": "FK",
+    "regions": {
+      "Kraland": ["Quartier Suprême", "Honolulu-par-Delà"],
+      "Hélénie": ["Bisouville"],
+      "Karaïbes": ["Trésorville"],
+      "Slavonie": ["Gynerak"]
+    }
+  },
+  "Empire Brun": {
+    "currency": "MØ",
+    "regions": {
+      "Santa Banana": ["Santa Banana City", "Bagdad"],
+      "Sicilia": ["Trou Perdu"],
+      "Mystisie": ["Lampe du Génie"],
+      "Niarkalistan": ["Léprosie"]
+    }
+  },
+  "Paradigme Vert": {
+    "currency": "Éf",
+    "regions": {
+      "Irendol": ["Grand Jardin", "Bamboutopia"],
+      "Sibéria": ["Garinaville"],
+      "Forêt de Jade": ["Accalmie"],
+      "Île aux Kanards": ["Kanardville"]
+    }
+  },
+  "Khanat Elmérien": {
+    "currency": "ÐE",
+    "regions": {
+      "Elmérie": ["Gueule du Lézard", "Igloo"],
+      "Capsulie": ["CAPS LOCK"],
+      "Bouletie": ["Youpigrad"],
+      "Bananie": ["Distillerie"]
+    }
+  },
+  "Confédération Libre": {
+    "currency": "¢¢",
+    "regions": {
+      "Acropole": ["Forum", "Tribunal Cybermondial"],
+      "Milieu": ["Structural"],
+      "Plaine Irradiée": ["Atome"],
+      "Warriorland": ["Blofeldopolis"]
+    }
+  },
+  "Royaume de Ruthvénie": {
+    "currency": "Co",
+    "regions": {
+      "Ruthvénie": ["Ruthvenville", "Lantenac-du-Lac"],
+      "Valégro": ["Fort Emouchet"],
+      "Géofront": ["Sanctuaire"],
+      "Crab Key": ["Port Magmor"]
+    }
+  },
+  "Provinces indépendantes": {
+    "currency": "PO",
+    "regions": {
+      "Australine": ["Camp des Bagnards"]
+    }
+  }
+}
