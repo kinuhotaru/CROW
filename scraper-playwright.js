@@ -244,6 +244,19 @@ async function sendWebhookGuaranteed(payload) {
 
 // UTILITAIRES DE STATISTIQUE
 
+function extractFinance(text) {
+  const income = text.match(/récolte\s+([\d\s]+)\s*([A-ZØÐÉ¢$]+)/i);
+  const expense = text.match(/paie\s+([\d\s]+)\s*([A-ZØÐÉ¢$]+)/i);
+
+  if (!income && !expense) return null;
+
+  return {
+    income: income ? Number(income[1].replace(/\s/g, '')) : null,
+    expense: expense ? Number(expense[1].replace(/\s/g, '')) : null,
+    currency: income?.[2] || expense?.[2] || null
+  };
+}
+
 function extractMoneyFlows(text) {
   if (!text) return null;
 
@@ -307,6 +320,34 @@ function buildDailyStats(events) {
   return stats;
 }
 
+function buildDailyFinanceTables(events) {
+  const days = {};
+
+  for (const e of events) {
+    const finance = extractFinance(e.text);
+    if (!finance) continue;
+
+    const level = getLevel(e);
+    if (!level) continue;
+
+    const day = e.date;
+    days[day] ??= { empire: [], province: [], city: [] };
+
+    const row = {
+      empire: e.empire,
+      province: e.province || null,
+      city: e.city || null,
+      income: finance.income,
+      expense: finance.expense,
+      currency: finance.currency
+    };
+
+    days[day][level].push(row);
+  }
+
+  return days;
+}
+
 function rankingLines(entries, type) {
   return Object.entries(entries)
     .sort((a, b) => b[1][type] - a[1][type])
@@ -336,47 +377,46 @@ function buildDailyFinanceLogs(events, WORLD) {
   const logs = {};
 
   for (const e of events) {
-    const income = extractIncome(e.text);
-    const expense = extractExpense(e.text);
-    if (income === null && expense === null) continue;
+    const flow = extractMoneyFlows(e.text);
+    if (!flow) continue;
 
     const day = e.date;
     const empire = e.empire;
     if (!WORLD[empire]) continue;
 
-    const province = e.province || 'Central';
-    const city = e.city || null;
-
     logs[day] ??= { date: day, empires: {} };
-    const d = logs[day];
+    const D = logs[day];
 
-    d.empires[empire] ??= {
+    // ===== EMPIRE (TOUJOURS) =====
+    D.empires[empire] ??= {
       currency: WORLD[empire].currency,
       income: 0,
       expense: 0,
       provinces: {}
     };
 
-    const E = d.empires[empire];
+    const E = D.empires[empire];
+    E.income += flow.income;
+    E.expense += flow.expense;
 
-    if (income !== null) E.income += income;
-    if (expense !== null) E.expense += expense;
+    // ===== PROVINCE (SI PRÉSENTE) =====
+    if (e.province) {
+      E.provinces[e.province] ??= {
+        income: 0,
+        expense: 0,
+        cities: {}
+      };
 
-    E.provinces[province] ??= {
-      income: 0,
-      expense: 0,
-      cities: {}
-    };
+      const P = E.provinces[e.province];
+      P.income += flow.income;
+      P.expense += flow.expense;
 
-    const P = E.provinces[province];
-
-    if (income !== null) P.income += income;
-    if (expense !== null) P.expense += expense;
-
-    if (city) {
-      P.cities[city] ??= { income: 0, expense: 0 };
-      if (income !== null) P.cities[city].income += income;
-      if (expense !== null) P.cities[city].expense += expense;
+      // ===== VILLE (SI PRÉSENTE) =====
+      if (e.city) {
+        P.cities[e.city] ??= { income: 0, expense: 0 };
+        P.cities[e.city].income += flow.income;
+        P.cities[e.city].expense += flow.expense;
+      }
     }
   }
 
@@ -459,13 +499,11 @@ async function sendToDiscord(events) {
 
 // Render DISCORD Stats Finances
 
-function groupEventsByDate(events) {
-  return events.reduce((acc, e) => {
-    if (!e.date) return acc;
-    acc[e.date] ??= [];
-    acc[e.date].push(e);
-    return acc;
-  }, {});
+function getLevel(e) {
+  if (!e.province && !e.city) return 'empire';
+  if (e.province && !e.city) return 'province';
+  if (e.province && e.city) return 'city';
+  return null;
 }
 
 async function sendDailyRanking(stats) {
@@ -682,7 +720,7 @@ if (timeRegex.test(time) && eventText) {
 
 
   //Stats to Discord
-  const dailyStats = buildDailyStats(events);
+  const dailyStats = buildDailyFinanceTables(events);
   saveJSON(STATS_FILE, dailyStats);
   await sendDailyRanking(dailyStats);
 
