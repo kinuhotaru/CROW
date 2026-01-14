@@ -357,7 +357,6 @@ function rankingFields(entries, type, label) {
   });
 }
 function rankingFieldsByEmpireFromRows(rows, type, label, level) {
-  // 1️⃣ Flatten & filtrage (> 0)
   const flat = rows
     .map(r => ({
       empire: r.empire,
@@ -369,17 +368,15 @@ function rankingFieldsByEmpireFromRows(rows, type, label, level) {
 
   if (!flat.length) return null;
 
-  // 2️⃣ Classement GLOBAL
+  // Classement global
   flat.sort((a, b) => b.value - a.value);
-
   const globalMax = flat[0].value;
 
-  // 3️⃣ Attribution du rang global
   flat.forEach((r, i) => {
     r.rank = i + 1;
   });
 
-  // 4️⃣ Regroupement par empire (ordre conservé)
+  // Regroupement par empire (ordre conservé)
   const grouped = {};
   for (const r of flat) {
     grouped[r.empire] ??= [];
@@ -387,16 +384,24 @@ function rankingFieldsByEmpireFromRows(rows, type, label, level) {
   }
 
   const fields = [];
+  let fieldCount = 0;
+  const MAX_FIELDS = 25;
 
-  // 5️⃣ Construction des fields Discord
   for (const [empire, items] of Object.entries(grouped)) {
+    // ⛔ stop si plus de place
+    if (fieldCount >= MAX_FIELDS) break;
+
+    // Header empire
     fields.push({
-      name: `🏰 ${empire}`,
       value: '‎',
+      name: `🏰 ${empire}`,
       inline: false
     });
+    fieldCount++;
 
     for (const item of items) {
+      if (fieldCount >= MAX_FIELDS) break;
+
       fields.push({
         name: `${item.rank}. ${item.name}`,
         value:
@@ -404,10 +409,12 @@ function rankingFieldsByEmpireFromRows(rows, type, label, level) {
           `${progressBar(item.value, globalMax)} ${item.rank <= 3 ? medal(item.rank) : ''}`,
         inline: true
       });
+
+      fieldCount++;
     }
   }
 
-  return fields;
+  return fields.length ? fields : null;
 }
 /* =========================
    🏬 EMPIRE RANKING IMPOTS
