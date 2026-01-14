@@ -8,8 +8,8 @@ import fetch from 'node-fetch';
 
 const BASE_URL = 'http://www.kraland.org/monde/evenements';
 
-const DISCORD_EVENTS_WEBHOOK = process.env.DISCORD_WEBHOOK_EVENTS;
-const DISCORD_STATS_WEBHOOK  = process.env.DISCORD_WEBHOOK_STATS;
+const DISCORD_EVENTS_WEBHOOK = process.env.DISCORD_EVENTS_WEBHOOK;
+const DISCORD_STATS_WEBHOOK  = process.env.DISCORD_STATS_WEBHOOK;
 
 //DATA Logs
 const DATA_DIR = './data';
@@ -180,6 +180,11 @@ function chunkEmbedLines(lines, maxLength = 4096) {
 }
 
 async function sendWebhookGuaranteed(webhookUrl, payload) {
+  if (!webhookUrl) {
+    console.warn('⚠️ Webhook non défini, envoi ignoré');
+    return;
+  }
+
   while (true) {
     const res = await fetch(webhookUrl, {
       method: 'POST',
