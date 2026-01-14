@@ -20238,5 +20238,35 @@
     "text": "Lyanna de Nansay a établi une chaîne de production dans le bâtiment Gisement d'Or (la production sera plus rapide) : « Au travail esclaves ! Ici le MAL est à l'œuvre ! »",
     "key": "2026-01-14|15:37|empire brun|mystisie|lampe du genie|lyanna de nansay a etabli une chaine de production dans le batiment gisement d'or (la production sera plus rapide) : \" au travail esclaves ! ici le mal est a l'œuvre ! \"",
     "firstSeen": "2026-01-14T14:38:58.031Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "15:38",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Construction d'un bâtiment Vendeur de Tissu dans la ville Port Magmor en [14,4].",
+    "key": "2026-01-14|15:38|royaume de ruthvenie|crab key|port magmor|construction d'un batiment vendeur de tissu dans la ville port magmor en [14,4].",
+    "firstSeen": "2026-01-14T14:47:22.159Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "15:40",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Lyanna de Nansay a ouvert un chantier privé dans la ville Lampe du Génie en [13,9].",
+    "key": "2026-01-14|15:40|empire brun|mystisie|lampe du genie|lyanna de nansay a ouvert un chantier prive dans la ville lampe du genie en [13,9].",
+    "firstSeen": "2026-01-14T14:47:22.159Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "15:42",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Construction d'un bâtiment Cabane dans la ville Lampe du Génie en [13,9].",
+    "key": "2026-01-14|15:42|empire brun|mystisie|lampe du genie|construction d'un batiment cabane dans la ville lampe du genie en [13,9].",
+    "firstSeen": "2026-01-14T14:47:22.158Z"
   }
 ]
