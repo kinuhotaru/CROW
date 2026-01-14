@@ -304,26 +304,29 @@ function aggregateRows(rows, labelKey) {
       labelKey === 'province' ? `${r.empire} :: ${r.province}` :
       `${r.empire} :: ${r.province} :: ${r.city}`;
 
-    result[label] ??= { income: 0, expense: 0 };
+    result[label] ??= {
+    income: 0,
+    expense: 0,
+    currency: r.currency || null
+    };
+
     result[label].income += r.income || 0;
     result[label].expense += r.expense || 0;
   }
 
   return result;
 }
+
 function progressBar(value, max, size = 20) {
-  if (max <= 0) return '░'.repeat(size) + ' 0%';
+  if (max <= 0) return '░'.repeat(size);
 
   const ratio = value / max;
   const filled = Math.round(ratio * size);
   const empty = size - filled;
 
-  return (
-    '█'.repeat(filled) +
-    '░'.repeat(empty) +
-    ` ${(ratio * 100).toFixed(1)}%`
-  );
+  return '█'.repeat(filled) + '░'.repeat(empty);
 }
+
 function rankingWithBars(entries, type, label) {
   const sorted = Object.entries(entries)
     .sort((a, b) => (b[1][type] || 0) - (a[1][type] || 0));
@@ -334,11 +337,12 @@ function rankingWithBars(entries, type, label) {
 
   return sorted.map(([name, v], i) => {
     const value = v[type] || 0;
+    const currency = v.currency ? ` ${v.currency}` : '';
 
     return (
       `**${i + 1}. ${name}**\n` +
-      `▸ ${label} : **${value.toLocaleString()}**\n` +
-      `▸ ${progressBar(value, max)}`
+      `${label} : **${value.toLocaleString()}${currency}**\n` +
+      `${progressBar(value, max)}`
     );
   });
 }
@@ -513,14 +517,24 @@ async function sendDailyRanking(dailyTables) {
         },
         {
             title: `🏆 Provinces — ${day} • Revenus`,
-            color: 0x3498db,
+            color: 0x2ecc71,
             lines: rankingWithBars(provinces, 'income', '💰 Revenus')
         },
         {
+            title: `💸 Provinces — ${day} • Dépenses`,
+            color: 0xe74c3c,
+            lines: rankingWithBars(provinces, 'expense', '💸 Dépenses')
+        },        
+        {
             title: `🏆 Villes — ${day} • Revenus`,
-            color: 0x9b59b6,
+            color: 0x2ecc71,
             lines: rankingWithBars(cities, 'income', '💰 Revenus')
-        }
+        },
+        {
+            title: `💸 Villes — ${day} • Dépenses`,
+            color: 0xe74c3c,
+            lines: rankingWithBars(cities, 'expense', '💸 Dépenses')
+        },                
         ];
 
         for (const section of sections) {
