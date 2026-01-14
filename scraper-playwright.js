@@ -357,65 +357,57 @@ function rankingFields(entries, type, label) {
   });
 }
 function rankingFieldsByEmpireFromRows(rows, type, label, level) {
-  /**
-   * rows = data.city ou data.province
-   * level = 'city' | 'province'
-   */
-
-  const grouped = {};
-
-  // 1️⃣ Regroupement par empire
-  for (const r of rows || []) {
-    const value = r[type] || 0;
-    if (value <= 0) continue;
-
-    const empire = r.empire;
-    const name = level === 'city' ? r.city : r.province;
-
-    if (!empire || !name) continue;
-
-    grouped[empire] ??= [];
-    grouped[empire].push({
-      name,
-      value,
+  // 1️⃣ Flatten & filtrage (> 0)
+  const flat = rows
+    .map(r => ({
+      empire: r.empire,
+      name: level === 'city' ? r.city : r.province,
+      value: r[type] || 0,
       currency: r.currency
-    });
+    }))
+    .filter(r => r.empire && r.name && r.value > 0);
+
+  if (!flat.length) return null;
+
+  // 2️⃣ Classement GLOBAL
+  flat.sort((a, b) => b.value - a.value);
+
+  const globalMax = flat[0].value;
+
+  // 3️⃣ Attribution du rang global
+  flat.forEach((r, i) => {
+    r.rank = i + 1;
+  });
+
+  // 4️⃣ Regroupement par empire (ordre conservé)
+  const grouped = {};
+  for (const r of flat) {
+    grouped[r.empire] ??= [];
+    grouped[r.empire].push(r);
   }
 
   const fields = [];
 
-  // 2️⃣ Génération des fields Discord
+  // 5️⃣ Construction des fields Discord
   for (const [empire, items] of Object.entries(grouped)) {
-    const sorted = items
-      .sort((a, b) => b.value - a.value)
-      .slice(0, 3); // top 3 par empire
-
-    if (!sorted.length) continue;
-
-    const max = sorted[0].value;
-
-    // 🏰 Empire (une seule fois)
     fields.push({
       name: `🏰 ${empire}`,
-      value: '‎', // caractère invisible
+      value: '‎',
       inline: false
     });
 
-    // 🏙️ Villes / Provinces
-    sorted.forEach((item, i) => {
-      const rank = i + 1;
-
+    for (const item of items) {
       fields.push({
-        name: `${rank}. ${item.name}`,
+        name: `${item.rank}. ${item.name}`,
         value:
           `${label} : **${item.value.toLocaleString()}${item.currency ? ` ${item.currency}` : ''}**\n` +
-          `${progressBar(item.value, max)} ${medal(rank)}`,
+          `${progressBar(item.value, globalMax)} ${item.rank <= 3 ? medal(item.rank) : ''}`,
         inline: true
       });
-    });
+    }
   }
 
-  return fields.length ? fields : null;
+  return fields;
 }
 /* =========================
    🏬 EMPIRE RANKING IMPOTS
