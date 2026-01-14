@@ -1,7 +1,6 @@
 import fs from 'fs';
 import { chromium } from 'playwright';
 import fetch from 'node-fetch';
-import WORLD from './kraland_territories.json';
 
 /* =========================
    ⚙️ CONFIG
@@ -18,7 +17,9 @@ const SENT_FILE = `${DATA_DIR}/sent_keys.json`;
 const EVENT_TTL_MS = 1000 * 60 * 60 * 24 * 30; // 30 jours de récursion
 
 //STATS Bourse
-
+const WORLD = JSON.parse(
+  fs.readFileSync('./kraland_territories.json', 'utf8')
+);
 const STATS_FILE = `${DATA_DIR}/tax_stats.json`;
 const STATS_SENT_FILE = `${DATA_DIR}/stats_sent_days.json`;
 
