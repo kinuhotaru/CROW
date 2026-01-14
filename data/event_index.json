@@ -20328,5 +20328,35 @@
     "text": "Construction d'un bâtiment Nappe de Pétrole dans la ville Ruthvenville en [16,7].",
     "key": "2026-01-14|15:57|royaume de ruthvenie|ruthvenie|ruthvenville|construction d'un batiment nappe de petrole dans la ville ruthvenville en [16,7].",
     "firstSeen": "2026-01-14T15:12:13.342Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "16:27",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Jules Fégris s'est fait agresser par un groupe de créatures mené par Cube de Logique Brute.",
+    "key": "2026-01-14|16:27|confederation libre|milieu|structural|jules fegris s'est fait agresser par un groupe de creatures mene par cube de logique brute.",
+    "firstSeen": "2026-01-14T15:31:38.162Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "16:26",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Jules Fégris s'est fait agresser par un groupe de créatures mené par Cube de Logique Brute.",
+    "key": "2026-01-14|16:26|confederation libre|milieu|structural|jules fegris s'est fait agresser par un groupe de creatures mene par cube de logique brute.",
+    "firstSeen": "2026-01-14T15:31:38.163Z"
+  },
+  {
+    "date": "2026-01-14",
+    "time": "16:14",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Une rumeur concernant le Président Caïus Martius Ice court parmi les habitants de la ville Forum : « Caïus serait en train de dealer en secrêt avec les bruns pour acheter des esclaves. Tout ça pour les enregistrer sur les listes d'électeurs et les faire voter. Notre démocratie est-elle vraiment tombée si bas ? »",
+    "key": "2026-01-14|16:14|confederation libre|acropole|forum|une rumeur concernant le president caius martius ice court parmi les habitants de la ville forum : \" caius serait en train de dealer en secret avec les bruns pour acheter des esclaves. tout ca pour les enregistrer sur les listes d'electeurs et les faire voter. notre democratie est-elle vraiment tombee si bas ? \"",
+    "firstSeen": "2026-01-14T15:31:38.163Z"
   }
 ]
