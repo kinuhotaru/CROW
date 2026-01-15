@@ -233,39 +233,48 @@ function extractFinance(text) {
 function extractMoneyFlows(text) {
   if (!text) return null;
 
-  // 💰 RECETTES
-  const incomeMatch = text.match(/récolte\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/i);
-  const income = incomeMatch
-    ? Number(incomeMatch[1].replace(/\s/g, ''))
-    : 0;
+  let income = 0;
+  let expense = 0;
 
-  // 💸 DÉPENSES (salaires + ministères)
-  const expense = extractTotalExpenses(text);
+  // 💰 REVENUS
+  const incomeMatch = text.match(/récolte\s+([\d\s]+)\s*(Co|Éf|ÐE|¢|\$)/i);
+  if (incomeMatch) {
+    income = Number(incomeMatch[1].replace(/\s/g, ''));
+  }
 
-  if (!income && !expense) return null;
+  // 💸 DÉPENSES "paie"
+  const payMatch = text.match(/paie\s+([\d\s]+)\s*(Co|Éf|ÐE|¢|\$)/i);
+  if (payMatch) {
+    expense += Number(payMatch[1].replace(/\s/g, ''));
+  }
+
+  // 💸 DÉPENSES ministérielles (Empire seulement)
+  const isMinistryDistribution =
+    /les impôts ont été distribués aux différents ministères/i.test(text);
 
   return {
     income,
     expense,
-    currency: incomeMatch?.[2] || null
+    isMinistryDistribution,
+    currency: incomeMatch?.[2] || payMatch?.[2] || null
   };
 }
+
 function extractTotalExpenses(text) {
   if (!text) return 0;
 
   let total = 0;
 
   // 1️⃣ Tous les "paie XXX Co"
-  const payRegex = /paie\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/gi;
+  const payRegex = /paie\s+([\d\s]+)\s*(Co|Éf|ÐE|¢|\$)/gi;
   let match;
 
   while ((match = payRegex.exec(text)) !== null) {
     total += Number(match[1].replace(/\s/g, ''));
   }
 
-  // 2️⃣ Toutes les redistributions ministérielles
-  // Capture "Nom du ministère XXX Co"
-  const ministryRegex = /([A-Za-zÀ-ÿ'’\s]+)\s+(\d+)\s*([A-ZÐÉØ¢$]+)/g;
+  // 2️⃣ Ministères : uniquement après ":" ou ","
+  const ministryRegex = /[:,]\s*([^:,]+?)\s+(\d+)\s*(Co|Éf|ÐE|¢|\$)/g;
 
   while ((match = ministryRegex.exec(text)) !== null) {
     total += Number(match[2]);
@@ -497,6 +506,9 @@ function buildDailyFinanceLogs(events, WORLD) {
     E.income += flow.income;
     E.expense += flow.expense;
 
+    if (flow.isMinistryDistribution) {
+        E.expense += flow.income; // redistribution des impôts
+        }
     // ===== PROVINCE (SI PRÉSENTE) =====
     if (e.province) {
       E.provinces[e.province] ??= {
@@ -513,7 +525,6 @@ function buildDailyFinanceLogs(events, WORLD) {
       if (e.city) {
         P.cities[e.city] ??= { income: 0, expense: 0 };
         P.cities[e.city].income += flow.income;
-        P.cities[e.city].expense += flow.expense;
       }
     }
   }
