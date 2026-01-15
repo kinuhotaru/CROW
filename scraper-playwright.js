@@ -27,7 +27,7 @@ const CITY_TO_REGION = {};
 const REGION_TO_EMPIRE = {};
 const STATS_FILE = `${DATA_DIR}/daily_tax_stats.json`;
 const STATS_SENT_FILE = `${DATA_DIR}/stats_sent_days.json`;
-const CURRENCY_REGEX = '(Co|Éf|ÐE|¢¢|MØ|FK)';
+const CURRENCY_REGEX = '(Co|Éf|ÐE|¢¢|MØ|FK|PO)';
 
 for (const [empire, data] of Object.entries(WORLD)) {
   for (const [region, cities] of Object.entries(data.regions)) {
