@@ -186,6 +186,39 @@ function chunkArray(arr, size) {
   }
   return chunks;
 }
+function paginateFieldsWithEmpireHeaders(fields, maxFields = 25) {
+  const pages = [];
+  let current = [];
+  let lastEmpireHeader = null;
+
+  for (const field of fields) {
+    const isEmpireHeader =
+      field.inline === false && field.name.startsWith('🏰');
+
+    if (isEmpireHeader) {
+      lastEmpireHeader = field;
+    }
+
+    // Si on dépasse la limite
+    if (current.length >= maxFields) {
+      pages.push(current);
+      current = [];
+
+      // 🔁 on répète l'empire si nécessaire
+      if (lastEmpireHeader && !isEmpireHeader) {
+        current.push(lastEmpireHeader);
+      }
+    }
+
+    current.push(field);
+  }
+
+  if (current.length) {
+    pages.push(current);
+  }
+
+  return pages;
+}
 
 async function sendWebhookGuaranteed(webhookUrl, payload) {
   if (!webhookUrl || typeof webhookUrl !== 'string') {
@@ -665,13 +698,17 @@ async function sendDailyRanking(dailyTables) {
       }
     ];
 
+    await sendWebhookGuaranteed(DISCORD_STATS_WEBHOOK, {
+        content: `📅 **Rapport financier — ${day}**`
+    });
+
     for (const section of sections) {
       if (!section.fields || section.fields.length === 0) {
         console.log(`⏭️ Section ignorée (vide) : ${section.title}`);
         continue;
       }
 
-        const chunks = chunkArray(section.fields, 25);
+        const chunks = paginateFieldsWithEmpireHeaders(section.fields, 25);
 
         for (let i = 0; i < chunks.length; i++) {
         await sendWebhookGuaranteed(DISCORD_STATS_WEBHOOK, {
