@@ -27,6 +27,7 @@ const CITY_TO_REGION = {};
 const REGION_TO_EMPIRE = {};
 const STATS_FILE = `${DATA_DIR}/daily_tax_stats.json`;
 const STATS_SENT_FILE = `${DATA_DIR}/stats_sent_days.json`;
+const CURRENCY_REGEX = '(Co|Éf|ÐE|¢¢|MØ|FK)';
 
 for (const [empire, data] of Object.entries(WORLD)) {
   for (const [region, cities] of Object.entries(data.regions)) {
@@ -268,20 +269,27 @@ function extractMoneyFlows(text) {
 
   let income = 0;
   let expense = 0;
+  let currency = null;
 
   // 💰 récolte
-  const incomeMatch = text.match(/récolte\s+([\d\s]+)\s*(Co|Éf|ÐE|¢¢|MØ)/i);
+  const incomeMatch = text.match(
+    new RegExp(`récolte\\s+([\\d\\s]+)\\s*${CURRENCY_REGEX}`, 'i')
+  );
   if (incomeMatch) {
     income = Number(incomeMatch[1].replace(/\s/g, ''));
+    currency = incomeMatch[2];
   }
 
-  // 💸 paie (fonctionnaires, soldats, etc.)
-  const payMatch = text.match(/paie\s+([\d\s]+)\s*(Co|Éf|ÐE|¢¢|MØ)/i);
+  // 💸 paie
+  const payMatch = text.match(
+    new RegExp(`paie\\s+([\\d\\s]+)\\s*${CURRENCY_REGEX}`, 'i')
+  );
   if (payMatch) {
     expense += Number(payMatch[1].replace(/\s/g, ''));
+    currency ??= payMatch[2];
   }
 
-  // 🏛️ ministères (Empire uniquement)
+  // 🏛️ ministères (Empire)
   const ministryExpense = extractMinistryExpense(text);
   expense += ministryExpense;
 
@@ -290,7 +298,7 @@ function extractMoneyFlows(text) {
   return {
     income,
     expense,
-    currency: incomeMatch?.[2] || payMatch?.[2] || null,
+    currency,
     ministryExpense
   };
 }
@@ -482,7 +490,7 @@ function extractMinistryExpense(text) {
   const ministryText = parts[1];
 
   // "Nom du ministère XXX Co"
-  const regex = /([^,]+?)\s+(\d+)\s*(Co|Éf|ÐE|¢¢|MØ)/g;
+  const regex = new RegExp(`([^,]+?)\\s+(\\d+)\\s*${CURRENCY_REGEX}`, 'g');
   let match;
 
   while ((match = regex.exec(ministryText)) !== null) {
