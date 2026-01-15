@@ -277,7 +277,7 @@ function buildDailyFinanceTables(events) {
   const days = {};
 
   for (const e of events) {
-    const finance = extractFinance(e.text);
+    const finance = extractMoneyFlows(e.text);
     if (!finance) continue;
 
     const level = getLevel(e);
