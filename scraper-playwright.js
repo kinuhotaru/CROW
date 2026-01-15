@@ -200,13 +200,17 @@ function paginateFieldsWithEmpireHeaders(fields, maxFields = 25) {
       lastEmpireHeader = field;
     }
 
-    // Si on dépasse la limite
+    // ⚠️ Si on dépasse la limite
     if (current.length >= maxFields) {
       pages.push(current);
       current = [];
 
-      // 🔁 on répète l'empire si nécessaire
-      if (lastEmpireHeader && !isEmpireHeader) {
+      // 🔁 Répéter l'empire UNIQUEMENT si le prochain champ
+      // n'est PAS déjà un header d'empire
+      if (
+        lastEmpireHeader &&
+        !isEmpireHeader
+      ) {
         current.push(lastEmpireHeader);
       }
     }
