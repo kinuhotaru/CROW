@@ -247,6 +247,9 @@ async function sendWebhookGuaranteed(webhookUrl, payload) {
 
 
 // UTILITAIRES DE STATISTIQUE
+function isFinancialEvent(event) {
+  return extractMoneyFlows(event.text) !== null;
+}
 
 function extractMoneyFlows(text) {
   if (!text) return null;
@@ -531,19 +534,28 @@ async function sendToDiscord(events) {
 
   const sent = new Set(loadJSON(SENT_FILE, []));
   const fresh = [];
+  let skippedFinance = 0;
 
-  for (const e of events) {
-    const key = eventKey(e);
-    const now = Date.now();
-    const expired =
-        e.firstSeen &&
-        now - new Date(e.firstSeen).getTime() > EVENT_TTL_MS;
+for (const e of events) {
 
-    if (!sent.has(key) || expired) {
-        sent.add(key);
-        fresh.push(e);
+  // 🚫 IGNORER LES ÉVÉNEMENTS FINANCIERS
+    if (isFinancialEvent(e)) {
+    skippedFinance++;
+    console.log(`💸 Événements financiers ignorés (Discord) : ${skippedFinance}`);
+    continue;
     }
+
+  const key = eventKey(e);
+  const now = Date.now();
+  const expired =
+    e.firstSeen &&
+    now - new Date(e.firstSeen).getTime() > EVENT_TTL_MS;
+
+  if (!sent.has(key) || expired) {
+    sent.add(key);
+    fresh.push(e);
   }
+}
 
   if (!fresh.length) return;
 
