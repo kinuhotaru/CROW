@@ -236,27 +236,29 @@ function extractMoneyFlows(text) {
   let income = 0;
   let expense = 0;
 
-  // 💰 REVENUS
-  const incomeMatch = text.match(/récolte\s+([\d\s]+)\s*(Co|Éf|ÐE|¢|\$)/i);
+  // 💰 récolte
+  const incomeMatch = text.match(/récolte\s+([\d\s]+)\s*(Co|Éf|ÐE|¢¢|MØ)/i);
   if (incomeMatch) {
     income = Number(incomeMatch[1].replace(/\s/g, ''));
   }
 
-  // 💸 DÉPENSES "paie"
-  const payMatch = text.match(/paie\s+([\d\s]+)\s*(Co|Éf|ÐE|¢|\$)/i);
+  // 💸 paie (fonctionnaires, soldats, etc.)
+  const payMatch = text.match(/paie\s+([\d\s]+)\s*(Co|Éf|ÐE|¢¢|MØ)/i);
   if (payMatch) {
     expense += Number(payMatch[1].replace(/\s/g, ''));
   }
 
-  // 💸 DÉPENSES ministérielles (Empire seulement)
-  const isMinistryDistribution =
-    /les impôts ont été distribués aux différents ministères/i.test(text);
+  // 🏛️ ministères (Empire uniquement)
+  const ministryExpense = extractMinistryExpense(text);
+  expense += ministryExpense;
+
+  if (!income && !expense) return null;
 
   return {
     income,
     expense,
-    isMinistryDistribution,
-    currency: incomeMatch?.[2] || payMatch?.[2] || null
+    currency: incomeMatch?.[2] || payMatch?.[2] || null,
+    ministryExpense
   };
 }
 
@@ -458,15 +460,25 @@ function rankingFieldsByEmpireFromRows(rows, type, label, level) {
   return fields.length ? fields : null;
 }
 
-function extractMinistryExpenses(text) {
+function extractMinistryExpense(text) {
   if (!text) return 0;
+  if (!/les impôts ont été distribués aux différents ministères/i.test(text)) {
+    return 0;
+  }
 
-  // Capture "Nom du ministère 123 Co"
-  const regex = /([A-Za-zÀ-ÿ'’\s]+)\s+(\d+)\s*([A-ZÐÉØ¢$]+)/g;
-  let match;
   let total = 0;
 
-  while ((match = regex.exec(text)) !== null) {
+  // Tout ce qui suit le ":" contient les ministères
+  const parts = text.split(':');
+  if (parts.length < 2) return 0;
+
+  const ministryText = parts[1];
+
+  // "Nom du ministère XXX Co"
+  const regex = /([^,]+?)\s+(\d+)\s*(Co|Éf|ÐE|¢¢|MØ)/g;
+  let match;
+
+  while ((match = regex.exec(ministryText)) !== null) {
     total += Number(match[2]);
   }
 
