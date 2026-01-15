@@ -180,13 +180,6 @@ function chunkEmbedLines(lines, maxLength = 4096) {
   return chunks.filter(Boolean);
 }
 
-function chunkArray(arr, size) {
-  const chunks = [];
-  for (let i = 0; i < arr.length; i += size) {
-    chunks.push(arr.slice(i, i + size));
-  }
-  return chunks;
-}
 function paginateFieldsWithEmpireHeaders(fields, maxFields = 25) {
   const pages = [];
   let current = [];
@@ -255,19 +248,6 @@ async function sendWebhookGuaranteed(webhookUrl, payload) {
 
 // UTILITAIRES DE STATISTIQUE
 
-function extractFinance(text) {
-  const income = text.match(/récolte\s+([\d\s]+)\s*([A-ZØÐÉ¢$]+)/i);
-  const expense = text.match(/paie\s+([\d\s]+)\s*([A-ZØÐÉ¢$]+)/i);
-
-  if (!income && !expense) return null;
-
-  return {
-    income: income ? Number(income[1].replace(/\s/g, '')) : null,
-    expense: expense ? Number(expense[1].replace(/\s/g, '')) : null,
-    currency: income?.[2] || expense?.[2] || null
-  };
-}
-
 function extractMoneyFlows(text) {
   if (!text) return null;
 
@@ -307,28 +287,6 @@ function extractMoneyFlows(text) {
   };
 }
 
-function extractTotalExpenses(text) {
-  if (!text) return 0;
-
-  let total = 0;
-
-  // 1️⃣ Tous les "paie XXX Co"
-  const payRegex = /paie\s+([\d\s]+)\s*(Co|Éf|ÐE|¢|\$)/gi;
-  let match;
-
-  while ((match = payRegex.exec(text)) !== null) {
-    total += Number(match[1].replace(/\s/g, ''));
-  }
-
-  // 2️⃣ Ministères : uniquement après ":" ou ","
-  const ministryRegex = /[:,]\s*([^:,]+?)\s+(\d+)\s*(Co|Éf|ÐE|¢|\$)/g;
-
-  while ((match = ministryRegex.exec(text)) !== null) {
-    total += Number(match[2]);
-  }
-
-  return total;
-}
 function buildDailyFinanceTables(events) {
   const days = {};
 
@@ -355,15 +313,6 @@ function buildDailyFinanceTables(events) {
   }
 
   return days;
-}
-
-function rankingLines(entries = {}, type) {
-  return Object.entries(entries)
-    .sort((a, b) => (b[1][type] || 0) - (a[1][type] || 0))
-    .map(
-      ([label, v], i) =>
-        `**${i + 1}. ${label}** — ${(v[type] || 0).toLocaleString()}`
-    );
 }
 
 function aggregateRows(rows, labelKey) {
