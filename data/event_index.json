@@ -19728,5 +19728,25 @@
     "text": "Il se murmure que la relique Armure d'Or aurait fait sa réapparition dans le cybermonde.",
     "key": "2026-01-08|00:01|mondial|||il se murmure que la relique armure d'or aurait fait sa reapparition dans le cybermonde.",
     "firstSeen": "2026-01-15T08:47:35.233Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "09:54",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Oumuamua a entamé un combat contre Gontrand.",
+    "key": "2026-01-15|09:54|khanat elmerien|capsulie|caps lock|oumuamua a entame un combat contre gontrand.",
+    "firstSeen": "2026-01-15T08:58:53.900Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "09:52",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Alice Chain a ouvert un chantier public dans la ville Ruthvenville en [5,4].",
+    "key": "2026-01-15|09:52|royaume de ruthvenie|ruthvenie|ruthvenville|alice chain a ouvert un chantier public dans la ville ruthvenville en [5,4].",
+    "firstSeen": "2026-01-15T08:58:53.901Z"
   }
 ]
