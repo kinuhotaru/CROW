@@ -19818,5 +19818,45 @@
     "text": "La Comtesse Alice Chain a nommé Anarion l'Enflammé au poste de Commissaire de Police.",
     "key": "2026-01-15|10:04|royaume de ruthvenie|ruthvenie|ruthvenville|la comtesse alice chain a nomme anarion l'enflamme au poste de commissaire de police.",
     "firstSeen": "2026-01-15T09:52:29.994Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "11:45",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Alice Chain a ouvert un chantier privé dans la ville Ruthvenville en [6,9].",
+    "key": "2026-01-15|11:45|royaume de ruthvenie|ruthvenie|ruthvenville|alice chain a ouvert un chantier prive dans la ville ruthvenville en [6,9].",
+    "firstSeen": "2026-01-15T10:52:46.937Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "11:38",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Honolulu-par-Delà",
+    "text": "Olrik Radioactvich s'est fait agresser par un groupe de créatures mené par Gorille Géant.",
+    "key": "2026-01-15|11:38|republique de kraland|kraland|honolulu-par-dela|olrik radioactvich s'est fait agresser par un groupe de creatures mene par gorille geant.",
+    "firstSeen": "2026-01-15T10:52:46.937Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "11:21",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Henri St Misles a ouvert un chantier privé dans la ville Blofeldopolis en [12,10].",
+    "key": "2026-01-15|11:21|confederation libre|warriorland|blofeldopolis|henri st misles a ouvert un chantier prive dans la ville blofeldopolis en [12,10].",
+    "firstSeen": "2026-01-15T10:52:46.937Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "10:51",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de la Recherche Shana Al Khaïd a lancé la recherche de la technologie n°27 : « Empire ! Photo non contractuelle. Juste pour attirer l'attention des chercheurs qui dorment encore. On sait que tu souhaites sortir ta baguette… pas celle du boulanger, pas celle dans ton slip Tony, mais bien ta baguette magique. On sait aussi que tu souhaites un jet, car le train est déjà devenu has been, et qu’on te parle encore de dépolluer tous ces nuages toxiques qui contamineraient nos futures générations. Bah… non. Il faut de la thune, c’est le nerf de la guerre, et Charlie, lui, il aime la guerre. Je lance donc la technologie 27, la 20 suivra ensuite. Des chercheurs, on n’en manque pas, et Floran confirmera qu’une courbe exponentielle d’impôt permettra de continuer à récompenser nos chercheurs pour la suite. Nous sommes la première puissance technologique, et nous le resterons. Alaenys Vo… vou… Von… R… Shana se sentit mal et commença à avoir comme d’étranges nausées. Enfin oui, Alaenys obtient le statut de grande donatrice de l’Empire. Encore 20 000 et l'Aigle impérial... Vive l’Empereur·e·ie·trice ! »",
+    "key": "2026-01-15|10:51|empire brun|||la ministre de la recherche shana al khaid a lance la recherche de la technologie n°27 : \" empire ! photo non contractuelle. juste pour attirer l'attention des chercheurs qui dorment encore. on sait que tu souhaites sortir ta baguette... pas celle du boulanger, pas celle dans ton slip tony, mais bien ta baguette magique. on sait aussi que tu souhaites un jet, car le train est deja devenu has been, et qu'on te parle encore de depolluer tous ces nuages toxiques qui contamineraient nos futures generations. bah... non. il faut de la thune, c'est le nerf de la guerre, et charlie, lui, il aime la guerre. je lance donc la technologie 27, la 20 suivra ensuite. des chercheurs, on n'en manque pas, et floran confirmera qu'une courbe exponentielle d'impot permettra de continuer a recompenser nos chercheurs pour la suite. nous sommes la premiere puissance technologique, et nous le resterons. alaenys vo... vou... von... r... shana se sentit mal et commenca a avoir comme d'etranges nausees. enfin oui, alaenys obtient le statut de grande donatrice de l'empire. encore 20 000 et l'aigle imperial... vive l'empereur·e·ie·trice ! \"",
+    "firstSeen": "2026-01-15T10:52:46.937Z"
   }
 ]
