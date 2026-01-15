@@ -20238,5 +20238,85 @@
     "text": "Rocky La Malice a ouvert un chantier privé dans la ville Port Magmor en [6,4].",
     "key": "2026-01-15|17:17|royaume de ruthvenie|crab key|port magmor|rocky la malice a ouvert un chantier prive dans la ville port magmor en [6,4].",
     "firstSeen": "2026-01-15T17:52:07.709Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "20:02",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "",
+    "text": "Tony Sokrano s'est fait agresser par un groupe de créatures mené par Cheval.",
+    "key": "2026-01-15|20:02|empire brun|santa banana||tony sokrano s'est fait agresser par un groupe de creatures mene par cheval.",
+    "firstSeen": "2026-01-15T19:06:14.473Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "19:49",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "Le Gouverneur Sylva Nus a transféré 1500 Éf du bâtiment Palais du Gouverneur au Ministère de l'Économie.",
+    "key": "2026-01-15|19:49|paradigme vert|||le gouverneur sylva nus a transfere 1500 ef du batiment palais du gouverneur au ministere de l'economie.",
+    "firstSeen": "2026-01-15T19:06:14.473Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "19:47",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Thalya della Ombra a emporté l'adhésion populaire en faveur du statut Entrain qui affecte le bâtiment Carrière qui se prolonge pour 24 heures supplémentaires : « Quel flemmard ce Dusk ! Puisque c'est comme ça, on veut un second tour de chant ! »",
+    "key": "2026-01-15|19:47|empire brun|sicilia|trou perdu|thalya della ombra a emporte l'adhesion populaire en faveur du statut entrain qui affecte le batiment carriere qui se prolonge pour 24 heures supplementaires : \" quel flemmard ce dusk ! puisque c'est comme ca, on veut un second tour de chant ! \"",
+    "firstSeen": "2026-01-15T19:06:14.473Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "19:32",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Construction d'un bâtiment Poste de Police dans la ville Ruthvenville en [5,4].",
+    "key": "2026-01-15|19:32|royaume de ruthvenie|ruthvenie|ruthvenville|construction d'un batiment poste de police dans la ville ruthvenville en [5,4].",
+    "firstSeen": "2026-01-15T19:06:14.474Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "19:27",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Zi Eun a ouvert un chantier public dans la ville Léprosie en [17,2].",
+    "key": "2026-01-15|19:27|empire brun|niarkalistan|leprosie|zi eun a ouvert un chantier public dans la ville leprosie en [17,2].",
+    "firstSeen": "2026-01-15T19:06:14.474Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "19:19",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Gérard Menvussa a prononcé un discours critiquant la politique du gouvernement du Khanat Elmérien [loyauté -0.5] : « Je continue ma protestation puisque rien ne change ! C'est fou ça, on dirait que je m'adresse à des sourds ! Bon alors histoire de bien faire je suis venu avec une liste de revendication précise. C'est exhaustif mais ça tient chaud au coeur. 1-) Il y en a marre des salades, on veux de la viande. 2-) Il y en a marre de l'eau, on veux de la liqueur 3-) Il y en a marre de payer des taxe à la moindre action. Même dormir coûte un bras. Bref il est temps que les choses bougent ici. Et comptez sur moi pour rien lâcher ! »",
+    "key": "2026-01-15|19:19|khanat elmerien|bananie|distillerie|gerard menvussa a prononce un discours critiquant la politique du gouvernement du khanat elmerien [loyaute -0.5] : \" je continue ma protestation puisque rien ne change ! c'est fou ca, on dirait que je m'adresse a des sourds ! bon alors histoire de bien faire je suis venu avec une liste de revendication precise. c'est exhaustif mais ca tient chaud au coeur. 1-) il y en a marre des salades, on veux de la viande. 2-) il y en a marre de l'eau, on veux de la liqueur 3-) il y en a marre de payer des taxe a la moindre action. meme dormir coute un bras. bref il est temps que les choses bougent ici. et comptez sur moi pour rien lacher ! \"",
+    "firstSeen": "2026-01-15T19:06:14.474Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "19:02",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Roi Landraël a accordé la récompense Jarretière de la Reine à Felony : « Discours de remise de la Médaille Royale « La Jarretière de la Reine » Ma chère Felony, En ce jour solennel, devant la Cour, devant le Royaume et sous le regard attentif de la Grande Déesse, je prends la parole pour honorer un acte rare : celui qui ne fait pas de bruit lorsqu’il s’accomplit, mais dont l’écho change durablement le cours des choses. Quand la Couronne de la Connexion a disparu, ce n’est pas seulement un artefact qui s’est évanoui. C’est le cœur même du Réseau, la clé de notre continuité, de notre souveraineté et de notre avenir. Beaucoup ont douté. Certains ont parlé. Peu sont partis. Vous, Felony, vous avez agi. Vous avez accepté une mission incertaine, loin des honneurs, loin du confort, sans titres ni garanties et allant jusqu'à laisser derrière vous vos émoluments de Comte, sans autre boussole que le sens du devoir et une confiance absolue dans le Royaume. Vous avez traversé les zones grises, les silences radio, les complications… et vous êtes revenue. Non pas chargée d’or, mais porteuse de l’essentiel : la Couronne, intacte, légitime, retrouvée. Et vous n'êtes pas revenue seule ! Plutôt que de l'obtenir par la Force ou la Ruse (ce qui était, avouons le, clairement le plan initial), vous l'avez fait en touchant le coeur d'Evan, le précédent porteur, qui vous l'a remise volontairement. Le Royaume lui en est infiniment reconnaissant. Evan est désormais un ami éternel de la Ruthvénie. »",
+    "key": "2026-01-15|19:02|royaume de ruthvenie|||le roi landrael a accorde la recompense jarretiere de la reine a felony : \" discours de remise de la medaille royale \" la jarretiere de la reine \" ma chere felony, en ce jour solennel, devant la cour, devant le royaume et sous le regard attentif de la grande deesse, je prends la parole pour honorer un acte rare : celui qui ne fait pas de bruit lorsqu'il s'accomplit, mais dont l'echo change durablement le cours des choses. quand la couronne de la connexion a disparu, ce n'est pas seulement un artefact qui s'est evanoui. c'est le cœur meme du reseau, la cle de notre continuite, de notre souverainete et de notre avenir. beaucoup ont doute. certains ont parle. peu sont partis. vous, felony, vous avez agi. vous avez accepte une mission incertaine, loin des honneurs, loin du confort, sans titres ni garanties et allant jusqu'a laisser derriere vous vos emoluments de comte, sans autre boussole que le sens du devoir et une confiance absolue dans le royaume. vous avez traverse les zones grises, les silences radio, les complications... et vous etes revenue. non pas chargee d'or, mais porteuse de l'essentiel : la couronne, intacte, legitime, retrouvee. et vous n'etes pas revenue seule ! plutot que de l'obtenir par la force ou la ruse (ce qui etait, avouons le, clairement le plan initial), vous l'avez fait en touchant le coeur d'evan, le precedent porteur, qui vous l'a remise volontairement. le royaume lui en est infiniment reconnaissant. evan est desormais un ami eternel de la ruthvenie. \"",
+    "firstSeen": "2026-01-15T19:06:14.474Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "19:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Roi Landraël a adressé un discours à la population : « Par cet acte, vous n’avez pas seulement rapporté un objet. Vous avez rendu possible le Couronnement. Vous avez sécurisé l’infrastructure. Vous avez reconnecté le passé, le présent et l’avenir. C’est pourquoi, au nom de la Ruthvénie reconnaissante, et en vertu de l’autorité qui m’a été confiée, je vous remets aujourd’hui la Médaille Royale : « La Jarretière de la Reine ». Qu’elle soit le signe visible d’un courage discret, d’une loyauté sans emphase et d’un service rendu non à un homme, mais à un Royaume tout entier. Felony, la Ruthvénie vous doit plus qu’un remerciement. Elle vous doit une dette d’honneur. Pour le Royaume. Pour la Connexion. — Landraël »",
+    "key": "2026-01-15|19:01|royaume de ruthvenie|||le roi landrael a adresse un discours a la population : \" par cet acte, vous n'avez pas seulement rapporte un objet. vous avez rendu possible le couronnement. vous avez securise l'infrastructure. vous avez reconnecte le passe, le present et l'avenir. c'est pourquoi, au nom de la ruthvenie reconnaissante, et en vertu de l'autorite qui m'a ete confiee, je vous remets aujourd'hui la medaille royale : \" la jarretiere de la reine \". qu'elle soit le signe visible d'un courage discret, d'une loyaute sans emphase et d'un service rendu non a un homme, mais a un royaume tout entier. felony, la ruthvenie vous doit plus qu'un remerciement. elle vous doit une dette d'honneur. pour le royaume. pour la connexion. — landrael \"",
+    "firstSeen": "2026-01-15T19:06:14.474Z"
   }
 ]
