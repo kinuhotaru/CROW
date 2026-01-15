@@ -411,25 +411,16 @@ function rankingFieldsByEmpireFromRows(rows, type, label, level) {
   }
 
   const fields = [];
-  let fieldCount = 0;
-  const MAX_FIELDS = 25;
 
   for (const [empire, items] of Object.entries(grouped)) {
-    if (fieldCount >= MAX_FIELDS) break;
-
     // 🏰 Header empire
     fields.push({
       name: `🏰 ${empire}`,
       value: '\u200B',
       inline: false
     });
-    fieldCount++;
-
-    let inlineCount = 0;
 
     for (const item of items) {
-      if (fieldCount >= MAX_FIELDS) break;
-
       fields.push({
         name: `${item.rank}. ${item.name}`,
         value:
@@ -437,27 +428,10 @@ function rankingFieldsByEmpireFromRows(rows, type, label, level) {
           `${progressBar(item.value, globalMax)} ${item.rank <= 3 ? medal(item.rank) : ''}`,
         inline: true
       });
-
-      inlineCount++;
-      fieldCount++;
-    }
-
-    // 🧱 Compléter pour forcer des lignes de 3
-    const remainder = inlineCount % 3;
-    if (remainder !== 0) {
-      const fillers = 3 - remainder;
-      for (let i = 0; i < fillers && fieldCount < MAX_FIELDS; i++) {
-        fields.push({
-          name: '\u200B',
-          value: '\u200B',
-          inline: true
-        });
-        fieldCount++;
-      }
     }
   }
 
-  return fields.length ? fields : null;
+  return fields;
 }
 
 function extractMinistryExpense(text) {
@@ -633,9 +607,6 @@ async function sendDailyRanking(dailyTables) {
   for (const [day, data] of Object.entries(dailyTables)) {
     // ⛔ déjà envoyé
     if (sentDays.has(day)) continue;
-
-    // ⛔ on ignore le jour courant
-    if (day === new Date().toISOString().slice(0, 10)) continue;
 
     // =========================
     // 🏆 BUILD SECTIONS
