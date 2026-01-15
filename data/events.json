@@ -20038,5 +20038,45 @@
     "text": "Tormenta (Démagogue) a prononcé un discours louant le Gouverneur Bladimir Bladimirovitch Mutin (Démagogue) [PP +7] : « Mon Cher Bladimir, Heureux en effet de pouvoir compter sur un gouverneur qui met son temps au service de la province. Nos intérêts convergent en effet, profitons de cette bonne entente toute consensuelle qui doit ravir notre président. »",
     "key": "2026-01-15|14:40|confederation libre|acropole|forum|tormenta (demagogue) a prononce un discours louant le gouverneur bladimir bladimirovitch mutin (demagogue) [pp +7] : \" mon cher bladimir, heureux en effet de pouvoir compter sur un gouverneur qui met son temps au service de la province. nos interets convergent en effet, profitons de cette bonne entente toute consensuelle qui doit ravir notre president. \"",
     "firstSeen": "2026-01-15T13:53:50.796Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "15:02",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "Bartolomus Ravenloft a brûlé par erreur des notes scientifiques importantes. La recherche est perturbée (-3 à la technologie n°27).",
+    "key": "2026-01-15|15:02|paradigme vert|||bartolomus ravenloft a brule par erreur des notes scientifiques importantes. la recherche est perturbee (-3 a la technologie n°27).",
+    "firstSeen": "2026-01-15T14:54:06.201Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "15:02",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "",
+    "text": "Kanard WaiCette a fait la déclaration officielle suivante aux habitants de la province Île aux Kanards : « Il apparait qu'une rumeur cours sur la production des produit WaiCette... À ces accusation ridicules qui ne mènent nulle part, je me contenterai d'emprunter quelques vers au poète : La marge est le grand point, qu'importe d'où elle vienne Qu'importe le flacon pourvu qu'on ait l'hygiène J'en profite pour vous rappeler la sortie de la dernière innovation WaiCette : Le désodorisant Fraîcheur Or à large spectre multicolor, pour lutter contre toutes les mauvaises odeurs étrangères ! »",
+    "key": "2026-01-15|15:02|paradigme vert|ile aux kanards||kanard waicette a fait la declaration officielle suivante aux habitants de la province ile aux kanards : \" il apparait qu'une rumeur cours sur la production des produit waicette... a ces accusation ridicules qui ne menent nulle part, je me contenterai d'emprunter quelques vers au poete : la marge est le grand point, qu'importe d'ou elle vienne qu'importe le flacon pourvu qu'on ait l'hygiene j'en profite pour vous rappeler la sortie de la derniere innovation waicette : le desodorisant fraicheur or a large spectre multicolor, pour lutter contre toutes les mauvaises odeurs etrangeres ! \"",
+    "firstSeen": "2026-01-15T14:54:06.201Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "15:13",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Bladimir Bladimirovitch Mutin a effectué un sondage concernant les élections pour le poste de Président de la Confédération Libre: Bladimir Bladimirovitch Mutin 54.5 % Caïus Martius Ice 27.3 % Hench St Misles 18.2 %",
+    "key": "2026-01-15|15:13|confederation libre|||bladimir bladimirovitch mutin a effectue un sondage concernant les elections pour le poste de president de la confederation libre: bladimir bladimirovitch mutin 54.5 % caius martius ice 27.3 % hench st misles 18.2 %",
+    "firstSeen": "2026-01-15T14:54:06.201Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "15:17",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "Simone Voile a découvert la technologie Démokratie en faveur de la République de Kraland : « La Démokratie est le régime politique régnant à Kraland, où les citoyens soutiennent totalement un régime infaillible leur apportant le bonheur. L'ordre Candidat du Parti Unique est alors disponible pour le Premier Ministre. »",
+    "key": "2026-01-15|15:17|republique de kraland|||simone voile a decouvert la technologie demokratie en faveur de la republique de kraland : \" la demokratie est le regime politique regnant a kraland, ou les citoyens soutiennent totalement un regime infaillible leur apportant le bonheur. l'ordre candidat du parti unique est alors disponible pour le premier ministre. \"",
+    "firstSeen": "2026-01-15T14:54:06.201Z"
   }
 ]
