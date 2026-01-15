@@ -20708,5 +20708,895 @@
     "text": "Construction d'un bâtiment Vendeur de Pacotille dans la ville Igloo en [11,6].",
     "key": "2026-01-15|23:50|khanat elmerien|elmerie|igloo|construction d'un batiment vendeur de pacotille dans la ville igloo en [11,6].",
     "firstSeen": "2026-01-15T22:57:10.459Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:31",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Honolulu-par-Delà",
+    "text": "Construction d'un bâtiment Pré dans la ville Honolulu-par-Delà en [4,8].",
+    "key": "2026-01-16|00:31|republique de kraland|kraland|honolulu-par-dela|construction d'un batiment pre dans la ville honolulu-par-dela en [4,8].",
+    "firstSeen": "2026-01-15T23:38:34.490Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:25",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Honolulu-par-Delà",
+    "text": "Le Bourgmestre Ranxerox a détruit le bâtiment Cage « Centre de Reedukration » (14,10) : « Dehors les loubards‚ sur ordre du gouvernement. »",
+    "key": "2026-01-16|00:25|republique de kraland|kraland|honolulu-par-dela|le bourgmestre ranxerox a detruit le batiment cage \" centre de reedukration \" (14,10) : \" dehors les loubards‚ sur ordre du gouvernement. \"",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:22",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Prenom Nom a ouvert un chantier privé dans la ville Lampe du Génie en [9,10].",
+    "key": "2026-01-16|00:22|empire brun|mystisie|lampe du genie|prenom nom a ouvert un chantier prive dans la ville lampe du genie en [9,10].",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:21",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "Felicity Stone a ouvert un chantier privé dans la ville Lantenac-du-Lac en [9,2].",
+    "key": "2026-01-16|00:21|royaume de ruthvenie|ruthvenie|lantenac-du-lac|felicity stone a ouvert un chantier prive dans la ville lantenac-du-lac en [9,2].",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:20",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "La Gouverneure Martina D. DeiMachiavelli a adressé un discours à la population : « Empire, Voici une petite contribution de Sicilia aux efforts de recherche. L'arrivée du train en gare de Trou Perdu nous donnes de nouvelles perspectives de développement, nous voulons continuer dans cette voie d'évolution. »",
+    "key": "2026-01-16|00:20|empire brun|||la gouverneure martina d. deimachiavelli a adresse un discours a la population : \" empire, voici une petite contribution de sicilia aux efforts de recherche. l'arrivee du train en gare de trou perdu nous donnes de nouvelles perspectives de developpement, nous voulons continuer dans cette voie d'evolution. \"",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:18",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Bismuth El'K'Fadyh a ouvert un chantier public dans la ville Lampe du Génie en [11,2].",
+    "key": "2026-01-16|00:18|empire brun|mystisie|lampe du genie|bismuth el'k'fadyh a ouvert un chantier public dans la ville lampe du genie en [11,2].",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:18",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "E. d'Arcys a ouvert un chantier privé dans la ville Lampe du Génie en [5,12].",
+    "key": "2026-01-16|00:18|empire brun|mystisie|lampe du genie|e. d'arcys a ouvert un chantier prive dans la ville lampe du genie en [5,12].",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:18",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Salamé Plurien a entamé un combat contre Light Deathnote.",
+    "key": "2026-01-16|00:18|khanat elmerien|bananie|distillerie|salame plurien a entame un combat contre light deathnote.",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:18",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "Felicity Stone a ouvert un chantier public dans la ville Lantenac-du-Lac en [11,4].",
+    "key": "2026-01-16|00:18|royaume de ruthvenie|ruthvenie|lantenac-du-lac|felicity stone a ouvert un chantier public dans la ville lantenac-du-lac en [11,4].",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:17",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "Construction d'un bâtiment Nappe de Pétrole dans la ville Lantenac-du-Lac en [9,4].",
+    "key": "2026-01-16|00:17|royaume de ruthvenie|ruthvenie|lantenac-du-lac|construction d'un batiment nappe de petrole dans la ville lantenac-du-lac en [9,4].",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:17",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "La Gouverneure Martina D. DeiMachiavelli a transféré 1000 MØ du bâtiment Palais du Gouverneur au Ministère de l'Économie.",
+    "key": "2026-01-16|00:17|empire brun|||la gouverneure martina d. deimachiavelli a transfere 1000 mø du batiment palais du gouverneur au ministere de l'economie.",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:17",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Aurelthar a entamé un duel contre Light Deathnote.",
+    "key": "2026-01-16|00:17|khanat elmerien|bananie|distillerie|aurelthar a entame un duel contre light deathnote.",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:15",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Light Deathnote a entamé un combat contre Passe-Muraille.",
+    "key": "2026-01-16|00:15|khanat elmerien|bananie|distillerie|light deathnote a entame un combat contre passe-muraille.",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:15",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Korail a ouvert un chantier public dans la ville Port Magmor en [15,6].",
+    "key": "2026-01-16|00:15|royaume de ruthvenie|crab key|port magmor|korail a ouvert un chantier public dans la ville port magmor en [15,6].",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:15",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Korail a donné de l'entrain au travail dans le bâtiment Gisement de Fer (la production sera plus rapide) : « Je vous met un peu de musique métal pour la production de fer aujourd'hui! »",
+    "key": "2026-01-16|00:15|royaume de ruthvenie|crab key|port magmor|korail a donne de l'entrain au travail dans le batiment gisement de fer (la production sera plus rapide) : \" je vous met un peu de musique metal pour la production de fer aujourd'hui! \"",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:11",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "Structuran Job s'est fait agresser par un groupe de créatures mené par Soldat Déserteur.",
+    "key": "2026-01-16|00:11|confederation libre|milieu||structuran job s'est fait agresser par un groupe de creatures mene par soldat deserteur.",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:11",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Conan le barbu a fondé l'organisation politique Les barbares de Bananie.",
+    "key": "2026-01-16|00:11|khanat elmerien|||conan le barbu a fonde l'organisation politique les barbares de bananie.",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:11",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Logan Aska a fait la déclaration officielle suivante aux habitants du Royaume de Ruthvénie au nom de l'organisation CDN : « Déclaration de la Représentation officielle de Son Impériosité Charlie, Impéraliche parmi les mortels Sa Majestueuse Ossature fera l'honneur, contre toute attente et recommandation de ses plus fidèles séides (c'est à dire MOI, au pluriel), d'être présent.e à ce couronnement. Bien que peu sensible à ces démonstrations étranges où pour montrer un pouvoir, on affuble une couronne au lieu de planter un poignard, nous respecterons bien sûr de notre mieux cette tradition. Il va sans dire qu'en tant que Ghoule et première Sbire, je répandrai ma carcasse pour ouvrir le chemin de son Impériale Moëlle, afin que son chemin puisse être le plus agréable. Je servirai s'il le faut de paillasson si je juge que les lieux ne sont pas suffisamment à Sa hauteur, même si je suis confiant pour qu'on m'évite un tel honneur. Je sais que je ferai bien trop de jaloux ! Je vais devoir préciser des banalités, mais il est bien sûr strictement interdit de : toucher caresser malaxer ou rogner les os de l'Impéraliche, sans son consentement et celui de sa Ghoule. Je laisserai éventuellement mon os à sucer pour celles qui souhaitent goûter au charme bucolique de la Léprosie, après tout nous sommes pour les échanges culturels. Nous comptons que le Royaume de Ruthvénie, avec tous ses maigres moyens pour assurer toute la protection nécessaire à l'Impéraliche. En effet, son Impériosité Immortelle a décidé d'emporter son bikini. Nous ne serons donc pas responsable des inévitables émeutes en résultant. »",
+    "key": "2026-01-16|00:11|royaume de ruthvenie|||logan aska a fait la declaration officielle suivante aux habitants du royaume de ruthvenie au nom de l'organisation cdn : \" declaration de la representation officielle de son imperiosite charlie, imperaliche parmi les mortels sa majestueuse ossature fera l'honneur, contre toute attente et recommandation de ses plus fideles seides (c'est a dire moi, au pluriel), d'etre present.e a ce couronnement. bien que peu sensible a ces demonstrations etranges ou pour montrer un pouvoir, on affuble une couronne au lieu de planter un poignard, nous respecterons bien sur de notre mieux cette tradition. il va sans dire qu'en tant que ghoule et premiere sbire, je repandrai ma carcasse pour ouvrir le chemin de son imperiale moelle, afin que son chemin puisse etre le plus agreable. je servirai s'il le faut de paillasson si je juge que les lieux ne sont pas suffisamment a sa hauteur, meme si je suis confiant pour qu'on m'evite un tel honneur. je sais que je ferai bien trop de jaloux ! je vais devoir preciser des banalites, mais il est bien sur strictement interdit de : toucher caresser malaxer ou rogner les os de l'imperaliche, sans son consentement et celui de sa ghoule. je laisserai eventuellement mon os a sucer pour celles qui souhaitent gouter au charme bucolique de la leprosie, apres tout nous sommes pour les echanges culturels. nous comptons que le royaume de ruthvenie, avec tous ses maigres moyens pour assurer toute la protection necessaire a l'imperaliche. en effet, son imperiosite immortelle a decide d'emporter son bikini. nous ne serons donc pas responsable des inevitables emeutes en resultant. \"",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:11",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "",
+    "text": "Un groupe de créatures mené par 1 Ectoplasme attaque Necro Mounda.",
+    "key": "2026-01-16|00:11|empire brun|mystisie||un groupe de creatures mene par 1 ectoplasme attaque necro mounda.",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:10",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "",
+    "text": "Structuran Job s'est fait agresser par un groupe de créatures mené par Gorille Géant.",
+    "key": "2026-01-16|00:10|republique de kraland|kraland||structuran job s'est fait agresser par un groupe de creatures mene par gorille geant.",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:09",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Un pirate a fait perdre des fichiers précieux à la recherche scientifique de la Confédération Libre (-6 à la technologie n°1).",
+    "key": "2026-01-16|00:09|confederation libre|acropole|forum|un pirate a fait perdre des fichiers precieux a la recherche scientifique de la confederation libre (-6 a la technologie n°1).",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:08",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Un pirate s'est introduit dans le réseau de la Confédération Libre provoquant la perte de la technologie Production en Série.",
+    "key": "2026-01-16|00:08|confederation libre|acropole|forum|un pirate s'est introduit dans le reseau de la confederation libre provoquant la perte de la technologie production en serie.",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:07",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Diagonale a donné de l'entrain au travail dans le bâtiment Carrière (la production sera plus rapide).",
+    "key": "2026-01-16|00:07|royaume de ruthvenie|ruthvenie|ruthvenville|diagonale a donne de l'entrain au travail dans le batiment carriere (la production sera plus rapide).",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:05",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "Youpigrad",
+    "text": "Passe-Muraille a tenté de voler dans la caisse du bâtiment Hôtel de Ville. Il est à présent recherché par la police du cybermonde pour ce délit.",
+    "key": "2026-01-16|00:05|khanat elmerien|bouletie|youpigrad|passe-muraille a tente de voler dans la caisse du batiment hotel de ville. il est a present recherche par la police du cybermonde pour ce delit.",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:04",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Construction d'un bâtiment Librairie dans la ville Port Magmor en [8,4].",
+    "key": "2026-01-16|00:04|royaume de ruthvenie|crab key|port magmor|construction d'un batiment librairie dans la ville port magmor en [8,4].",
+    "firstSeen": "2026-01-15T23:38:34.491Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Agatha von Krarovich vient d'achever sa peine et a quitté la prison.",
+    "key": "2026-01-16|00:01|empire brun|sicilia|trou perdu|agatha von krarovich vient d'achever sa peine et a quitte la prison.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Provinces indépendantes",
+    "province": "Australine",
+    "city": "",
+    "text": "La province Australine récolte 0 PO d'impôts.",
+    "key": "2026-01-16|00:01|provinces independantes|australine||la province australine recolte 0 po d'impots.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Provinces indépendantes",
+    "province": "Australine",
+    "city": "Camp des Bagnards",
+    "text": "La ville Camp des Bagnards récolte 0 PO d'impôts.",
+    "key": "2026-01-16|00:01|provinces independantes|australine|camp des bagnards|la ville camp des bagnards recolte 0 po d'impots.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Royaume de Ruthvénie récolte 1305 Co d'impôts et paie 50 Co pour ses employés (soldats). Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 13 Co, Ministère de la Guerre 0 Co, Ministère de la Justice 0 Co, Ministère des Affaires Étrangères 0 Co, Ministère de l'Économie 0 Co, Ministère de la Recherche 1242 Co, Ministère de l'Intérieur 0 Co, Ministère de l'Information 0 Co, Ministère des Services Secrets 0 Co, Ministère du Travail 0 Co.",
+    "key": "2026-01-16|00:01|royaume de ruthvenie|||le royaume de ruthvenie recolte 1305 co d'impots et paie 50 co pour ses employes (soldats). les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 13 co, ministere de la guerre 0 co, ministere de la justice 0 co, ministere des affaires etrangeres 0 co, ministere de l'economie 0 co, ministere de la recherche 1242 co, ministere de l'interieur 0 co, ministere de l'information 0 co, ministere des services secrets 0 co, ministere du travail 0 co.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "",
+    "text": "La province Crab Key récolte 192 Co d'impôts.",
+    "key": "2026-01-16|00:01|royaume de ruthvenie|crab key||la province crab key recolte 192 co d'impots.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "La ville Port Magmor récolte 192 Co d'impôts.",
+    "key": "2026-01-16|00:01|royaume de ruthvenie|crab key|port magmor|la ville port magmor recolte 192 co d'impots.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "",
+    "text": "La province Géofront récolte 356 Co d'impôts et paie 125 Co pour ses employés (policiers et soldats).",
+    "key": "2026-01-16|00:01|royaume de ruthvenie|geofront||la province geofront recolte 356 co d'impots et paie 125 co pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "La ville Sanctuaire récolte 356 Co d'impôts.",
+    "key": "2026-01-16|00:01|royaume de ruthvenie|geofront|sanctuaire|la ville sanctuaire recolte 356 co d'impots.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "",
+    "text": "La province Valégro récolte 176 Co d'impôts.",
+    "key": "2026-01-16|00:01|royaume de ruthvenie|valegro||la province valegro recolte 176 co d'impots.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "La ville Fort Emouchet récolte 176 Co d'impôts.",
+    "key": "2026-01-16|00:01|royaume de ruthvenie|valegro|fort emouchet|la ville fort emouchet recolte 176 co d'impots.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "La province Ruthvénie récolte 886 Co d'impôts.",
+    "key": "2026-01-16|00:01|royaume de ruthvenie|ruthvenie||la province ruthvenie recolte 886 co d'impots.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "La ville Lantenac-du-Lac récolte 209 Co d'impôts.",
+    "key": "2026-01-16|00:01|royaume de ruthvenie|ruthvenie|lantenac-du-lac|la ville lantenac-du-lac recolte 209 co d'impots.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "La ville Ruthvenville récolte 677 Co d'impôts.",
+    "key": "2026-01-16|00:01|royaume de ruthvenie|ruthvenie|ruthvenville|la ville ruthvenville recolte 677 co d'impots.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "La Confédération Libre récolte 1408 ¢¢ d'impôts et paie 50 ¢¢ pour ses employés (soldats). Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 136 ¢¢, Ministère de la Guerre 136 ¢¢, Ministère de la Justice 136 ¢¢, Ministère des Affaires Étrangères 136 ¢¢, Ministère de l'Économie 136 ¢¢, Ministère de la Recherche 136 ¢¢, Ministère de l'Intérieur 136 ¢¢, Ministère de l'Information 136 ¢¢, Ministère des Services Secrets 136 ¢¢, Ministère du Travail 134 ¢¢.",
+    "key": "2026-01-16|00:01|confederation libre|||la confederation libre recolte 1408 ¢¢ d'impots et paie 50 ¢¢ pour ses employes (soldats). les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 136 ¢¢, ministere de la guerre 136 ¢¢, ministere de la justice 136 ¢¢, ministere des affaires etrangeres 136 ¢¢, ministere de l'economie 136 ¢¢, ministere de la recherche 136 ¢¢, ministere de l'interieur 136 ¢¢, ministere de l'information 136 ¢¢, ministere des services secrets 136 ¢¢, ministere du travail 134 ¢¢.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "",
+    "text": "La province Warriorland récolte 752 ¢¢ d'impôts.",
+    "key": "2026-01-16|00:01|confederation libre|warriorland||la province warriorland recolte 752 ¢¢ d'impots.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "La ville Blofeldopolis récolte 752 ¢¢ d'impôts.",
+    "key": "2026-01-16|00:01|confederation libre|warriorland|blofeldopolis|la ville blofeldopolis recolte 752 ¢¢ d'impots.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "",
+    "text": "La province Plaine Irradiée récolte 368 ¢¢ d'impôts.",
+    "key": "2026-01-16|00:01|confederation libre|plaine irradiee||la province plaine irradiee recolte 368 ¢¢ d'impots.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
+    "text": "La ville Atome récolte 368 ¢¢ d'impôts.",
+    "key": "2026-01-16|00:01|confederation libre|plaine irradiee|atome|la ville atome recolte 368 ¢¢ d'impots.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "",
+    "text": "La province Acropole récolte 565 ¢¢ d'impôts et paie 50 ¢¢ pour ses employés (policiers et soldats).",
+    "key": "2026-01-16|00:01|confederation libre|acropole||la province acropole recolte 565 ¢¢ d'impots et paie 50 ¢¢ pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Tribunal Cybermondial",
+    "text": "La ville Tribunal Cybermondial récolte 95 ¢¢ d'impôts.",
+    "key": "2026-01-16|00:01|confederation libre|acropole|tribunal cybermondial|la ville tribunal cybermondial recolte 95 ¢¢ d'impots.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "La ville Forum récolte 470 ¢¢ d'impôts.",
+    "key": "2026-01-16|00:01|confederation libre|acropole|forum|la ville forum recolte 470 ¢¢ d'impots.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "La province Milieu récolte 1130 ¢¢ d'impôts.",
+    "key": "2026-01-16|00:01|confederation libre|milieu||la province milieu recolte 1130 ¢¢ d'impots.",
+    "firstSeen": "2026-01-15T23:38:36.246Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "La ville Structural récolte 1130 ¢¢ d'impôts et paie 100 ¢¢ pour ses employés (policiers et soldats).",
+    "key": "2026-01-16|00:01|confederation libre|milieu|structural|la ville structural recolte 1130 ¢¢ d'impots et paie 100 ¢¢ pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-01-15T23:38:36.247Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Le Khanat Elmérien récolte 899 ÐE d'impôts. Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 0 ÐE, Ministère de la Guerre 0 ÐE, Ministère de la Justice 0 ÐE, Ministère des Affaires Étrangères 0 ÐE, Ministère de l'Économie 90 ÐE, Ministère de la Recherche 809 ÐE, Ministère de l'Intérieur 0 ÐE, Ministère de l'Information 0 ÐE, Ministère des Services Secrets 0 ÐE, Ministère du Travail 0 ÐE.",
+    "key": "2026-01-16|00:01|khanat elmerien|||le khanat elmerien recolte 899 ðe d'impots. les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 0 ðe, ministere de la guerre 0 ðe, ministere de la justice 0 ðe, ministere des affaires etrangeres 0 ðe, ministere de l'economie 90 ðe, ministere de la recherche 809 ðe, ministere de l'interieur 0 ðe, ministere de l'information 0 ðe, ministere des services secrets 0 ðe, ministere du travail 0 ðe.",
+    "firstSeen": "2026-01-15T23:38:36.247Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "",
+    "text": "La province Bananie récolte 546 ÐE d'impôts.",
+    "key": "2026-01-16|00:01|khanat elmerien|bananie||la province bananie recolte 546 ðe d'impots.",
+    "firstSeen": "2026-01-15T23:38:36.247Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "La ville Distillerie récolte 546 ÐE d'impôts.",
+    "key": "2026-01-16|00:01|khanat elmerien|bananie|distillerie|la ville distillerie recolte 546 ðe d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.356Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "",
+    "text": "La province Bouletie récolte 158 ÐE d'impôts.",
+    "key": "2026-01-16|00:01|khanat elmerien|bouletie||la province bouletie recolte 158 ðe d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "Youpigrad",
+    "text": "La ville Youpigrad récolte 158 ÐE d'impôts.",
+    "key": "2026-01-16|00:01|khanat elmerien|bouletie|youpigrad|la ville youpigrad recolte 158 ðe d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "",
+    "text": "La province Elmérie récolte 533 ÐE d'impôts.",
+    "key": "2026-01-16|00:01|khanat elmerien|elmerie||la province elmerie recolte 533 ðe d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "La ville Igloo récolte 293 ÐE d'impôts.",
+    "key": "2026-01-16|00:01|khanat elmerien|elmerie|igloo|la ville igloo recolte 293 ðe d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "La ville Gueule du Lézard récolte 240 ÐE d'impôts.",
+    "key": "2026-01-16|00:01|khanat elmerien|elmerie|gueule du lezard|la ville gueule du lezard recolte 240 ðe d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "",
+    "text": "La province Capsulie récolte 562 ÐE d'impôts.",
+    "key": "2026-01-16|00:01|khanat elmerien|capsulie||la province capsulie recolte 562 ðe d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "La ville CAPS LOCK récolte 562 ÐE d'impôts.",
+    "key": "2026-01-16|00:01|khanat elmerien|capsulie|caps lock|la ville caps lock recolte 562 ðe d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "Le Paradigme Vert récolte 1799 Éf d'impôts. Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 0 Éf, Ministère de la Guerre 0 Éf, Ministère de la Justice 0 Éf, Ministère des Affaires Étrangères 0 Éf, Ministère de l'Économie 1259 Éf, Ministère de la Recherche 360 Éf, Ministère de l'Intérieur 180 Éf, Ministère de l'Information 0 Éf, Ministère des Services Secrets 0 Éf, Ministère du Travail 0 Éf.",
+    "key": "2026-01-16|00:01|paradigme vert|||le paradigme vert recolte 1799 ef d'impots. les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 0 ef, ministere de la guerre 0 ef, ministere de la justice 0 ef, ministere des affaires etrangeres 0 ef, ministere de l'economie 1259 ef, ministere de la recherche 360 ef, ministere de l'interieur 180 ef, ministere de l'information 0 ef, ministere des services secrets 0 ef, ministere du travail 0 ef.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "",
+    "text": "La province Île aux Kanards récolte 685 Éf d'impôts.",
+    "key": "2026-01-16|00:01|paradigme vert|ile aux kanards||la province ile aux kanards recolte 685 ef d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "La ville Kanardville récolte 685 Éf d'impôts.",
+    "key": "2026-01-16|00:01|paradigme vert|ile aux kanards|kanardville|la ville kanardville recolte 685 ef d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "",
+    "text": "La province Forêt de Jade récolte 1162 Éf d'impôts.",
+    "key": "2026-01-16|00:01|paradigme vert|foret de jade||la province foret de jade recolte 1162 ef d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "La ville Accalmie récolte 1162 Éf d'impôts et paie 150 Éf pour ses employés (policiers et soldats).",
+    "key": "2026-01-16|00:01|paradigme vert|foret de jade|accalmie|la ville accalmie recolte 1162 ef d'impots et paie 150 ef pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "",
+    "text": "La province Irendol récolte 168 Éf d'impôts.",
+    "key": "2026-01-16|00:01|paradigme vert|irendol||la province irendol recolte 168 ef d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Bamboutopia",
+    "text": "La ville Bamboutopia récolte 4 Éf d'impôts.",
+    "key": "2026-01-16|00:01|paradigme vert|irendol|bamboutopia|la ville bamboutopia recolte 4 ef d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Grand Jardin",
+    "text": "La ville Grand Jardin récolte 164 Éf d'impôts.",
+    "key": "2026-01-16|00:01|paradigme vert|irendol|grand jardin|la ville grand jardin recolte 164 ef d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "",
+    "text": "La province Sibéria récolte 581 Éf d'impôts et paie 50 Éf pour ses employés (policiers et soldats).",
+    "key": "2026-01-16|00:01|paradigme vert|siberia||la province siberia recolte 581 ef d'impots et paie 50 ef pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "La ville Garinaville récolte 581 Éf d'impôts.",
+    "key": "2026-01-16|00:01|paradigme vert|siberia|garinaville|la ville garinaville recolte 581 ef d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "L'Empire Brun récolte 2545 MØ d'impôts. Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 127 MØ, Ministère de la Guerre 127 MØ, Ministère de la Justice 127 MØ, Ministère des Affaires Étrangères 127 MØ, Ministère de l'Économie 255 MØ, Ministère de la Recherche 1273 MØ, Ministère de l'Intérieur 127 MØ, Ministère de l'Information 127 MØ, Ministère des Services Secrets 127 MØ, Ministère du Travail 127 MØ.",
+    "key": "2026-01-16|00:01|empire brun|||l'empire brun recolte 2545 mø d'impots. les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 127 mø, ministere de la guerre 127 mø, ministere de la justice 127 mø, ministere des affaires etrangeres 127 mø, ministere de l'economie 255 mø, ministere de la recherche 1273 mø, ministere de l'interieur 127 mø, ministere de l'information 127 mø, ministere des services secrets 127 mø, ministere du travail 127 mø.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "",
+    "text": "La province Niarkalistan récolte 1144 MØ d'impôts.",
+    "key": "2026-01-16|00:01|empire brun|niarkalistan||la province niarkalistan recolte 1144 mø d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "La ville Léprosie récolte 1144 MØ d'impôts.",
+    "key": "2026-01-16|00:01|empire brun|niarkalistan|leprosie|la ville leprosie recolte 1144 mø d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "",
+    "text": "La province Mystisie récolte 1020 MØ d'impôts.",
+    "key": "2026-01-16|00:01|empire brun|mystisie||la province mystisie recolte 1020 mø d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "La ville Lampe du Génie récolte 1020 MØ d'impôts.",
+    "key": "2026-01-16|00:01|empire brun|mystisie|lampe du genie|la ville lampe du genie recolte 1020 mø d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "",
+    "text": "La province Santa Banana récolte 233 MØ d'impôts.",
+    "key": "2026-01-16|00:01|empire brun|santa banana||la province santa banana recolte 233 mø d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Bagdad",
+    "text": "La ville Bagdad récolte 98 MØ d'impôts.",
+    "key": "2026-01-16|00:01|empire brun|santa banana|bagdad|la ville bagdad recolte 98 mø d'impots.",
+    "firstSeen": "2026-01-15T23:38:37.357Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Santa Banana City",
+    "text": "La ville Santa Banana City récolte 135 MØ d'impôts.",
+    "key": "2026-01-16|00:01|empire brun|santa banana|santa banana city|la ville santa banana city recolte 135 mø d'impots.",
+    "firstSeen": "2026-01-15T23:38:39.195Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "",
+    "text": "La province Sicilia récolte 1525 MØ d'impôts.",
+    "key": "2026-01-16|00:01|empire brun|sicilia||la province sicilia recolte 1525 mø d'impots.",
+    "firstSeen": "2026-01-15T23:38:39.195Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "La ville Trou Perdu récolte 1525 MØ d'impôts.",
+    "key": "2026-01-16|00:01|empire brun|sicilia|trou perdu|la ville trou perdu recolte 1525 mø d'impots.",
+    "firstSeen": "2026-01-15T23:38:39.196Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "La République de Kraland récolte 2243 FK d'impôts et paie 100 FK pour ses employés (soldats). Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 21 FK, Ministère de la Guerre 0 FK, Ministère de la Justice 0 FK, Ministère des Affaires Étrangères 0 FK, Ministère de l'Économie 836 FK, Ministère de la Recherche 857 FK, Ministère de l'Intérieur 429 FK, Ministère de l'Information 0 FK, Ministère des Services Secrets 0 FK, Ministère du Travail 0 FK.",
+    "key": "2026-01-16|00:01|republique de kraland|||la republique de kraland recolte 2243 fk d'impots et paie 100 fk pour ses employes (soldats). les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 21 fk, ministere de la guerre 0 fk, ministere de la justice 0 fk, ministere des affaires etrangeres 0 fk, ministere de l'economie 836 fk, ministere de la recherche 857 fk, ministere de l'interieur 429 fk, ministere de l'information 0 fk, ministere des services secrets 0 fk, ministere du travail 0 fk.",
+    "firstSeen": "2026-01-15T23:38:39.196Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "",
+    "text": "La province Slavonie récolte 182 FK d'impôts.",
+    "key": "2026-01-16|00:01|republique de kraland|slavonie||la province slavonie recolte 182 fk d'impots.",
+    "firstSeen": "2026-01-15T23:38:39.196Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "Gynerak",
+    "text": "La ville Gynerak récolte 182 FK d'impôts.",
+    "key": "2026-01-16|00:01|republique de kraland|slavonie|gynerak|la ville gynerak recolte 182 fk d'impots.",
+    "firstSeen": "2026-01-15T23:38:39.196Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "",
+    "text": "La province Karaïbes récolte 534 FK d'impôts et paie 50 FK pour ses employés (policiers et soldats).",
+    "key": "2026-01-16|00:01|republique de kraland|karaibes||la province karaibes recolte 534 fk d'impots et paie 50 fk pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-01-15T23:38:39.196Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "La ville Trésorville récolte 534 FK d'impôts.",
+    "key": "2026-01-16|00:01|republique de kraland|karaibes|tresorville|la ville tresorville recolte 534 fk d'impots.",
+    "firstSeen": "2026-01-15T23:38:39.196Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "",
+    "text": "La province Hélénie récolte 220 FK d'impôts et paie 50 FK pour ses employés (policiers et soldats).",
+    "key": "2026-01-16|00:01|republique de kraland|helenie||la province helenie recolte 220 fk d'impots et paie 50 fk pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-01-15T23:38:39.196Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "Bisouville",
+    "text": "La ville Bisouville récolte 220 FK d'impôts.",
+    "key": "2026-01-16|00:01|republique de kraland|helenie|bisouville|la ville bisouville recolte 220 fk d'impots.",
+    "firstSeen": "2026-01-15T23:38:39.196Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "",
+    "text": "La province Kraland récolte 371 FK d'impôts.",
+    "key": "2026-01-16|00:01|republique de kraland|kraland||la province kraland recolte 371 fk d'impots.",
+    "firstSeen": "2026-01-15T23:38:39.196Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Honolulu-par-Delà",
+    "text": "La ville Honolulu-par-Delà récolte 107 FK d'impôts.",
+    "key": "2026-01-16|00:01|republique de kraland|kraland|honolulu-par-dela|la ville honolulu-par-dela recolte 107 fk d'impots.",
+    "firstSeen": "2026-01-15T23:38:39.196Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "La ville Quartier Suprême récolte 264 FK d'impôts.",
+    "key": "2026-01-16|00:01|republique de kraland|kraland|quartier supreme|la ville quartier supreme recolte 264 fk d'impots.",
+    "firstSeen": "2026-01-15T23:38:39.196Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "23:56",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Agatha von Krarovich vient de se livrer aux autorités et est désormais en prison.",
+    "key": "2026-01-15|23:56|empire brun|sicilia|trou perdu|agatha von krarovich vient de se livrer aux autorites et est desormais en prison.",
+    "firstSeen": "2026-01-15T23:38:39.196Z"
   }
 ]
