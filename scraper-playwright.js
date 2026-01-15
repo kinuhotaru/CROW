@@ -233,33 +233,46 @@ function extractFinance(text) {
 function extractMoneyFlows(text) {
   if (!text) return null;
 
+  // 💰 RECETTES
   const incomeMatch = text.match(/récolte\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/i);
   const income = incomeMatch
     ? Number(incomeMatch[1].replace(/\s/g, ''))
     : 0;
 
-  let expense = 0;
-
-  // Cas classique "paie X"
-  const expenseMatch = text.match(/paie\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/i);
-  if (expenseMatch) {
-    expense = Number(expenseMatch[1].replace(/\s/g, ''));
-  }
-
-  // Cas redistribution ministérielle
-  if (/distribués aux différents ministères/i.test(text)) {
-    expense = extractMinistryExpenses(text);
-  }
+  // 💸 DÉPENSES (salaires + ministères)
+  const expense = extractTotalExpenses(text);
 
   if (!income && !expense) return null;
 
   return {
     income,
     expense,
-    currency: incomeMatch?.[2] || expenseMatch?.[2] || null
+    currency: incomeMatch?.[2] || null
   };
 }
+function extractTotalExpenses(text) {
+  if (!text) return 0;
 
+  let total = 0;
+
+  // 1️⃣ Tous les "paie XXX Co"
+  const payRegex = /paie\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/gi;
+  let match;
+
+  while ((match = payRegex.exec(text)) !== null) {
+    total += Number(match[1].replace(/\s/g, ''));
+  }
+
+  // 2️⃣ Toutes les redistributions ministérielles
+  // Capture "Nom du ministère XXX Co"
+  const ministryRegex = /([A-Za-zÀ-ÿ'’\s]+)\s+(\d+)\s*([A-ZÐÉØ¢$]+)/g;
+
+  while ((match = ministryRegex.exec(text)) !== null) {
+    total += Number(match[2]);
+  }
+
+  return total;
+}
 function buildDailyFinanceTables(events) {
   const days = {};
 
