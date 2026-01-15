@@ -19548,5 +19548,35 @@
     "text": "Le Roi Landraël a nommé Felicity Stone au poste de Ministre de l'Intérieur.",
     "key": "2026-01-15|07:14|royaume de ruthvenie|||le roi landrael a nomme felicity stone au poste de ministre de l'interieur.",
     "firstSeen": "2026-01-15T06:22:41.356Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "07:27",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Capitaine Rompizzo a établi une chaîne de production dans le bâtiment Camp de Bûcherons (la production sera plus rapide) : « Du bois pour les bateaux de combat »",
+    "key": "2026-01-15|07:27|royaume de ruthvenie|crab key|port magmor|capitaine rompizzo a etabli une chaine de production dans le batiment camp de bucherons (la production sera plus rapide) : \" du bois pour les bateaux de combat \"",
+    "firstSeen": "2026-01-15T06:33:16.085Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "07:28",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Lozana Shizen d'Excelizor a ouvert un chantier privé dans la ville Accalmie en [8,12].",
+    "key": "2026-01-15|07:28|paradigme vert|foret de jade|accalmie|lozana shizen d'excelizor a ouvert un chantier prive dans la ville accalmie en [8,12].",
+    "firstSeen": "2026-01-15T06:33:16.081Z"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "07:30",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "",
+    "text": "Light Deathnote a trouvé une terre riche pour le bois dans la province Bananie : « Vous voyez nous avons une belle zone où les arbres grandissent bien! N'oubliez pas de replanter ! »",
+    "key": "2026-01-15|07:30|khanat elmerien|bananie||light deathnote a trouve une terre riche pour le bois dans la province bananie : \" vous voyez nous avons une belle zone ou les arbres grandissent bien! n'oubliez pas de replanter ! \"",
+    "firstSeen": "2026-01-15T06:33:16.080Z"
   }
 ]
