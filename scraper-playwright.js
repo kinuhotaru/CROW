@@ -179,20 +179,11 @@ function chunkEmbedLines(lines, maxLength = 4096) {
   return chunks.filter(Boolean);
 }
 
-function chunkEmbedDescription(lines, maxLength = 4000) {
+function chunkArray(arr, size) {
   const chunks = [];
-  let current = '';
-
-  for (const line of lines) {
-    if ((current + '\n\n' + line).length > maxLength) {
-      if (current) chunks.push(current);
-      current = line;
-    } else {
-      current += (current ? '\n\n' : '') + line;
-    }
+  for (let i = 0; i < arr.length; i += size) {
+    chunks.push(arr.slice(i, i + size));
   }
-
-  if (current) chunks.push(current);
   return chunks;
 }
 
@@ -243,18 +234,29 @@ function extractMoneyFlows(text) {
   if (!text) return null;
 
   const incomeMatch = text.match(/récolte\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/i);
-  const expenseMatch = text.match(/paie\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/i);
+  const income = incomeMatch
+    ? Number(incomeMatch[1].replace(/\s/g, ''))
+    : 0;
 
-  if (!incomeMatch && !expenseMatch) return null;
+  let expense = 0;
+
+  // Cas classique "paie X"
+  const expenseMatch = text.match(/paie\s+([\d\s]+)\s*([A-ZÐÉØ¢$]+)/i);
+  if (expenseMatch) {
+    expense = Number(expenseMatch[1].replace(/\s/g, ''));
+  }
+
+  // Cas redistribution ministérielle
+  if (/distribués aux différents ministères/i.test(text)) {
+    expense = extractMinistryExpenses(text);
+  }
+
+  if (!income && !expense) return null;
 
   return {
-    income: incomeMatch
-      ? Number(incomeMatch[1].replace(/\s/g, ''))
-      : 0,
-    expense: expenseMatch
-      ? Number(expenseMatch[1].replace(/\s/g, ''))
-      : 0,
-    currency: incomeMatch?.[2] || expenseMatch?.[2]
+    income,
+    expense,
+    currency: incomeMatch?.[2] || expenseMatch?.[2] || null
   };
 }
 
@@ -433,6 +435,22 @@ function rankingFieldsByEmpireFromRows(rows, type, label, level) {
 
   return fields.length ? fields : null;
 }
+
+function extractMinistryExpenses(text) {
+  if (!text) return 0;
+
+  // Capture "Nom du ministère 123 Co"
+  const regex = /([A-Za-zÀ-ÿ'’\s]+)\s+(\d+)\s*([A-ZÐÉØ¢$]+)/g;
+  let match;
+  let total = 0;
+
+  while ((match = regex.exec(text)) !== null) {
+    total += Number(match[2]);
+  }
+
+  return total;
+}
+
 /* =========================
    🏬 EMPIRE RANKING IMPOTS
 ========================= */
@@ -640,23 +658,25 @@ async function sendDailyRanking(dailyTables) {
       }
     ];
 
-    // =========================
-    // 📨 DISCORD SEND
-    // =========================
-
     for (const section of sections) {
       if (!section.fields || section.fields.length === 0) {
         console.log(`⏭️ Section ignorée (vide) : ${section.title}`);
         continue;
       }
 
-      await sendWebhookGuaranteed(DISCORD_STATS_WEBHOOK, {
-        embeds: [{
-          title: section.title,
-          color: section.color,
-          fields: section.fields
-        }]
-      });
+        const chunks = chunkArray(section.fields, 25);
+
+        for (let i = 0; i < chunks.length; i++) {
+        await sendWebhookGuaranteed(DISCORD_STATS_WEBHOOK, {
+            embeds: [{
+            title: `${section.title}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
+            color: section.color,
+            fields: chunks[i]
+            }]
+        });
+
+        await new Promise(r => setTimeout(r, 300));
+        }
 
       // confort anti-rate-limit
       await new Promise(r => setTimeout(r, 300));
