@@ -22238,5 +22238,45 @@
     "text": "Jules Fégris s'est fait agresser par un groupe de créatures mené par Ectoplasme.",
     "key": "2026-01-16|12:31|confederation libre|acropole||jules fegris s'est fait agresser par un groupe de creatures mene par ectoplasme.",
     "firstSeen": "2026-01-16T11:35:49.053Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "12:37",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Construction d'un bâtiment Petite Raffinerie dans la ville Structural en [18,9].",
+    "key": "2026-01-16|12:37|confederation libre|milieu|structural|construction d'un batiment petite raffinerie dans la ville structural en [18,9].",
+    "firstSeen": "2026-01-16T11:52:20.549Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "12:47",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Ed Wyplenel a prononcé un discours louant le Roi Landraël [PP +11] : « C'est le jour du Couronnement ! Bien que toutes ces manifestations de joie et de beuverie ne soient pas trop ma tasse de thé, je tenais à féliciter notre bon Roi pour cet événement. Malgré les critiques, bien évidemment. Je ne vais pas m'enjailler comme vous autres, la Justice a du travail. Une sombre histoire de nain mais passons... Je serai là, à vous observer. D'un regard un peu malaisant, d'ailleurs. Mais toujours dans la bienveillance et le professionnalisme dû à mes fonctions. Longue vie au Roi ! »",
+    "key": "2026-01-16|12:47|royaume de ruthvenie|ruthvenie|ruthvenville|ed wyplenel a prononce un discours louant le roi landrael [pp +11] : \" c'est le jour du couronnement ! bien que toutes ces manifestations de joie et de beuverie ne soient pas trop ma tasse de the, je tenais a feliciter notre bon roi pour cet evenement. malgre les critiques, bien evidemment. je ne vais pas m'enjailler comme vous autres, la justice a du travail. une sombre histoire de nain mais passons... je serai la, a vous observer. d'un regard un peu malaisant, d'ailleurs. mais toujours dans la bienveillance et le professionnalisme du a mes fonctions. longue vie au roi ! \"",
+    "firstSeen": "2026-01-16T11:52:20.549Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "12:48",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Annie a ouvert un chantier privé dans la ville Garinaville en [12,9].",
+    "key": "2026-01-16|12:48|paradigme vert|siberia|garinaville|annie a ouvert un chantier prive dans la ville garinaville en [12,9].",
+    "firstSeen": "2026-01-16T11:52:20.549Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "12:49",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Construction d'un bâtiment Cabane dans la ville Garinaville en [12,9].",
+    "key": "2026-01-16|12:49|paradigme vert|siberia|garinaville|construction d'un batiment cabane dans la ville garinaville en [12,9].",
+    "firstSeen": "2026-01-16T11:52:20.548Z"
   }
 ]
