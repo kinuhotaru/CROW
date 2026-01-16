@@ -21728,5 +21728,85 @@
     "text": "PierreJean a ouvert un chantier privé dans la ville Fort Emouchet en [17,7].",
     "key": "2026-01-16|06:30|royaume de ruthvenie|valegro|fort emouchet|pierrejean a ouvert un chantier prive dans la ville fort emouchet en [17,7].",
     "firstSeen": "2026-01-16T05:52:19.607Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "07:58",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Capitaine Rompizzo n'a pas réussi à établir une chaîne de production dans le bâtiment Gisement de Fer : « Un bon bateau c'est des bon métaux ! »",
+    "key": "2026-01-16|07:58|royaume de ruthvenie|crab key|port magmor|capitaine rompizzo n'a pas reussi a etablir une chaine de production dans le batiment gisement de fer : \" un bon bateau c'est des bon metaux ! \"",
+    "firstSeen": "2026-01-16T07:00:39.439Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "07:48",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Hench St Misles (Démagogue) a prononcé un discours louant le Gouverneur Bladimir Bladimirovitch Mutin (Démagogue) [PP +3] : « Blad. Je ne le dirai qu'une fois ou deux. Désistez-vous pour moi et mettons fin à cette élection absurde. »",
+    "key": "2026-01-16|07:48|confederation libre|acropole|forum|hench st misles (demagogue) a prononce un discours louant le gouverneur bladimir bladimirovitch mutin (demagogue) [pp +3] : \" blad. je ne le dirai qu'une fois ou deux. desistez-vous pour moi et mettons fin a cette election absurde. \"",
+    "firstSeen": "2026-01-16T07:00:39.439Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "07:43",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Bonnie Red a donné un spectacle distrayant dans le bâtiment Auberge « L'Antigel » : « Un essai burlesque pour préparer le spectacle de ce soir. »",
+    "key": "2026-01-16|07:43|khanat elmerien|elmerie|igloo|bonnie red a donne un spectacle distrayant dans le batiment auberge \" l'antigel \" : \" un essai burlesque pour preparer le spectacle de ce soir. \"",
+    "firstSeen": "2026-01-16T07:00:39.439Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "07:41",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Bagdad",
+    "text": "Jamal Al-Fayeed a entamé un combat contre Cheval.",
+    "key": "2026-01-16|07:41|empire brun|santa banana|bagdad|jamal al-fayeed a entame un combat contre cheval.",
+    "firstSeen": "2026-01-16T07:00:39.439Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "07:21",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "Construction d'un bâtiment Potager dans la ville Lantenac-du-Lac en [11,4].",
+    "key": "2026-01-16|07:21|royaume de ruthvenie|ruthvenie|lantenac-du-lac|construction d'un batiment potager dans la ville lantenac-du-lac en [11,4].",
+    "firstSeen": "2026-01-16T07:00:39.439Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "07:15",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "La fée Tide a aidé les policiers permettant une meilleure surveillance de la ville.",
+    "key": "2026-01-16|07:15|paradigme vert|foret de jade|accalmie|la fee tide a aide les policiers permettant une meilleure surveillance de la ville.",
+    "firstSeen": "2026-01-16T07:00:39.439Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "07:13",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "La Commissaire de Police La fée Tide a imposé une contravention de 50 Éf à Falkorn ⭐️ : « C'est un moindre mal !! »",
+    "key": "2026-01-16|07:13|paradigme vert|foret de jade|accalmie|la commissaire de police la fee tide a impose une contravention de 50 ef a falkorn ⭐️ : \" c'est un moindre mal !! \"",
+    "firstSeen": "2026-01-16T07:00:39.439Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "06:56",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Construction d'un bâtiment Cage dans la ville Blofeldopolis en [10,8].",
+    "key": "2026-01-16|06:56|confederation libre|warriorland|blofeldopolis|construction d'un batiment cage dans la ville blofeldopolis en [10,8].",
+    "firstSeen": "2026-01-16T07:00:39.439Z"
   }
 ]
