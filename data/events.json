@@ -22088,5 +22088,75 @@
     "text": "Construction d'un bâtiment Embarcadère dans la ville Ruthvenville en [6,7].",
     "key": "2026-01-16|10:42|royaume de ruthvenie|ruthvenie|ruthvenville|construction d'un batiment embarcadere dans la ville ruthvenville en [6,7].",
     "firstSeen": "2026-01-16T09:49:57.284Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "10:52",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "Rose Nelson a fait la déclaration officielle suivante aux habitants du Paradigme Vert : « Salutations distinguées, bande de justiciables de seconde zone. Nous y sommes enfin. Grâce aux diligences — certes accidentelles mais juridiquement exploitables — de notre sur‑Kanard Géo‑TrouveQueLesTrucsImportants, j’ai l’immense plaisir de procéder à l’annonce officielle, dûment estampillée et presque conforme, de l’ouverture de la Canard Crédit Corporation (CCC), première institution bancaire du cybermonde à bénéficier d’un statut para‑financier vaguement légal. Il n’est nullement surprenant que cette innovation majeure voie le jour sous notre juridiction palmipède, tant les Kanards constituent, selon toute jurisprudence sérieuse (la mienne), une espèce objectivement supérieure. De même, il est établi erga omnes que les Palladionautes surpassent toutes les autres nationalités, présentes, futures ou imaginaires. Quant à Zyor Mawi, il démontre une fois de plus sa capacité remarquable à miser sur le cheval gagnant — ou plutôt sur le canard gagnant — en établissant domicile sur notre île, ce qui constitue, à n’en pas douter, un acte de clairvoyance majeur. Je vous attends donc, chers incapables économiques, à la CCC : là où votre argent travaille d’arrache‑plume… et où moi, conformément à l’article 42 du Code de la Fainéantise Bancaire, je me prélasse en toute légalité. »",
+    "key": "2026-01-16|10:52|paradigme vert|||rose nelson a fait la declaration officielle suivante aux habitants du paradigme vert : \" salutations distinguees, bande de justiciables de seconde zone. nous y sommes enfin. grace aux diligences — certes accidentelles mais juridiquement exploitables — de notre sur‐kanard geo‐trouvequelestrucsimportants, j'ai l'immense plaisir de proceder a l'annonce officielle, dument estampillee et presque conforme, de l'ouverture de la canard credit corporation (ccc), premiere institution bancaire du cybermonde a beneficier d'un statut para‐financier vaguement legal. il n'est nullement surprenant que cette innovation majeure voie le jour sous notre juridiction palmipede, tant les kanards constituent, selon toute jurisprudence serieuse (la mienne), une espece objectivement superieure. de meme, il est etabli erga omnes que les palladionautes surpassent toutes les autres nationalites, presentes, futures ou imaginaires. quant a zyor mawi, il demontre une fois de plus sa capacite remarquable a miser sur le cheval gagnant — ou plutot sur le canard gagnant — en etablissant domicile sur notre ile, ce qui constitue, a n'en pas douter, un acte de clairvoyance majeur. je vous attends donc, chers incapables economiques, a la ccc : la ou votre argent travaille d'arrache‐plume... et ou moi, conformement a l'article 42 du code de la faineantise bancaire, je me prelasse en toute legalite. \"",
+    "firstSeen": "2026-01-16T10:52:05.277Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "10:59",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "Landraël a retiré sa candidature aux élections pour le poste de Duc de la province Ruthvénie : « Finalement, je vais rester Roi un peu. Wencelsas, l'heure tourne. J'espère que vous arriverez à vous lever de votre lit pour venir au Palais présenter votre démission. Vous ne pourrez pas dire que nous n'étiez pas prévenu. »",
+    "key": "2026-01-16|10:59|royaume de ruthvenie|ruthvenie||landrael a retire sa candidature aux elections pour le poste de duc de la province ruthvenie : \" finalement, je vais rester roi un peu. wencelsas, l'heure tourne. j'espere que vous arriverez a vous lever de votre lit pour venir au palais presenter votre demission. vous ne pourrez pas dire que nous n'etiez pas prevenu. \"",
+    "firstSeen": "2026-01-16T10:52:05.277Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "11:09",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "",
+    "text": "Un groupe de créatures mené par 1 Cheval attaque Anomalie.",
+    "key": "2026-01-16|11:09|confederation libre|acropole||un groupe de creatures mene par 1 cheval attaque anomalie.",
+    "firstSeen": "2026-01-16T10:52:05.277Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "11:18",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Construction d'un bâtiment Comptoir dans la ville Garinaville en [9,7].",
+    "key": "2026-01-16|11:18|paradigme vert|siberia|garinaville|construction d'un batiment comptoir dans la ville garinaville en [9,7].",
+    "firstSeen": "2026-01-16T10:52:05.277Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "11:28",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Construction d'un bâtiment Cabane dans la ville Blofeldopolis en [14,5].",
+    "key": "2026-01-16|11:28|confederation libre|warriorland|blofeldopolis|construction d'un batiment cabane dans la ville blofeldopolis en [14,5].",
+    "firstSeen": "2026-01-16T10:52:05.277Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "11:38",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Un engouement pour la paresse paralyse le bâtiment Comptoir « Canard Crédit Corporation (CCC) » (on ne pourra plus y produire ni construire pendant 24 heures) : « o/ o- o_ o/ Eh les Koins, un p'tit plongeon dans la piscine à pognon ? »",
+    "key": "2026-01-16|11:38|paradigme vert|ile aux kanards|kanardville|un engouement pour la paresse paralyse le batiment comptoir \" canard credit corporation (ccc) \" (on ne pourra plus y produire ni construire pendant 24 heures) : \" o/ o- o_ o/ eh les koins, un p'tit plongeon dans la piscine a pognon ? \"",
+    "firstSeen": "2026-01-16T10:52:05.277Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "11:42",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "Sophos a organisé une manifestation contre la Première Ministre Magritte Lenouar [PP -2] : « Sauvons la révolution ! »",
+    "key": "2026-01-16|11:42|republique de kraland|kraland|quartier supreme|sophos a organise une manifestation contre la premiere ministre magritte lenouar [pp -2] : \" sauvons la revolution ! \"",
+    "firstSeen": "2026-01-16T10:52:05.276Z"
   }
 ]
