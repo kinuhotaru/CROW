@@ -21918,5 +21918,85 @@
     "text": "Hasna a perdu son poste (Bourgmestre) suite à un crime politique (Usurper).",
     "key": "2026-01-16|08:53|empire brun|santa banana|bagdad|hasna a perdu son poste (bourgmestre) suite a un crime politique (usurper).",
     "firstSeen": "2026-01-16T07:55:04.457Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "08:59",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Une rumeur concernant le Roi Landraël court parmi les habitants du Royaume de Ruthvénie : « Ça organise des kointres-soirées alors qu'on avait prévenu en 1er ! On avait dit qu'on respectait les règles de preum'sage N'oubliez pas : »",
+    "key": "2026-01-16|08:59|royaume de ruthvenie|||une rumeur concernant le roi landrael court parmi les habitants du royaume de ruthvenie : \" ca organise des kointres-soirees alors qu'on avait prevenu en 1er ! on avait dit qu'on respectait les regles de preum'sage n'oubliez pas : \"",
+    "firstSeen": "2026-01-16T08:57:45.058Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "09:33",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Petit Tonnerre a ouvert un chantier privé dans la ville Accalmie en [6,7].",
+    "key": "2026-01-16|09:33|paradigme vert|foret de jade|accalmie|petit tonnerre a ouvert un chantier prive dans la ville accalmie en [6,7].",
+    "firstSeen": "2026-01-16T08:57:45.058Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "09:37",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Lyanna de Nansay a ouvert un chantier privé dans la ville Lampe du Génie en [14,9].",
+    "key": "2026-01-16|09:37|empire brun|mystisie|lampe du genie|lyanna de nansay a ouvert un chantier prive dans la ville lampe du genie en [14,9].",
+    "firstSeen": "2026-01-16T08:57:45.058Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "09:52",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Landraël (Démagogue) a prononcé un discours louant la Comtesse Alice Chain (Démagogue) [PP +11] : « Ma chère Alice, je vois que tu as lancé une fête de la Pierre le jour du Couronnement (c'est pas banal!). Sans doute est-ce pour marquer que mon règne se fera sous le signe du Progrès, de la Science et de la Technologie. Quand je vois que nous commençons déjà à transférer des technologies à la RK, ça rempli mon coeur de joie ! »",
+    "key": "2026-01-16|09:52|royaume de ruthvenie|ruthvenie|ruthvenville|landrael (demagogue) a prononce un discours louant la comtesse alice chain (demagogue) [pp +11] : \" ma chere alice, je vois que tu as lance une fete de la pierre le jour du couronnement (c'est pas banal!). sans doute est-ce pour marquer que mon regne se fera sous le signe du progres, de la science et de la technologie. quand je vois que nous commencons deja a transferer des technologies a la rk, ca rempli mon coeur de joie ! \"",
+    "firstSeen": "2026-01-16T08:57:45.058Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "09:52",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "Géo Trouvetou a découvert la technologie Système Bancaire en faveur du Paradigme Vert : « Permet de construire le bâtiment Banque. En outre, le gouvernement peut faire fonctionner la planche à billets, ce qui lui apporte 500 FK/jour en plus des impôts récoltés par l'empire. »",
+    "key": "2026-01-16|09:52|paradigme vert|||geo trouvetou a decouvert la technologie systeme bancaire en faveur du paradigme vert : \" permet de construire le batiment banque. en outre, le gouvernement peut faire fonctionner la planche a billets, ce qui lui apporte 500 fk/jour en plus des impots recoltes par l'empire. \"",
+    "firstSeen": "2026-01-16T08:57:45.058Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "09:53",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Landraël (Démagogue) a prononcé un discours louant la Comtesse Alice Chain (Démagogue) [PP +11] : « Que la fête soit ! »",
+    "key": "2026-01-16|09:53|royaume de ruthvenie|ruthvenie|ruthvenville|landrael (demagogue) a prononce un discours louant la comtesse alice chain (demagogue) [pp +11] : \" que la fete soit ! \"",
+    "firstSeen": "2026-01-16T08:57:45.058Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "09:54",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Construction d'un bâtiment Petite Raffinerie dans la ville Lampe du Génie en [14,9].",
+    "key": "2026-01-16|09:54|empire brun|mystisie|lampe du genie|construction d'un batiment petite raffinerie dans la ville lampe du genie en [14,9].",
+    "firstSeen": "2026-01-16T08:57:45.058Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "09:55",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Lyanna de Nansay a ouvert un chantier privé dans la ville Lampe du Génie en [15,9].",
+    "key": "2026-01-16|09:55|empire brun|mystisie|lampe du genie|lyanna de nansay a ouvert un chantier prive dans la ville lampe du genie en [15,9].",
+    "firstSeen": "2026-01-16T08:57:45.058Z"
   }
 ]
