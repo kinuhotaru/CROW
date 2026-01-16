@@ -24278,5 +24278,15 @@
     "text": "La ville Quartier Suprême récolte 257 FK d'impôts.",
     "key": "2026-01-17|00:01|republique de kraland|kraland|quartier supreme|la ville quartier supreme recolte 257 fk d'impots.",
     "firstSeen": "2026-01-16T23:36:32.633Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "00:35",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Un agent ennemi a réussi à hisser le drapeau de la République de Kraland.",
+    "key": "2026-01-17|00:35|confederation libre|milieu|structural|un agent ennemi a reussi a hisser le drapeau de la republique de kraland.",
+    "firstSeen": "2026-01-16T23:51:38.838Z"
   }
 ]
