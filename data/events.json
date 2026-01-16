@@ -21708,5 +21708,25 @@
     "text": "Ombreloup a brûlé par erreur des notes scientifiques importantes. La recherche est perturbée (-3 à la technologie n°1).",
     "key": "2026-01-16|05:56|royaume de ruthvenie|||ombreloup a brule par erreur des notes scientifiques importantes. la recherche est perturbee (-3 a la technologie n°1).",
     "firstSeen": "2026-01-16T05:01:33.497Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "06:30",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "PierreJean a ouvert un chantier privé dans la ville Fort Emouchet en [17,7].",
+    "key": "2026-01-16|06:30|royaume de ruthvenie|valegro|fort emouchet|pierrejean a ouvert un chantier prive dans la ville fort emouchet en [17,7].",
+    "firstSeen": "2026-01-16T05:52:19.607Z"
+  },
+  {
+    "date": "2026-01-16",
+    "time": "06:40",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Achille Bombardier a entamé un combat contre Père Michu ⭐️.",
+    "key": "2026-01-16|06:40|khanat elmerien|elmerie|gueule du lezard|achille bombardier a entame un combat contre pere michu ⭐️.",
+    "firstSeen": "2026-01-16T05:52:19.607Z"
   }
 ]
