@@ -236,7 +236,7 @@ const EVENT_ROUTES = [
 ];
 
 */ 
-
+    const text = normalizeForHash(event.text);
   if (
     event.text &&
     event.text.includes('Tunnel Termondique de magnitude')
@@ -594,37 +594,35 @@ for (const e of events) {
   const timeline = {};
   for (const e of fresh) {
     timeline[e.date] ??= {};
-    timeline[e.date][e.empire] ??= [];
-    timeline[e.date][e.empire].push(e);
+    timeline[e.date][e.empire] ??= {};
+    const webhook = resolveEventWebhook(e);
+    timeline[e.date][e.empire][webhook] ??= [];
+    timeline[e.date][e.empire][webhook].push(e);
   }
 
   for (const [date, empires] of Object.entries(timeline)) {
     for (const [empire, evts] of Object.entries(empires)) {
+        for (const [webhook, evts] of Object.entries(webhooks)) {
+            const lines = evts.map(
+            e => `**${e.time || '--:--'}** — ${e.text}`
+            );
 
-      const lines = evts.map(
-        e => `**${e.time || '--:--'}** — ${e.text}`
-      );
+            const chunks = chunkEmbedLines(lines);
 
-      const chunks = chunkEmbedLines(lines);
-
-        for (let i = 0; i < chunks.length; i++) {
-            const webhook = resolveEventWebhook(evts[0]);
-
-            if (!webhook) continue;
-
+            for (let i = 0; i < chunks.length; i++) {
             await sendWebhookGuaranteed(webhook, {
-            embeds: [{
+                embeds: [{
                 title: `📅 ${date} — ${empire}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
                 color: empireColor(empire),
                 description: chunks[i],
                 footer: {
-                text: `CROWS ScrapeYard • ${evts.length} événements`
+                    text: `CROWS ScrapeYard • ${evts.length} événements`
                 }
-            }]
+                }]
             });
 
-        // petit confort, pas obligatoire mais aide
-        await new Promise(r => setTimeout(r, 200));
+            await new Promise(r => setTimeout(r, 200));
+            }
         }
     }
   }
