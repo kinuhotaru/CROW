@@ -8,9 +8,89 @@ import fetch from 'node-fetch';
 
 const BASE_URL = 'http://www.kraland.org/monde/evenements';
 
+//WEBHOOKS
+
 const DISCORD_EVENTS_WEBHOOK = process.env.DISCORD_EVENTS_WEBHOOK;
 const DISCORD_STATS_WEBHOOK  = process.env.DISCORD_STATS_WEBHOOK;
 const DISCORD_TUNNEL_WEBHOOK = process.env.DISCORD_TUNNEL_WEBHOOK;
+const DISCORD_CRIME_WEBHOOK = process.env.DISCORD_CRIME_WEBHOOK;
+const DISCORD_DISCOURS_WEBHOOK  = process.env.DISCORD_DISCOURS_WEBHOOK;
+const DISCORD_POL_WEBHOOK = process.env.DISCORD_POL_WEBHOOK;
+const DISCORD_RECHERCHE_WEBHOOK = process.env.DISCORD_RECHERCHE_WEBHOOK;
+const DISCORD_RUMEURS_WEBHOOK  = process.env.DISCORD_RUMEURS_WEBHOOK;
+const DISCORD_WAR_WEBHOOK = process.env.DISCORD_WAR_WEBHOOK;
+
+    const EVENT_ROUTES = [
+  {
+    match: text => text.includes('Tunnel Termondique de magnitude'),
+    webhook: DISCORD_TUNNEL_WEBHOOK
+  },
+  {
+    match: text => /déclare la guerre/i.test(text),
+    webhook: DISCORD_WAR_WEBHOOK
+  },
+  {
+    name: 'Crime',
+    match: text =>
+      [
+        'a tente de voler',
+        'vient d\'achever sa peine',
+        'vient de se livrer aux autorités',
+      ].some(keyword => text.includes(keyword)),
+    webhook: DISCORD_CRIME_WEBHOOK
+  },
+  {
+    name: 'Recherche',
+    match: text =>
+      [
+        'a brûlé par erreur des notes scientifiques',
+        'a fixé le salaire pour la recherche technologique',
+        'a lancé la recherche de la technologie',
+        'a donné des informations concernant la technologie',
+        'a découvert la technologie',
+        'a fait perdre des fichiers précieux à la recherche scientifique',
+        'en tentant d\'organiser une manifestation pro-science',
+        'a organisé une manifestation pro-science',
+        'en tentant d\'organiser une manifestation anti-science',
+        'a organisé une manifestation anti-science'
+      ].some(keyword => text.includes(keyword)),
+    webhook: DISCORD_RECHERCHE_WEBHOOK
+  },
+  {
+    name: 'Discours',
+    match: text =>
+      [
+        'a adressé un discours',
+        'a prononcé un discours',
+        'a fait une déclaration officielle',
+      ].some(keyword => text.includes(keyword)),
+    webhook: DISCORD_DISCOURS_WEBHOOK
+  },
+  {
+    name: 'Recherche',
+    match: text =>
+      [
+        'une rumeur court',
+        'une rumeur concernant',
+      ].some(keyword => text.includes(keyword)),
+    webhook: DISCORD_RUMEURS_WEBHOOK
+  },
+{
+  name: 'Politique',
+  priority: 60,
+  match: text =>
+    // Cas regex (écart variable)
+    /a nomme .+ au poste de/.test(text) ||
+
+    // Cas simples (mots-clés)
+    [
+      'a perdu son poste',
+      'a demissionne',
+      'a effectue un sondage'
+    ].some(k => text.includes(k)),
+  webhook: DISCORD_POL_WEBHOOK
+}
+];
 
 //DATA Logs
 const DATA_DIR = './data';
@@ -219,33 +299,23 @@ function paginateFieldsWithEmpireHeaders(fields, maxFields = 25) {
   return pages;
 }
 
+
 // FONCTION DE TRI DES WEBHOOK (hors finances)
 function resolveEventWebhook(event) {
 
-/*
-
-const EVENT_ROUTES = [
-  {
-    match: text => text.includes('Tunnel Termondique de magnitude'),
-    webhook: DISCORD_TUNNEL_WEBHOOK
-  },
-  {
-    match: text => /déclare la guerre/i.test(text),
-    webhook: DISCORD_WAR_WEBHOOK
-  }
-];
-
-*/ 
     const text = normalizeForHash(event.text);
-  if (
-    event.text &&
-    event.text.includes('Tunnel Termondique de magnitude')
-  ) {
-    return DISCORD_TUNNEL_WEBHOOK;
-  }
 
-  // webhook par défaut
-  return DISCORD_EVENTS_WEBHOOK;
+    for (const route of EVENT_ROUTES){
+        try{
+            if(route.match(text)){
+                return route.webhook;
+            }
+        } catch (err){
+            console.warn('⚠️ Erreur dans une règle EVENT_ROUTES', err);
+        }
+    }
+
+   return DISCORD_EVENTS_WEBHOOK;
 }
 
 async function sendWebhookGuaranteed(webhookUrl, payload) {

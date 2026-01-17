@@ -36,6 +36,13 @@ jobs:
           DISCORD_EVENTS_WEBHOOK: ${{ secrets.DISCORD_EVENTS_WEBHOOK }}
           DISCORD_STATS_WEBHOOK: ${{ secrets.DISCORD_STATS_WEBHOOK }}
           DISCORD_TUNNEL_WEBHOOK: ${{ secrets.DISCORD_TUNNEL_WEBHOOK }}
+          DISCORD_CRIME_WEBHOOK: ${{ secrets.DISCORD_CRIME_WEBHOOK }}
+          DISCORD_DISCOURS_WEBHOOK: ${{ secrets.DISCORD_DISCOURS_WEBHOOK }}
+          DISCORD_POL_WEBHOOK: ${{ secrets.DISCORD_POL_WEBHOOK }}
+          DISCORD_RECHERCHE_WEBHOOK: ${{ secrets.DISCORD_RECHERCHE_WEBHOOK }}
+          DISCORD_RUMEURS_WEBHOOK: ${{ secrets.DISCORD_RUMEURS_WEBHOOK }}
+          DISCORD_WAR_WEBHOOK: ${{ secrets.DISCORD_WAR_WEBHOOK }}
+
         run: node scraper-playwright.js
 
       - name: 💾 Commit data files
