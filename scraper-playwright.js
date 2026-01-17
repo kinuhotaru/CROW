@@ -68,7 +68,7 @@ const DISCORD_FINANCE_WEBHOOK = process.env.DISCORD_FINANCE_WEBHOOK;
         'a lance la recherche de la technologie',
         'a donne des informations concernant la technologie',
         'a decouvert la technologie',
-        'a fait perdre des fichiers précieux a la recherche scientifique',
+        'a fait perdre des fichiers precieux a la recherche scientifique',
         'en tentant d\'organiser une manifestation pro-science',
         'a organise une manifestation pro-science',
         'en tentant d\'organiser une manifestation anti-science',
@@ -113,10 +113,11 @@ const DISCORD_FINANCE_WEBHOOK = process.env.DISCORD_FINANCE_WEBHOOK;
       'a retire sa candidature',
       'a bafouille un discours',
       'a accorde la recompense',
-      'a use de ses prérogatives de',
+      'a use de ses prerogatives de',
       'n\'a pas reussi a utiliser ses prerogatives',
       'a approuve les actions du gouvernement',
-      'a prêté allégeance envers'
+      'a prete allegeance envers',
+      's\'est presente aux elections'
     ].some(k => text.includes(k)),
   webhook: DISCORD_POL_WEBHOOK
 },
@@ -131,7 +132,7 @@ const DISCORD_FINANCE_WEBHOOK = process.env.DISCORD_FINANCE_WEBHOOK;
       'a defini une nouvelle repartition budgetaire',
       'a pris la decision d\'appliquer une prime',
       'a pris la decision d\'appliquer une taxe',
-      'a imposé une taxe'
+      'a impose une taxe'
     ].some(k => text.includes(k)),
   webhook: DISCORD_FINANCE_WEBHOOK
 }
