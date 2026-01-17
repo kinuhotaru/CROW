@@ -26,7 +26,11 @@ const DISCORD_WAR_WEBHOOK = process.env.DISCORD_WAR_WEBHOOK;
     webhook: DISCORD_TUNNEL_WEBHOOK
   },
   {
-    match: text => /déclare la guerre/i.test(text),
+    name: 'Crime',
+    match: text =>
+      [
+        'declare la guerre'
+      ].some(keyword => text.includes(keyword)),
     webhook: DISCORD_WAR_WEBHOOK
   },
   {
@@ -35,7 +39,7 @@ const DISCORD_WAR_WEBHOOK = process.env.DISCORD_WAR_WEBHOOK;
       [
         'a tente de voler',
         'vient d\'achever sa peine',
-        'vient de se livrer aux autorités',
+        'vient de se livrer aux autorites',
       ].some(keyword => text.includes(keyword)),
     webhook: DISCORD_CRIME_WEBHOOK
   },
@@ -43,16 +47,16 @@ const DISCORD_WAR_WEBHOOK = process.env.DISCORD_WAR_WEBHOOK;
     name: 'Recherche',
     match: text =>
       [
-        'a brûlé par erreur des notes scientifiques',
-        'a fixé le salaire pour la recherche technologique',
-        'a lancé la recherche de la technologie',
-        'a donné des informations concernant la technologie',
-        'a découvert la technologie',
-        'a fait perdre des fichiers précieux à la recherche scientifique',
+        'a brule par erreur des notes scientifiques',
+        'a fixe le salaire pour la recherche technologique',
+        'a lance la recherche de la technologie',
+        'a donne des informations concernant la technologie',
+        'a decouvert la technologie',
+        'a fait perdre des fichiers précieux a la recherche scientifique',
         'en tentant d\'organiser une manifestation pro-science',
-        'a organisé une manifestation pro-science',
+        'a organise une manifestation pro-science',
         'en tentant d\'organiser une manifestation anti-science',
-        'a organisé une manifestation anti-science'
+        'a organise une manifestation anti-science'
       ].some(keyword => text.includes(keyword)),
     webhook: DISCORD_RECHERCHE_WEBHOOK
   },
@@ -60,9 +64,9 @@ const DISCORD_WAR_WEBHOOK = process.env.DISCORD_WAR_WEBHOOK;
     name: 'Discours',
     match: text =>
       [
-        'a adressé un discours',
-        'a prononcé un discours',
-        'a fait une déclaration officielle',
+        'a adresse un discours',
+        'a prononce un discours',
+        'a fait une declaration officielle',
       ].some(keyword => text.includes(keyword)),
     webhook: DISCORD_DISCOURS_WEBHOOK
   },
@@ -91,6 +95,11 @@ const DISCORD_WAR_WEBHOOK = process.env.DISCORD_WAR_WEBHOOK;
   webhook: DISCORD_POL_WEBHOOK
 }
 ];
+
+const SILENT_WEBHOOKS = new Set([
+  DISCORD_TUNNEL_WEBHOOK,
+  DISCORD_EVENTS_WEBHOOK 
+]);
 
 //DATA Logs
 const DATA_DIR = './data';
@@ -156,6 +165,19 @@ const EMPIRE_COLOR = {
   'ADMIN': 0x2C2C2C
 };
 
+const EMPIRE_ROLE_MAP = {
+    'Mondial' : '<@&1460876246345842770>',
+  'République de Kraland': '<@&1460876539066323099>',
+  'Empire Brun': '<@&1460876568367730841>',
+  'Palladium Corporation': '<@&1460876585912504411>',
+  'Théocratie Seelienne': '<@&1460876615075500385>',
+  'Paradigme Vert': '<@&1460876641306939392>',
+  'Khanat Elmérien': '<@&1460876669555572757>',
+  'Confédération Libre': '<@&1460876682553720887>',
+  'Royaume de Ruthvénie': '<@&1460876710248710311>',
+  'Provinces indépendantes': '<@&1460876734093328416>',
+};
+
 const resolveEmpire = code => EMPIRE_MAP[code] || code || 'Inconnu';
 const empireColor = empire => EMPIRE_COLOR[empire] ?? 0x34495e;
 
@@ -166,6 +188,14 @@ const empireColor = empire => EMPIRE_COLOR[empire] ?? 0x34495e;
 function normalizeText(value) {
   if (typeof value !== 'string') return '';
   return value.replace(/\u00a0/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
+function resolveEmpireRoleMention(empire) {
+  return EMPIRE_ROLE_MAP[empire] || null;
+}
+
+function shouldPingForWebhook(webhook) {
+  return webhook && !SILENT_WEBHOOKS.has(webhook);
 }
 
 function loadJSON(file, fallback = []) {
@@ -671,29 +701,36 @@ for (const e of events) {
   }
 
 for (const [date, empires] of Object.entries(timeline)) {
-  for (const [empire, webhooks] of Object.entries(empires)) {
-    for (const [webhook, evts] of Object.entries(webhooks)) {
-            const lines = evts.map(
-            e => `**${e.time || '--:--'}** — ${e.text}`
-            );
+  for (const [empire, evtsByWebhook] of Object.entries(empires)) {
+    for (const [webhook, evts] of Object.entries(evtsByWebhook)) {
 
-            const chunks = chunkEmbedLines(lines);
+    const roleMention =
+        shouldPingForWebhook(webhook)
+        ? resolveEmpireRoleMention(empire)
+        : null;
 
-            for (let i = 0; i < chunks.length; i++) {
-            await sendWebhookGuaranteed(webhook, {
-                embeds: [{
-                title: `📅 ${date} — ${empire}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
-                color: empireColor(empire),
-                description: chunks[i],
-                footer: {
-                    text: `CROWS ScrapeYard • ${evts.length} événements`
-                }
-                }]
-            });
+    const lines = evts.map(
+        e => `**${e.time || '--:--'}** — ${e.text}`
+    );
 
-            await new Promise(r => setTimeout(r, 200));
+    const chunks = chunkEmbedLines(lines);
+
+    for (let i = 0; i < chunks.length; i++) {
+        await sendWebhookGuaranteed(webhook, {
+        content: roleMention || undefined,
+        embeds: [{
+            title: `📅 ${date} — ${empire}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
+            color: empireColor(empire),
+            description: chunks[i],
+            footer: {
+            text: `CROWS ScrapeYard • ${evts.length} événements`
             }
-        }
+        }]
+        });
+
+        await new Promise(r => setTimeout(r, 200));
+    }
+    }
     }
   }
 
