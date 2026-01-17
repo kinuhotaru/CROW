@@ -19,14 +19,19 @@ const DISCORD_POL_WEBHOOK = process.env.DISCORD_POL_WEBHOOK;
 const DISCORD_RECHERCHE_WEBHOOK = process.env.DISCORD_RECHERCHE_WEBHOOK;
 const DISCORD_RUMEURS_WEBHOOK  = process.env.DISCORD_RUMEURS_WEBHOOK;
 const DISCORD_WAR_WEBHOOK = process.env.DISCORD_WAR_WEBHOOK;
+const DISCORD_FINANCE_WEBHOOK = process.env.DISCORD_FINANCE_WEBHOOK;
 
     const EVENT_ROUTES = [
   {
-    match: text => text.includes('Tunnel Termondique de magnitude'),
-    webhook: DISCORD_TUNNEL_WEBHOOK
+    name: 'Tunnel',
+    match: text =>
+      [
+        'tunnel termondique de magnitude'
+      ].some(keyword => text.includes(keyword)),
+    webhook: DISCORD_WAR_WEBHOOK
   },
   {
-    name: 'Crime',
+    name: 'War',
     match: text =>
       [
         'declare la guerre'
@@ -40,6 +45,17 @@ const DISCORD_WAR_WEBHOOK = process.env.DISCORD_WAR_WEBHOOK;
         'a tente de voler',
         'vient d\'achever sa peine',
         'vient de se livrer aux autorites',
+        'vient de livrer',
+        'a ecrit des graffitis sur le mur',
+        'a tente de commettre un attentat',
+        'a annule les poursuites contre',
+        'a aide les policiers',
+        'a lance un avis de recherche contre',
+        'vient de se faire assassiner',
+        'a conduit dans la prison',
+        'des policiers interviennent',
+        'un groupe de policiers tente',
+        'a impose une amende'
       ].some(keyword => text.includes(keyword)),
     webhook: DISCORD_CRIME_WEBHOOK
   },
@@ -66,16 +82,17 @@ const DISCORD_WAR_WEBHOOK = process.env.DISCORD_WAR_WEBHOOK;
       [
         'a adresse un discours',
         'a prononce un discours',
-        'a fait une declaration officielle',
+        'a fait la declaration officielle'
       ].some(keyword => text.includes(keyword)),
     webhook: DISCORD_DISCOURS_WEBHOOK
   },
   {
-    name: 'Recherche',
+    name: 'Rumeur',
     match: text =>
       [
         'une rumeur court',
         'une rumeur concernant',
+        'il se murmure'
       ].some(keyword => text.includes(keyword)),
     webhook: DISCORD_RUMEURS_WEBHOOK
   },
@@ -83,16 +100,40 @@ const DISCORD_WAR_WEBHOOK = process.env.DISCORD_WAR_WEBHOOK;
   name: 'Politique',
   priority: 60,
   match: text =>
-    // Cas regex (écart variable)
     /a nomme .+ au poste de/.test(text) ||
+    /Coup d'Etat .+ a usurpe/.test(text) ||
 
-    // Cas simples (mots-clés)
     [
       'a perdu son poste',
       'a demissionne',
-      'a effectue un sondage'
+      'a effectue un sondage',
+      's\'est verse une prime',
+      'a organise une manifestation contre',
+      'a organise une manifestation en soutien',
+      'a retire sa candidature',
+      'a bafouille un discours',
+      'a accorde la recompense',
+      'a use de ses prérogatives de',
+      'n\'a pas reussi a utiliser ses prerogatives',
+      'a approuve les actions du gouvernement',
+      'a prêté allégeance envers'
     ].some(k => text.includes(k)),
   webhook: DISCORD_POL_WEBHOOK
+},
+{
+  name: 'Finance',
+  priority: 60,
+  match: text =>
+    /a verse .+ au/.test(text) ||
+
+    [
+      'vient de modifier la taxe fonciere',
+      'a defini une nouvelle repartition budgetaire',
+      'a pris la decision d\'appliquer une prime',
+      'a pris la decision d\'appliquer une taxe',
+      'a imposé une taxe'
+    ].some(k => text.includes(k)),
+  webhook: DISCORD_FINANCE_WEBHOOK
 }
 ];
 
@@ -166,7 +207,7 @@ const EMPIRE_COLOR = {
 };
 
 const EMPIRE_ROLE_MAP = {
-    'Mondial' : '<@&1460876246345842770>',
+  'Mondial' : '<@&1460876246345842770>',
   'République de Kraland': '<@&1460876539066323099>',
   'Empire Brun': '<@&1460876568367730841>',
   'Palladium Corporation': '<@&1460876585912504411>',

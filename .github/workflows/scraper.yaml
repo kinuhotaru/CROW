@@ -42,6 +42,7 @@ jobs:
           DISCORD_RECHERCHE_WEBHOOK: ${{ secrets.DISCORD_RECHERCHE_WEBHOOK }}
           DISCORD_RUMEURS_WEBHOOK: ${{ secrets.DISCORD_RUMEURS_WEBHOOK }}
           DISCORD_WAR_WEBHOOK: ${{ secrets.DISCORD_WAR_WEBHOOK }}
+          DISCORD_FINANCE_WEBHOOK: ${{ secrets.DISCORD_FINANCE_WEBHOOK }}
 
         run: node scraper-playwright.js
 
