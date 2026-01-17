@@ -10,6 +10,7 @@ const BASE_URL = 'http://www.kraland.org/monde/evenements';
 
 const DISCORD_EVENTS_WEBHOOK = process.env.DISCORD_EVENTS_WEBHOOK;
 const DISCORD_STATS_WEBHOOK  = process.env.DISCORD_STATS_WEBHOOK;
+const DISCORD_TUNNEL_WEBHOOK = process.env.DISCORD_TUNNEL_WEBHOOK;
 
 //DATA Logs
 const DATA_DIR = './data';
@@ -216,6 +217,35 @@ function paginateFieldsWithEmpireHeaders(fields, maxFields = 25) {
   }
 
   return pages;
+}
+
+// FONCTION DE TRI DES WEBHOOK (hors finances)
+function resolveEventWebhook(event) {
+
+/*
+
+const EVENT_ROUTES = [
+  {
+    match: text => text.includes('Tunnel Termondique de magnitude'),
+    webhook: DISCORD_TUNNEL_WEBHOOK
+  },
+  {
+    match: text => /déclare la guerre/i.test(text),
+    webhook: DISCORD_WAR_WEBHOOK
+  }
+];
+
+*/ 
+
+  if (
+    event.text &&
+    event.text.includes('Tunnel Termondique de magnitude')
+  ) {
+    return DISCORD_TUNNEL_WEBHOOK;
+  }
+
+  // webhook par défaut
+  return DISCORD_EVENTS_WEBHOOK;
 }
 
 async function sendWebhookGuaranteed(webhookUrl, payload) {
@@ -578,16 +608,20 @@ for (const e of events) {
       const chunks = chunkEmbedLines(lines);
 
         for (let i = 0; i < chunks.length; i++) {
-        await sendWebhookGuaranteed(DISCORD_EVENTS_WEBHOOK, {
-        embeds: [{
-            title: `📅 ${date} — ${empire}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
-            color: empireColor(empire),
-            description: chunks[i],
-            footer: {
+            const webhook = resolveEventWebhook(evts[0]);
+
+            if (!webhook) continue;
+
+            await sendWebhookGuaranteed(webhook, {
+            embeds: [{
+                title: `📅 ${date} — ${empire}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
+                color: empireColor(empire),
+                description: chunks[i],
+                footer: {
                 text: `CROWS ScrapeYard • ${evts.length} événements`
-            }
+                }
             }]
-        });
+            });
 
         // petit confort, pas obligatoire mais aide
         await new Promise(r => setTimeout(r, 200));
