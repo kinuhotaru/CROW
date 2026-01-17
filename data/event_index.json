@@ -20188,5 +20188,25 @@
     "text": "Golgoth le Vagabond n'a pas réussi à emporter l'adhésion populaire en faveur du statut Prohibition qui affecte le bâtiment Auberge « La Techno Chope » : « Il faut absolument éloigner de la Régente les produits qui pourraient nuire à sa santé ! Rangez vite tout ça pour éviter un nouvel incident diplomatique. »",
     "key": "2026-01-17|15:28|royaume de ruthvenie|ruthvenie|ruthvenville|golgoth le vagabond n'a pas reussi a emporter l'adhesion populaire en faveur du statut prohibition qui affecte le batiment auberge \" la techno chope \" : \" il faut absolument eloigner de la regente les produits qui pourraient nuire a sa sante ! rangez vite tout ca pour eviter un nouvel incident diplomatique. \"",
     "firstSeen": "2026-01-17T14:39:39.064Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "16:33",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Construction d'un bâtiment Vendeur de Pacotille dans la ville Port Magmor en [16,10].",
+    "key": "2026-01-17|16:33|royaume de ruthvenie|crab key|port magmor|construction d'un batiment vendeur de pacotille dans la ville port magmor en [16,10].",
+    "firstSeen": "2026-01-17T15:35:30.638Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "15:53",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "ama'r a ouvert un chantier privé dans la ville Trésorville en [14,9].",
+    "key": "2026-01-17|15:53|republique de kraland|karaibes|tresorville|ama'r a ouvert un chantier prive dans la ville tresorville en [14,9].",
+    "firstSeen": "2026-01-17T15:35:30.638Z"
   }
 ]
