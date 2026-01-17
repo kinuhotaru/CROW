@@ -19688,5 +19688,25 @@
     "text": "Hench St Misles (Démagogue) a prononcé un discours louant le Gouverneur Bladimir Bladimirovitch Mutin (Démagogue) [PP +4].",
     "key": "2026-01-17|07:41|confederation libre|acropole|forum|hench st misles (demagogue) a prononce un discours louant le gouverneur bladimir bladimirovitch mutin (demagogue) [pp +4].",
     "firstSeen": "2026-01-17T06:55:36.360Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "08:27",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Jean-Messie de la Nation a tenté de hisser le drapeau de la Confédération Libre. Il est à présent recherché par la police de la Confédération Libre pour cette infraction politique et a perdu son poste (Gouverneur) suite à cet acte illégal.",
+    "key": "2026-01-17|08:27|confederation libre|milieu|structural|jean-messie de la nation a tente de hisser le drapeau de la confederation libre. il est a present recherche par la police de la confederation libre pour cette infraction politique et a perdu son poste (gouverneur) suite a cet acte illegal.",
+    "firstSeen": "2026-01-17T07:32:58.678Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "08:27",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "Jean-Messie de la Nation a perdu son poste (Gouverneur) suite à une infraction politique (Hisser Drapeau).",
+    "key": "2026-01-17|08:27|confederation libre|milieu||jean-messie de la nation a perdu son poste (gouverneur) suite a une infraction politique (hisser drapeau).",
+    "firstSeen": "2026-01-17T07:32:58.679Z"
   }
 ]
