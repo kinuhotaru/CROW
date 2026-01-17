@@ -21118,5 +21118,15 @@
     "text": "Dardraroux vient d'arriver dans la ville Structural.",
     "key": "2026-01-17|23:35|confederation libre|milieu|structural|dardraroux vient d'arriver dans la ville structural.",
     "firstSeen": "2026-01-17T22:40:31.887Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "23:43",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "",
+    "text": "La Gouverneure Martina D. DeiMachiavelli a nommé M. Faucher DeiMachiavelli au poste de Bourgmestre de la ville Trou Perdu.",
+    "key": "2026-01-17|23:43|empire brun|sicilia||la gouverneure martina d. deimachiavelli a nomme m. faucher deimachiavelli au poste de bourgmestre de la ville trou perdu.",
+    "firstSeen": "2026-01-17T22:52:25.547Z"
   }
 ]
