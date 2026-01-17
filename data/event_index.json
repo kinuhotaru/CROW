@@ -20808,5 +20808,95 @@
     "text": "Une rumeur concernant le Gouverneur Jean-Messie de la Nation court parmi les habitants de la ville Structural : « le gouverneur de Milieu aurait une haine prononcée pour tous ceux qui possèderaient plus de cheveux/poils que lui. cela atteint sa masculinité de mâle alpha à la mâchoire carré bien taillée, son insécurité parlant plus fort, il essaie d'autant plus brailler pour faire taire cette remarque bien fondée ! »",
     "key": "2026-01-17|21:41|confederation libre|milieu|structural|une rumeur concernant le gouverneur jean-messie de la nation court parmi les habitants de la ville structural : \" le gouverneur de milieu aurait une haine prononcee pour tous ceux qui possederaient plus de cheveux/poils que lui. cela atteint sa masculinite de male alpha a la machoire carre bien taillee, son insecurite parlant plus fort, il essaie d'autant plus brailler pour faire taire cette remarque bien fondee ! \"",
     "firstSeen": "2026-01-17T20:52:22.046Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "22:30",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Bernard le clochard a tenté de frauder aux élections de aux élections pour le poste de Bourgmestre de la ville Forum. Il est à présent recherché par la police de la Confédération Libre pour ce délit politique.",
+    "key": "2026-01-17|22:30|confederation libre|acropole|forum|bernard le clochard a tente de frauder aux elections de aux elections pour le poste de bourgmestre de la ville forum. il est a present recherche par la police de la confederation libre pour ce delit politique.",
+    "firstSeen": "2026-01-17T21:31:44.171Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "22:23",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Zi Eun a prononcé un discours louant le Ministre de la Justice Maître Corbeau [PP +4].",
+    "key": "2026-01-17|22:23|empire brun|niarkalistan|leprosie|zi eun a prononce un discours louant le ministre de la justice maitre corbeau [pp +4].",
+    "firstSeen": "2026-01-17T21:31:44.171Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "22:21",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "",
+    "text": "Gontrand a trouvé un filon de fer dans la province Sibéria.",
+    "key": "2026-01-17|22:21|paradigme vert|siberia||gontrand a trouve un filon de fer dans la province siberia.",
+    "firstSeen": "2026-01-17T21:31:44.171Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "22:21",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "La Bourgmestre Zi Eun a nommé Malek au poste de Commissaire de Police.",
+    "key": "2026-01-17|22:21|empire brun|niarkalistan|leprosie|la bourgmestre zi eun a nomme malek au poste de commissaire de police.",
+    "firstSeen": "2026-01-17T21:31:44.171Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "22:19",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Construction d'un bâtiment Vendeur de Tissu dans la ville Igloo en [4,6].",
+    "key": "2026-01-17|22:19|khanat elmerien|elmerie|igloo|construction d'un batiment vendeur de tissu dans la ville igloo en [4,6].",
+    "firstSeen": "2026-01-17T21:31:44.171Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "22:18",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Erbine a retiré sa candidature aux élections pour le poste de Bourgmestre de la ville Structural : « Mes chères, je pense qu'Estelle est une excellente bourgmestre et je la soutiens dans cette élection. »",
+    "key": "2026-01-17|22:18|confederation libre|milieu|structural|erbine a retire sa candidature aux elections pour le poste de bourgmestre de la ville structural : \" mes cheres, je pense qu'estelle est une excellente bourgmestre et je la soutiens dans cette election. \"",
+    "firstSeen": "2026-01-17T21:31:44.171Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "22:01",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "L'Intendant Masque vient de modifier l'impôt sur l'extraction. Ferme 2 -> 0 ¢¢ Production de Bois 2 -> 0 ¢¢ Enclos 2 -> 0 ¢¢ Mine de Pierre 2 -> 0 ¢¢ Mine de Fer 2 -> 0 ¢¢ Puits de Pétrole 2 -> 0 ¢¢",
+    "key": "2026-01-17|22:01|confederation libre|milieu||l'intendant masque vient de modifier l'impot sur l'extraction. ferme 2 -> 0 ¢¢ production de bois 2 -> 0 ¢¢ enclos 2 -> 0 ¢¢ mine de pierre 2 -> 0 ¢¢ mine de fer 2 -> 0 ¢¢ puits de petrole 2 -> 0 ¢¢",
+    "firstSeen": "2026-01-17T21:31:44.171Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "22:01",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "L'Intendant Masque vient de modifier le taux d'imposition sur la conversion d'or (qui passe de 10% à 15%).",
+    "key": "2026-01-17|22:01|confederation libre|milieu||l'intendant masque vient de modifier le taux d'imposition sur la conversion d'or (qui passe de 10% a 15%).",
+    "firstSeen": "2026-01-17T21:31:44.171Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "22:01",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "L'Intendant Masque vient de modifier le taux d'imposition sur la vente de produits : « Comme promis lors de ma candidature pour le poste de gouverneur, ma principale intention était de changer les taxes pour que moi les citoyens de Milieu finissent avec plus d'argent dans leur poche. C'est pourquoi je vais appliquer une politique de taxe temporaire qui fait que moi les habitants soient moins taxé et les autres étrangers soient plus taxés pendant cette période de reconstruction. Est-ce que j'ai demandé à notre gouverneur actuel de valider ma décision? Non, absolument pas. S'il n'aime pas ma politique, c'est son problème Mouahahahaha » Matières premières 10 -> 0% Nourriture 10 -> 0% Repas 10% Boissons 10 -> 15% Plantes 10 -> 0% Animaux d'élevage 10 -> 0% Produits intermédiaires 10 -> 0% Outils 10 -> 15% Équipements de maison 10 -> 15% Livres 10 -> 15% Médicaments 10 -> 15% Courrier 10 -> 15% Vêtements et accessoires 10 -> 15% Électronique 10 -> 15% Armes de contact 10 -> 15% Armes de tir/à distance 10 -> 15% Munitions & explosifs 10 -> 15% Armures 10 -> 15% Armements divers 10 -> 15% Véhicules 10 -> 15% Bateaux 10 -> 0% Avions 10 -> 0% Composants 10 -> 15% Énergie 10 -> 0% Équipements de véhicules 10 -> 15% Bijoux 10 -> 15% Musique 10 -> 15% Divers 10 -> 15% Potions magiques 10 -> 15% Objets magiques 10 -> 15% Services 10 -> 15% Stages 10% Implants 10 -> 15%",
+    "key": "2026-01-17|22:01|confederation libre|milieu||l'intendant masque vient de modifier le taux d'imposition sur la vente de produits : \" comme promis lors de ma candidature pour le poste de gouverneur, ma principale intention etait de changer les taxes pour que moi les citoyens de milieu finissent avec plus d'argent dans leur poche. c'est pourquoi je vais appliquer une politique de taxe temporaire qui fait que moi les habitants soient moins taxe et les autres etrangers soient plus taxes pendant cette periode de reconstruction. est-ce que j'ai demande a notre gouverneur actuel de valider ma decision? non, absolument pas. s'il n'aime pas ma politique, c'est son probleme mouahahahaha \" matieres premieres 10 -> 0% nourriture 10 -> 0% repas 10% boissons 10 -> 15% plantes 10 -> 0% animaux d'elevage 10 -> 0% produits intermediaires 10 -> 0% outils 10 -> 15% equipements de maison 10 -> 15% livres 10 -> 15% medicaments 10 -> 15% courrier 10 -> 15% vetements et accessoires 10 -> 15% electronique 10 -> 15% armes de contact 10 -> 15% armes de tir/a distance 10 -> 15% munitions & explosifs 10 -> 15% armures 10 -> 15% armements divers 10 -> 15% vehicules 10 -> 15% bateaux 10 -> 0% avions 10 -> 0% composants 10 -> 15% energie 10 -> 0% equipements de vehicules 10 -> 15% bijoux 10 -> 15% musique 10 -> 15% divers 10 -> 15% potions magiques 10 -> 15% objets magiques 10 -> 15% services 10 -> 15% stages 10% implants 10 -> 15%",
+    "firstSeen": "2026-01-17T21:31:44.171Z"
   }
 ]
