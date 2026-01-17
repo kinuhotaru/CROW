@@ -55,7 +55,8 @@ const DISCORD_FINANCE_WEBHOOK = process.env.DISCORD_FINANCE_WEBHOOK;
         'a conduit dans la prison',
         'des policiers interviennent',
         'un groupe de policiers tente',
-        'a impose une amende'
+        'a impose une amende',
+        'a tente de detourner de l\'argent'
       ].some(keyword => text.includes(keyword)),
     webhook: DISCORD_CRIME_WEBHOOK
   },
@@ -101,7 +102,8 @@ const DISCORD_FINANCE_WEBHOOK = process.env.DISCORD_FINANCE_WEBHOOK;
   priority: 60,
   match: text =>
     /a nomme .+ au poste de/.test(text) ||
-    /Coup d'Etat .+ a usurpe/.test(text) ||
+    /coup d'etat .+ a usurpe/.test(text) ||
+    /les services .+ sont debordes par/.test(text) ||
 
     [
       'a perdu son poste',
@@ -117,7 +119,8 @@ const DISCORD_FINANCE_WEBHOOK = process.env.DISCORD_FINANCE_WEBHOOK;
       'n\'a pas reussi a utiliser ses prerogatives',
       'a approuve les actions du gouvernement',
       'a prete allegeance envers',
-      's\'est presente aux elections'
+      's\'est presente aux elections',
+      's\'est presentee aux elections'
     ].some(k => text.includes(k)),
   webhook: DISCORD_POL_WEBHOOK
 },
@@ -129,10 +132,13 @@ const DISCORD_FINANCE_WEBHOOK = process.env.DISCORD_FINANCE_WEBHOOK;
 
     [
       'vient de modifier la taxe fonciere',
+      'vient de modifier le taux d\'imposition',
+      'vient de modifier l\'impot',
       'a defini une nouvelle repartition budgetaire',
       'a pris la decision d\'appliquer une prime',
       'a pris la decision d\'appliquer une taxe',
-      'a impose une taxe'
+      'a impose une taxe',
+      'a verse une prime de'
     ].some(k => text.includes(k)),
   webhook: DISCORD_FINANCE_WEBHOOK
 }
