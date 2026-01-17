@@ -20208,5 +20208,15 @@
     "text": "ama'r a ouvert un chantier privé dans la ville Trésorville en [14,9].",
     "key": "2026-01-17|15:53|republique de kraland|karaibes|tresorville|ama'r a ouvert un chantier prive dans la ville tresorville en [14,9].",
     "firstSeen": "2026-01-17T15:35:30.638Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "16:43",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Nerdos Valkyry a découvert la technologie Production en Série en faveur du Khanat Elmérien : « La Production en Série permet à chaque ville d'extraire directement de l'or, ce qui ajoute 100 FK chaque jour aux impôts perçus (répartis ensuite entre ville, province et empire). »",
+    "key": "2026-01-17|16:43|khanat elmerien|||nerdos valkyry a decouvert la technologie production en serie en faveur du khanat elmerien : \" la production en serie permet a chaque ville d'extraire directement de l'or, ce qui ajoute 100 fk chaque jour aux impots percus (repartis ensuite entre ville, province et empire). \"",
+    "firstSeen": "2026-01-17T15:50:57.158Z"
   }
 ]
