@@ -600,9 +600,9 @@ for (const e of events) {
     timeline[e.date][e.empire][webhook].push(e);
   }
 
-  for (const [date, empires] of Object.entries(timeline)) {
-    for (const [empire, evts] of Object.entries(empires)) {
-        for (const [webhook, evts] of Object.entries(webhooks)) {
+for (const [date, empires] of Object.entries(timeline)) {
+  for (const [empire, webhooks] of Object.entries(empires)) {
+    for (const [webhook, evts] of Object.entries(webhooks)) {
             const lines = evts.map(
             e => `**${e.time || '--:--'}** — ${e.text}`
             );
