@@ -28,7 +28,7 @@ const DISCORD_FINANCE_WEBHOOK = process.env.DISCORD_FINANCE_WEBHOOK;
       [
         'tunnel termondique de magnitude'
       ].some(keyword => text.includes(keyword)),
-    webhook: DISCORD_WAR_WEBHOOK
+    webhook: DISCORD_TUNNEL_WEBHOOK
   },
   {
     name: 'War',
