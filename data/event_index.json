@@ -19928,5 +19928,115 @@
     "text": "Syphilys a ouvert un chantier privé dans la ville Léprosie en [13,10].",
     "key": "2026-01-17|11:47|empire brun|niarkalistan|leprosie|syphilys a ouvert un chantier prive dans la ville leprosie en [13,10].",
     "firstSeen": "2026-01-17T10:53:21.498Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "12:26",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Économie Mina & Lilith Evermore a versé 5000 Éf au Ministère de la Recherche.",
+    "key": "2026-01-17|12:26|paradigme vert|||la ministre de l'economie mina & lilith evermore a verse 5000 ef au ministere de la recherche.",
+    "firstSeen": "2026-01-17T11:29:39.797Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "12:25",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Grand Jardin",
+    "text": "Construction d'un bâtiment Chapelle Grande Déesse dans la ville Grand Jardin en [9,10].",
+    "key": "2026-01-17|12:25|paradigme vert|irendol|grand jardin|construction d'un batiment chapelle grande deesse dans la ville grand jardin en [9,10].",
+    "firstSeen": "2026-01-17T11:29:39.797Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "12:22",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Une rumeur court parmi les habitants de la ville Distillerie : « Il se murmurerait qu'enfin à la banane zoviale les habitant de la Bananie vont pouvoir déguster la fameuse liqueur... »",
+    "key": "2026-01-17|12:22|khanat elmerien|bananie|distillerie|une rumeur court parmi les habitants de la ville distillerie : \" il se murmurerait qu'enfin a la banane zoviale les habitant de la bananie vont pouvoir deguster la fameuse liqueur... \"",
+    "firstSeen": "2026-01-17T11:29:39.797Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "12:20",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Grand Jardin",
+    "text": "Mina & Lilith Evermore a ouvert un chantier privé dans la ville Grand Jardin en [9,10].",
+    "key": "2026-01-17|12:20|paradigme vert|irendol|grand jardin|mina & lilith evermore a ouvert un chantier prive dans la ville grand jardin en [9,10].",
+    "firstSeen": "2026-01-17T11:29:39.797Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "12:14",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de la Recherche Tendi Neet a lancé la recherche de la technologie n°20 : « Il est temps d'améliorer la gestion de notre Confédération. L'organisation de ces dernières semaines a été chaotique, il est de notre devoir d'y remédier. »",
+    "key": "2026-01-17|12:14|confederation libre|||la ministre de la recherche tendi neet a lance la recherche de la technologie n°20 : \" il est temps d'ameliorer la gestion de notre confederation. l'organisation de ces dernieres semaines a ete chaotique, il est de notre devoir d'y remedier. \"",
+    "firstSeen": "2026-01-17T11:29:39.797Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "12:12",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Tendi Neet a découvert la technologie Production en Série en faveur de la Confédération Libre : « La Production en Série permet à chaque ville d'extraire directement de l'or, ce qui ajoute 100 FK chaque jour aux impôts perçus (répartis ensuite entre ville, province et empire). »",
+    "key": "2026-01-17|12:12|confederation libre|||tendi neet a decouvert la technologie production en serie en faveur de la confederation libre : \" la production en serie permet a chaque ville d'extraire directement de l'or, ce qui ajoute 100 fk chaque jour aux impots percus (repartis ensuite entre ville, province et empire). \"",
+    "firstSeen": "2026-01-17T11:29:39.797Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "12:09",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Tendi Neet a brûlé par erreur des notes scientifiques importantes. La recherche est perturbée (-3 à la technologie n°1).",
+    "key": "2026-01-17|12:09|confederation libre|||tendi neet a brule par erreur des notes scientifiques importantes. la recherche est perturbee (-3 a la technologie n°1).",
+    "firstSeen": "2026-01-17T11:29:39.797Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "12:09",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de la Recherche Tendi Neet a fixé le salaire pour la recherche technologique à 20 ¢¢ : « Et je double la mise c'est ma tournée »",
+    "key": "2026-01-17|12:09|confederation libre|||la ministre de la recherche tendi neet a fixe le salaire pour la recherche technologique a 20 ¢¢ : \" et je double la mise c'est ma tournee \"",
+    "firstSeen": "2026-01-17T11:29:39.797Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "12:07",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de la Recherche Tendi Neet a adressé un discours à la population : « Je suis de retour Après avoir passé quelques heures chez le psy et caresser les doux cheveux de Structuran Job, me revoilà sur pied et prête à en découdre. Chers citoyens, Vous le savez car on a pas mal hurlé hier, nous avons été victime d'une terrible attaque. Un hacker s'en est pris à nos recherches. Aucune rançon n'a été demandée, les revendications ont inconnues. Pourquoi s'attaquer à l'empire ayant le moins de budget technologique ? S'attaquer aux plus faibles, c'est une réaction de lâche sans aucun doute. Sachez que tous les fonctionnaires sont mobilisés dans l'enquête et que Monique a chargé son sac à main. Bref, tout ça pour dire que je vais remettre de l'argent dans la caisse donc à tous mes fidèles chercheurs soyez sur le coup ! On s'y remet à fond ! »",
+    "key": "2026-01-17|12:07|confederation libre|||la ministre de la recherche tendi neet a adresse un discours a la population : \" je suis de retour apres avoir passe quelques heures chez le psy et caresser les doux cheveux de structuran job, me revoila sur pied et prete a en decoudre. chers citoyens, vous le savez car on a pas mal hurle hier, nous avons ete victime d'une terrible attaque. un hacker s'en est pris a nos recherches. aucune rancon n'a ete demandee, les revendications ont inconnues. pourquoi s'attaquer a l'empire ayant le moins de budget technologique ? s'attaquer aux plus faibles, c'est une reaction de lache sans aucun doute. sachez que tous les fonctionnaires sont mobilises dans l'enquete et que monique a charge son sac a main. bref, tout ca pour dire que je vais remettre de l'argent dans la caisse donc a tous mes fideles chercheurs soyez sur le coup ! on s'y remet a fond ! \"",
+    "firstSeen": "2026-01-17T11:29:39.797Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "12:07",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Une rumeur court parmi les habitants de la ville Port Magmor : « - Mais en vrai, il se passe quoi à Crab Key ? Mon cousin dit que c'est un repère de marginaux hydrophiles qui se roulent dans la boue avec des Kanards, de vrais boulets. Tu y crois toi ? - Alors, moi un bishô à capuche un peu louche (il portait une barbe), m'a dit que le quartier-maître des corsaires, Stefan de Crab, a subjugué le reste de l'équipage et se fait construire un palais d'agrément qui va rivaliser avec le Palais du Grand Pope. Il m'a même filé un prospectus : Photomontage : Imprimerie de l'Oignon Socialo-Graffitike »",
+    "key": "2026-01-17|12:07|royaume de ruthvenie|crab key|port magmor|une rumeur court parmi les habitants de la ville port magmor : \" - mais en vrai, il se passe quoi a crab key ? mon cousin dit que c'est un repere de marginaux hydrophiles qui se roulent dans la boue avec des kanards, de vrais boulets. tu y crois toi ? - alors, moi un bisho a capuche un peu louche (il portait une barbe), m'a dit que le quartier-maitre des corsaires, stefan de crab, a subjugue le reste de l'equipage et se fait construire un palais d'agrement qui va rivaliser avec le palais du grand pope. il m'a meme file un prospectus : photomontage : imprimerie de l'oignon socialo-graffitike \"",
+    "firstSeen": "2026-01-17T11:29:39.798Z"
+  },
+  {
+    "date": "2026-01-17",
+    "time": "11:58",
+    "empire": "Palladium Corporation",
+    "province": "",
+    "city": "",
+    "text": "Lens Larque a réussi l'examen du ruban et obtenu la récompense Ruban Jaune, ce qui lui permet de poursuivre sa carrière dans la Palladium Corporation.",
+    "key": "2026-01-17|11:58|palladium corporation|||lens larque a reussi l'examen du ruban et obtenu la recompense ruban jaune, ce qui lui permet de poursuivre sa carriere dans la palladium corporation.",
+    "firstSeen": "2026-01-17T11:29:39.798Z"
   }
 ]
