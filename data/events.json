@@ -22418,5 +22418,95 @@
     "text": "Erdny s'est fait agresser par un groupe de créatures mené par Liane Tueuse.",
     "key": "2026-01-18|09:41|royaume de ruthvenie|valegro|fort emouchet|erdny s'est fait agresser par un groupe de creatures mene par liane tueuse.",
     "firstSeen": "2026-01-18T08:50:37.259Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "09:55",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Le Chef de Tribu Kubilai a nommé Père Michu ⭐️ au poste de Juge.",
+    "key": "2026-01-18|09:55|khanat elmerien|elmerie|gueule du lezard|le chef de tribu kubilai a nomme pere michu ⭐️ au poste de juge.",
+    "firstSeen": "2026-01-18T09:38:31.082Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "09:56",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Construction d'un bâtiment Poste de Garde dans la ville Gueule du Lézard en [15,7].",
+    "key": "2026-01-18|09:56|khanat elmerien|elmerie|gueule du lezard|construction d'un batiment poste de garde dans la ville gueule du lezard en [15,7].",
+    "firstSeen": "2026-01-18T09:38:30.880Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "09:59",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "",
+    "text": "Un groupe de créatures mené par 2 Chevaux attaque Hasna.",
+    "key": "2026-01-18|09:59|empire brun|sicilia||un groupe de creatures mene par 2 chevaux attaque hasna.",
+    "firstSeen": "2026-01-18T09:38:30.657Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "10:09",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Elisabeth Lévri a ouvert un chantier privé dans la ville Forum en [3,9].",
+    "key": "2026-01-18|10:09|confederation libre|acropole|forum|elisabeth levri a ouvert un chantier prive dans la ville forum en [3,9].",
+    "firstSeen": "2026-01-18T09:38:30.438Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "10:13",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Le Chef de Tribu Kubilai a nommé Gédéon Saillibard au poste de Commissaire de Police.",
+    "key": "2026-01-18|10:13|khanat elmerien|elmerie|gueule du lezard|le chef de tribu kubilai a nomme gedeon saillibard au poste de commissaire de police.",
+    "firstSeen": "2026-01-18T09:38:30.268Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "10:14",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Ludi E. a acheté le bâtiment Petite Scierie au prix de 1160 FK.",
+    "key": "2026-01-18|10:14|republique de kraland|karaibes|tresorville|ludi e. a achete le batiment petite scierie au prix de 1160 fk.",
+    "firstSeen": "2026-01-18T09:38:29.853Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "10:14",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Le Chef de Tribu Kubilai a nommé Berta ⭐️ au poste de Sergente.",
+    "key": "2026-01-18|10:14|khanat elmerien|elmerie|gueule du lezard|le chef de tribu kubilai a nomme berta ⭐️ au poste de sergente.",
+    "firstSeen": "2026-01-18T09:38:30.042Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "10:15",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Construction d'un bâtiment Librairie dans la ville Forum en [3,9].",
+    "key": "2026-01-18|10:15|confederation libre|acropole|forum|construction d'un batiment librairie dans la ville forum en [3,9].",
+    "firstSeen": "2026-01-18T09:38:29.667Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "10:28",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Le petit Wood des 5 Pics n'a pas réussi à établir une chaîne de production dans le bâtiment Gisement d'Or : « Minez minez mes braves (augmentez votre puissance de calcul!) »",
+    "key": "2026-01-18|10:28|khanat elmerien|elmerie|gueule du lezard|le petit wood des 5 pics n'a pas reussi a etablir une chaine de production dans le batiment gisement d'or : \" minez minez mes braves (augmentez votre puissance de calcul!) \"",
+    "firstSeen": "2026-01-18T09:38:28.272Z"
   }
 ]
