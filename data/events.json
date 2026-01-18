@@ -23278,5 +23278,15 @@
     "text": "Construction d'un bâtiment Petite Raffinerie dans la ville Santa Banana City en [16,4].",
     "key": "2026-01-18|18:26|empire brun|santa banana|santa banana city|construction d'un batiment petite raffinerie dans la ville santa banana city en [16,4].",
     "firstSeen": "2026-01-18T17:35:41.048Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "18:37",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Une rumeur court parmi les habitants de la ville Forum : « Il y a des auberges qui ne sont pas sures, comme celle de Simon... Tormenta doit la fréquenter, c'est certain... »",
+    "key": "2026-01-18|18:37|confederation libre|acropole|forum|une rumeur court parmi les habitants de la ville forum : \" il y a des auberges qui ne sont pas sures, comme celle de simon... tormenta doit la frequenter, c'est certain... \"",
+    "firstSeen": "2026-01-18T17:50:04.100Z"
   }
 ]
