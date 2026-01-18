@@ -22338,5 +22338,15 @@
     "text": "Construction d'un bâtiment Cabane dans la ville Garinaville en [9,4].",
     "key": "2026-01-18|08:05|paradigme vert|siberia|garinaville|construction d'un batiment cabane dans la ville garinaville en [9,4].",
     "firstSeen": "2026-01-18T07:33:58.087Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "08:45",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Rose Nelson a ouvert un chantier privé dans la ville Kanardville en [11,5].",
+    "key": "2026-01-18|08:45|paradigme vert|ile aux kanards|kanardville|rose nelson a ouvert un chantier prive dans la ville kanardville en [11,5].",
+    "firstSeen": "2026-01-18T07:48:03.177Z"
   }
 ]
