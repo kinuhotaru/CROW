@@ -23768,5 +23768,1425 @@
     "text": "Gum a ouvert un chantier privé dans la ville Forum en [14,5].",
     "key": "2026-01-18|23:43|confederation libre|acropole|forum|gum a ouvert un chantier prive dans la ville forum en [14,5].",
     "firstSeen": "2026-01-18T22:52:43.099Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "23:57",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Palerme DeiMachiavelli s'est présenté aux élections pour le poste de Bourgmestre de la ville Trou Perdu : « Jamais 3 sans 4! »",
+    "key": "2026-01-18|23:57|empire brun|sicilia|trou perdu|palerme deimachiavelli s'est presente aux elections pour le poste de bourgmestre de la ville trou perdu : \" jamais 3 sans 4! \"",
+    "firstSeen": "2026-01-18T23:35:15.522Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "",
+    "text": "L'Intendant Tormenta a démissionné de sa fonction : « Je me dois de me mettre au service de la province. »",
+    "key": "2026-01-19|00:01|confederation libre|acropole||l'intendant tormenta a demissionne de sa fonction : \" je me dois de me mettre au service de la province. \"",
+    "firstSeen": "2026-01-18T23:34:51.257Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Mondial",
+    "province": "",
+    "city": "",
+    "text": "LOTERIE : 72 billets ont été vendus - Ranxerox vient d'empocher la somme de 1620 FK. Un montant équivalent est versé aux institutions internationales.",
+    "key": "2026-01-19|00:01|mondial|||loterie : 72 billets ont ete vendus - ranxerox vient d'empocher la somme de 1620 fk. un montant equivalent est verse aux institutions internationales.",
+    "firstSeen": "2026-01-18T23:34:51.436Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Résultat du Premier Tour de l'élection du Président : Bladimir Bladimirovitch Mutin 21 voix (60%) Caïus Martius Ice 14 voix (40%) - le vainqueur est Bladimir Bladimirovitch Mutin qui a recueilli plus de 50% des voix !",
+    "key": "2026-01-19|00:01|confederation libre|||resultat du premier tour de l'election du president : bladimir bladimirovitch mutin 21 voix (60%) caius martius ice 14 voix (40%) - le vainqueur est bladimir bladimirovitch mutin qui a recueilli plus de 50% des voix !",
+    "firstSeen": "2026-01-18T23:34:51.613Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "Résultat du Premier Tour de l'élection du Premier Ministre : Vesperia Ashcroft 0 voix (0%) - le vainqueur est Vesperia Ashcroft qui était le seul candidat !",
+    "key": "2026-01-19|00:01|republique de kraland|||resultat du premier tour de l'election du premier ministre : vesperia ashcroft 0 voix (0%) - le vainqueur est vesperia ashcroft qui etait le seul candidat !",
+    "firstSeen": "2026-01-18T23:34:51.782Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Crab Key : Korail 7 voix (87.5%) Arbois O'Goulot 1 voix (12.5%) - le vainqueur est Korail !",
+    "key": "2026-01-19|00:01|royaume de ruthvenie|crab key||resultat de l'election au poste de gouverneur de la province crab key : korail 7 voix (87.5%) arbois o'goulot 1 voix (12.5%) - le vainqueur est korail !",
+    "firstSeen": "2026-01-18T23:34:51.960Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Warriorland : Hench St Misles 8 voix (66.7%) Henri St Misles 4 voix (33.3%) - le vainqueur est Hench St Misles !",
+    "key": "2026-01-19|00:01|confederation libre|warriorland||resultat de l'election au poste de gouverneur de la province warriorland : hench st misles 8 voix (66.7%) henri st misles 4 voix (33.3%) - le vainqueur est hench st misles !",
+    "firstSeen": "2026-01-18T23:34:52.128Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Plaine Irradiée : Pr Jean-Michel Nobyl 5 voix (100%) - le vainqueur est Pr Jean-Michel Nobyl !",
+    "key": "2026-01-19|00:01|confederation libre|plaine irradiee||resultat de l'election au poste de gouverneur de la province plaine irradiee : pr jean-michel nobyl 5 voix (100%) - le vainqueur est pr jean-michel nobyl !",
+    "firstSeen": "2026-01-18T23:34:52.303Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Géofront : DameDémerzel 1 voix (100%) - le vainqueur est DameDémerzel !",
+    "key": "2026-01-19|00:01|royaume de ruthvenie|geofront||resultat de l'election au poste de gouverneur de la province geofront : damedemerzel 1 voix (100%) - le vainqueur est damedemerzel !",
+    "firstSeen": "2026-01-18T23:34:52.476Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Valégro : Emile Liarr 10 voix (83.3%) Koshka 2 voix (16.7%) - le vainqueur est Emile Liarr !",
+    "key": "2026-01-19|00:01|royaume de ruthvenie|valegro||resultat de l'election au poste de gouverneur de la province valegro : emile liarr 10 voix (83.3%) koshka 2 voix (16.7%) - le vainqueur est emile liarr !",
+    "firstSeen": "2026-01-18T23:34:52.657Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Ruthvénie : personne ne s'est présenté.",
+    "key": "2026-01-19|00:01|royaume de ruthvenie|ruthvenie||resultat de l'election au poste de gouverneur de la province ruthvenie : personne ne s'est presente.",
+    "firstSeen": "2026-01-18T23:34:52.833Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Milieu : Jalala 11 voix (57.9%) Jean-Messie de la Nation 4 voix (21.1%) Structuran Job 2 voix (10.5%) Estelle Pravi 2 voix (10.5%) - le vainqueur est Jalala !",
+    "key": "2026-01-19|00:01|confederation libre|milieu||resultat de l'election au poste de gouverneur de la province milieu : jalala 11 voix (57.9%) jean-messie de la nation 4 voix (21.1%) structuran job 2 voix (10.5%) estelle pravi 2 voix (10.5%) - le vainqueur est jalala !",
+    "firstSeen": "2026-01-18T23:34:53.005Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Île aux Kanards : Rose Nelson 9 voix (90%) Géo Trouvetou 1 voix (10%) - le vainqueur est Rose Nelson !",
+    "key": "2026-01-19|00:01|paradigme vert|ile aux kanards||resultat de l'election au poste de gouverneur de la province ile aux kanards : rose nelson 9 voix (90%) geo trouvetou 1 voix (10%) - le vainqueur est rose nelson !",
+    "firstSeen": "2026-01-18T23:34:53.176Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Karaïbes : Krak' Boom Da Goff Rocka 7 voix (70%) Grøbachev 3 voix (30%) - le vainqueur est Krak' Boom Da Goff Rocka !",
+    "key": "2026-01-19|00:01|republique de kraland|karaibes||resultat de l'election au poste de gouverneur de la province karaibes : krak' boom da goff rocka 7 voix (70%) grøbachev 3 voix (30%) - le vainqueur est krak' boom da goff rocka !",
+    "firstSeen": "2026-01-18T23:34:53.348Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Hélénie : Simone Voile 1 voix (100%) - le vainqueur est Simone Voile !",
+    "key": "2026-01-19|00:01|republique de kraland|helenie||resultat de l'election au poste de gouverneur de la province helenie : simone voile 1 voix (100%) - le vainqueur est simone voile !",
+    "firstSeen": "2026-01-18T23:34:53.603Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Kraland : Edgard le Canard 3 voix (75%) Alex KidoWski 1 voix (25%) - le vainqueur est Edgard le Canard !",
+    "key": "2026-01-19|00:01|republique de kraland|kraland||resultat de l'election au poste de gouverneur de la province kraland : edgard le canard 3 voix (75%) alex kidowski 1 voix (25%) - le vainqueur est edgard le canard !",
+    "firstSeen": "2026-01-18T23:34:53.777Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Forêt de Jade : La fée K. Lome 11 voix (73.3%) Lozana Shizen d'Excelizor 4 voix (26.7%) Merula 0 voix (0%) - le vainqueur est La fée K. Lome !",
+    "key": "2026-01-19|00:01|paradigme vert|foret de jade||resultat de l'election au poste de gouverneur de la province foret de jade : la fee k. lome 11 voix (73.3%) lozana shizen d'excelizor 4 voix (26.7%) merula 0 voix (0%) - le vainqueur est la fee k. lome !",
+    "firstSeen": "2026-01-18T23:34:53.950Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Irendol : Salmacis 2 voix (100%) - le vainqueur est Salmacis !",
+    "key": "2026-01-19|00:01|paradigme vert|irendol||resultat de l'election au poste de gouverneur de la province irendol : salmacis 2 voix (100%) - le vainqueur est salmacis !",
+    "firstSeen": "2026-01-18T23:34:54.126Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Bananie : Riguel Templar 5 voix (100%) - le vainqueur est Riguel Templar !",
+    "key": "2026-01-19|00:01|khanat elmerien|bananie||resultat de l'election au poste de gouverneur de la province bananie : riguel templar 5 voix (100%) - le vainqueur est riguel templar !",
+    "firstSeen": "2026-01-18T23:34:54.305Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Bouletie : Pierre Ponce 5 voix (100%) Keïtaro Urashima 0 voix (0%) - le vainqueur est Pierre Ponce !",
+    "key": "2026-01-19|00:01|khanat elmerien|bouletie||resultat de l'election au poste de gouverneur de la province bouletie : pierre ponce 5 voix (100%) keitaro urashima 0 voix (0%) - le vainqueur est pierre ponce !",
+    "firstSeen": "2026-01-18T23:34:54.477Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Elmérie : Sincérité 2 voix (100%) - le vainqueur est Sincérité !",
+    "key": "2026-01-19|00:01|khanat elmerien|elmerie||resultat de l'election au poste de gouverneur de la province elmerie : sincerite 2 voix (100%) - le vainqueur est sincerite !",
+    "firstSeen": "2026-01-18T23:34:54.649Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Capsulie : personne ne s'est présenté.",
+    "key": "2026-01-19|00:01|khanat elmerien|capsulie||resultat de l'election au poste de gouverneur de la province capsulie : personne ne s'est presente.",
+    "firstSeen": "2026-01-18T23:34:55.989Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Sibéria : personne ne s'est présenté.",
+    "key": "2026-01-19|00:01|paradigme vert|siberia||resultat de l'election au poste de gouverneur de la province siberia : personne ne s'est presente.",
+    "firstSeen": "2026-01-18T23:34:56.161Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Port Magmor : Stefan de Crab 6 voix (100%) - le vainqueur est Stefan de Crab !",
+    "key": "2026-01-19|00:01|royaume de ruthvenie|crab key|port magmor|resultat de l'election au poste de bourgmestre de la ville port magmor : stefan de crab 6 voix (100%) - le vainqueur est stefan de crab !",
+    "firstSeen": "2026-01-18T23:34:56.338Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Blofeldopolis : Jacques St Misles 6 voix (100%) - le vainqueur est Jacques St Misles !",
+    "key": "2026-01-19|00:01|confederation libre|warriorland|blofeldopolis|resultat de l'election au poste de bourgmestre de la ville blofeldopolis : jacques st misles 6 voix (100%) - le vainqueur est jacques st misles !",
+    "firstSeen": "2026-01-18T23:34:56.515Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Structural : Estelle Pravi 13 voix (76.5%) Structuran Job 3 voix (17.6%) Précieuse de Tomosan 1 voix (5.9%) - le vainqueur est Estelle Pravi !",
+    "key": "2026-01-19|00:01|confederation libre|milieu|structural|resultat de l'election au poste de bourgmestre de la ville structural : estelle pravi 13 voix (76.5%) structuran job 3 voix (17.6%) precieuse de tomosan 1 voix (5.9%) - le vainqueur est estelle pravi !",
+    "firstSeen": "2026-01-18T23:34:56.706Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Accalmie : VixenRavenloft 11 voix (91.7%) Alastair C. Shizen d'Excelisor 1 voix (8.3%) - le vainqueur est VixenRavenloft !",
+    "key": "2026-01-19|00:01|paradigme vert|foret de jade|accalmie|resultat de l'election au poste de bourgmestre de la ville accalmie : vixenravenloft 11 voix (91.7%) alastair c. shizen d'excelisor 1 voix (8.3%) - le vainqueur est vixenravenloft !",
+    "firstSeen": "2026-01-18T23:34:56.875Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Kanardville : personne ne s'est présenté.",
+    "key": "2026-01-19|00:01|paradigme vert|ile aux kanards|kanardville|resultat de l'election au poste de bourgmestre de la ville kanardville : personne ne s'est presente.",
+    "firstSeen": "2026-01-18T23:34:57.048Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Atome : personne ne s'est présenté.",
+    "key": "2026-01-19|00:01|confederation libre|plaine irradiee|atome|resultat de l'election au poste de bourgmestre de la ville atome : personne ne s'est presente.",
+    "firstSeen": "2026-01-18T23:34:57.221Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Léprosie : personne ne s'est présenté.",
+    "key": "2026-01-19|00:01|empire brun|niarkalistan|leprosie|resultat de l'election au poste de bourgmestre de la ville leprosie : personne ne s'est presente.",
+    "firstSeen": "2026-01-18T23:34:57.399Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Sanctuaire : Hanako Ainozomi 3 voix (100%) - le vainqueur est Hanako Ainozomi !",
+    "key": "2026-01-19|00:01|royaume de ruthvenie|geofront|sanctuaire|resultat de l'election au poste de bourgmestre de la ville sanctuaire : hanako ainozomi 3 voix (100%) - le vainqueur est hanako ainozomi !",
+    "firstSeen": "2026-01-18T23:34:57.572Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Fort Emouchet : Sysson 5 voix (100%) Ed Wyplenel 0 voix (0%) - le vainqueur est Sysson !",
+    "key": "2026-01-19|00:01|royaume de ruthvenie|valegro|fort emouchet|resultat de l'election au poste de bourgmestre de la ville fort emouchet : sysson 5 voix (100%) ed wyplenel 0 voix (0%) - le vainqueur est sysson !",
+    "firstSeen": "2026-01-18T23:34:57.751Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "Bisouville",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Bisouville : Giada Giulia Gluanta 1 voix (100%) - le vainqueur est Giada Giulia Gluanta !",
+    "key": "2026-01-19|00:01|republique de kraland|helenie|bisouville|resultat de l'election au poste de bourgmestre de la ville bisouville : giada giulia gluanta 1 voix (100%) - le vainqueur est giada giulia gluanta !",
+    "firstSeen": "2026-01-18T23:34:57.920Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Distillerie : Light Deathnote 8 voix (72.7%) Le duc de provence 2 voix (18.2%) Mordak kilvan 1 voix (9.1%) - le vainqueur est Light Deathnote !",
+    "key": "2026-01-19|00:01|khanat elmerien|bananie|distillerie|resultat de l'election au poste de bourgmestre de la ville distillerie : light deathnote 8 voix (72.7%) le duc de provence 2 voix (18.2%) mordak kilvan 1 voix (9.1%) - le vainqueur est light deathnote !",
+    "firstSeen": "2026-01-18T23:34:58.098Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "Youpigrad",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Youpigrad : Jean-Michel Très Normal 5 voix (100%) Keïtaro Urashima 0 voix (0%) - le vainqueur est Jean-Michel Très Normal !",
+    "key": "2026-01-19|00:01|khanat elmerien|bouletie|youpigrad|resultat de l'election au poste de bourgmestre de la ville youpigrad : jean-michel tres normal 5 voix (100%) keitaro urashima 0 voix (0%) - le vainqueur est jean-michel tres normal !",
+    "firstSeen": "2026-01-18T23:34:58.274Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville CAPS LOCK : personne ne s'est présenté.",
+    "key": "2026-01-19|00:01|khanat elmerien|capsulie|caps lock|resultat de l'election au poste de bourgmestre de la ville caps lock : personne ne s'est presente.",
+    "firstSeen": "2026-01-18T23:34:58.448Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Garinaville : personne ne s'est présenté.",
+    "key": "2026-01-19|00:01|paradigme vert|siberia|garinaville|resultat de l'election au poste de bourgmestre de la ville garinaville : personne ne s'est presente.",
+    "firstSeen": "2026-01-18T23:34:58.626Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Lantenac-du-Lac : Felicity Stone 2 voix (100%) - le vainqueur est Felicity Stone !",
+    "key": "2026-01-19|00:01|royaume de ruthvenie|ruthvenie|lantenac-du-lac|resultat de l'election au poste de bourgmestre de la ville lantenac-du-lac : felicity stone 2 voix (100%) - le vainqueur est felicity stone !",
+    "firstSeen": "2026-01-18T23:34:58.800Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Ruthvenville : personne ne s'est présenté.",
+    "key": "2026-01-19|00:01|royaume de ruthvenie|ruthvenie|ruthvenville|resultat de l'election au poste de bourgmestre de la ville ruthvenville : personne ne s'est presente.",
+    "firstSeen": "2026-01-18T23:34:58.980Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Tribunal Cybermondial",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Tribunal Cybermondial : Hans Van Meegeren 3 voix (100%) Evan Garcia Liszt 0 voix (0%) - le vainqueur est Hans Van Meegeren !",
+    "key": "2026-01-19|00:01|confederation libre|acropole|tribunal cybermondial|resultat de l'election au poste de bourgmestre de la ville tribunal cybermondial : hans van meegeren 3 voix (100%) evan garcia liszt 0 voix (0%) - le vainqueur est hans van meegeren !",
+    "firstSeen": "2026-01-18T23:34:59.152Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Forum : Bernard le clochard 2 voix (50%) Tormenta 1 voix (25%) Olivier Roi 1 voix (25%) - le vainqueur est Bernard le clochard !",
+    "key": "2026-01-19|00:01|confederation libre|acropole|forum|resultat de l'election au poste de bourgmestre de la ville forum : bernard le clochard 2 voix (50%) tormenta 1 voix (25%) olivier roi 1 voix (25%) - le vainqueur est bernard le clochard !",
+    "firstSeen": "2026-01-18T23:34:59.328Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Igloo : Capitaine Igloo 4 voix (57.1%) Hezboleune 3 voix (42.9%) - le vainqueur est Capitaine Igloo !",
+    "key": "2026-01-19|00:01|khanat elmerien|elmerie|igloo|resultat de l'election au poste de bourgmestre de la ville igloo : capitaine igloo 4 voix (57.1%) hezboleune 3 voix (42.9%) - le vainqueur est capitaine igloo !",
+    "firstSeen": "2026-01-18T23:34:59.496Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Gueule du Lézard : personne ne s'est présenté.",
+    "key": "2026-01-19|00:01|khanat elmerien|elmerie|gueule du lezard|resultat de l'election au poste de bourgmestre de la ville gueule du lezard : personne ne s'est presente.",
+    "firstSeen": "2026-01-18T23:34:59.664Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Bamboutopia",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Bamboutopia : Kara H 0 voix (0%) - le vainqueur est Kara H !",
+    "key": "2026-01-19|00:01|paradigme vert|irendol|bamboutopia|resultat de l'election au poste de bourgmestre de la ville bamboutopia : kara h 0 voix (0%) - le vainqueur est kara h !",
+    "firstSeen": "2026-01-18T23:34:59.838Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Grand Jardin",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Grand Jardin : Corbeau Sceptique 2 voix (100%) - le vainqueur est Corbeau Sceptique !",
+    "key": "2026-01-19|00:01|paradigme vert|irendol|grand jardin|resultat de l'election au poste de bourgmestre de la ville grand jardin : corbeau sceptique 2 voix (100%) - le vainqueur est corbeau sceptique !",
+    "firstSeen": "2026-01-18T23:35:00.010Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Trésorville : Krak' Boom Da Goff Rocka 6 voix (54.5%) Leblanc Blastovitch 5 voix (45.5%) - le vainqueur est Krak' Boom Da Goff Rocka !",
+    "key": "2026-01-19|00:01|republique de kraland|karaibes|tresorville|resultat de l'election au poste de bourgmestre de la ville tresorville : krak' boom da goff rocka 6 voix (54.5%) leblanc blastovitch 5 voix (45.5%) - le vainqueur est krak' boom da goff rocka !",
+    "firstSeen": "2026-01-18T23:35:00.190Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Bagdad",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Bagdad : Oussama Al Khaïd 1 voix (100%) - le vainqueur est Oussama Al Khaïd !",
+    "key": "2026-01-19|00:01|empire brun|santa banana|bagdad|resultat de l'election au poste de bourgmestre de la ville bagdad : oussama al khaid 1 voix (100%) - le vainqueur est oussama al khaid !",
+    "firstSeen": "2026-01-18T23:35:01.529Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Santa Banana City",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Santa Banana City : Mademoiselle 3 voix (50%) Necro Mounda 2 voix (33.3%) Caracala 1 voix (16.7%) - le vainqueur est Mademoiselle !",
+    "key": "2026-01-19|00:01|empire brun|santa banana|santa banana city|resultat de l'election au poste de bourgmestre de la ville santa banana city : mademoiselle 3 voix (50%) necro mounda 2 voix (33.3%) caracala 1 voix (16.7%) - le vainqueur est mademoiselle !",
+    "firstSeen": "2026-01-18T23:35:01.713Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Honolulu-par-Delà",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Honolulu-par-Delà : Ranxerox 0 voix (0%) Bonnie Red 0 voix (0%) - le vainqueur est Ranxerox !",
+    "key": "2026-01-19|00:01|republique de kraland|kraland|honolulu-par-dela|resultat de l'election au poste de bourgmestre de la ville honolulu-par-dela : ranxerox 0 voix (0%) bonnie red 0 voix (0%) - le vainqueur est ranxerox !",
+    "firstSeen": "2026-01-18T23:35:01.881Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Quartier Suprême : MichelDruKra 2 voix (66.7%) Alex KidoWski 1 voix (33.3%) Ivictus 0 voix (0%) - le vainqueur est MichelDruKra !",
+    "key": "2026-01-19|00:01|republique de kraland|kraland|quartier supreme|resultat de l'election au poste de bourgmestre de la ville quartier supreme : micheldrukra 2 voix (66.7%) alex kidowski 1 voix (33.3%) ivictus 0 voix (0%) - le vainqueur est micheldrukra !",
+    "firstSeen": "2026-01-18T23:35:02.056Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Provinces indépendantes",
+    "province": "Australine",
+    "city": "",
+    "text": "La province Australine récolte 0 PO d'impôts.",
+    "key": "2026-01-19|00:01|provinces independantes|australine||la province australine recolte 0 po d'impots.",
+    "firstSeen": "2026-01-18T23:35:02.226Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Provinces indépendantes",
+    "province": "Australine",
+    "city": "Camp des Bagnards",
+    "text": "La ville Camp des Bagnards récolte 0 PO d'impôts.",
+    "key": "2026-01-19|00:01|provinces independantes|australine|camp des bagnards|la ville camp des bagnards recolte 0 po d'impots.",
+    "firstSeen": "2026-01-18T23:35:02.400Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Royaume de Ruthvénie récolte 2078 Co d'impôts et paie 200 Co pour ses employés (soldats). Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 282 Co, Ministère de la Guerre 0 Co, Ministère de la Justice 188 Co, Ministère des Affaires Étrangères 188 Co, Ministère de l'Économie 0 Co, Ministère de la Recherche 845 Co, Ministère de l'Intérieur 188 Co, Ministère de l'Information 0 Co, Ministère des Services Secrets 187 Co, Ministère du Travail 0 Co.",
+    "key": "2026-01-19|00:01|royaume de ruthvenie|||le royaume de ruthvenie recolte 2078 co d'impots et paie 200 co pour ses employes (soldats). les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 282 co, ministere de la guerre 0 co, ministere de la justice 188 co, ministere des affaires etrangeres 188 co, ministere de l'economie 0 co, ministere de la recherche 845 co, ministere de l'interieur 188 co, ministere de l'information 0 co, ministere des services secrets 187 co, ministere du travail 0 co.",
+    "firstSeen": "2026-01-18T23:35:02.568Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "",
+    "text": "La province Crab Key récolte 253 Co d'impôts.",
+    "key": "2026-01-19|00:01|royaume de ruthvenie|crab key||la province crab key recolte 253 co d'impots.",
+    "firstSeen": "2026-01-18T23:35:02.745Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "La ville Port Magmor récolte 253 Co d'impôts.",
+    "key": "2026-01-19|00:01|royaume de ruthvenie|crab key|port magmor|la ville port magmor recolte 253 co d'impots.",
+    "firstSeen": "2026-01-18T23:35:02.941Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "",
+    "text": "La province Géofront récolte 441 Co d'impôts et paie 125 Co pour ses employés (policiers et soldats).",
+    "key": "2026-01-19|00:01|royaume de ruthvenie|geofront||la province geofront recolte 441 co d'impots et paie 125 co pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-01-18T23:35:03.107Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "La ville Sanctuaire récolte 441 Co d'impôts.",
+    "key": "2026-01-19|00:01|royaume de ruthvenie|geofront|sanctuaire|la ville sanctuaire recolte 441 co d'impots.",
+    "firstSeen": "2026-01-18T23:35:03.282Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "",
+    "text": "La province Valégro récolte 190 Co d'impôts.",
+    "key": "2026-01-19|00:01|royaume de ruthvenie|valegro||la province valegro recolte 190 co d'impots.",
+    "firstSeen": "2026-01-18T23:35:03.543Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "La ville Fort Emouchet récolte 190 Co d'impôts.",
+    "key": "2026-01-19|00:01|royaume de ruthvenie|valegro|fort emouchet|la ville fort emouchet recolte 190 co d'impots.",
+    "firstSeen": "2026-01-18T23:35:03.768Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "La province Ruthvénie récolte 461 Co d'impôts et paie 100 Co pour ses employés (policiers et soldats).",
+    "key": "2026-01-19|00:01|royaume de ruthvenie|ruthvenie||la province ruthvenie recolte 461 co d'impots et paie 100 co pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-01-18T23:35:03.937Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "La ville Lantenac-du-Lac récolte 96 Co d'impôts.",
+    "key": "2026-01-19|00:01|royaume de ruthvenie|ruthvenie|lantenac-du-lac|la ville lantenac-du-lac recolte 96 co d'impots.",
+    "firstSeen": "2026-01-18T23:35:04.105Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "La ville Ruthvenville récolte 365 Co d'impôts.",
+    "key": "2026-01-19|00:01|royaume de ruthvenie|ruthvenie|ruthvenville|la ville ruthvenville recolte 365 co d'impots.",
+    "firstSeen": "2026-01-18T23:35:04.277Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "La Confédération Libre récolte 1079 ¢¢ d'impôts. Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 108 ¢¢, Ministère de la Guerre 108 ¢¢, Ministère de la Justice 108 ¢¢, Ministère des Affaires Étrangères 108 ¢¢, Ministère de l'Économie 108 ¢¢, Ministère de la Recherche 108 ¢¢, Ministère de l'Intérieur 108 ¢¢, Ministère de l'Information 108 ¢¢, Ministère des Services Secrets 108 ¢¢, Ministère du Travail 107 ¢¢.",
+    "key": "2026-01-19|00:01|confederation libre|||la confederation libre recolte 1079 ¢¢ d'impots. les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 108 ¢¢, ministere de la guerre 108 ¢¢, ministere de la justice 108 ¢¢, ministere des affaires etrangeres 108 ¢¢, ministere de l'economie 108 ¢¢, ministere de la recherche 108 ¢¢, ministere de l'interieur 108 ¢¢, ministere de l'information 108 ¢¢, ministere des services secrets 108 ¢¢, ministere du travail 107 ¢¢.",
+    "firstSeen": "2026-01-18T23:35:04.451Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "",
+    "text": "La province Warriorland récolte 361 ¢¢ d'impôts et paie 50 ¢¢ pour ses employés (policiers et soldats).",
+    "key": "2026-01-19|00:01|confederation libre|warriorland||la province warriorland recolte 361 ¢¢ d'impots et paie 50 ¢¢ pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-01-18T23:35:04.619Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "La ville Blofeldopolis récolte 361 ¢¢ d'impôts.",
+    "key": "2026-01-19|00:01|confederation libre|warriorland|blofeldopolis|la ville blofeldopolis recolte 361 ¢¢ d'impots.",
+    "firstSeen": "2026-01-18T23:35:04.795Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "",
+    "text": "La province Plaine Irradiée récolte 298 ¢¢ d'impôts.",
+    "key": "2026-01-19|00:01|confederation libre|plaine irradiee||la province plaine irradiee recolte 298 ¢¢ d'impots.",
+    "firstSeen": "2026-01-18T23:35:04.965Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
+    "text": "La ville Atome récolte 298 ¢¢ d'impôts.",
+    "key": "2026-01-19|00:01|confederation libre|plaine irradiee|atome|la ville atome recolte 298 ¢¢ d'impots.",
+    "firstSeen": "2026-01-18T23:35:05.151Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "",
+    "text": "La province Acropole récolte 769 ¢¢ d'impôts.",
+    "key": "2026-01-19|00:01|confederation libre|acropole||la province acropole recolte 769 ¢¢ d'impots.",
+    "firstSeen": "2026-01-18T23:35:05.333Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Tribunal Cybermondial",
+    "text": "La ville Tribunal Cybermondial récolte 98 ¢¢ d'impôts.",
+    "key": "2026-01-19|00:01|confederation libre|acropole|tribunal cybermondial|la ville tribunal cybermondial recolte 98 ¢¢ d'impots.",
+    "firstSeen": "2026-01-18T23:35:05.506Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "La ville Forum récolte 671 ¢¢ d'impôts.",
+    "key": "2026-01-19|00:01|confederation libre|acropole|forum|la ville forum recolte 671 ¢¢ d'impots.",
+    "firstSeen": "2026-01-18T23:35:05.680Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "La province Milieu récolte 730 ¢¢ d'impôts.",
+    "key": "2026-01-19|00:01|confederation libre|milieu||la province milieu recolte 730 ¢¢ d'impots.",
+    "firstSeen": "2026-01-18T23:35:05.851Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "La ville Structural récolte 730 ¢¢ d'impôts et paie 100 ¢¢ pour ses employés (policiers et soldats).",
+    "key": "2026-01-19|00:01|confederation libre|milieu|structural|la ville structural recolte 730 ¢¢ d'impots et paie 100 ¢¢ pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-01-18T23:35:07.188Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Le Khanat Elmérien récolte 1124 ÐE d'impôts. Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 0 ÐE, Ministère de la Guerre 0 ÐE, Ministère de la Justice 0 ÐE, Ministère des Affaires Étrangères 0 ÐE, Ministère de l'Économie 112 ÐE, Ministère de la Recherche 1012 ÐE, Ministère de l'Intérieur 0 ÐE, Ministère de l'Information 0 ÐE, Ministère des Services Secrets 0 ÐE, Ministère du Travail 0 ÐE.",
+    "key": "2026-01-19|00:01|khanat elmerien|||le khanat elmerien recolte 1124 ðe d'impots. les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 0 ðe, ministere de la guerre 0 ðe, ministere de la justice 0 ðe, ministere des affaires etrangeres 0 ðe, ministere de l'economie 112 ðe, ministere de la recherche 1012 ðe, ministere de l'interieur 0 ðe, ministere de l'information 0 ðe, ministere des services secrets 0 ðe, ministere du travail 0 ðe.",
+    "firstSeen": "2026-01-18T23:35:07.360Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "",
+    "text": "La province Bananie récolte 881 ÐE d'impôts.",
+    "key": "2026-01-19|00:01|khanat elmerien|bananie||la province bananie recolte 881 ðe d'impots.",
+    "firstSeen": "2026-01-18T23:35:07.532Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "La ville Distillerie récolte 881 ÐE d'impôts.",
+    "key": "2026-01-19|00:01|khanat elmerien|bananie|distillerie|la ville distillerie recolte 881 ðe d'impots.",
+    "firstSeen": "2026-01-18T23:35:07.700Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "",
+    "text": "La province Bouletie récolte 230 ÐE d'impôts.",
+    "key": "2026-01-19|00:01|khanat elmerien|bouletie||la province bouletie recolte 230 ðe d'impots.",
+    "firstSeen": "2026-01-18T23:35:07.869Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "Youpigrad",
+    "text": "La ville Youpigrad récolte 230 ÐE d'impôts.",
+    "key": "2026-01-19|00:01|khanat elmerien|bouletie|youpigrad|la ville youpigrad recolte 230 ðe d'impots.",
+    "firstSeen": "2026-01-18T23:35:08.041Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "",
+    "text": "La province Elmérie récolte 856 ÐE d'impôts.",
+    "key": "2026-01-19|00:01|khanat elmerien|elmerie||la province elmerie recolte 856 ðe d'impots.",
+    "firstSeen": "2026-01-18T23:35:08.212Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "La ville Igloo récolte 472 ÐE d'impôts.",
+    "key": "2026-01-19|00:01|khanat elmerien|elmerie|igloo|la ville igloo recolte 472 ðe d'impots.",
+    "firstSeen": "2026-01-18T23:35:08.385Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "La ville Gueule du Lézard récolte 384 ÐE d'impôts.",
+    "key": "2026-01-19|00:01|khanat elmerien|elmerie|gueule du lezard|la ville gueule du lezard recolte 384 ðe d'impots.",
+    "firstSeen": "2026-01-18T23:35:08.557Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "",
+    "text": "La province Capsulie récolte 280 ÐE d'impôts.",
+    "key": "2026-01-19|00:01|khanat elmerien|capsulie||la province capsulie recolte 280 ðe d'impots.",
+    "firstSeen": "2026-01-18T23:35:08.726Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "La ville CAPS LOCK récolte 280 ÐE d'impôts.",
+    "key": "2026-01-19|00:01|khanat elmerien|capsulie|caps lock|la ville caps lock recolte 280 ðe d'impots.",
+    "firstSeen": "2026-01-18T23:35:08.910Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "Le Paradigme Vert récolte 2548 Éf d'impôts. Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 0 Éf, Ministère de la Guerre 0 Éf, Ministère de la Justice 0 Éf, Ministère des Affaires Étrangères 0 Éf, Ministère de l'Économie 1784 Éf, Ministère de la Recherche 510 Éf, Ministère de l'Intérieur 254 Éf, Ministère de l'Information 0 Éf, Ministère des Services Secrets 0 Éf, Ministère du Travail 0 Éf.",
+    "key": "2026-01-19|00:01|paradigme vert|||le paradigme vert recolte 2548 ef d'impots. les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 0 ef, ministere de la guerre 0 ef, ministere de la justice 0 ef, ministere des affaires etrangeres 0 ef, ministere de l'economie 1784 ef, ministere de la recherche 510 ef, ministere de l'interieur 254 ef, ministere de l'information 0 ef, ministere des services secrets 0 ef, ministere du travail 0 ef.",
+    "firstSeen": "2026-01-18T23:35:09.082Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "",
+    "text": "La province Île aux Kanards récolte 721 Éf d'impôts.",
+    "key": "2026-01-19|00:01|paradigme vert|ile aux kanards||la province ile aux kanards recolte 721 ef d'impots.",
+    "firstSeen": "2026-01-18T23:35:09.270Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "La ville Kanardville récolte 721 Éf d'impôts.",
+    "key": "2026-01-19|00:01|paradigme vert|ile aux kanards|kanardville|la ville kanardville recolte 721 ef d'impots.",
+    "firstSeen": "2026-01-18T23:35:09.442Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "",
+    "text": "La province Forêt de Jade récolte 1581 Éf d'impôts.",
+    "key": "2026-01-19|00:01|paradigme vert|foret de jade||la province foret de jade recolte 1581 ef d'impots.",
+    "firstSeen": "2026-01-18T23:35:09.623Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "La ville Accalmie récolte 1581 Éf d'impôts et paie 150 Éf pour ses employés (policiers et soldats).",
+    "key": "2026-01-19|00:01|paradigme vert|foret de jade|accalmie|la ville accalmie recolte 1581 ef d'impots et paie 150 ef pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-01-18T23:35:09.795Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "",
+    "text": "La province Irendol récolte 212 Éf d'impôts.",
+    "key": "2026-01-19|00:01|paradigme vert|irendol||la province irendol recolte 212 ef d'impots.",
+    "firstSeen": "2026-01-18T23:35:09.973Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Bamboutopia",
+    "text": "La ville Bamboutopia récolte 4 Éf d'impôts.",
+    "key": "2026-01-19|00:01|paradigme vert|irendol|bamboutopia|la ville bamboutopia recolte 4 ef d'impots.",
+    "firstSeen": "2026-01-18T23:35:10.148Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Grand Jardin",
+    "text": "La ville Grand Jardin récolte 208 Éf d'impôts.",
+    "key": "2026-01-19|00:01|paradigme vert|irendol|grand jardin|la ville grand jardin recolte 208 ef d'impots.",
+    "firstSeen": "2026-01-18T23:35:10.316Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "",
+    "text": "La province Sibéria récolte 582 Éf d'impôts.",
+    "key": "2026-01-19|00:01|paradigme vert|siberia||la province siberia recolte 582 ef d'impots.",
+    "firstSeen": "2026-01-18T23:35:10.491Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "La ville Garinaville récolte 582 Éf d'impôts.",
+    "key": "2026-01-19|00:01|paradigme vert|siberia|garinaville|la ville garinaville recolte 582 ef d'impots.",
+    "firstSeen": "2026-01-18T23:35:10.669Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "L'Empire Brun récolte 2604 MØ d'impôts. Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 130 MØ, Ministère de la Guerre 130 MØ, Ministère de la Justice 130 MØ, Ministère des Affaires Étrangères 130 MØ, Ministère de l'Économie 260 MØ, Ministère de la Recherche 1302 MØ, Ministère de l'Intérieur 130 MØ, Ministère de l'Information 130 MØ, Ministère des Services Secrets 130 MØ, Ministère du Travail 130 MØ.",
+    "key": "2026-01-19|00:01|empire brun|||l'empire brun recolte 2604 mø d'impots. les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 130 mø, ministere de la guerre 130 mø, ministere de la justice 130 mø, ministere des affaires etrangeres 130 mø, ministere de l'economie 260 mø, ministere de la recherche 1302 mø, ministere de l'interieur 130 mø, ministere de l'information 130 mø, ministere des services secrets 130 mø, ministere du travail 130 mø.",
+    "firstSeen": "2026-01-18T23:35:10.844Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "",
+    "text": "La province Niarkalistan récolte 851 MØ d'impôts.",
+    "key": "2026-01-19|00:01|empire brun|niarkalistan||la province niarkalistan recolte 851 mø d'impots.",
+    "firstSeen": "2026-01-18T23:35:11.034Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "La ville Léprosie récolte 851 MØ d'impôts.",
+    "key": "2026-01-19|00:01|empire brun|niarkalistan|leprosie|la ville leprosie recolte 851 mø d'impots.",
+    "firstSeen": "2026-01-18T23:35:11.256Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "",
+    "text": "La province Mystisie récolte 588 MØ d'impôts.",
+    "key": "2026-01-19|00:01|empire brun|mystisie||la province mystisie recolte 588 mø d'impots.",
+    "firstSeen": "2026-01-18T23:35:11.441Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "La ville Lampe du Génie récolte 588 MØ d'impôts.",
+    "key": "2026-01-19|00:01|empire brun|mystisie|lampe du genie|la ville lampe du genie recolte 588 mø d'impots.",
+    "firstSeen": "2026-01-18T23:35:12.749Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "",
+    "text": "La province Santa Banana récolte 237 MØ d'impôts.",
+    "key": "2026-01-19|00:01|empire brun|santa banana||la province santa banana recolte 237 mø d'impots.",
+    "firstSeen": "2026-01-18T23:35:12.920Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Bagdad",
+    "text": "La ville Bagdad récolte 71 MØ d'impôts.",
+    "key": "2026-01-19|00:01|empire brun|santa banana|bagdad|la ville bagdad recolte 71 mø d'impots.",
+    "firstSeen": "2026-01-18T23:35:13.088Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Santa Banana City",
+    "text": "La ville Santa Banana City récolte 166 MØ d'impôts.",
+    "key": "2026-01-19|00:01|empire brun|santa banana|santa banana city|la ville santa banana city recolte 166 mø d'impots.",
+    "firstSeen": "2026-01-18T23:35:13.262Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "",
+    "text": "La province Sicilia récolte 1352 MØ d'impôts.",
+    "key": "2026-01-19|00:01|empire brun|sicilia||la province sicilia recolte 1352 mø d'impots.",
+    "firstSeen": "2026-01-18T23:35:13.429Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "La ville Trou Perdu récolte 1352 MØ d'impôts.",
+    "key": "2026-01-19|00:01|empire brun|sicilia|trou perdu|la ville trou perdu recolte 1352 mø d'impots.",
+    "firstSeen": "2026-01-18T23:35:13.603Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "La République de Kraland récolte 2103 FK d'impôts. Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 21 FK, Ministère de la Guerre 0 FK, Ministère de la Justice 0 FK, Ministère des Affaires Étrangères 0 FK, Ministère de l'Économie 0 FK, Ministère de la Recherche 2082 FK, Ministère de l'Intérieur 0 FK, Ministère de l'Information 0 FK, Ministère des Services Secrets 0 FK, Ministère du Travail 0 FK.",
+    "key": "2026-01-19|00:01|republique de kraland|||la republique de kraland recolte 2103 fk d'impots. les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 21 fk, ministere de la guerre 0 fk, ministere de la justice 0 fk, ministere des affaires etrangeres 0 fk, ministere de l'economie 0 fk, ministere de la recherche 2082 fk, ministere de l'interieur 0 fk, ministere de l'information 0 fk, ministere des services secrets 0 fk, ministere du travail 0 fk.",
+    "firstSeen": "2026-01-18T23:35:13.778Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "",
+    "text": "La province Slavonie récolte 175 FK d'impôts.",
+    "key": "2026-01-19|00:01|republique de kraland|slavonie||la province slavonie recolte 175 fk d'impots.",
+    "firstSeen": "2026-01-18T23:35:13.950Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "Gynerak",
+    "text": "La ville Gynerak récolte 175 FK d'impôts.",
+    "key": "2026-01-19|00:01|republique de kraland|slavonie|gynerak|la ville gynerak recolte 175 fk d'impots.",
+    "firstSeen": "2026-01-18T23:35:14.119Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "",
+    "text": "La province Karaïbes récolte 566 FK d'impôts et paie 50 FK pour ses employés (policiers et soldats).",
+    "key": "2026-01-19|00:01|republique de kraland|karaibes||la province karaibes recolte 566 fk d'impots et paie 50 fk pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-01-18T23:35:14.292Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "La ville Trésorville récolte 566 FK d'impôts.",
+    "key": "2026-01-19|00:01|republique de kraland|karaibes|tresorville|la ville tresorville recolte 566 fk d'impots.",
+    "firstSeen": "2026-01-18T23:35:14.460Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "",
+    "text": "La province Hélénie récolte 52 FK d'impôts et paie 50 FK pour ses employés (policiers et soldats).",
+    "key": "2026-01-19|00:01|republique de kraland|helenie||la province helenie recolte 52 fk d'impots et paie 50 fk pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-01-18T23:35:14.629Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "Bisouville",
+    "text": "La ville Bisouville récolte 52 FK d'impôts.",
+    "key": "2026-01-19|00:01|republique de kraland|helenie|bisouville|la ville bisouville recolte 52 fk d'impots.",
+    "firstSeen": "2026-01-18T23:35:14.799Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "",
+    "text": "La province Kraland récolte 409 FK d'impôts.",
+    "key": "2026-01-19|00:01|republique de kraland|kraland||la province kraland recolte 409 fk d'impots.",
+    "firstSeen": "2026-01-18T23:35:15.003Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Honolulu-par-Delà",
+    "text": "La ville Honolulu-par-Delà récolte 98 FK d'impôts.",
+    "key": "2026-01-19|00:01|republique de kraland|kraland|honolulu-par-dela|la ville honolulu-par-dela recolte 98 fk d'impots.",
+    "firstSeen": "2026-01-18T23:35:15.171Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "La ville Quartier Suprême récolte 311 FK d'impôts.",
+    "key": "2026-01-19|00:01|republique de kraland|kraland|quartier supreme|la ville quartier supreme recolte 311 fk d'impots.",
+    "firstSeen": "2026-01-18T23:35:15.342Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:02",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Felony s'est fait agresser par un groupe de créatures mené par Assassin.",
+    "key": "2026-01-19|00:02|confederation libre|milieu|structural|felony s'est fait agresser par un groupe de creatures mene par assassin.",
+    "firstSeen": "2026-01-18T23:34:50.915Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:02",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "",
+    "text": "Tormenta a usé de ses prérogatives de Diplomate pour devenir Gouverneur de la province Acropole : « Je fais en sorte de remplacer Bladimir et shirt dans la continuité »",
+    "key": "2026-01-19|00:02|confederation libre|acropole||tormenta a use de ses prerogatives de diplomate pour devenir gouverneur de la province acropole : \" je fais en sorte de remplacer bladimir et shirt dans la continuite \"",
+    "firstSeen": "2026-01-18T23:34:51.086Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:03",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Landraël 1er a prononcé un discours critiquant le Duc Wenceslas von Altheim-Blatnoï [PP -7] : « Mes amis, Ce soir, je tiens à féliciter toutes celles et ceux qui ont été élus aux charges de Duc et de Comte. Vous le savez, ces élections sont un moment important de notre Royaume. Elles permettent de mêler au mieux Monarchie de Droit Divin et Système Électif. Le meilleur des deux mondes. Et il est évident que, dans un tel système, la légitimité des Ducs et Comtes élus est grande, et que la Couronne que j’incarne porte un respect profond à ces institutions - comme aux femmes et aux hommes qui en sont issus. Au nom du Royaume, je vous félicite toutes et tous. Enfin… toutes celles et ceux qui ont respecté les us et coutumes de notre Royaume. - Une personne - une seule - pourtant très vocale sur le sort des miséreux, n’a pas jugé utile de se présenter aux élections. Elle ne doit son poste qu’à un coup de force administratif. Pas d’élections pour Wenceslas von Tentacules. Il demeure le seul Duc autoproclamé du Royaume. Une situation dont le peuple ruthvène ne manquera pas d’apprécier toute l’ironie. »",
+    "key": "2026-01-19|00:03|royaume de ruthvenie|ruthvenie|ruthvenville|landrael 1er a prononce un discours critiquant le duc wenceslas von altheim-blatnoi [pp -7] : \" mes amis, ce soir, je tiens a feliciter toutes celles et ceux qui ont ete elus aux charges de duc et de comte. vous le savez, ces elections sont un moment important de notre royaume. elles permettent de meler au mieux monarchie de droit divin et systeme electif. le meilleur des deux mondes. et il est evident que, dans un tel systeme, la legitimite des ducs et comtes elus est grande, et que la couronne que j'incarne porte un respect profond a ces institutions - comme aux femmes et aux hommes qui en sont issus. au nom du royaume, je vous felicite toutes et tous. enfin... toutes celles et ceux qui ont respecte les us et coutumes de notre royaume. - une personne - une seule - pourtant tres vocale sur le sort des misereux, n'a pas juge utile de se presenter aux elections. elle ne doit son poste qu'a un coup de force administratif. pas d'elections pour wenceslas von tentacules. il demeure le seul duc autoproclame du royaume. une situation dont le peuple ruthvene ne manquera pas d'apprecier toute l'ironie. \"",
+    "firstSeen": "2026-01-18T23:34:48.848Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:03",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "",
+    "text": "Le Gouverneur Tormenta a adressé un discours à la population : « Je parlais bien sûr d'agir dans la continuité. Diantre! »",
+    "key": "2026-01-19|00:03|confederation libre|acropole||le gouverneur tormenta a adresse un discours a la population : \" je parlais bien sur d'agir dans la continuite. diantre! \"",
+    "firstSeen": "2026-01-18T23:34:49.023Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:03",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "",
+    "text": "Un groupe de créatures mené par 1 Primitif Elmérien attaque fRAN9OIS6aNDR2.",
+    "key": "2026-01-19|00:03|khanat elmerien|elmerie||un groupe de creatures mene par 1 primitif elmerien attaque fran9ois6andr2.",
+    "firstSeen": "2026-01-18T23:34:50.388Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:03",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Grøbachev a usé de ses prérogatives de Diplomate pour devenir Bourgmestre de la ville Trésorville : « Hop ! Euh.. pardon ? C'est un malentendu non ? Ah si oui.. mais attendez j'ai toujours la clef du bureau il semblerait, regardez ! »",
+    "key": "2026-01-19|00:03|republique de kraland|karaibes|tresorville|grøbachev a use de ses prerogatives de diplomate pour devenir bourgmestre de la ville tresorville : \" hop ! euh.. pardon ? c'est un malentendu non ? ah si oui.. mais attendez j'ai toujours la clef du bureau il semblerait, regardez ! \"",
+    "firstSeen": "2026-01-18T23:34:50.563Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:03",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "La Comtesse Felicity Stone a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël 1er : « Lady Felicity Stone, reconduite dans ses fonctions de Comtesse de Lantenac-du-Lac, selon la volonté Populaire et Royale : Gens de notre beau Royaume, aujourd'hui est un grand jour, puisque ma maîtresse, Lady Felicity, de la Maison Stone, vient d'être ÉLUE Comtesse de Lantenac-du-Lac par acclamation POPULAIRE et avec l'aval de LA COURONNE. *scande alors fièrement son héraut, avec beaucoup d'enthousiasme* *C'est non peu fière elle-même que Felicity se présente sur la Tribune pour faire son discours.* : Bien le bonsoir à tous mes électeurs, mais aussi à tous les habitants du Royaume. *dit alors Felicity, avec beaucoup de sérieux* Je tenais à remercier chacun de ceux parmi vous qui m'ont témoigné leur confiance pour la gestion de notre magnifique Comté de part leur Vote pour moi. Nul doute que les estimations très favorables en ma faveur des experts en sondage ont poussées Monsieur Wenceslas von Altheim-Blatnoï à se désister de ces Élections pour ne pas souffrir de me voir l'emporter contre lui. Quoi qu'il en soit, le dévoilement des scrutins signe le début d'une nouvelle procession d'Allégeance envers La Couronne. Aussi, si je suis à l'instant devant vous, c'est d'abords et surtout pour réaffirmer mon Serment d'Allégeance envers La Couronne, Notre Royaume et Notre Roi. Votre Majesté, comme vous le savez déjà, vous avez toute mon estime et tout mon soutien. Vous pouvez compter sur moi pour faire ce qui doit l'être pour le bien du Royaume et de l'ensemble de ses habitants. *Felicity s'incline respectueusement, puis salue brièvement la foule et se retire en toute hâte* »",
+    "key": "2026-01-19|00:03|royaume de ruthvenie|||la comtesse felicity stone a prete allegeance envers le roi du royaume de ruthvenie landrael 1er : \" lady felicity stone, reconduite dans ses fonctions de comtesse de lantenac-du-lac, selon la volonte populaire et royale : gens de notre beau royaume, aujourd'hui est un grand jour, puisque ma maitresse, lady felicity, de la maison stone, vient d'etre elue comtesse de lantenac-du-lac par acclamation populaire et avec l'aval de la couronne. *scande alors fierement son heraut, avec beaucoup d'enthousiasme* *c'est non peu fiere elle-meme que felicity se presente sur la tribune pour faire son discours.* : bien le bonsoir a tous mes electeurs, mais aussi a tous les habitants du royaume. *dit alors felicity, avec beaucoup de serieux* je tenais a remercier chacun de ceux parmi vous qui m'ont temoigne leur confiance pour la gestion de notre magnifique comte de part leur vote pour moi. nul doute que les estimations tres favorables en ma faveur des experts en sondage ont poussees monsieur wenceslas von altheim-blatnoi a se desister de ces elections pour ne pas souffrir de me voir l'emporter contre lui. quoi qu'il en soit, le devoilement des scrutins signe le debut d'une nouvelle procession d'allegeance envers la couronne. aussi, si je suis a l'instant devant vous, c'est d'abords et surtout pour reaffirmer mon serment d'allegeance envers la couronne, notre royaume et notre roi. votre majeste, comme vous le savez deja, vous avez toute mon estime et tout mon soutien. vous pouvez compter sur moi pour faire ce qui doit l'etre pour le bien du royaume et de l'ensemble de ses habitants. *felicity s'incline respectueusement, puis salue brievement la foule et se retire en toute hate* \"",
+    "firstSeen": "2026-01-18T23:34:50.743Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:05",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "Landraël 1er (Démagogue) a prononcé un discours louant la Comtesse Felicity Stone (Démagogue) [PP +6] : « Felicity, Tu es la personne parfaite pour incarner la résolution de ce conflit. Pourquoi ? Car, tout comme moi, tu as d’abord cherché à résoudre tes différends avec Wenceslas par la négociation. Tu es même allée trèèèès loin dans cette démarche, puisque tu as publiquement formulé une demande en mariage — rien de moins. Comment a réagi notre vieillard grincheux national ? Par une indifférence froide et calculée. Ce qui aurait pu permettre à Lantenac d’unir ses différentes branches nobiliaires a été rejeté d’un revers méprisant de la main par l’adorateur des tentacules. Bref, ce n’est donc pas la première fois que, face à un conflit, il choisit la confrontation plutôt que la négociation paisible… »",
+    "key": "2026-01-19|00:05|royaume de ruthvenie|ruthvenie|lantenac-du-lac|landrael 1er (demagogue) a prononce un discours louant la comtesse felicity stone (demagogue) [pp +6] : \" felicity, tu es la personne parfaite pour incarner la resolution de ce conflit. pourquoi ? car, tout comme moi, tu as d'abord cherche a resoudre tes differends avec wenceslas par la negociation. tu es meme allee treeees loin dans cette demarche, puisque tu as publiquement formule une demande en mariage — rien de moins. comment a reagi notre vieillard grincheux national ? par une indifference froide et calculee. ce qui aurait pu permettre a lantenac d'unir ses differentes branches nobiliaires a ete rejete d'un revers meprisant de la main par l'adorateur des tentacules. bref, ce n'est donc pas la premiere fois que, face a un conflit, il choisit la confrontation plutot que la negociation paisible... \"",
+    "firstSeen": "2026-01-18T23:34:48.486Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:05",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "Landraël 1er (Démagogue) a prononcé un discours louant la Comtesse Felicity Stone (Démagogue) [PP +8] : « Felicity, Ce soir, le Royaume te regarde. La Grande Déesse Elle-même s’est penchée sur ton sort. Ce soir, la Couronne retient son souffle. Ce soir, tu as la mission sacrée de… rétablir une erreur administrative qui n’aurait jamais dû avoir lieu et qui nous a pourtant porté grand préjudice. Ce soir, tu vas assurer la stabilité du Royaume et empêcher Wenceslas von Tentacules de mettre en œuvre son coup d’État. Va, Felicity. Que la Grande Déesse soit avec toi. »",
+    "key": "2026-01-19|00:05|royaume de ruthvenie|ruthvenie|lantenac-du-lac|landrael 1er (demagogue) a prononce un discours louant la comtesse felicity stone (demagogue) [pp +8] : \" felicity, ce soir, le royaume te regarde. la grande deesse elle-meme s'est penchee sur ton sort. ce soir, la couronne retient son souffle. ce soir, tu as la mission sacree de... retablir une erreur administrative qui n'aurait jamais du avoir lieu et qui nous a pourtant porte grand prejudice. ce soir, tu vas assurer la stabilite du royaume et empecher wenceslas von tentacules de mettre en œuvre son coup d'etat. va, felicity. que la grande deesse soit avec toi. \"",
+    "firstSeen": "2026-01-18T23:34:48.672Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:06",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "Felicity Stone (Démagogue) a prononcé un discours louant le Roi Landraël 1er (Démagogue) [PP +0].",
+    "key": "2026-01-19|00:06|royaume de ruthvenie|ruthvenie|lantenac-du-lac|felicity stone (demagogue) a prononce un discours louant le roi landrael 1er (demagogue) [pp +0].",
+    "firstSeen": "2026-01-18T23:34:48.140Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:06",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "Une rumeur concernant le Duc Wenceslas von Altheim-Blatnoï court parmi les habitants de la ville Lantenac-du-Lac : « Certains prétendent que Wenceslas aurait supplie Felony de l'accompagner en Républik de Kraland afin de pouvoir observer de plus près les Sans-Chaussettes originaux On vit dans un monde de fou ! »",
+    "key": "2026-01-19|00:06|royaume de ruthvenie|ruthvenie|lantenac-du-lac|une rumeur concernant le duc wenceslas von altheim-blatnoi court parmi les habitants de la ville lantenac-du-lac : \" certains pretendent que wenceslas aurait supplie felony de l'accompagner en republik de kraland afin de pouvoir observer de plus pres les sans-chaussettes originaux on vit dans un monde de fou ! \"",
+    "firstSeen": "2026-01-18T23:34:48.314Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:07",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Diagonale a donné de l'entrain au travail dans le bâtiment Carrière (la production sera plus rapide).",
+    "key": "2026-01-19|00:07|royaume de ruthvenie|ruthvenie|ruthvenville|diagonale a donne de l'entrain au travail dans le batiment carriere (la production sera plus rapide).",
+    "firstSeen": "2026-01-18T23:34:47.418Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:07",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "Coup d'État ! Felicity Stone a usurpé le duc Wenceslas von Altheim-Blatnoï.",
+    "key": "2026-01-19|00:07|royaume de ruthvenie|ruthvenie||coup d'etat ! felicity stone a usurpe le duc wenceslas von altheim-blatnoi.",
+    "firstSeen": "2026-01-18T23:34:47.599Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:07",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Diagonale n'a pas réussi à donner de l'entrain au travail dans le bâtiment Carrière.",
+    "key": "2026-01-19|00:07|royaume de ruthvenie|ruthvenie|ruthvenville|diagonale n'a pas reussi a donner de l'entrain au travail dans le batiment carriere.",
+    "firstSeen": "2026-01-18T23:34:47.773Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:07",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "Felicity Stone (Démagogue) a prononcé un discours louant le Roi Landraël 1er (Démagogue) [PP +0].",
+    "key": "2026-01-19|00:07|royaume de ruthvenie|ruthvenie|lantenac-du-lac|felicity stone (demagogue) a prononce un discours louant le roi landrael 1er (demagogue) [pp +0].",
+    "firstSeen": "2026-01-18T23:34:47.949Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:08",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "La Duchesse Felicity Stone a retiré à La Magicienne le poste de Procureure. La Duchesse Felicity Stone a nommé ArmiñoMoon au poste de Procureur.",
+    "key": "2026-01-19|00:08|royaume de ruthvenie|ruthvenie||la duchesse felicity stone a retire a la magicienne le poste de procureure. la duchesse felicity stone a nomme arminomoon au poste de procureur.",
+    "firstSeen": "2026-01-18T23:34:47.075Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:08",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "La Duchesse Felicity Stone a nommé Ombreloup au poste de Comte de la ville Lantenac-du-Lac.",
+    "key": "2026-01-19|00:08|royaume de ruthvenie|ruthvenie||la duchesse felicity stone a nomme ombreloup au poste de comte de la ville lantenac-du-lac.",
+    "firstSeen": "2026-01-18T23:34:47.245Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:09",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "La Duchesse Felicity Stone a prêté allégeance envers Le Roi du Royaume de Ruthvénie Landraël 1er : « Lady Felicity Stone, de nouveau Duchesse de Ruthvénie : Habitants des contrées du Royaume, aujourd'hui est un encore plus grand jour que vous ne l'auriez cru, puisque ma maîtresse, Lady Felicity Stone, vient en plus d'être, dans la foulée, PROCLAMÉE Duchesse de Ruthvénie par acclamation POPULAIRE, toujours, et, bien sûr, avec l'aval de LA COURONNE, une fois de plus. *clame alors haut et fort son héraut, tentant en vain de retenir ses larmes de joie* *C'est l'air soulagée et béatifiée que Felicity se présente cette fois sur la Tribune.* : Bien le bonsoir Peuple de Ruthvénie, mais également à tous les sujets du Royaume. *dit alors Felicity, après avoir regardé vers le ciel, comme si elle cherchait à y voir quelque chose* Je ne suis pas une fervente religieuse, loin de là même, mais, en ce jour, je ne peux m'empêcher de croire qu'une présence bienveillante veillait sur moi, que ce soit de là haut, ou du fond des eaux d'un de nos Lacs Sacrés. Je suis heureuse de me retrouver une fois de plus à la tête de notre Duché et d'avoir ainsi pu corriger l'erreur que j'ai faite lors de mon dernier passage, laissant le champs libre à Monsieur Wenceslas von Altheim-Blatnoï de s'approprier cette Noble Fonction qu'il ne méritait décidément pas à qui devait revenir à un autre que lui. Vous ne m'y reprendrez plus. M'enfin, j'ose l'espérer ! Aussi, je sais que je viens tout juste de le faire, mais nouvelle fonction oblige... Je tiens à réaffirmer avec ardeur mon soutien inconditionnel et indéfectible envers La Couronne, Notre Royaume et Sa Majesté, le Roi Landraël 1er. C'est tout le Duché, j'en suis convaincue, qui se range par la présente avec moi sous Votre Noble Bannière. [darkgray]*Felicity s »",
+    "key": "2026-01-19|00:09|royaume de ruthvenie|||la duchesse felicity stone a prete allegeance envers le roi du royaume de ruthvenie landrael 1er : \" lady felicity stone, de nouveau duchesse de ruthvenie : habitants des contrees du royaume, aujourd'hui est un encore plus grand jour que vous ne l'auriez cru, puisque ma maitresse, lady felicity stone, vient en plus d'etre, dans la foulee, proclamee duchesse de ruthvenie par acclamation populaire, toujours, et, bien sur, avec l'aval de la couronne, une fois de plus. *clame alors haut et fort son heraut, tentant en vain de retenir ses larmes de joie* *c'est l'air soulagee et beatifiee que felicity se presente cette fois sur la tribune.* : bien le bonsoir peuple de ruthvenie, mais egalement a tous les sujets du royaume. *dit alors felicity, apres avoir regarde vers le ciel, comme si elle cherchait a y voir quelque chose* je ne suis pas une fervente religieuse, loin de la meme, mais, en ce jour, je ne peux m'empecher de croire qu'une presence bienveillante veillait sur moi, que ce soit de la haut, ou du fond des eaux d'un de nos lacs sacres. je suis heureuse de me retrouver une fois de plus a la tete de notre duche et d'avoir ainsi pu corriger l'erreur que j'ai faite lors de mon dernier passage, laissant le champs libre a monsieur wenceslas von altheim-blatnoi de s'approprier cette noble fonction qu'il ne meritait decidement pas a qui devait revenir a un autre que lui. vous ne m'y reprendrez plus. m'enfin, j'ose l'esperer ! aussi, je sais que je viens tout juste de le faire, mais nouvelle fonction oblige... je tiens a reaffirmer avec ardeur mon soutien inconditionnel et indefectible envers la couronne, notre royaume et sa majeste, le roi landrael 1er. c'est tout le duche, j'en suis convaincue, qui se range par la presente avec moi sous votre noble banniere. [darkgray]*felicity s \"",
+    "firstSeen": "2026-01-18T23:34:46.722Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:09",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "La Duchesse Felicity Stone a retiré à Frëlon Musc le poste de Préfet de Police. La Duchesse Felicity Stone a nommé Sélène Bauffremont de l'Etang au poste de Préfète de Police.",
+    "key": "2026-01-19|00:09|royaume de ruthvenie|ruthvenie||la duchesse felicity stone a retire a frelon musc le poste de prefet de police. la duchesse felicity stone a nomme selene bauffremont de l'etang au poste de prefete de police.",
+    "firstSeen": "2026-01-18T23:34:46.901Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:11",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Roi Landraël 1er a adressé un discours à la population : « Ce soir, l’usurpation de Wenceslas prendra fin. Ce soir, le Royaume rentre dans l’ordre. Ce soir, nous allons offrir à notre ami adorateur de tentacules ce qu’il désire plus que tout au monde : se retirer en paix et contempler son Étang. Le Royaume peut fournir le pop-corn. Le gouvernement de Ruthvénie et la Couronne ont donc le plaisir d'avoir offert à Wenceslas un voyage tout inclut en Républik de Kraland pour en apprendre plus sur le socio-graffitisme et la misère du peuple. Je dois vous confesser une chose. Quand nous lui avons annoncé la bonne nouvelle, il est devenu tout pâle. « Oh.. Euuuh, non. Je préfère pas... Euuh, mon Etang... Les Sans-Chaussettes ils sentent mauvais des pieds » Pour son propre bien et pour lui permettre d'avoir une compréhension plus complète de la doctrine qu'il a adopté il y a 4 jours, nous avons donc du insister un peu pour qu'il accompagne Felony, qui s'est une fois de plus dévouée pour ce voyage. Merci à elle, que son abnégation soit célébrée. Les esprits chagrins et les âmes sensibles te diront : « oH, ToUt dE MÊmE, ÊtaiT-cE bIEn nÉcEssAire dE pRoVOquER eN DuEL cE pAuVRe ViEIlLaRd ? » Désolé : oui. Ensuite, c’était légal. La loi a été promulguée juste avant. Légalité respectée. Et surtout… que voulez-vous ? C’est ce qui arrive lorsqu’on prépare un coup d’État et que l’on refuse toute négociation. Il y a un temps pour la négociation, et un autre pour la résolution (de préférence avant que le Coup d'État n'est lieu, c'est technique, c'est technique) La négociation a été refusée. La suite n’est qu’une conséquence logique. La Grande Déesse se rit de ceux qui déplorent les effets dont ils chérissent les causes. Que voulez-vous… »",
+    "key": "2026-01-19|00:11|royaume de ruthvenie|||le roi landrael 1er a adresse un discours a la population : \" ce soir, l'usurpation de wenceslas prendra fin. ce soir, le royaume rentre dans l'ordre. ce soir, nous allons offrir a notre ami adorateur de tentacules ce qu'il desire plus que tout au monde : se retirer en paix et contempler son etang. le royaume peut fournir le pop-corn. le gouvernement de ruthvenie et la couronne ont donc le plaisir d'avoir offert a wenceslas un voyage tout inclut en republik de kraland pour en apprendre plus sur le socio-graffitisme et la misere du peuple. je dois vous confesser une chose. quand nous lui avons annonce la bonne nouvelle, il est devenu tout pale. \" oh.. euuuh, non. je prefere pas... euuh, mon etang... les sans-chaussettes ils sentent mauvais des pieds \" pour son propre bien et pour lui permettre d'avoir une comprehension plus complete de la doctrine qu'il a adopte il y a 4 jours, nous avons donc du insister un peu pour qu'il accompagne felony, qui s'est une fois de plus devouee pour ce voyage. merci a elle, que son abnegation soit celebree. les esprits chagrins et les ames sensibles te diront : \" oh, tout de meme, etait-ce bien necessaire de provoquer en duel ce pauvre vieillard ? \" desole : oui. ensuite, c'etait legal. la loi a ete promulguee juste avant. legalite respectee. et surtout... que voulez-vous ? c'est ce qui arrive lorsqu'on prepare un coup d'etat et que l'on refuse toute negociation. il y a un temps pour la negociation, et un autre pour la resolution (de preference avant que le coup d'etat n'est lieu, c'est technique, c'est technique) la negociation a ete refusee. la suite n'est qu'une consequence logique. la grande deesse se rit de ceux qui deplorent les effets dont ils cherissent les causes. que voulez-vous... \"",
+    "firstSeen": "2026-01-18T23:34:46.539Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:12",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "",
+    "text": "Le Gouverneur Edgard le Canard a retiré à Bogdan D'Arken le poste de Intendant. Le Gouverneur Edgard le Canard a nommé Lucette Circulaire au poste de Intendante.",
+    "key": "2026-01-19|00:12|republique de kraland|kraland||le gouverneur edgard le canard a retire a bogdan d'arken le poste de intendant. le gouverneur edgard le canard a nomme lucette circulaire au poste de intendante.",
+    "firstSeen": "2026-01-18T23:34:46.362Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:15",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Syphilys, L'Os de la nation du parti politique CDN, a appuyé la Bourgmestre Zi Eun [PP+10] : « ZIZI ! Ah. J'avais pas encore utilisé de diminutif avec toi, mais celui là, quelque chose me dit qu'il est mal choisi. Pardon, pardon. Bon, je suis outrée ma belle. Frère Pesto ne se souvient même pas qu'il m'a honteusement ghostée. Donc, quand tu lui plantera ton talon aiguille dans les coucougnettes, met lui un ou deux coups pour moi s'il te plait. Par solidarité féminine et rancune tenace ! »",
+    "key": "2026-01-19|00:15|empire brun|niarkalistan|leprosie|syphilys, l'os de la nation du parti politique cdn, a appuye la bourgmestre zi eun [pp+10] : \" zizi ! ah. j'avais pas encore utilise de diminutif avec toi, mais celui la, quelque chose me dit qu'il est mal choisi. pardon, pardon. bon, je suis outree ma belle. frere pesto ne se souvient meme pas qu'il m'a honteusement ghostee. donc, quand tu lui plantera ton talon aiguille dans les coucougnettes, met lui un ou deux coups pour moi s'il te plait. par solidarite feminine et rancune tenace ! \"",
+    "firstSeen": "2026-01-18T23:34:46.184Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:16",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "",
+    "text": "Satela Zero s'est fait agresser par un groupe de créatures mené par Géant des Montagnes.",
+    "key": "2026-01-19|00:16|paradigme vert|foret de jade||satela zero s'est fait agresser par un groupe de creatures mene par geant des montagnes.",
+    "firstSeen": "2026-01-18T23:34:46.010Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:20",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Intérieur Felony a interdit les duels : « J'ai reçu de nombreuses plaintes Comme quoi de nombreuses personnes commenceraient à lancer des duels de manières non-autorisés. Sans la propre étiquette. Sans fouetter avec le gant. Arrêtons cette mascaradre. »",
+    "key": "2026-01-19|00:20|royaume de ruthvenie|||le ministre de l'interieur felony a interdit les duels : \" j'ai recu de nombreuses plaintes comme quoi de nombreuses personnes commenceraient a lancer des duels de manieres non-autorises. sans la propre etiquette. sans fouetter avec le gant. arretons cette mascaradre. \"",
+    "firstSeen": "2026-01-18T23:34:45.831Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:25",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie Simon Halden a adressé un discours à la population : « Citoyennes, citoyens, Je m’exprime aujourd’hui encore affaibli. Affaibli par une attaque qui aurait pu me coûter la vie. Affaibli par ces derniers jours où la tension politique a parfois dépassé ce qu’elle aurait dû être. Mais debout. Je tiens d’abord à féliciter officiellement Monsieur Mutin pour sa victoire à l’élection présidentielle. Le suffrage a parlé. En démocratie, cela se respecte. Nos visions ont divergé, parfois vivement. La campagne fut rude, parfois injuste, parfois excessive — et j’ai même eu le sentiment, par moments, de la mener seul… alors que je n’étais même pas candidat. Mais ce temps est terminé. À partir d’aujourd’hui, il n’y a plus de camp, plus de rival, plus de tribune électorale. Il n’y a qu’une Confédération à faire tenir debout. Si le Président estime que ma présence au gouvernement n’est pas souhaitable, je remettrai ma démission sans la moindre hésitation. Je ne suis attaché à aucun fauteuil. Je suis attaché à un pays. Si l’on a besoin de moi, je servirai. Si l’on n’a pas besoin de moi, je partirai. Mais quoi qu’il advienne, une chose restera vraie : Je serai le premier Ministre de l’Économie de la Reconstruction. Celui qui a relancé les échanges. Celui qui a remis les ateliers en marche. Celui qui a aidé les provinces à se relever. Et cela, personne ne pourra l’effacer. Je ne m’effacerai pas non plus de la vie publique. Vous entendrez encore parler de moi. Car la Confédération a besoin de stabilité aujourd’hui… mais elle aura aussi besoin de vision demain. Je souhaite donc à Monsieur le Président un mandat utile, lucide et responsable. Et je lui dis ceci publiquement : Le ministère de l’Économie restera, tant que j’en aurai la charge, un pilier de stabilité. Vous y trouverez un interlocuteur sérieux. Jamais un courtisan. Jamais un saboteur. Pour la Confédération. Pour ses citoyens. Pour l’avenir. »",
+    "key": "2026-01-19|00:25|confederation libre|||le ministre de l'economie simon halden a adresse un discours a la population : \" citoyennes, citoyens, je m'exprime aujourd'hui encore affaibli. affaibli par une attaque qui aurait pu me couter la vie. affaibli par ces derniers jours ou la tension politique a parfois depasse ce qu'elle aurait du etre. mais debout. je tiens d'abord a feliciter officiellement monsieur mutin pour sa victoire a l'election presidentielle. le suffrage a parle. en democratie, cela se respecte. nos visions ont diverge, parfois vivement. la campagne fut rude, parfois injuste, parfois excessive — et j'ai meme eu le sentiment, par moments, de la mener seul... alors que je n'etais meme pas candidat. mais ce temps est termine. a partir d'aujourd'hui, il n'y a plus de camp, plus de rival, plus de tribune electorale. il n'y a qu'une confederation a faire tenir debout. si le president estime que ma presence au gouvernement n'est pas souhaitable, je remettrai ma demission sans la moindre hesitation. je ne suis attache a aucun fauteuil. je suis attache a un pays. si l'on a besoin de moi, je servirai. si l'on n'a pas besoin de moi, je partirai. mais quoi qu'il advienne, une chose restera vraie : je serai le premier ministre de l'economie de la reconstruction. celui qui a relance les echanges. celui qui a remis les ateliers en marche. celui qui a aide les provinces a se relever. et cela, personne ne pourra l'effacer. je ne m'effacerai pas non plus de la vie publique. vous entendrez encore parler de moi. car la confederation a besoin de stabilite aujourd'hui... mais elle aura aussi besoin de vision demain. je souhaite donc a monsieur le president un mandat utile, lucide et responsable. et je lui dis ceci publiquement : le ministere de l'economie restera, tant que j'en aurai la charge, un pilier de stabilite. vous y trouverez un interlocuteur serieux. jamais un courtisan. jamais un saboteur. pour la confederation. pour ses citoyens. pour l'avenir. \"",
+    "firstSeen": "2026-01-18T23:34:45.618Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:26",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "obscyne a prononcé un discours louant la Bourgmestre Zi Eun [PP +2] : « Je n'enlève pas une virgule de mon précédent discours pour ZI Eun, et cette fois vous allez m'écouter. Niark! »",
+    "key": "2026-01-19|00:26|empire brun|niarkalistan|leprosie|obscyne a prononce un discours louant la bourgmestre zi eun [pp +2] : \" je n'enleve pas une virgule de mon precedent discours pour zi eun, et cette fois vous allez m'ecouter. niark! \"",
+    "firstSeen": "2026-01-18T23:34:45.428Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:27",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "La Gouverneure Martina D. DeiMachiavelli a transféré 1000 MØ du bâtiment Palais du Gouverneur au Ministère de l'Économie.",
+    "key": "2026-01-19|00:27|empire brun|||la gouverneure martina d. deimachiavelli a transfere 1000 mø du batiment palais du gouverneur au ministere de l'economie.",
+    "firstSeen": "2026-01-18T23:34:45.171Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:30",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Syphilys a bafouillé un discours ridicule au lieu de louer la Bourgmestre Zi Eun.",
+    "key": "2026-01-19|00:30|empire brun|niarkalistan|leprosie|syphilys a bafouille un discours ridicule au lieu de louer la bourgmestre zi eun.",
+    "firstSeen": "2026-01-18T23:34:43.409Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:30",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Charlie (Démagogue) a prononcé un discours louant la Bourgmestre Zi Eun (Démagogue) [PP +10].",
+    "key": "2026-01-19|00:30|empire brun|niarkalistan|leprosie|charlie (demagogue) a prononce un discours louant la bourgmestre zi eun (demagogue) [pp +10].",
+    "firstSeen": "2026-01-18T23:34:44.670Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "00:30",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Charlie (Démagogue) a prononcé un discours louant la Bourgmestre Zi Eun (Démagogue) [PP +5].",
+    "key": "2026-01-19|00:30|empire brun|niarkalistan|leprosie|charlie (demagogue) a prononce un discours louant la bourgmestre zi eun (demagogue) [pp +5].",
+    "firstSeen": "2026-01-18T23:34:44.877Z"
   }
 ]
