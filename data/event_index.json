@@ -22958,5 +22958,45 @@
     "text": "Construction d'un bâtiment Station dans la ville Santa Banana City en [14,9].",
     "key": "2026-01-18|16:11|empire brun|santa banana|santa banana city|construction d'un batiment station dans la ville santa banana city en [14,9].",
     "firstSeen": "2026-01-18T15:34:54.094Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "16:45",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie Floran Baumé a versé 3000 MØ au Ministère de la Recherche.",
+    "key": "2026-01-18|16:45|empire brun|||le ministre de l'economie floran baume a verse 3000 mø au ministere de la recherche.",
+    "firstSeen": "2026-01-18T15:50:11.742Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "16:42",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Construction d'un bâtiment Comptoir dans la ville Trou Perdu en [13,6].",
+    "key": "2026-01-18|16:42|empire brun|sicilia|trou perdu|construction d'un batiment comptoir dans la ville trou perdu en [13,6].",
+    "firstSeen": "2026-01-18T15:50:12.857Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "16:34",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "",
+    "text": "Hench St Misles a tenté de frauder aux élections de aux élections pour le poste de Gouverneur de la province Warriorland. Il est à présent recherché par la police de la Confédération Libre pour ce délit politique et a perdu son poste (Préfet de Police) suite à cet acte illégal.",
+    "key": "2026-01-18|16:34|confederation libre|warriorland||hench st misles a tente de frauder aux elections de aux elections pour le poste de gouverneur de la province warriorland. il est a present recherche par la police de la confederation libre pour ce delit politique et a perdu son poste (prefet de police) suite a cet acte illegal.",
+    "firstSeen": "2026-01-18T15:50:13.056Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "16:34",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "",
+    "text": "Hench St Misles a perdu son poste (Préfet de Police) suite à un délit politique (Fraude).",
+    "key": "2026-01-18|16:34|confederation libre|warriorland||hench st misles a perdu son poste (prefet de police) suite a un delit politique (fraude).",
+    "firstSeen": "2026-01-18T15:50:13.253Z"
   }
 ]
