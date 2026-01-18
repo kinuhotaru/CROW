@@ -21,6 +21,11 @@ const DISCORD_RUMEURS_WEBHOOK  = process.env.DISCORD_RUMEURS_WEBHOOK;
 const DISCORD_WAR_WEBHOOK = process.env.DISCORD_WAR_WEBHOOK;
 const DISCORD_FINANCE_WEBHOOK = process.env.DISCORD_FINANCE_WEBHOOK;
 
+//REST
+
+const SUPABASE_URL = process.env.SUPABASE_URL
+const SUPABASE_KEY = process.env.SUPABASE_KEY
+
     const EVENT_ROUTES = [
   {
     name: 'Tunnel',
@@ -634,6 +639,45 @@ function extractMinistryExpense(text) {
   return total;
 }
 
+// REST FONCTION SUPABASE
+
+async function sendEventToSupabase(event) {
+    if(!SUPABASE_URL || SUPABASE_KEY) return;
+
+    const payload = {
+        date: event.date,
+        time: event.time,
+        empire: event.empire,
+        province: event.province || null,
+        city: event.city || null,
+        text: event.text,
+        key: event.key,
+        first_seen: event.firstSeen
+    };
+
+    const res = await fetch(
+        `${SUPABASE_URL}/rest/v1/journal_events`,{
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'apikey': SUPABASE_KEY,
+                'Authorization': `Bearer ${SUPABASE_KEY}`,
+                'Prefer': 'resolution=ignore-duplicates'                
+            },
+            body: JSON.stringify(payload)
+        }
+    );
+
+    if (!res.ok && res.status !== 409){
+        console.warn(
+            '⚠️ Supabase error:',
+            res.status,
+            await res.text()
+        );
+    }
+}
+
+
 /* =========================
    🏬 EMPIRE RANKING IMPOTS
 ========================= */
@@ -1030,6 +1074,12 @@ if (timeRegex.test(time) && eventText) {
             key,
             firstSeen
         });
+
+        await sendEventToSupabase({
+            ...e,
+            key,
+            firstSeen
+            });
 
             newCount++;
 
