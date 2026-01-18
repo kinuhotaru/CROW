@@ -22918,5 +22918,45 @@
     "text": "Layla Al-Khaïd a ouvert un chantier public dans la ville Santa Banana City en [14,9].",
     "key": "2026-01-18|15:34|empire brun|santa banana|santa banana city|layla al-khaid a ouvert un chantier public dans la ville santa banana city en [14,9].",
     "firstSeen": "2026-01-18T14:38:40.539Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "16:11",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Santa Banana City",
+    "text": "Construction d'un bâtiment Station dans la ville Santa Banana City en [14,9].",
+    "key": "2026-01-18|16:11|empire brun|santa banana|santa banana city|construction d'un batiment station dans la ville santa banana city en [14,9].",
+    "firstSeen": "2026-01-18T15:34:54.094Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "16:16",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Caniel Dohn-Bendit vient d'achever sa peine et a quitté la prison.",
+    "key": "2026-01-18|16:16|empire brun|sicilia|trou perdu|caniel dohn-bendit vient d'achever sa peine et a quitte la prison.",
+    "firstSeen": "2026-01-18T15:34:53.825Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "16:17",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "",
+    "text": "Lozana Shizen d'Excelizor a fait la déclaration officielle suivante aux habitants de la province Forêt de Jade : « N'oubliez pas de voter pour celle qui représentera le mieux l'esprit de Jade. Lozana, future gouverneure de la Forêt de Jade ? . »",
+    "key": "2026-01-18|16:17|paradigme vert|foret de jade||lozana shizen d'excelizor a fait la declaration officielle suivante aux habitants de la province foret de jade : \" n'oubliez pas de voter pour celle qui representera le mieux l'esprit de jade. lozana, future gouverneure de la foret de jade ? . \"",
+    "firstSeen": "2026-01-18T15:34:53.479Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "16:18",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "",
+    "text": "Floran Baumé s'est fait agresser par un groupe de créatures mené par 2 Chevaux.",
+    "key": "2026-01-18|16:18|empire brun|sicilia||floran baume s'est fait agresser par un groupe de creatures mene par 2 chevaux.",
+    "firstSeen": "2026-01-18T15:34:51.866Z"
   }
 ]
