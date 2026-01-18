@@ -23488,5 +23488,25 @@
     "text": "Zi Eun a prononcé un discours louant le Ministre de la Justice Maître Corbeau [PP +6].",
     "key": "2026-01-18|20:37|empire brun|niarkalistan|leprosie|zi eun a prononce un discours louant le ministre de la justice maitre corbeau [pp +6].",
     "firstSeen": "2026-01-18T19:41:28.431Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "20:41",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Zi Eun a bafouillé un discours ridicule au lieu de louer Syphilys : « Bravo pour votre magnifique établissement, je passe d'incroyable nuit et je recommande! 5* sur tripotevisor! »",
+    "key": "2026-01-18|20:41|empire brun|niarkalistan|leprosie|zi eun a bafouille un discours ridicule au lieu de louer syphilys : \" bravo pour votre magnifique etablissement, je passe d'incroyable nuit et je recommande! 5* sur tripotevisor! \"",
+    "firstSeen": "2026-01-18T19:47:56.703Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "20:41",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Maître Corbeau a prononcé un discours louant Syphilys [PP +3].",
+    "key": "2026-01-18|20:41|empire brun|niarkalistan|leprosie|maitre corbeau a prononce un discours louant syphilys [pp +3].",
+    "firstSeen": "2026-01-18T19:47:57.467Z"
   }
 ]
