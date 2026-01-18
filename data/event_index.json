@@ -22848,5 +22848,35 @@
     "text": "K' s'est fait agresser par un groupe de créatures mené par 2 Pirates.",
     "key": "2026-01-18|12:50|republique de kraland|slavonie|gynerak|k' s'est fait agresser par un groupe de creatures mene par 2 pirates.",
     "firstSeen": "2026-01-18T13:37:40.823Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "14:44",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "",
+    "text": "Mina & Lilith Evermore a retiré sa candidature aux élections pour le poste de Gouverneur de la province Forêt de Jade : « Ma candidature était à l'origine un signe de protestation envers le gouverneur Sylva. Les différents avec Monsieur Sylva étant terminés, je n'ai plus de raison de maintenir ma candidature. Ainsi je me retire de la course éléctorale pour le poste de gouverneur. Mes très chers fidèles, votez pour la personne qui représentera le mieux les intérêts de notre Province. »",
+    "key": "2026-01-18|14:44|paradigme vert|foret de jade||mina & lilith evermore a retire sa candidature aux elections pour le poste de gouverneur de la province foret de jade : \" ma candidature etait a l'origine un signe de protestation envers le gouverneur sylva. les differents avec monsieur sylva etant termines, je n'ai plus de raison de maintenir ma candidature. ainsi je me retire de la course electorale pour le poste de gouverneur. mes tres chers fideles, votez pour la personne qui representera le mieux les interets de notre province. \"",
+    "firstSeen": "2026-01-18T13:53:28.462Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "14:42",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "Construction d'un bâtiment Petite Briqueterie dans la ville Sanctuaire en [6,8].",
+    "key": "2026-01-18|14:42|royaume de ruthvenie|geofront|sanctuaire|construction d'un batiment petite briqueterie dans la ville sanctuaire en [6,8].",
+    "firstSeen": "2026-01-18T13:53:29.345Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "14:36",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "",
+    "text": "Le Gouverneur Bladimir Bladimirovitch Mutin a accordé la récompense Certificat de Bonne Vie et Mœurs à Tormenta : « Cheя ami. Vous meilleuя intendant Acяopole avoiя eu depuis cataclysme. De loin. Y'a pas photo. »",
+    "key": "2026-01-18|14:36|confederation libre|acropole||le gouverneur bladimir bladimirovitch mutin a accorde la recompense certificat de bonne vie et mœurs a tormenta : \" cheя ami. vous meilleuя intendant acяopole avoiя eu depuis cataclysme. de loin. y'a pas photo. \"",
+    "firstSeen": "2026-01-18T13:53:29.479Z"
   }
 ]
