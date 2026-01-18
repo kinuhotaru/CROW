@@ -22518,5 +22518,85 @@
     "text": "Achille Bombardier a entamé un combat contre Gédéon Saillibard .",
     "key": "2026-01-18|10:47|khanat elmerien|elmerie|gueule du lezard|achille bombardier a entame un combat contre gedeon saillibard .",
     "firstSeen": "2026-01-18T09:51:20.116Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "11:38",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Alice Chain a ouvert un chantier public dans la ville Ruthvenville en [5,11].",
+    "key": "2026-01-18|11:38|royaume de ruthvenie|ruthvenie|ruthvenville|alice chain a ouvert un chantier public dans la ville ruthvenville en [5,11].",
+    "firstSeen": "2026-01-18T10:43:00.277Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "11:20",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "Leopold Bakhtine a ouvert un chantier privé dans la ville Quartier Suprême en [4,5].",
+    "key": "2026-01-18|11:20|republique de kraland|kraland|quartier supreme|leopold bakhtine a ouvert un chantier prive dans la ville quartier supreme en [4,5].",
+    "firstSeen": "2026-01-18T10:43:01.625Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "11:13",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "",
+    "text": "Un groupe de créatures mené par 1 Dragonneau attaque Shana Al Khaïd.",
+    "key": "2026-01-18|11:13|empire brun|santa banana||un groupe de creatures mene par 1 dragonneau attaque shana al khaid.",
+    "firstSeen": "2026-01-18T10:43:01.931Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "10:51",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de la Recherche Shana Al Khaïd a fixé le salaire pour la recherche technologique à 55 MØ.",
+    "key": "2026-01-18|10:51|empire brun|||la ministre de la recherche shana al khaid a fixe le salaire pour la recherche technologique a 55 mø.",
+    "firstSeen": "2026-01-18T10:43:02.128Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "10:51",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "",
+    "text": "Berta ⭐️ a tenté de chasser dans la province Elmérie. Elle est à présent recherchée par la police du Khanat Elmérien pour ce délit politique.",
+    "key": "2026-01-18|10:51|khanat elmerien|elmerie||berta ⭐️ a tente de chasser dans la province elmerie. elle est a present recherchee par la police du khanat elmerien pour ce delit politique.",
+    "firstSeen": "2026-01-18T10:43:02.311Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "10:51",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "",
+    "text": "Berta ⭐️ a tenté de chasser dans la province Elmérie. Elle est à présent recherchée par la police du Khanat Elmérien pour ce délit politique et a perdu son poste (Sergente) suite à cet acte illégal.",
+    "key": "2026-01-18|10:51|khanat elmerien|elmerie||berta ⭐️ a tente de chasser dans la province elmerie. elle est a present recherchee par la police du khanat elmerien pour ce delit politique et a perdu son poste (sergente) suite a cet acte illegal.",
+    "firstSeen": "2026-01-18T10:43:02.498Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "10:51",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Berta ⭐️ a perdu son poste (Sergente) suite à un délit politique (Chasser).",
+    "key": "2026-01-18|10:51|khanat elmerien|elmerie|gueule du lezard|berta ⭐️ a perdu son poste (sergente) suite a un delit politique (chasser).",
+    "firstSeen": "2026-01-18T10:43:02.678Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "10:51",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de la Recherche Shana Al Khaïd a lancé la recherche de la technologie n°20.",
+    "key": "2026-01-18|10:51|empire brun|||la ministre de la recherche shana al khaid a lance la recherche de la technologie n°20.",
+    "firstSeen": "2026-01-18T10:43:02.874Z"
   }
 ]
