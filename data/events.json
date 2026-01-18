@@ -22348,5 +22348,75 @@
     "text": "Rose Nelson a ouvert un chantier privé dans la ville Kanardville en [11,5].",
     "key": "2026-01-18|08:45|paradigme vert|ile aux kanards|kanardville|rose nelson a ouvert un chantier prive dans la ville kanardville en [11,5].",
     "firstSeen": "2026-01-18T07:48:03.177Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "08:52",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Construction d'un bâtiment Petite Raffinerie dans la ville Kanardville en [11,5].",
+    "key": "2026-01-18|08:52|paradigme vert|ile aux kanards|kanardville|construction d'un batiment petite raffinerie dans la ville kanardville en [11,5].",
+    "firstSeen": "2026-01-18T08:50:38.411Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "08:55",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Construction d'un bâtiment Embarcadère dans la ville Blofeldopolis en [18,8].",
+    "key": "2026-01-18|08:55|confederation libre|warriorland|blofeldopolis|construction d'un batiment embarcadere dans la ville blofeldopolis en [18,8].",
+    "firstSeen": "2026-01-18T08:50:38.219Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "09:08",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Construction d'un bâtiment Poste de Garde dans la ville Garinaville en [16,6].",
+    "key": "2026-01-18|09:08|paradigme vert|siberia|garinaville|construction d'un batiment poste de garde dans la ville garinaville en [16,6].",
+    "firstSeen": "2026-01-18T08:50:37.874Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "09:14",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Annie a mis en vente le bâtiment Cabane pour 1500 Éf.",
+    "key": "2026-01-18|09:14|paradigme vert|siberia|garinaville|annie a mis en vente le batiment cabane pour 1500 ef.",
+    "firstSeen": "2026-01-18T08:50:37.665Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "09:36",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "La Fée Du bien a prononcé un discours louant le Bourgmestre La fée K. Lome [PP +2] : « Mes soeurs Fées depuis la renaissance de notre belle forêt je suis fière du chemin que nous avons parcouru main dans la main avec les habitants de cet \"écrin\" magnifique. Nous demeurons un modèle d'harmonie sur cette terre, le respect de tous et chaque élément en valeur universelle. Fée K. Lome je ne doute pas que tu sera la garante de ces valeurs . »",
+    "key": "2026-01-18|09:36|paradigme vert|foret de jade|accalmie|la fee du bien a prononce un discours louant le bourgmestre la fee k. lome [pp +2] : \" mes soeurs fees depuis la renaissance de notre belle foret je suis fiere du chemin que nous avons parcouru main dans la main avec les habitants de cet \"ecrin\" magnifique. nous demeurons un modele d'harmonie sur cette terre, le respect de tous et chaque element en valeur universelle. fee k. lome je ne doute pas que tu sera la garante de ces valeurs . \"",
+    "firstSeen": "2026-01-18T08:50:37.457Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "09:41",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Une rumeur court parmi les habitants de la Confédération Libre : « Une pénurie de trombones semble affecter la Confédération. Plusieurs citoyens auraient vu un individu courir de quincaillerie en quincaillerie pour en dévaliser les rayons. »",
+    "key": "2026-01-18|09:41|confederation libre|||une rumeur court parmi les habitants de la confederation libre : \" une penurie de trombones semble affecter la confederation. plusieurs citoyens auraient vu un individu courir de quincaillerie en quincaillerie pour en devaliser les rayons. \"",
+    "firstSeen": "2026-01-18T08:50:35.565Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "09:41",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "Erdny s'est fait agresser par un groupe de créatures mené par Liane Tueuse.",
+    "key": "2026-01-18|09:41|royaume de ruthvenie|valegro|fort emouchet|erdny s'est fait agresser par un groupe de creatures mene par liane tueuse.",
+    "firstSeen": "2026-01-18T08:50:37.259Z"
   }
 ]
