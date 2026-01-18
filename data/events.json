@@ -23758,5 +23758,15 @@
     "text": "Le Bourgmestre Grøbachev a exproprié le bâtiment Bar « [Grøbachev dehors] » (7,8) pour 0 FK : « Avant de perdre les clefs de la ville, je devais encore régler ce petit problème. »",
     "key": "2026-01-18|23:32|republique de kraland|karaibes|tresorville|le bourgmestre grøbachev a exproprie le batiment bar \" [grøbachev dehors] \" (7,8) pour 0 fk : \" avant de perdre les clefs de la ville, je devais encore regler ce petit probleme. \"",
     "firstSeen": "2026-01-18T22:40:45.125Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "23:43",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Gum a ouvert un chantier privé dans la ville Forum en [14,5].",
+    "key": "2026-01-18|23:43|confederation libre|acropole|forum|gum a ouvert un chantier prive dans la ville forum en [14,5].",
+    "firstSeen": "2026-01-18T22:52:43.099Z"
   }
 ]

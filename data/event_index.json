@@ -23758,5 +23758,15 @@
     "text": "Lucky Math a réussi l'examen du ruban et obtenu la récompense Ruban Mauve, ce qui lui permet de poursuivre sa carrière dans le Khanat Elmérien.",
     "key": "2026-01-18|23:01|khanat elmerien|||lucky math a reussi l'examen du ruban et obtenu la recompense ruban mauve, ce qui lui permet de poursuivre sa carriere dans le khanat elmerien.",
     "firstSeen": "2026-01-18T22:40:47.074Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "23:43",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Gum a ouvert un chantier privé dans la ville Forum en [14,5].",
+    "key": "2026-01-18|23:43|confederation libre|acropole|forum|gum a ouvert un chantier prive dans la ville forum en [14,5].",
+    "firstSeen": "2026-01-18T22:52:43.099Z"
   }
 ]
