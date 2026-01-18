@@ -125,7 +125,8 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
       'a approuve les actions du gouvernement',
       'a prete allegeance envers',
       's\'est presente aux elections',
-      's\'est presentee aux elections'
+      's\'est presentee aux elections',
+      'resultat de l\'election au poste'
     ].some(k => text.includes(k)),
   webhook: DISCORD_POL_WEBHOOK
 },
