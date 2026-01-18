@@ -22128,5 +22128,45 @@
     "text": "Salmacis a ouvert un chantier privé dans la ville Grand Jardin en [11,10].",
     "key": "2026-01-18|00:32|paradigme vert|irendol|grand jardin|salmacis a ouvert un chantier prive dans la ville grand jardin en [11,10].",
     "firstSeen": "2026-01-17T23:50:07.818Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "01:02",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie Felony a modifié le taux d'imposition des revenus de la province Crab Key (de 20% à 10%) : « Vos ports méritent d'être plus développé également. Les Recherches autour de Magmor doivent reprendre. »",
+    "key": "2026-01-18|01:02|royaume de ruthvenie|||le ministre de l'economie felony a modifie le taux d'imposition des revenus de la province crab key (de 20% a 10%) : \" vos ports meritent d'etre plus developpe egalement. les recherches autour de magmor doivent reprendre. \"",
+    "firstSeen": "2026-01-18T00:08:54.302Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "00:54",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Satela Zero vient de livrer Sultan Omar Al Khaïd à la prison de la ville.",
+    "key": "2026-01-18|00:54|paradigme vert|foret de jade|accalmie|satela zero vient de livrer sultan omar al khaid a la prison de la ville.",
+    "firstSeen": "2026-01-18T00:08:54.302Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "00:52",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie Felony a émis 20 bons supplémentaires : « La recherche a besoin de subvention, subventionnez la Recherche ! La technologie nous aidera ! »",
+    "key": "2026-01-18|00:52|royaume de ruthvenie|||le ministre de l'economie felony a emis 20 bons supplementaires : \" la recherche a besoin de subvention, subventionnez la recherche ! la technologie nous aidera ! \"",
+    "firstSeen": "2026-01-18T00:08:54.302Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "00:49",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie Felony a modifié le taux d'imposition des revenus de la province Géofront (de 20% à 10%) : « Le Géofront a besoin également d'améliorer ses infrastructures pour reconstruire ses villes escamotable, fleurons de notre technologie! »",
+    "key": "2026-01-18|00:49|royaume de ruthvenie|||le ministre de l'economie felony a modifie le taux d'imposition des revenus de la province geofront (de 20% a 10%) : \" le geofront a besoin egalement d'ameliorer ses infrastructures pour reconstruire ses villes escamotable, fleurons de notre technologie! \"",
+    "firstSeen": "2026-01-18T00:08:54.302Z"
   }
 ]
