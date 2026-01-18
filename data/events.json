@@ -23458,5 +23458,35 @@
     "text": "La Magicienne a aidé les policiers permettant une meilleure surveillance de la ville.",
     "key": "2026-01-18|20:19|royaume de ruthvenie|ruthvenie|ruthvenville|la magicienne a aide les policiers permettant une meilleure surveillance de la ville.",
     "firstSeen": "2026-01-18T19:27:33.310Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "20:29",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Antipøde s'est fait agresser par un groupe de créatures mené par 2 Chevaux.",
+    "key": "2026-01-18|20:29|empire brun|sicilia|trou perdu|antipøde s'est fait agresser par un groupe de creatures mene par 2 chevaux.",
+    "firstSeen": "2026-01-18T19:41:29.576Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "20:29",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "Antipøde s'est fait agresser par un groupe de créatures mené par Assassin.",
+    "key": "2026-01-18|20:29|confederation libre|milieu||antipøde s'est fait agresser par un groupe de creatures mene par assassin.",
+    "firstSeen": "2026-01-18T19:41:29.925Z"
+  },
+  {
+    "date": "2026-01-18",
+    "time": "20:37",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Zi Eun a prononcé un discours louant le Ministre de la Justice Maître Corbeau [PP +6].",
+    "key": "2026-01-18|20:37|empire brun|niarkalistan|leprosie|zi eun a prononce un discours louant le ministre de la justice maitre corbeau [pp +6].",
+    "firstSeen": "2026-01-18T19:41:28.431Z"
   }
 ]
