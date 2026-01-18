@@ -642,7 +642,7 @@ function extractMinistryExpense(text) {
 // REST FONCTION SUPABASE
 
 async function sendEventToSupabase(event) {
-    if(!SUPABASE_URL || SUPABASE_KEY) return;
+    if(!SUPABASE_URL || !SUPABASE_KEY) return;
 
     const payload = {
         date: event.date,
