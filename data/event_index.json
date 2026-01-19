@@ -25938,5 +25938,65 @@
     "text": "La fée K. Lome a ouvert un chantier public dans la ville Accalmie en [5,4].",
     "key": "2026-01-19|08:56|paradigme vert|foret de jade|accalmie|la fee k. lome a ouvert un chantier public dans la ville accalmie en [5,4].",
     "firstSeen": "2026-01-19T09:02:58.667Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "10:57",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Zéphiria de Pont-Krivell vient d'achever sa peine et a quitté la prison.",
+    "key": "2026-01-19|10:57|empire brun|sicilia|trou perdu|zephiria de pont-krivell vient d'achever sa peine et a quitte la prison.",
+    "firstSeen": "2026-01-19T10:01:06.828Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "10:55",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "Katherine Khanova a entamé un combat contre Brigand.",
+    "key": "2026-01-19|10:55|confederation libre|milieu||katherine khanova a entame un combat contre brigand.",
+    "firstSeen": "2026-01-19T10:01:08.137Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "10:54",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "",
+    "text": "Le Gouverneur Tormenta a nommé Simon Halden au poste de Intendant.",
+    "key": "2026-01-19|10:54|confederation libre|acropole||le gouverneur tormenta a nomme simon halden au poste de intendant.",
+    "firstSeen": "2026-01-19T10:01:08.308Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "10:38",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Le Bourgmestre Flintheart Glomgold a démissionné de sa fonction : « Communiqué officiel du Bourgmestre de Kanardville Comme convenu, je laisse la place pour que notre bien aimée et fraichement brillamment élue gouverneure puisse placer son kanard ou sa kanne de prédilection. Ce fut bref, mais ce fut un honneur d'avoir été votre bourgmestre du weekend par intérim. »",
+    "key": "2026-01-19|10:38|paradigme vert|ile aux kanards|kanardville|le bourgmestre flintheart glomgold a demissionne de sa fonction : \" communique officiel du bourgmestre de kanardville comme convenu, je laisse la place pour que notre bien aimee et fraichement brillamment elue gouverneure puisse placer son kanard ou sa kanne de predilection. ce fut bref, mais ce fut un honneur d'avoir ete votre bourgmestre du weekend par interim. \"",
+    "firstSeen": "2026-01-19T10:01:08.491Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "10:37",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Jaylie DeiMachiavelli vient d'achever sa peine et a quitté la prison.",
+    "key": "2026-01-19|10:37|empire brun|sicilia|trou perdu|jaylie deimachiavelli vient d'achever sa peine et a quitte la prison.",
+    "firstSeen": "2026-01-19T10:01:08.670Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "10:02",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "Le Comte Ombreloup a adressé un discours à la population : « Bonjour à tous. Je ne vais pas vous mentir, je suis assez surpris de m'adresser à vous aujourd'hui depuis ce bureau après avoir poliment, puis fermement, demandé à être laissé à mon université. Il m'a été répondu que la raison supérieure de l'état primait sur l'état de la recherche. Soit. Je suis donc, momentanément tout du moins, appelé à aider la population Lantenacienne à se reconstruire. Mon premier chantier sera de finir notre gare afin de désenclaver la ville et de permettre à la fois son essor économique et des transports plus sécurisés vers les provinces avoisinantes. »",
+    "key": "2026-01-19|10:02|royaume de ruthvenie|ruthvenie|lantenac-du-lac|le comte ombreloup a adresse un discours a la population : \" bonjour a tous. je ne vais pas vous mentir, je suis assez surpris de m'adresser a vous aujourd'hui depuis ce bureau apres avoir poliment, puis fermement, demande a etre laisse a mon universite. il m'a ete repondu que la raison superieure de l'etat primait sur l'etat de la recherche. soit. je suis donc, momentanement tout du moins, appele a aider la population lantenacienne a se reconstruire. mon premier chantier sera de finir notre gare afin de desenclaver la ville et de permettre a la fois son essor economique et des transports plus securises vers les provinces avoisinantes. \"",
+    "firstSeen": "2026-01-19T10:01:08.840Z"
   }
 ]
