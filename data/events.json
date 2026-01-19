@@ -26488,5 +26488,45 @@
     "text": "Construction d'un bâtiment Librairie dans la ville Youpigrad en [11,9].",
     "key": "2026-01-19|15:29|khanat elmerien|bouletie|youpigrad|construction d'un batiment librairie dans la ville youpigrad en [11,9].",
     "firstSeen": "2026-01-19T14:57:49.039Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "16:46",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Belle Peregrine a réussi l'examen du ruban et obtenu la récompense Ruban Mauve, ce qui lui permet de poursuivre sa carrière dans le Khanat Elmérien.",
+    "key": "2026-01-19|16:46|khanat elmerien|||belle peregrine a reussi l'examen du ruban et obtenu la recompense ruban mauve, ce qui lui permet de poursuivre sa carriere dans le khanat elmerien.",
+    "firstSeen": "2026-01-19T15:52:40.964Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "16:49",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Koshka a tenté de voler 1 Sculpture dans le bâtiment Auberge « La Techno Chope ». Cependant, la police du Royaume de Ruthvénie abandonne les poursuites en raison de la jeunesse malheureuse de la personne suspectée.",
+    "key": "2026-01-19|16:49|royaume de ruthvenie|ruthvenie|ruthvenville|koshka a tente de voler 1 sculpture dans le batiment auberge \" la techno chope \". cependant, la police du royaume de ruthvenie abandonne les poursuites en raison de la jeunesse malheureuse de la personne suspectee.",
+    "firstSeen": "2026-01-19T15:52:40.786Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "16:50",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "Koshka s'est fait agresser par un groupe de créatures mené par Tortue Blindée.",
+    "key": "2026-01-19|16:50|royaume de ruthvenie|ruthvenie||koshka s'est fait agresser par un groupe de creatures mene par tortue blindee.",
+    "firstSeen": "2026-01-19T15:52:40.559Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "16:51",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "Quelqu'un a fondé l'organisation secrète Inquisition Impériale.",
+    "key": "2026-01-19|16:51|empire brun|||quelqu'un a fonde l'organisation secrete inquisition imperiale.",
+    "firstSeen": "2026-01-19T15:52:39.206Z"
   }
 ]
