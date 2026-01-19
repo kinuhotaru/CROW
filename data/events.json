@@ -26448,5 +26448,45 @@
     "text": "Un groupe de créatures mené par 1 Tortue Blindée attaque Sysson.",
     "key": "2026-01-19|14:45|royaume de ruthvenie|ruthvenie||un groupe de creatures mene par 1 tortue blindee attaque sysson.",
     "firstSeen": "2026-01-19T13:57:14.254Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "15:08",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "Gynerak",
+    "text": "La Bourgmestre Eva Dey a organisé une grande fête dans la ville Gynerak, ce qui remonte le moral des habitants : « Kramarades, kramarades, Aujourd'hui nous célébrons la visite de notre nouvelle première ministre, la kramarade Vesperia Ashcroft, venue voir le développement de notre province. Nous sommes sa première escale, alors réjouissons-nous. Que cette journée, soit une journée de fête en l'honneur de notre première ministre. PS : Et pour ceux qui veulent la rencontrer, elle se trouve pour l'heure à l'Abri côtier. »",
+    "key": "2026-01-19|15:08|republique de kraland|slavonie|gynerak|la bourgmestre eva dey a organise une grande fete dans la ville gynerak, ce qui remonte le moral des habitants : \" kramarades, kramarades, aujourd'hui nous celebrons la visite de notre nouvelle premiere ministre, la kramarade vesperia ashcroft, venue voir le developpement de notre province. nous sommes sa premiere escale, alors rejouissons-nous. que cette journee, soit une journee de fete en l'honneur de notre premiere ministre. ps : et pour ceux qui veulent la rencontrer, elle se trouve pour l'heure a l'abri cotier. \"",
+    "firstSeen": "2026-01-19T14:57:50.964Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "15:25",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "",
+    "text": "Le Khan Pierre Ponce a adressé un discours à la population : « Boulets, Neuneus et autres suceurs ! C'est unanime. On ne peut mieux en terme de légitimité. Je suis votre Khan ! Et j'ai entendu, avec satisfaction, que Jean-Mi a été élu dans des conditions tout ce qu'il y a de plus normal. Pas de surprise donc. C'est bien. Alors, finalement, j'ai décidé de suivre le commandement 6039: Ne cherche pas le changement. La plupart du temps, il te veut du mal. Donc, niveau Bouletie, je vais me contenter de regarder toutes les choses totalement normales que Jean-Mi va faire. J'ai hâte de découvrir tout ce qu'il nous a préparé. Rien de spécial, j'espère. On ne veut pas être surpris, juste pouvoir nous dire: \"ah bah oui, normal quoi\". Et niveau Khanat, je vais me contenter d'écouter la Grande Khane et des répondre à ses questions. Je crois, de toute façon, qu'elle est du genre à s'écouter parler et à attendre qu'on acquiesce. Tant que notre vie reste normale, on hochera la tête quand elle parlera. Voilà ! C'est déjà pas mal comme projet. Mais je ne peux m'empêcher de terminer par citer un commandement, le 42ème: Tu mangeras avec des couverts. On a vite fait de se bouffer un doigt. Mon grand-oncle, Pierre, qui était aussi mon cousin par alliance, et qui un jour avait oublié sa fourchette, s'en est mordu les doigts. »",
+    "key": "2026-01-19|15:25|khanat elmerien|bouletie||le khan pierre ponce a adresse un discours a la population : \" boulets, neuneus et autres suceurs ! c'est unanime. on ne peut mieux en terme de legitimite. je suis votre khan ! et j'ai entendu, avec satisfaction, que jean-mi a ete elu dans des conditions tout ce qu'il y a de plus normal. pas de surprise donc. c'est bien. alors, finalement, j'ai decide de suivre le commandement 6039: ne cherche pas le changement. la plupart du temps, il te veut du mal. donc, niveau bouletie, je vais me contenter de regarder toutes les choses totalement normales que jean-mi va faire. j'ai hate de decouvrir tout ce qu'il nous a prepare. rien de special, j'espere. on ne veut pas etre surpris, juste pouvoir nous dire: \"ah bah oui, normal quoi\". et niveau khanat, je vais me contenter d'ecouter la grande khane et des repondre a ses questions. je crois, de toute facon, qu'elle est du genre a s'ecouter parler et a attendre qu'on acquiesce. tant que notre vie reste normale, on hochera la tete quand elle parlera. voila ! c'est deja pas mal comme projet. mais je ne peux m'empecher de terminer par citer un commandement, le 42eme: tu mangeras avec des couverts. on a vite fait de se bouffer un doigt. mon grand-oncle, pierre, qui etait aussi mon cousin par alliance, et qui un jour avait oublie sa fourchette, s'en est mordu les doigts. \"",
+    "firstSeen": "2026-01-19T14:57:50.674Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "15:27",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "Youpigrad",
+    "text": "Palmipouz a ouvert un chantier privé dans la ville Youpigrad en [11,9].",
+    "key": "2026-01-19|15:27|khanat elmerien|bouletie|youpigrad|palmipouz a ouvert un chantier prive dans la ville youpigrad en [11,9].",
+    "firstSeen": "2026-01-19T14:57:50.467Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "15:29",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "Youpigrad",
+    "text": "Construction d'un bâtiment Librairie dans la ville Youpigrad en [11,9].",
+    "key": "2026-01-19|15:29|khanat elmerien|bouletie|youpigrad|construction d'un batiment librairie dans la ville youpigrad en [11,9].",
+    "firstSeen": "2026-01-19T14:57:49.039Z"
   }
 ]
