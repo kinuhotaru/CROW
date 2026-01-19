@@ -27438,5 +27438,45 @@
     "text": "Le Ministre de l'Intérieur Felony a nommé Anarion l'Enflammé au poste de Duc de la province Ruthvénie : « Anarion, par décret Royal, vous voici Duc! Felicitations pour votre bon travail ! »",
     "key": "2026-01-19|22:37|royaume de ruthvenie|||le ministre de l'interieur felony a nomme anarion l'enflamme au poste de duc de la province ruthvenie : \" anarion, par decret royal, vous voici duc! felicitations pour votre bon travail ! \"",
     "firstSeen": "2026-01-19T21:38:53.588Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "22:37",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Intérieur JPP a nommé Jamal Al-Fayeed au poste de Gouverneur de la province Santa Banana.",
+    "key": "2026-01-19|22:37|empire brun|||le ministre de l'interieur jpp a nomme jamal al-fayeed au poste de gouverneur de la province santa banana.",
+    "firstSeen": "2026-01-19T21:52:13.060Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "22:37",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Intérieur Trøels a accepté Triopickle au sein du Khanat Elmérien : « Hum. Comme pourrait dire La Tapette, jamais deux sans TROIS. Et donc pour avoir trois, il faut DEUX. Triopickle, soyez FORT ! »",
+    "key": "2026-01-19|22:37|khanat elmerien|||le ministre de l'interieur trøels a accepte triopickle au sein du khanat elmerien : \" hum. comme pourrait dire la tapette, jamais deux sans trois. et donc pour avoir trois, il faut deux. triopickle, soyez fort ! \"",
+    "firstSeen": "2026-01-19T21:52:13.259Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "22:38",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "",
+    "text": "Merula s'est fait agresser par un groupe de créatures mené par Cheval.",
+    "key": "2026-01-19|22:38|empire brun|sicilia||merula s'est fait agresser par un groupe de creatures mene par cheval.",
+    "firstSeen": "2026-01-19T21:52:12.849Z"
+  },
+  {
+    "date": "2026-01-19",
+    "time": "22:47",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "Construction d'un bâtiment Vendeur de Tissu dans la ville Quartier Suprême en [4,5].",
+    "key": "2026-01-19|22:47|republique de kraland|kraland|quartier supreme|construction d'un batiment vendeur de tissu dans la ville quartier supreme en [4,5].",
+    "firstSeen": "2026-01-19T21:52:11.707Z"
   }
 ]
