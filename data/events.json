@@ -28658,5 +28658,25 @@
     "text": "Construction d'un bâtiment Poste de Police dans la ville Distillerie en [17,3].",
     "key": "2026-01-20|05:51|khanat elmerien|bananie|distillerie|construction d'un batiment poste de police dans la ville distillerie en [17,3].",
     "firstSeen": "2026-01-20T05:19:20.029Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "06:20",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de la Recherche Shana Al Khaïd a lancé la recherche de la technologie n°57.",
+    "key": "2026-01-20|06:20|empire brun|||la ministre de la recherche shana al khaid a lance la recherche de la technologie n°57.",
+    "firstSeen": "2026-01-20T05:59:17.143Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "06:56",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "Construction d'un bâtiment Nappe de Pétrole dans la ville Quartier Suprême en [13,12].",
+    "key": "2026-01-20|06:56|republique de kraland|kraland|quartier supreme|construction d'un batiment nappe de petrole dans la ville quartier supreme en [13,12].",
+    "firstSeen": "2026-01-20T05:59:16.288Z"
   }
 ]
