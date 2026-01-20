@@ -30338,5 +30338,35 @@
     "text": "Sincérité s'est fait agresser par un groupe de créatures mené par Assassin.",
     "key": "2026-01-20|23:28|empire brun|sicilia||sincerite s'est fait agresser par un groupe de creatures mene par assassin.",
     "firstSeen": "2026-01-20T22:41:20.985Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "23:43",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Construction d'un bâtiment Technicien dans la ville Léprosie en [15,6].",
+    "key": "2026-01-20|23:43|empire brun|niarkalistan|leprosie|construction d'un batiment technicien dans la ville leprosie en [15,6].",
+    "firstSeen": "2026-01-20T22:53:15.480Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "23:47",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Information (f.f.) Felicity Stone a diffusé une émission de propagande en faveur du gouvernement [loyauté +1.2] : « Une autre merveilleuse journée s'achève dans le merveilleux Royaume de Ruthvénie où tout se passe toujours aussi merveilleusement bien que faire se peut dans le plus merveilleux des Cybermondes. Cette nuit, les merveilleux sujet de Sa Merveilleuse Majesté dormiront une fois de plus merveilleusement bien, prêts, au petit matin, à commencer une autre merveilleuse journée dans la plus merveilleuse des nations du plus merveilleux des Cybermondes, là où tout se passe toujours merveilleusement bien : Le Merveilleux Royaume de Ruthvénie. »",
+    "key": "2026-01-20|23:47|royaume de ruthvenie|||la ministre de l'information (f.f.) felicity stone a diffuse une emission de propagande en faveur du gouvernement [loyaute +1.2] : \" une autre merveilleuse journee s'acheve dans le merveilleux royaume de ruthvenie ou tout se passe toujours aussi merveilleusement bien que faire se peut dans le plus merveilleux des cybermondes. cette nuit, les merveilleux sujet de sa merveilleuse majeste dormiront une fois de plus merveilleusement bien, prets, au petit matin, a commencer une autre merveilleuse journee dans la plus merveilleuse des nations du plus merveilleux des cybermondes, la ou tout se passe toujours merveilleusement bien : le merveilleux royaume de ruthvenie. \"",
+    "firstSeen": "2026-01-20T22:53:15.138Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "23:51",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "",
+    "text": "L'Intendant K' vient de modifier l'impôt sur l'extraction : « Selon les directives peut être deja obsoletes de l'ancien gouvernement, le prix du ticket d'entrée pour l'attraction \"Visite des centres de production de la Republike\" est de 5 Fk par tour » Ferme 2 -> 5 FK Production de Bois 2 -> 5 FK Enclos 2 -> 5 FK Mine de Pierre 2 -> 5 FK Mine de Fer 2 -> 5 FK Puits de Pétrole 2 -> 5 FK",
+    "key": "2026-01-20|23:51|republique de kraland|slavonie||l'intendant k' vient de modifier l'impot sur l'extraction : \" selon les directives peut etre deja obsoletes de l'ancien gouvernement, le prix du ticket d'entree pour l'attraction \"visite des centres de production de la republike\" est de 5 fk par tour \" ferme 2 -> 5 fk production de bois 2 -> 5 fk enclos 2 -> 5 fk mine de pierre 2 -> 5 fk mine de fer 2 -> 5 fk puits de petrole 2 -> 5 fk",
+    "firstSeen": "2026-01-20T22:53:13.842Z"
   }
 ]
