@@ -28638,5 +28638,25 @@
     "text": "Diagonale a perdu son poste (Ministre de la Recherche) suite à un crime politique (Usurper).",
     "key": "2026-01-20|04:41|royaume de ruthvenie|||diagonale a perdu son poste (ministre de la recherche) suite a un crime politique (usurper).",
     "firstSeen": "2026-01-20T04:00:53.715Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "05:51",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Construction d'un bâtiment Poste de Police dans la ville Distillerie en [17,3].",
+    "key": "2026-01-20|05:51|khanat elmerien|bananie|distillerie|construction d'un batiment poste de police dans la ville distillerie en [17,3].",
+    "firstSeen": "2026-01-20T05:19:20.029Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "05:48",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "",
+    "text": "Light Deathnote a trouvé une terre riche pour le bois dans la province Bananie : « Il y a encore quelques coins où nous pourrons extraire bois en abondance. »",
+    "key": "2026-01-20|05:48|khanat elmerien|bananie||light deathnote a trouve une terre riche pour le bois dans la province bananie : \" il y a encore quelques coins ou nous pourrons extraire bois en abondance. \"",
+    "firstSeen": "2026-01-20T05:19:20.984Z"
   }
 ]
