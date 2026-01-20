@@ -61,7 +61,8 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
         'des policiers interviennent',
         'un groupe de policiers tente',
         'a impose une amende',
-        'a tente de detourner de l\'argent'
+        'a tente de detourner de l\'argent',
+        's\'est fait agresser par'
       ].some(keyword => text.includes(keyword)),
     webhook: DISCORD_CRIME_WEBHOOK
   },
@@ -109,6 +110,8 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
     /a nomme .+ au poste de/.test(text) ||
     /coup d'etat .+ a usurpe/.test(text) ||
     /les services .+ sont debordes par/.test(text) ||
+    /le Ministre .+ a autorise/.test(text) ||
+    /la Ministre .+ a autorise/.test(text) ||
 
     [
       'a perdu son poste',
@@ -144,7 +147,8 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
       'a pris la decision d\'appliquer une prime',
       'a pris la decision d\'appliquer une taxe',
       'a impose une taxe',
-      'a verse une prime de'
+      'a verse une prime de',
+      'a modifie le taux d\'imposition'
     ].some(k => text.includes(k)),
   webhook: DISCORD_FINANCE_WEBHOOK
 }
