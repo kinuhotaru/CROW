@@ -30288,5 +30288,55 @@
     "text": "CheveuxBleue vient d'arriver dans la ville Structural.",
     "key": "2026-01-20|22:02|confederation libre|milieu|structural|cheveuxbleue vient d'arriver dans la ville structural.",
     "firstSeen": "2026-01-20T21:44:47.710Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "23:28",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "",
+    "text": "Sincérité s'est fait agresser par un groupe de créatures mené par Assassin.",
+    "key": "2026-01-20|23:28|empire brun|sicilia||sincerite s'est fait agresser par un groupe de creatures mene par assassin.",
+    "firstSeen": "2026-01-20T22:41:20.985Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "23:18",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Nerdos Valkyry a tenté, sans succès, d'organiser du recrutement massif dans le bâtiment Auberge « Le yak qui rie ».",
+    "key": "2026-01-20|23:18|khanat elmerien|bananie|distillerie|nerdos valkyry a tente, sans succes, d'organiser du recrutement massif dans le batiment auberge \" le yak qui rie \".",
+    "firstSeen": "2026-01-20T22:41:22.292Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "23:15",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Deux-Fleurs de Pont-Krivell a prononcé un discours louant le Ministre du Travail Tony Sokrano [PP +2] : « Mes amis, aujourd’hui, parlons de Tony Sokrano. Ce monsieur a toujours été là pour nous, un vrai mentor dans la rue, lu signuri è forti. Sa politique, c’est du pragmatisme : il sait que la loyauté et le respect mènent à la réussite. Soutenons le, car avec lui, Sicilia est plus forte ! »",
+    "key": "2026-01-20|23:15|empire brun|sicilia|trou perdu|deux-fleurs de pont-krivell a prononce un discours louant le ministre du travail tony sokrano [pp +2] : \" mes amis, aujourd'hui, parlons de tony sokrano. ce monsieur a toujours ete la pour nous, un vrai mentor dans la rue, lu signuri e forti. sa politique, c'est du pragmatisme : il sait que la loyaute et le respect menent a la reussite. soutenons le, car avec lui, sicilia est plus forte ! \"",
+    "firstSeen": "2026-01-20T22:41:22.622Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "22:55",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Antipøde a organisé une manifestation soutenant le Gouverneur Jalala [PP +1] : « Oui, je bafouille. Et pourquoi pas ? C'est ainsi et je ne changerai pas. »",
+    "key": "2026-01-20|22:55|confederation libre|milieu|structural|antipøde a organise une manifestation soutenant le gouverneur jalala [pp +1] : \" oui, je bafouille. et pourquoi pas ? c'est ainsi et je ne changerai pas. \"",
+    "firstSeen": "2026-01-20T22:41:22.915Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "22:54",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Antipøde a bafouillé un discours ridicule au lieu de louer le Gouverneur Jalala : « Félicitations Jallajalla ! Je voté un peu pour toi et fraudé pour Structuran Job mais c'est toi qui avais la réponse à l'équation. Veux-tu des moutons pour célébrer ta victoire ? »",
+    "key": "2026-01-20|22:54|confederation libre|milieu|structural|antipøde a bafouille un discours ridicule au lieu de louer le gouverneur jalala : \" felicitations jallajalla ! je vote un peu pour toi et fraude pour structuran job mais c'est toi qui avais la reponse a l'equation. veux-tu des moutons pour celebrer ta victoire ? \"",
+    "firstSeen": "2026-01-20T22:41:23.140Z"
   }
 ]
