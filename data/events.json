@@ -28678,5 +28678,85 @@
     "text": "Construction d'un bâtiment Nappe de Pétrole dans la ville Quartier Suprême en [13,12].",
     "key": "2026-01-20|06:56|republique de kraland|kraland|quartier supreme|construction d'un batiment nappe de petrole dans la ville quartier supreme en [13,12].",
     "firstSeen": "2026-01-20T05:59:16.288Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "07:00",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "Construction d'un bâtiment Station dans la ville Lantenac-du-Lac en [12,2].",
+    "key": "2026-01-20|07:00|royaume de ruthvenie|ruthvenie|lantenac-du-lac|construction d'un batiment station dans la ville lantenac-du-lac en [12,2].",
+    "firstSeen": "2026-01-20T07:05:35.987Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "07:04",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "",
+    "text": "Un groupe de créatures mené par 1 Mouton attaque Vesperia Ashcroft.",
+    "key": "2026-01-20|07:04|republique de kraland|helenie||un groupe de creatures mene par 1 mouton attaque vesperia ashcroft.",
+    "firstSeen": "2026-01-20T07:05:35.769Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "07:11",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "Ombreloup a ouvert un chantier public dans la ville Lantenac-du-Lac en [11,2].",
+    "key": "2026-01-20|07:11|royaume de ruthvenie|ruthvenie|lantenac-du-lac|ombreloup a ouvert un chantier public dans la ville lantenac-du-lac en [11,2].",
+    "firstSeen": "2026-01-20T07:05:35.572Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "07:15",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "Le Comte Ombreloup a imposé une taxe immobilière qui a rapporté 462 Co : « Bonjour à toutes et à tous. Je sais que l'impôt est quelque chose de désagréable, mais c'est un mal nécessaire qui permet à notre ville de grandir, de prospérer et d'avoir de nouvelles infrastructures. Et j'ai aussi l'impression que la taxe foncière ne fonctionne pas bien en ce moment. Je suis donc malheureusement obligé de passer par cette taxe exceptionnelle pour renflouer nos caisses. En espérant ne pas avoir à le faire à nouveau avant un moment. »",
+    "key": "2026-01-20|07:15|royaume de ruthvenie|ruthvenie|lantenac-du-lac|le comte ombreloup a impose une taxe immobiliere qui a rapporte 462 co : \" bonjour a toutes et a tous. je sais que l'impot est quelque chose de desagreable, mais c'est un mal necessaire qui permet a notre ville de grandir, de prosperer et d'avoir de nouvelles infrastructures. et j'ai aussi l'impression que la taxe fonciere ne fonctionne pas bien en ce moment. je suis donc malheureusement oblige de passer par cette taxe exceptionnelle pour renflouer nos caisses. en esperant ne pas avoir a le faire a nouveau avant un moment. \"",
+    "firstSeen": "2026-01-20T07:05:35.380Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "07:26",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "Bisouville",
+    "text": "Giada Giulia Gluanta a ouvert un chantier public dans la ville Bisouville en [9,6].",
+    "key": "2026-01-20|07:26|republique de kraland|helenie|bisouville|giada giulia gluanta a ouvert un chantier public dans la ville bisouville en [9,6].",
+    "firstSeen": "2026-01-20T07:05:35.122Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "07:29",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "Bisouville",
+    "text": "Construction d'un bâtiment Station dans la ville Bisouville en [9,6].",
+    "key": "2026-01-20|07:29|republique de kraland|helenie|bisouville|construction d'un batiment station dans la ville bisouville en [9,6].",
+    "firstSeen": "2026-01-20T07:05:34.793Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "07:43",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "Youpigrad",
+    "text": "Construction d'un bâtiment Petite Arène dans la ville Youpigrad en [8,6].",
+    "key": "2026-01-20|07:43|khanat elmerien|bouletie|youpigrad|construction d'un batiment petite arene dans la ville youpigrad en [8,6].",
+    "firstSeen": "2026-01-20T07:05:34.140Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "08:03",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Santa Banana City",
+    "text": "Mademoiselle n'a pas réussi à donner de l'entrain au travail dans le bâtiment Gisement d'Or : « Esclaves, Aujourd’hui, nous allons accélérer. Ceux qui produiront plus vite seront remarqués. Ceux qui ne le feront pas le seront aussi. Et croyez-moi : on se souvient mieux des seconds. Santa Banana est une capitale, pas un lieu de promenade. Faites tourner les machines et donnez à l’Empire une raison de vous laisser respirer son air nauséabond. »",
+    "key": "2026-01-20|08:03|empire brun|santa banana|santa banana city|mademoiselle n'a pas reussi a donner de l'entrain au travail dans le batiment gisement d'or : \" esclaves, aujourd'hui, nous allons accelerer. ceux qui produiront plus vite seront remarques. ceux qui ne le feront pas le seront aussi. et croyez-moi : on se souvient mieux des seconds. santa banana est une capitale, pas un lieu de promenade. faites tourner les machines et donnez a l'empire une raison de vous laisser respirer son air nauseabond. \"",
+    "firstSeen": "2026-01-20T07:05:33.050Z"
   }
 ]
