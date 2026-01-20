@@ -29078,5 +29078,95 @@
     "text": "Petit Tonnerre a donné un spectacle distrayant dans le bâtiment Auberge « La Table de Saillibard » mais sa prestation a été ridicule : « Euh... sept soldats se rencontrent sur un champ de bataille. La moitié sont des kralandais. Comment est-ce possible ? Vous ne savez pas ? Parce que l'autre moitié sont des kralandais aussi ! »",
     "key": "2026-01-20|10:19|khanat elmerien|elmerie|gueule du lezard|petit tonnerre a donne un spectacle distrayant dans le batiment auberge \" la table de saillibard \" mais sa prestation a ete ridicule : \" euh... sept soldats se rencontrent sur un champ de bataille. la moitie sont des kralandais. comment est-ce possible ? vous ne savez pas ? parce que l'autre moitie sont des kralandais aussi ! \"",
     "firstSeen": "2026-01-20T09:58:55.437Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "11:26",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "ArmiñoMoon a trouvé un gros filon d'or dans la province Ruthvénie : « Voilà une bien jolie journée pour enrichir le Duché »",
+    "key": "2026-01-20|11:26|royaume de ruthvenie|ruthvenie||arminomoon a trouve un gros filon d'or dans la province ruthvenie : \" voila une bien jolie journee pour enrichir le duche \"",
+    "firstSeen": "2026-01-20T10:58:49.859Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "11:22",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Tormenta a ouvert un chantier privé dans la ville Forum en [4,4].",
+    "key": "2026-01-20|11:22|confederation libre|acropole|forum|tormenta a ouvert un chantier prive dans la ville forum en [4,4].",
+    "firstSeen": "2026-01-20T10:58:51.149Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "11:22",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Construction d'un bâtiment Petite Scierie dans la ville Forum en [5,4].",
+    "key": "2026-01-20|11:22|confederation libre|acropole|forum|construction d'un batiment petite scierie dans la ville forum en [5,4].",
+    "firstSeen": "2026-01-20T10:58:51.410Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "11:11",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "",
+    "text": "Un groupe de créatures mené par 1 Assassin attaque SerbitarSeraven.",
+    "key": "2026-01-20|11:11|empire brun|sicilia||un groupe de creatures mene par 1 assassin attaque serbitarseraven.",
+    "firstSeen": "2026-01-20T10:58:51.611Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "11:05",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Tormenta a ouvert un chantier privé dans la ville Forum en [5,4].",
+    "key": "2026-01-20|11:05|confederation libre|acropole|forum|tormenta a ouvert un chantier prive dans la ville forum en [5,4].",
+    "firstSeen": "2026-01-20T10:58:51.739Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "11:03",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Construction d'un bâtiment Vendeur de Pacotille dans la ville Garinaville en [9,4].",
+    "key": "2026-01-20|11:03|paradigme vert|siberia|garinaville|construction d'un batiment vendeur de pacotille dans la ville garinaville en [9,4].",
+    "firstSeen": "2026-01-20T10:58:51.869Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "10:59",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "Sophos a ouvert un chantier privé dans la ville Quartier Suprême en [13,3].",
+    "key": "2026-01-20|10:59|republique de kraland|kraland|quartier supreme|sophos a ouvert un chantier prive dans la ville quartier supreme en [13,3].",
+    "firstSeen": "2026-01-20T10:58:52.034Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "10:58",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Bagdad",
+    "text": "Oussama Al Khaïd a tenté de violer un canard de l'étang privé du Bourgmestre (Hôtel de Ville). Il est à présent recherché par la police de l'Empire Brun pour cette infraction politique et a perdu son poste (Bourgmestre) suite à cet acte illégal.",
+    "key": "2026-01-20|10:58|empire brun|santa banana|bagdad|oussama al khaid a tente de violer un canard de l'etang prive du bourgmestre (hotel de ville). il est a present recherche par la police de l'empire brun pour cette infraction politique et a perdu son poste (bourgmestre) suite a cet acte illegal.",
+    "firstSeen": "2026-01-20T10:58:52.174Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "10:58",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Bagdad",
+    "text": "Oussama Al Khaïd a perdu son poste (Bourgmestre) suite à une infraction politique (Vandalisme).",
+    "key": "2026-01-20|10:58|empire brun|santa banana|bagdad|oussama al khaid a perdu son poste (bourgmestre) suite a une infraction politique (vandalisme).",
+    "firstSeen": "2026-01-20T10:58:52.328Z"
   }
 ]
