@@ -28758,5 +28758,95 @@
     "text": "Construction d'un bâtiment Station dans la ville Lantenac-du-Lac en [12,2].",
     "key": "2026-01-20|07:00|royaume de ruthvenie|ruthvenie|lantenac-du-lac|construction d'un batiment station dans la ville lantenac-du-lac en [12,2].",
     "firstSeen": "2026-01-20T07:05:35.987Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "08:50",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Construction d'un bâtiment Petite Armurerie dans la ville Igloo en [11,8].",
+    "key": "2026-01-20|08:50|khanat elmerien|elmerie|igloo|construction d'un batiment petite armurerie dans la ville igloo en [11,8].",
+    "firstSeen": "2026-01-20T07:52:42.982Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "08:48",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Construction d'un bâtiment Petite Armurerie dans la ville Gueule du Lézard en [13,12].",
+    "key": "2026-01-20|08:48|khanat elmerien|elmerie|gueule du lezard|construction d'un batiment petite armurerie dans la ville gueule du lezard en [13,12].",
+    "firstSeen": "2026-01-20T07:52:43.738Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "08:48",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "L'Intendante Lucette Circulaire a encouragé le travail dans les centres de production provinciaux : « Cher Kramarade ! Il est temps pour nous de donner plus pour avoir plus ! Mettez plus d'allant au travail et vous serez récompensé par encore plus de fenouil et de bonheur ! »",
+    "key": "2026-01-20|08:48|republique de kraland|kraland|quartier supreme|l'intendante lucette circulaire a encourage le travail dans les centres de production provinciaux : \" cher kramarade ! il est temps pour nous de donner plus pour avoir plus ! mettez plus d'allant au travail et vous serez recompense par encore plus de fenouil et de bonheur ! \"",
+    "firstSeen": "2026-01-20T07:52:43.910Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "08:46",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Honolulu-par-Delà",
+    "text": "Construction d'un bâtiment Petite Raffinerie dans la ville Honolulu-par-Delà en [6,4].",
+    "key": "2026-01-20|08:46|republique de kraland|kraland|honolulu-par-dela|construction d'un batiment petite raffinerie dans la ville honolulu-par-dela en [6,4].",
+    "firstSeen": "2026-01-20T07:52:44.045Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "08:40",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Une rumeur court parmi les habitants de la ville Ruthvenville : « La ministre Felony, elle porte bien son nom. Vous savez qu’elle passe à tabac les petits vieux dans la rue qui ont rien demandé ? Mercredi dernier, un orphelin sans-chaussette avait trouvé une pomme, première fois depuis des années qu’il vivait un instant de joie. Elle lui a volé avec un sourire narquois. Et puis il y a cette fois-la où elle a racketté un groupe de personnes handicapées. « Vous me donnez vos goûters et tout se passera bien entre nous » qu’elle disait. Sa présence menaçante à l’auberge en a fait tourner les talons à plus d’un. Et comme c’est la seule auberge de la ville qu’est-ce qu’ils ont dû manger ? Eh ben oui DE L’HERBE ! Comment le bon roi Landraël peut-il s’entourer de la sorte ? »",
+    "key": "2026-01-20|08:40|royaume de ruthvenie|ruthvenie|ruthvenville|une rumeur court parmi les habitants de la ville ruthvenville : \" la ministre felony, elle porte bien son nom. vous savez qu'elle passe a tabac les petits vieux dans la rue qui ont rien demande ? mercredi dernier, un orphelin sans-chaussette avait trouve une pomme, premiere fois depuis des annees qu'il vivait un instant de joie. elle lui a vole avec un sourire narquois. et puis il y a cette fois-la ou elle a rackette un groupe de personnes handicapees. \" vous me donnez vos gouters et tout se passera bien entre nous \" qu'elle disait. sa presence menacante a l'auberge en a fait tourner les talons a plus d'un. et comme c'est la seule auberge de la ville qu'est-ce qu'ils ont du manger ? eh ben oui de l'herbe ! comment le bon roi landrael peut-il s'entourer de la sorte ? \"",
+    "firstSeen": "2026-01-20T07:52:44.200Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "08:39",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Capitaine Igloo a ouvert un chantier public dans la ville Igloo en [11,9].",
+    "key": "2026-01-20|08:39|khanat elmerien|elmerie|igloo|capitaine igloo a ouvert un chantier public dans la ville igloo en [11,9].",
+    "firstSeen": "2026-01-20T07:52:44.334Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "08:34",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "La fée K. Lome a ouvert un chantier public dans la ville Accalmie en [4,4].",
+    "key": "2026-01-20|08:34|paradigme vert|foret de jade|accalmie|la fee k. lome a ouvert un chantier public dans la ville accalmie en [4,4].",
+    "firstSeen": "2026-01-20T07:52:44.464Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "08:28",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Construction d'un bâtiment Technicien dans la ville Forum en [3,8].",
+    "key": "2026-01-20|08:28|confederation libre|acropole|forum|construction d'un batiment technicien dans la ville forum en [3,8].",
+    "firstSeen": "2026-01-20T07:52:44.602Z"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "08:21",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Le Juge Père Michu ⭐️ a démissionné de sa fonction : « Habitant de la ville. Mon mandat fut court, mais la voie de la nourriture reste ma priorité. La première viande est arrivée à la taverne ! Merci à vous »",
+    "key": "2026-01-20|08:21|khanat elmerien|elmerie|gueule du lezard|le juge pere michu ⭐️ a demissionne de sa fonction : \" habitant de la ville. mon mandat fut court, mais la voie de la nourriture reste ma priorite. la premiere viande est arrivee a la taverne ! merci a vous \"",
+    "firstSeen": "2026-01-20T07:52:44.734Z"
   }
 ]
