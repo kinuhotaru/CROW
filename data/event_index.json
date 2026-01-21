@@ -31368,5 +31368,165 @@
     "text": "Le Bourgmestre Hans Van Meegeren a nommé Neskaa Van Meegeren au poste de Commissaire de Police.",
     "key": "2026-01-21|00:41|confederation libre|acropole|tribunal cybermondial|le bourgmestre hans van meegeren a nomme neskaa van meegeren au poste de commissaire de police.",
     "firstSeen": "2026-01-20T23:55:24.750Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "04:46",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "",
+    "text": "Megakra a tenté de chasser dans la province Mystisie. Il est à présent recherché par la police de l'Empire Brun pour ce délit politique.",
+    "key": "2026-01-21|04:46|empire brun|mystisie||megakra a tente de chasser dans la province mystisie. il est a present recherche par la police de l'empire brun pour ce delit politique.",
+    "firstSeen": "2026-01-21T04:00:01.114Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "04:36",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "Youpigrad",
+    "text": "Jean-Michel Très Normal a ouvert un chantier public dans la ville Youpigrad en [17,8].",
+    "key": "2026-01-21|04:36|khanat elmerien|bouletie|youpigrad|jean-michel tres normal a ouvert un chantier public dans la ville youpigrad en [17,8].",
+    "firstSeen": "2026-01-21T04:00:02.194Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "04:27",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "Youpigrad",
+    "text": "Construction d'un bâtiment Pré dans la ville Youpigrad en [11,5].",
+    "key": "2026-01-21|04:27|khanat elmerien|bouletie|youpigrad|construction d'un batiment pre dans la ville youpigrad en [11,5].",
+    "firstSeen": "2026-01-21T04:00:02.488Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "04:26",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Charlie (Démagogue) a prononcé un discours louant la Gouverneure Zi Eun (Démagogue) [PP +4].",
+    "key": "2026-01-21|04:26|empire brun|niarkalistan|leprosie|charlie (demagogue) a prononce un discours louant la gouverneure zi eun (demagogue) [pp +4].",
+    "firstSeen": "2026-01-21T04:00:02.795Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "04:26",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Charlie a prononcé un discours louant le Ministre de la Justice Maître Corbeau [PP +6].",
+    "key": "2026-01-21|04:26|empire brun|niarkalistan|leprosie|charlie a prononce un discours louant le ministre de la justice maitre corbeau [pp +6].",
+    "firstSeen": "2026-01-21T04:00:03.017Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "04:26",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Charlie (Démagogue) a prononcé un discours louant la Gouverneure Zi Eun (Démagogue) [PP +7].",
+    "key": "2026-01-21|04:26|empire brun|niarkalistan|leprosie|charlie (demagogue) a prononce un discours louant la gouverneure zi eun (demagogue) [pp +7].",
+    "firstSeen": "2026-01-21T04:00:03.201Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "03:11",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Grâce à Nerdos Valkyry, une ambiance particulière règne dans le bâtiment Auberge « Le yak qui rie » et permet le recrutement massif pour 24 heures.",
+    "key": "2026-01-21|03:11|khanat elmerien|bananie|distillerie|grace a nerdos valkyry, une ambiance particuliere regne dans le batiment auberge \" le yak qui rie \" et permet le recrutement massif pour 24 heures.",
+    "firstSeen": "2026-01-21T04:00:03.344Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "01:49",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Hans Van Meegeren a réussi l'examen du ruban et obtenu la récompense Ruban Gris, ce qui lui permet de poursuivre sa carrière dans la Confédération Libre.",
+    "key": "2026-01-21|01:49|confederation libre|||hans van meegeren a reussi l'examen du ruban et obtenu la recompense ruban gris, ce qui lui permet de poursuivre sa carriere dans la confederation libre.",
+    "firstSeen": "2026-01-21T04:00:03.516Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "01:41",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de la Recherche Big R a lancé la recherche de la technologie n°20 : « Chers amis, Je vous offre une seconde option de recherche. Grâce à une étude internationale, j'ai pu déterminer que cette recherche allait nous permettre à terme d'utiliser des voitures et des trains pour nous déplacer. »",
+    "key": "2026-01-21|01:41|khanat elmerien|||le ministre de la recherche big r a lance la recherche de la technologie n°20 : \" chers amis, je vous offre une seconde option de recherche. grace a une etude internationale, j'ai pu determiner que cette recherche allait nous permettre a terme d'utiliser des voitures et des trains pour nous deplacer. \"",
+    "firstSeen": "2026-01-21T04:00:03.718Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "01:38",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de la Recherche Miliana Ravenloft a fixé le salaire pour la recherche technologique à 45 Éf : « Il est temps de faire grimper vos salaires mes adorables champions. ♪ »",
+    "key": "2026-01-21|01:38|paradigme vert|||le ministre de la recherche miliana ravenloft a fixe le salaire pour la recherche technologique a 45 ef : \" il est temps de faire grimper vos salaires mes adorables champions. ♪ \"",
+    "firstSeen": "2026-01-21T04:00:03.857Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "01:07",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Construction d'un bâtiment Petite Briqueterie dans la ville Léprosie en [18,9].",
+    "key": "2026-01-21|01:07|empire brun|niarkalistan|leprosie|construction d'un batiment petite briqueterie dans la ville leprosie en [18,9].",
+    "firstSeen": "2026-01-21T04:00:04.143Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "01:03",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Enya Ravenloft a donné un spectacle distrayant dans le bâtiment Hôtel « Auberge du corbeau ».",
+    "key": "2026-01-21|01:03|paradigme vert|foret de jade|accalmie|enya ravenloft a donne un spectacle distrayant dans le batiment hotel \" auberge du corbeau \".",
+    "firstSeen": "2026-01-21T04:00:04.281Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "01:02",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Bob le très très terrible a été victime d'un Tunnel Termondique de magnitude 2. Le tunnel détruit 1 Pierre.",
+    "key": "2026-01-21|01:02|confederation libre|milieu|structural|bob le tres tres terrible a ete victime d'un tunnel termondique de magnitude 2. le tunnel detruit 1 pierre.",
+    "firstSeen": "2026-01-21T04:00:04.415Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "01:00",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Syphilys a prononcé un discours louant l'Empereur Charlie [PP +5] : « Charlie ! Comme le dit ton ministre de l'économie, plus de tapin ! Reviens viiiiiiiiiite ! »",
+    "key": "2026-01-21|01:00|empire brun|niarkalistan|leprosie|syphilys a prononce un discours louant l'empereur charlie [pp +5] : \" charlie ! comme le dit ton ministre de l'economie, plus de tapin ! reviens viiiiiiiiiite ! \"",
+    "firstSeen": "2026-01-21T04:00:04.544Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "00:59",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Amir Bachi-bouzouk a donné un spectacle distrayant dans le bâtiment Restaurant « Chez Monique » mais sa prestation a été ridicule : « Euh... dans le Désert Démoniaque, une petite souris et un rejeton de Naar font la course. Soudain, la petite souris s'arrête et dit : C'est fou ce qu'on fait comme poussière tous les deux ! »",
+    "key": "2026-01-21|00:59|empire brun|mystisie|lampe du genie|amir bachi-bouzouk a donne un spectacle distrayant dans le batiment restaurant \" chez monique \" mais sa prestation a ete ridicule : \" euh... dans le desert demoniaque, une petite souris et un rejeton de naar font la course. soudain, la petite souris s'arrete et dit : c'est fou ce qu'on fait comme poussiere tous les deux ! \"",
+    "firstSeen": "2026-01-21T04:00:04.673Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "00:56",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Richard Pinard a ouvert un chantier privé dans la ville CAPS LOCK en [9,3].",
+    "key": "2026-01-21|00:56|khanat elmerien|capsulie|caps lock|richard pinard a ouvert un chantier prive dans la ville caps lock en [9,3].",
+    "firstSeen": "2026-01-21T04:00:04.818Z"
   }
 ]
