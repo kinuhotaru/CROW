@@ -32028,5 +32028,45 @@
     "text": "Construction d'un bâtiment Vendeur de Tissu dans la ville CAPS LOCK en [14,8].",
     "key": "2026-01-21|10:59|khanat elmerien|capsulie|caps lock|construction d'un batiment vendeur de tissu dans la ville caps lock en [14,8].",
     "firstSeen": "2026-01-21T10:59:44.277Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "12:28",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Le Chef de Tribu Light Deathnote a nommé Belle Peregrine au poste de Juge.",
+    "key": "2026-01-21|12:28|khanat elmerien|bananie|distillerie|le chef de tribu light deathnote a nomme belle peregrine au poste de juge.",
+    "firstSeen": "2026-01-21T11:46:11.138Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "12:24",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Martina D. DeiMachiavelli a prononcé un discours louant le Ministre du Travail Tony Sokrano [PP +5] : « Tony, Sicilia vous soutient, nous comptons sur vous. »",
+    "key": "2026-01-21|12:24|empire brun|sicilia|trou perdu|martina d. deimachiavelli a prononce un discours louant le ministre du travail tony sokrano [pp +5] : \" tony, sicilia vous soutient, nous comptons sur vous. \"",
+    "firstSeen": "2026-01-21T11:46:12.480Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "11:59",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
+    "text": "Isotopine s'est fait agresser par un groupe de créatures mené par Rapace Téméraire.",
+    "key": "2026-01-21|11:59|confederation libre|plaine irradiee|atome|isotopine s'est fait agresser par un groupe de creatures mene par rapace temeraire.",
+    "firstSeen": "2026-01-21T11:46:12.661Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "11:59",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "",
+    "text": "Isotopine s'est fait agresser par un groupe de créatures mené par Élémental d'Eau.",
+    "key": "2026-01-21|11:59|confederation libre|acropole||isotopine s'est fait agresser par un groupe de creatures mene par elemental d'eau.",
+    "firstSeen": "2026-01-21T11:46:12.809Z"
   }
 ]
