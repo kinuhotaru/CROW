@@ -31798,5 +31798,45 @@
     "text": "M. Faucher DeiMachiavelli a ouvert un chantier privé dans la ville Trou Perdu en [4,6].",
     "key": "2026-01-21|08:04|empire brun|sicilia|trou perdu|m. faucher deimachiavelli a ouvert un chantier prive dans la ville trou perdu en [4,6].",
     "firstSeen": "2026-01-21T07:54:04.320Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "09:06",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Santa Banana City",
+    "text": "Construction d'un bâtiment Vendeur de Pacotille dans la ville Santa Banana City en [8,9].",
+    "key": "2026-01-21|09:06|empire brun|santa banana|santa banana city|construction d'un batiment vendeur de pacotille dans la ville santa banana city en [8,9].",
+    "firstSeen": "2026-01-21T09:01:37.023Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "09:04",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Bladimir Bladimirovitch Mutin (Démagogue) a prononcé un discours louant le Gouverneur Tormenta (Démagogue) [PP +8].",
+    "key": "2026-01-21|09:04|confederation libre|acropole|forum|bladimir bladimirovitch mutin (demagogue) a prononce un discours louant le gouverneur tormenta (demagogue) [pp +8].",
+    "firstSeen": "2026-01-21T09:01:38.606Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "09:04",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Bladimir Bladimirovitch Mutin a bafouillé un discours ridicule au lieu de louer l'Intendant Simon Halden.",
+    "key": "2026-01-21|09:04|confederation libre|acropole|forum|bladimir bladimirovitch mutin a bafouille un discours ridicule au lieu de louer l'intendant simon halden.",
+    "firstSeen": "2026-01-21T09:01:38.866Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "09:04",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Bladimir Bladimirovitch Mutin (Démagogue) a prononcé un discours louant le Gouverneur Tormenta (Démagogue) [PP +9].",
+    "key": "2026-01-21|09:04|confederation libre|acropole|forum|bladimir bladimirovitch mutin (demagogue) a prononce un discours louant le gouverneur tormenta (demagogue) [pp +9].",
+    "firstSeen": "2026-01-21T09:01:39.139Z"
   }
 ]
