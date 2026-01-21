@@ -32248,5 +32248,95 @@
     "text": "Le Gouverneur Jalala a nommé Jean-Messie de la Nation au poste de Préfet de Police.",
     "key": "2026-01-21|15:41|confederation libre|milieu||le gouverneur jalala a nomme jean-messie de la nation au poste de prefet de police.",
     "firstSeen": "2026-01-21T15:02:23.152Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "16:08",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
+    "text": "Réveil de la nature dans la ville Atome ! Des arbres ont poussé, éventrant les rues. La pollution baisse cependant dans la province.",
+    "key": "2026-01-21|16:08|confederation libre|plaine irradiee|atome|reveil de la nature dans la ville atome ! des arbres ont pousse, eventrant les rues. la pollution baisse cependant dans la province.",
+    "firstSeen": "2026-01-21T16:03:44.536Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "16:13",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Épidémie dans la ville Lampe du Génie ! La maladie Stress frappe les habitants !",
+    "key": "2026-01-21|16:13|empire brun|mystisie|lampe du genie|epidemie dans la ville lampe du genie ! la maladie stress frappe les habitants !",
+    "firstSeen": "2026-01-21T16:03:44.398Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "16:22",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "La Gouverneure Zi Eun a transféré 3000 MØ du bâtiment Palais du Gouverneur au Ministère de l'Économie.",
+    "key": "2026-01-21|16:22|empire brun|||la gouverneure zi eun a transfere 3000 mø du batiment palais du gouverneur au ministere de l'economie.",
+    "firstSeen": "2026-01-21T16:03:44.225Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "16:23",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Intérieur Selim a démissionné de sa fonction : « Ministère de l’Intérieur « Alors si je comprends bien, je peux utiliser mon CET sur la foi de la NAO pour abonder mon PERCOL ? » Paradigme. La Paix soit sur toi. Alhamdulinaar, les chantiers prioritaires qui relevaient du Ministère de l’Intérieur sont en cours ou achevés : la naturalisation en souffrance, les élections, le lancement de la PATATE et l’ouverture du débat sur la fonction publique territoriale. Fidèle à mes principes, c’est à cette dernière que je vais désormais me consacrer. Il n’y pas d’État central utile et équitable sans des villes et des provinces à la hauteur des aspirations de leurs habitants : tout commence toujours par le local. C’est pourquoi le devoir m’appelle au Grand Jardin et en Irendol, où les Jardiniers sont engagés dans la préservation et la défense de notre capitale. C’est à nous qu’il incombe de retrouver la Régente à chaque fois qu’elle s’égare dans un nuage de fumée euphorisant et cette responsabilité, nous la prenons très au sérieux. Je vous laisse entre les pattes des moutons du Ministère, qui ne savent pas ce qu’ils font mais qui le font bien, ce qui est partout et de tout temps l’honneur du fonctionnaire. »",
+    "key": "2026-01-21|16:23|paradigme vert|||le ministre de l'interieur selim a demissionne de sa fonction : \" ministere de l'interieur \" alors si je comprends bien, je peux utiliser mon cet sur la foi de la nao pour abonder mon percol ? \" paradigme. la paix soit sur toi. alhamdulinaar, les chantiers prioritaires qui relevaient du ministere de l'interieur sont en cours ou acheves : la naturalisation en souffrance, les elections, le lancement de la patate et l'ouverture du debat sur la fonction publique territoriale. fidele a mes principes, c'est a cette derniere que je vais desormais me consacrer. il n'y pas d'etat central utile et equitable sans des villes et des provinces a la hauteur des aspirations de leurs habitants : tout commence toujours par le local. c'est pourquoi le devoir m'appelle au grand jardin et en irendol, ou les jardiniers sont engages dans la preservation et la defense de notre capitale. c'est a nous qu'il incombe de retrouver la regente a chaque fois qu'elle s'egare dans un nuage de fumee euphorisant et cette responsabilite, nous la prenons tres au serieux. je vous laisse entre les pattes des moutons du ministere, qui ne savent pas ce qu'ils font mais qui le font bien, ce qui est partout et de tout temps l'honneur du fonctionnaire. \"",
+    "firstSeen": "2026-01-21T16:03:44.036Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "16:41",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Zi Eun a bafouillé un discours ridicule au lieu de louer l'Empereur Charlie.",
+    "key": "2026-01-21|16:41|empire brun|niarkalistan|leprosie|zi eun a bafouille un discours ridicule au lieu de louer l'empereur charlie.",
+    "firstSeen": "2026-01-21T16:03:43.595Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "16:41",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Zi Eun (Démagogue) a prononcé un discours louant l'Empereur Charlie (Démagogue) [PP +8].",
+    "key": "2026-01-21|16:41|empire brun|niarkalistan|leprosie|zi eun (demagogue) a prononce un discours louant l'empereur charlie (demagogue) [pp +8].",
+    "firstSeen": "2026-01-21T16:03:43.754Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "16:41",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "Hanako Ainozomi a ouvert un chantier public dans la ville Sanctuaire en [17,11].",
+    "key": "2026-01-21|16:41|royaume de ruthvenie|geofront|sanctuaire|hanako ainozomi a ouvert un chantier public dans la ville sanctuaire en [17,11].",
+    "firstSeen": "2026-01-21T16:03:43.887Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "16:55",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Santa Banana City",
+    "text": "Necro Mounda a pris sa retraite dans la ville Santa Banana City : « Pas de panique, c'est juste une réorientation professionnelle. »",
+    "key": "2026-01-21|16:55|empire brun|santa banana|santa banana city|necro mounda a pris sa retraite dans la ville santa banana city : \" pas de panique, c'est juste une reorientation professionnelle. \"",
+    "firstSeen": "2026-01-21T16:03:43.242Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "16:57",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Dorian vient d'arriver dans la ville Structural.",
+    "key": "2026-01-21|16:57|confederation libre|milieu|structural|dorian vient d'arriver dans la ville structural.",
+    "firstSeen": "2026-01-21T16:03:42.501Z"
   }
 ]
