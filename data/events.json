@@ -32068,5 +32068,105 @@
     "text": "Le Chef de Tribu Light Deathnote a nommé Belle Peregrine au poste de Juge.",
     "key": "2026-01-21|12:28|khanat elmerien|bananie|distillerie|le chef de tribu light deathnote a nomme belle peregrine au poste de juge.",
     "firstSeen": "2026-01-21T11:46:11.138Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "13:31",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Construction d'un bâtiment Intendance dans la ville Blofeldopolis en [10,9].",
+    "key": "2026-01-21|13:31|confederation libre|warriorland|blofeldopolis|construction d'un batiment intendance dans la ville blofeldopolis en [10,9].",
+    "firstSeen": "2026-01-21T13:58:49.664Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "13:32",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Elune Von Voda a brûlé par erreur des notes scientifiques importantes. La recherche est perturbée (-3 à la technologie n°27).",
+    "key": "2026-01-21|13:32|royaume de ruthvenie|||elune von voda a brule par erreur des notes scientifiques importantes. la recherche est perturbee (-3 a la technologie n°27).",
+    "firstSeen": "2026-01-21T13:58:49.473Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "13:36",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Une rumeur court parmi les habitants de la ville Port Magmor : « Il parait qu'on a entendu par deux fois cette nuit, des sanglots provenant de la chambre de la Duchesse... »",
+    "key": "2026-01-21|13:36|royaume de ruthvenie|crab key|port magmor|une rumeur court parmi les habitants de la ville port magmor : \" il parait qu'on a entendu par deux fois cette nuit, des sanglots provenant de la chambre de la duchesse... \"",
+    "firstSeen": "2026-01-21T13:58:49.273Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "13:38",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "La Grande Khane Sincérité a nommé Gédéon Saillibard au poste de Directeur des Services Secrets.",
+    "key": "2026-01-21|13:38|khanat elmerien|||la grande khane sincerite a nomme gedeon saillibard au poste de directeur des services secrets.",
+    "firstSeen": "2026-01-21T13:58:49.066Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "14:02",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "Construction d'un bâtiment Petite Raffinerie dans la ville Lantenac-du-Lac en [9,2].",
+    "key": "2026-01-21|14:02|royaume de ruthvenie|ruthvenie|lantenac-du-lac|construction d'un batiment petite raffinerie dans la ville lantenac-du-lac en [9,2].",
+    "firstSeen": "2026-01-21T13:58:48.795Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "14:18",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie Père Michu ⭐️ a modifié le taux d'imposition des revenus de la province Elmérie (de 20% à 25%).",
+    "key": "2026-01-21|14:18|khanat elmerien|||le ministre de l'economie pere michu ⭐️ a modifie le taux d'imposition des revenus de la province elmerie (de 20% a 25%).",
+    "firstSeen": "2026-01-21T13:58:48.267Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "14:18",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie Père Michu ⭐️ a modifié le taux d'imposition des revenus de la province Capsulie (de 20% à 25%).",
+    "key": "2026-01-21|14:18|khanat elmerien|||le ministre de l'economie pere michu ⭐️ a modifie le taux d'imposition des revenus de la province capsulie (de 20% a 25%).",
+    "firstSeen": "2026-01-21T13:58:48.591Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "14:19",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie Père Michu ⭐️ a modifié le taux d'imposition des revenus de la province Bananie (de 20% à 25%).",
+    "key": "2026-01-21|14:19|khanat elmerien|||le ministre de l'economie pere michu ⭐️ a modifie le taux d'imposition des revenus de la province bananie (de 20% a 25%).",
+    "firstSeen": "2026-01-21T13:58:47.732Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "14:19",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie Père Michu ⭐️ a modifié le taux d'imposition des revenus de la province Bouletie (de 20% à 25%).",
+    "key": "2026-01-21|14:19|khanat elmerien|||le ministre de l'economie pere michu ⭐️ a modifie le taux d'imposition des revenus de la province bouletie (de 20% a 25%).",
+    "firstSeen": "2026-01-21T13:58:48.019Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "14:48",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Simon Halden a prononcé un discours louant le Gouverneur Tormenta [PP +4] : « Il est important de le dire quand le travail est non seulement bien fait mais également dans l'intérêt de tous. Merci cher Gouverneur pour votre dévouement envers nos citoyens. »",
+    "key": "2026-01-21|14:48|confederation libre|acropole|forum|simon halden a prononce un discours louant le gouverneur tormenta [pp +4] : \" il est important de le dire quand le travail est non seulement bien fait mais egalement dans l'interet de tous. merci cher gouverneur pour votre devouement envers nos citoyens. \"",
+    "firstSeen": "2026-01-21T13:58:46.118Z"
   }
 ]
