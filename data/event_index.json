@@ -31568,5 +31568,55 @@
     "text": "Megakra s'est fait agresser par un groupe de créatures mené par Démon Mineur.",
     "key": "2026-01-21|05:03|empire brun|mystisie||megakra s'est fait agresser par un groupe de creatures mene par demon mineur.",
     "firstSeen": "2026-01-21T05:19:32.100Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "06:56",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Intérieur Felicity Stone a rendu illégal le matériel Fausse Main.",
+    "key": "2026-01-21|06:56|royaume de ruthvenie|||la ministre de l'interieur felicity stone a rendu illegal le materiel fausse main.",
+    "firstSeen": "2026-01-21T05:57:57.387Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "06:52",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Intérieur Felicity Stone a rendu illégal le matériel Détonateur.",
+    "key": "2026-01-21|06:52|royaume de ruthvenie|||la ministre de l'interieur felicity stone a rendu illegal le materiel detonateur.",
+    "firstSeen": "2026-01-21T05:57:58.429Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "06:48",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
+    "text": "Olivier Roi a ouvert un chantier privé dans la ville Atome en [5,8].",
+    "key": "2026-01-21|06:48|confederation libre|plaine irradiee|atome|olivier roi a ouvert un chantier prive dans la ville atome en [5,8].",
+    "firstSeen": "2026-01-21T05:57:58.675Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "06:35",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Intérieur Felicity Stone a autorisé la chasse, autorisé la distribution de nourriture aux monstres : « Par le présent Décret du Ministère de l'Intérieur, la Vénerie est désormais à nouveau autorisée sur tout le territoire du Royaume. NB : On ne sait d'ailleurs pas pourquoi elle ne l'était plus et qui est l'heureux imbécile d'incompétent qui en avait décidé autrement. PS : Ça m'a coûté une blinde, alors profitez-en ! »",
+    "key": "2026-01-21|06:35|royaume de ruthvenie|||la ministre de l'interieur felicity stone a autorise la chasse, autorise la distribution de nourriture aux monstres : \" par le present decret du ministere de l'interieur, la venerie est desormais a nouveau autorisee sur tout le territoire du royaume. nb : on ne sait d'ailleurs pas pourquoi elle ne l'etait plus et qui est l'heureux imbecile d'incompetent qui en avait decide autrement. ps : ca m'a coute une blinde, alors profitez-en ! \"",
+    "firstSeen": "2026-01-21T05:57:58.919Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "06:19",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "Construction d'un bâtiment Cage dans la ville Lantenac-du-Lac en [11,2].",
+    "key": "2026-01-21|06:19|royaume de ruthvenie|ruthvenie|lantenac-du-lac|construction d'un batiment cage dans la ville lantenac-du-lac en [11,2].",
+    "firstSeen": "2026-01-21T05:57:59.164Z"
   }
 ]
