@@ -32168,5 +32168,85 @@
     "text": "Construction d'un bâtiment Intendance dans la ville Blofeldopolis en [10,9].",
     "key": "2026-01-21|13:31|confederation libre|warriorland|blofeldopolis|construction d'un batiment intendance dans la ville blofeldopolis en [10,9].",
     "firstSeen": "2026-01-21T13:58:49.664Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "15:41",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "Le Gouverneur Jalala a nommé Jean-Messie de la Nation au poste de Préfet de Police.",
+    "key": "2026-01-21|15:41|confederation libre|milieu||le gouverneur jalala a nomme jean-messie de la nation au poste de prefet de police.",
+    "firstSeen": "2026-01-21T15:02:23.152Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "15:40",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Le Gouverneur Jalala a transféré 1500 ¢¢ du bâtiment Palais du Gouverneur au Ministère de l'Économie.",
+    "key": "2026-01-21|15:40|confederation libre|||le gouverneur jalala a transfere 1500 ¢¢ du batiment palais du gouverneur au ministere de l'economie.",
+    "firstSeen": "2026-01-21T15:02:24.712Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "15:39",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Construction d'un bâtiment Petite Scierie dans la ville Structural en [4,11].",
+    "key": "2026-01-21|15:39|confederation libre|milieu|structural|construction d'un batiment petite scierie dans la ville structural en [4,11].",
+    "firstSeen": "2026-01-21T15:02:24.950Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "15:35",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Professeur Salifou a ouvert un chantier privé dans la ville Structural en [4,11].",
+    "key": "2026-01-21|15:35|confederation libre|milieu|structural|professeur salifou a ouvert un chantier prive dans la ville structural en [4,11].",
+    "firstSeen": "2026-01-21T15:02:25.104Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "15:34",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Construction d'un bâtiment Librairie dans la ville Structural en [5,11].",
+    "key": "2026-01-21|15:34|confederation libre|milieu|structural|construction d'un batiment librairie dans la ville structural en [5,11].",
+    "firstSeen": "2026-01-21T15:02:25.267Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "15:24",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "Jean-Messie de la Nation s'est présenté aux élections pour le poste de Gouverneur de la province Milieu au nom de l'organisation ONG De la Nation : « J'annonce que je serai candidat. En tant que gouverneur légitime, je me dois de circle back avec les stake holders pour push forward ! Sous ma gouvernance Milieu restera confédérée mais agira comme buffer zone où tous seront welcome pour coffee chat et conférences ! »",
+    "key": "2026-01-21|15:24|confederation libre|milieu||jean-messie de la nation s'est presente aux elections pour le poste de gouverneur de la province milieu au nom de l'organisation ong de la nation : \" j'annonce que je serai candidat. en tant que gouverneur legitime, je me dois de circle back avec les stake holders pour push forward ! sous ma gouvernance milieu restera confederee mais agira comme buffer zone ou tous seront welcome pour coffee chat et conferences ! \"",
+    "firstSeen": "2026-01-21T15:02:25.440Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "15:23",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "",
+    "text": "Le Gouverneur Krak' Boom Da Goff Rocka a adressé un discours à la population : « Leblanc a r'fusé l'poste d'intendant, il est bien trop modeste sur ses capacités d'gestion. Mais comme je n'suis qu'un simple ork troubadour et qu''les chiffres et moi ça fait pas plus que d'doigts sur mes deux mains, j'vais nommer Ama'r au poste d'intendante. Elle m'a proposé un plan en béton armé - pour faire plaisir à Moustache l'béton, y d'vrait être content - je cite : Elle a l'pif pour dénicher les meilleurs filons. (sûrement l'flair pirate pour tout c'qui brille) La combine : Elle trouve un filon sur les mines, et par-dessus, en tant qu'Intendante, elle lance les encouragements à la production ! Bref, vous l'avez compris, pendant cette phase, on mine comme de joyeux pros d'l'éther, on converti, on fait rentrer un max d'impôts sur la conversion dans les caisse de la province mais aussi d'Trésorville, et en deuxième phase on r'balance tout ça joyeusement dans les chantiers sur les infrastructures municipales et provinciales. En espérant qu'ça évite que Moustache nous r'colle les caisses d'Trésorville en négatif. Bref, bienv'nue à Ama'r dans l'équipe provinciale ! »",
+    "key": "2026-01-21|15:23|republique de kraland|karaibes||le gouverneur krak' boom da goff rocka a adresse un discours a la population : \" leblanc a r'fuse l'poste d'intendant, il est bien trop modeste sur ses capacites d'gestion. mais comme je n'suis qu'un simple ork troubadour et qu''les chiffres et moi ca fait pas plus que d'doigts sur mes deux mains, j'vais nommer ama'r au poste d'intendante. elle m'a propose un plan en beton arme - pour faire plaisir a moustache l'beton, y d'vrait etre content - je cite : elle a l'pif pour denicher les meilleurs filons. (surement l'flair pirate pour tout c'qui brille) la combine : elle trouve un filon sur les mines, et par-dessus, en tant qu'intendante, elle lance les encouragements a la production ! bref, vous l'avez compris, pendant cette phase, on mine comme de joyeux pros d'l'ether, on converti, on fait rentrer un max d'impots sur la conversion dans les caisse de la province mais aussi d'tresorville, et en deuxieme phase on r'balance tout ca joyeusement dans les chantiers sur les infrastructures municipales et provinciales. en esperant qu'ca evite que moustache nous r'colle les caisses d'tresorville en negatif. bref, bienv'nue a ama'r dans l'equipe provinciale ! \"",
+    "firstSeen": "2026-01-21T15:02:25.603Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "15:23",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "",
+    "text": "Le Gouverneur Krak' Boom Da Goff Rocka a nommé ama'r au poste de Intendant.",
+    "key": "2026-01-21|15:23|republique de kraland|karaibes||le gouverneur krak' boom da goff rocka a nomme ama'r au poste de intendant.",
+    "firstSeen": "2026-01-21T15:02:25.792Z"
   }
 ]
