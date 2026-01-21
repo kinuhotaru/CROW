@@ -32338,5 +32338,175 @@
     "text": "Réveil de la nature dans la ville Atome ! Des arbres ont poussé, éventrant les rues. La pollution baisse cependant dans la province.",
     "key": "2026-01-21|16:08|confederation libre|plaine irradiee|atome|reveil de la nature dans la ville atome ! des arbres ont pousse, eventrant les rues. la pollution baisse cependant dans la province.",
     "firstSeen": "2026-01-21T16:03:44.536Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "19:00",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Gilbert Tronik a établi une chaîne de production dans le bâtiment Gisement d'Or (la production sera plus rapide) : « Ah je vois qu'un filon a était découvert ! Redoublin d'effort, robots avec moi ! »",
+    "key": "2026-01-21|19:00|royaume de ruthvenie|ruthvenie|ruthvenville|gilbert tronik a etabli une chaine de production dans le batiment gisement d'or (la production sera plus rapide) : \" ah je vois qu'un filon a etait decouvert ! redoublin d'effort, robots avec moi ! \"",
+    "firstSeen": "2026-01-21T18:10:04.749Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "18:42",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Frëlon Musc a acheté le bâtiment Chapelle Grande Déesse « Mausolée de Chilmerdic » au prix de 300 Co.",
+    "key": "2026-01-21|18:42|royaume de ruthvenie|ruthvenie|ruthvenville|frelon musc a achete le batiment chapelle grande deesse \" mausolee de chilmerdic \" au prix de 300 co.",
+    "firstSeen": "2026-01-21T18:10:05.582Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "18:42",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Frëlon Musc a acheté le bâtiment École Supérieure « UFR de Théologie Quantique » au prix de 2000 Co.",
+    "key": "2026-01-21|18:42|royaume de ruthvenie|ruthvenie|ruthvenville|frelon musc a achete le batiment ecole superieure \" ufr de theologie quantique \" au prix de 2000 co.",
+    "firstSeen": "2026-01-21T18:10:05.963Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "18:37",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Diagonale a proposé à Frëlon Musc de lui racheter le bâtiment Chapelle Grande Déesse « Mausolée de Chilmerdic » pour 300 Co.",
+    "key": "2026-01-21|18:37|royaume de ruthvenie|ruthvenie|ruthvenville|diagonale a propose a frelon musc de lui racheter le batiment chapelle grande deesse \" mausolee de chilmerdic \" pour 300 co.",
+    "firstSeen": "2026-01-21T18:10:06.159Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "18:34",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Diagonale a proposé à Frëlon Musc de lui racheter le bâtiment École Supérieure « UFR de Théologie Quantique » pour 2000 Co.",
+    "key": "2026-01-21|18:34|royaume de ruthvenie|ruthvenie|ruthvenville|diagonale a propose a frelon musc de lui racheter le batiment ecole superieure \" ufr de theologie quantique \" pour 2000 co.",
+    "firstSeen": "2026-01-21T18:10:06.351Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "18:34",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Tsé-Tsé vient de mourir dans la ville Igloo : « A L'Antigel, on aurait vu La Tapette écraser Tsé-Tsé de façon assez brusque. Hallucination collective suite à un excès de champignonz ou réalité ? Dans un cas comme dans l’autre, plus aucune trace de la mouche. »",
+    "key": "2026-01-21|18:34|khanat elmerien|elmerie|igloo|tse-tse vient de mourir dans la ville igloo : \" a l'antigel, on aurait vu la tapette ecraser tse-tse de facon assez brusque. hallucination collective suite a un exces de champignonz ou realite ? dans un cas comme dans l'autre, plus aucune trace de la mouche. \"",
+    "firstSeen": "2026-01-21T18:10:06.579Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "18:13",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "",
+    "text": "Le Gouverneur Hench St Misles a nommé Willy Ram au poste de Intendant.",
+    "key": "2026-01-21|18:13|confederation libre|warriorland||le gouverneur hench st misles a nomme willy ram au poste de intendant.",
+    "firstSeen": "2026-01-21T18:10:06.755Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "17:57",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "ama'r s'est fait agresser par un groupe de créatures mené par Aigle Géant.",
+    "key": "2026-01-21|17:57|republique de kraland|karaibes|tresorville|ama'r s'est fait agresser par un groupe de creatures mene par aigle geant.",
+    "firstSeen": "2026-01-21T18:10:06.952Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "17:56",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Construction d'un bâtiment Orfèvrerie dans la ville Distillerie en [7,6].",
+    "key": "2026-01-21|17:56|khanat elmerien|bananie|distillerie|construction d'un batiment orfevrerie dans la ville distillerie en [7,6].",
+    "firstSeen": "2026-01-21T18:10:07.134Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "17:53",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Le Directeur des Services Secrets Gédéon Saillibard a adressé un discours à la population : « Peuple elmérien, fiers guerriers, habitants des villes, des routes et des marges, Je me présente sans détour. Je suis Gédéon Saillibard, dit le Vieux Loup, nommé Ministre des Services Secrets du Khanat. Un ministère discret, mais jamais inutile. Je ne suis pas ici pour surveiller vos nuits, mais pour préparer ce qui vient, avant que cela ne nous tombe dessus. Un pays qui ignore ce que savent ses citoyens improvise quand la crise arrive. Et l’improvisation coûte cher. Je lance donc le Fichier National des Capacités : un registre confidentiel, réservé à l’État, pour savoir qui peut faire quoi, et quand. Guerriers, éclaireurs, messagers, espions, bâtisseurs, négociateurs, soigneurs, stratèges… et toute personne capable de servir le pays à sa manière. Ce fichier ne sert pas à vous contrôler. Il sert à vous appeler au bon moment, pour les bonnes missions. Et oui, vous pourrez être rémunérés. En cas de capture, d’enlèvement, de mission sensible ou d’opération discrète, nous saurons qui contacter, et qui envoyer. J’en appelle donc à vous. Si vous avez des capacités utiles au Khanat, faites-vous connaître auprès de mon ministère. Votre nom ne sera pas crié sur les places publiques. Mais il pourra, un jour, faire la différence. Un peuple trop en sécurité devient faible. Un peuple vigilant reste vivant. Je serai discret. Mais je serai là. Pour le Khanat. Gédéon Saillibard Ministre des Services Secrets »",
+    "key": "2026-01-21|17:53|khanat elmerien|||le directeur des services secrets gedeon saillibard a adresse un discours a la population : \" peuple elmerien, fiers guerriers, habitants des villes, des routes et des marges, je me presente sans detour. je suis gedeon saillibard, dit le vieux loup, nomme ministre des services secrets du khanat. un ministere discret, mais jamais inutile. je ne suis pas ici pour surveiller vos nuits, mais pour preparer ce qui vient, avant que cela ne nous tombe dessus. un pays qui ignore ce que savent ses citoyens improvise quand la crise arrive. et l'improvisation coute cher. je lance donc le fichier national des capacites : un registre confidentiel, reserve a l'etat, pour savoir qui peut faire quoi, et quand. guerriers, eclaireurs, messagers, espions, batisseurs, negociateurs, soigneurs, strateges... et toute personne capable de servir le pays a sa maniere. ce fichier ne sert pas a vous controler. il sert a vous appeler au bon moment, pour les bonnes missions. et oui, vous pourrez etre remuneres. en cas de capture, d'enlevement, de mission sensible ou d'operation discrete, nous saurons qui contacter, et qui envoyer. j'en appelle donc a vous. si vous avez des capacites utiles au khanat, faites-vous connaitre aupres de mon ministere. votre nom ne sera pas crie sur les places publiques. mais il pourra, un jour, faire la difference. un peuple trop en securite devient faible. un peuple vigilant reste vivant. je serai discret. mais je serai la. pour le khanat. gedeon saillibard ministre des services secrets \"",
+    "firstSeen": "2026-01-21T18:10:07.742Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "17:42",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Tina Plurien a ouvert un chantier privé dans la ville Distillerie en [7,6].",
+    "key": "2026-01-21|17:42|khanat elmerien|bananie|distillerie|tina plurien a ouvert un chantier prive dans la ville distillerie en [7,6].",
+    "firstSeen": "2026-01-21T18:10:07.922Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "17:42",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Quelqu'un vient d'arracher un arbre en [7,6] !",
+    "key": "2026-01-21|17:42|khanat elmerien|bananie|distillerie|quelqu'un vient d'arracher un arbre en [7,6] !",
+    "firstSeen": "2026-01-21T18:10:08.100Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "17:30",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "Le Comte Sysson a exproprié le bâtiment Chantier Maison (10,6) pour 0 Co : « Un chantier qui n'avance pas depuis 2 semaines, pas une planche rien? »",
+    "key": "2026-01-21|17:30|royaume de ruthvenie|valegro|fort emouchet|le comte sysson a exproprie le batiment chantier maison (10,6) pour 0 co : \" un chantier qui n'avance pas depuis 2 semaines, pas une planche rien? \"",
+    "firstSeen": "2026-01-21T18:10:08.285Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "17:29",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Diagonale a fondé l'organisation politique Grand Perturbateur Endocrinien.",
+    "key": "2026-01-21|17:29|royaume de ruthvenie|||diagonale a fonde l'organisation politique grand perturbateur endocrinien.",
+    "firstSeen": "2026-01-21T18:10:08.454Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "17:12",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Grand Jardin",
+    "text": "Le Bourgmestre Corbeau Sceptique a nommé Selim au poste de Commissaire de Police.",
+    "key": "2026-01-21|17:12|paradigme vert|irendol|grand jardin|le bourgmestre corbeau sceptique a nomme selim au poste de commissaire de police.",
+    "firstSeen": "2026-01-21T18:10:08.632Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "17:10",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "Construction d'un bâtiment Pré dans la ville Sanctuaire en [17,11].",
+    "key": "2026-01-21|17:10|royaume de ruthvenie|geofront|sanctuaire|construction d'un batiment pre dans la ville sanctuaire en [17,11].",
+    "firstSeen": "2026-01-21T18:10:08.812Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "17:09",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
+    "text": "Le Bourgmestre Prøsper Mølin a adressé un discours à la population : « VENDREDI CAILLASSE - Veine minérale irradiée - Peuple irradié, mutants et normies, désormais tous les vendredis à Atøme c'est CAILLASSE ! En ces heures de post-tentaculation, la pierre est devenue une ressource stratégique. Alors, on attrape un filon minéral, on déploie un encouragement à la production, on profite des célèbres chaines de production Nansay, et on tape du pied au rythme entrainant du duo en vogue, Dusk et Aurora ! De quoi extraire de la pierre à un taux défiant toute réalité ! |Pierre⟩ + (filon ⊗ chaîne ⊗ entrain ⊗ encouragement) ⇒ |Productivité⟩↑ Début des festivités aux environs de midi ! Petits fours irradiés et bière transgénique pour l'apéritif. Si le professeur Nobyl ne fait pas tout sauter en cuisine... A vendredi ! Avec vos pioches ! »",
+    "key": "2026-01-21|17:09|confederation libre|plaine irradiee|atome|le bourgmestre prøsper mølin a adresse un discours a la population : \" vendredi caillasse - veine minerale irradiee - peuple irradie, mutants et normies, desormais tous les vendredis a atøme c'est caillasse ! en ces heures de post-tentaculation, la pierre est devenue une ressource strategique. alors, on attrape un filon mineral, on deploie un encouragement a la production, on profite des celebres chaines de production nansay, et on tape du pied au rythme entrainant du duo en vogue, dusk et aurora ! de quoi extraire de la pierre a un taux defiant toute realite ! |pierre⟩ + (filon ⊗ chaine ⊗ entrain ⊗ encouragement) ⇒ |productivite⟩↑ debut des festivites aux environs de midi ! petits fours irradies et biere transgenique pour l'aperitif. si le professeur nobyl ne fait pas tout sauter en cuisine... a vendredi ! avec vos pioches ! \"",
+    "firstSeen": "2026-01-21T18:10:09.005Z"
   }
 ]
