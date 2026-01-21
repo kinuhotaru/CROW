@@ -31528,5 +31528,45 @@
     "text": "Richard Pinard a ouvert un chantier privé dans la ville CAPS LOCK en [9,3].",
     "key": "2026-01-21|00:56|khanat elmerien|capsulie|caps lock|richard pinard a ouvert un chantier prive dans la ville caps lock en [9,3].",
     "firstSeen": "2026-01-21T04:00:04.818Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "05:41",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "PierreJean a prononcé un discours louant le Duc Emile Liarr [PP +1] : « J'tenais juste à dire à vous autres qui cultiver la terre que bah le duc, il était prêt à payer un peu plus cher pour qu'on puisse vivre de not' travail et que ça, bah c'est pas tout les nobles du royaume qui sont prêt à le faire »",
+    "key": "2026-01-21|05:41|royaume de ruthvenie|valegro|fort emouchet|pierrejean a prononce un discours louant le duc emile liarr [pp +1] : \" j'tenais juste a dire a vous autres qui cultiver la terre que bah le duc, il etait pret a payer un peu plus cher pour qu'on puisse vivre de not' travail et que ca, bah c'est pas tout les nobles du royaume qui sont pret a le faire \"",
+    "firstSeen": "2026-01-21T05:19:31.140Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "05:38",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
+    "text": "Construction d'un bâtiment Nappe de Pétrole dans la ville Atome en [6,9].",
+    "key": "2026-01-21|05:38|confederation libre|plaine irradiee|atome|construction d'un batiment nappe de petrole dans la ville atome en [6,9].",
+    "firstSeen": "2026-01-21T05:19:31.786Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "05:23",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "Construction d'un bâtiment Librairie dans la ville Fort Emouchet en [17,7].",
+    "key": "2026-01-21|05:23|royaume de ruthvenie|valegro|fort emouchet|construction d'un batiment librairie dans la ville fort emouchet en [17,7].",
+    "firstSeen": "2026-01-21T05:19:31.965Z"
+  },
+  {
+    "date": "2026-01-21",
+    "time": "05:03",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "",
+    "text": "Megakra s'est fait agresser par un groupe de créatures mené par Démon Mineur.",
+    "key": "2026-01-21|05:03|empire brun|mystisie||megakra s'est fait agresser par un groupe de creatures mene par demon mineur.",
+    "firstSeen": "2026-01-21T05:19:32.100Z"
   }
 ]
