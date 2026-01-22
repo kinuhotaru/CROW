@@ -34678,5 +34678,55 @@
     "text": "Megakra s'est fait agresser par un groupe de créatures mené par Démon Mineur.",
     "key": "2026-01-22|14:39|empire brun|mystisie||megakra s'est fait agresser par un groupe de creatures mene par demon mineur.",
     "firstSeen": "2026-01-22T13:58:47.659Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "15:13",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de la Justice Monique Quiès a adressé un discours à la population : « Messieurs et mesdames, l'heure est grave. Bruits de canne qui fait très très peur cette fois, houlala, t'as les foies mon gars Aujourd'hui un deuxième assassinat a eux lieu dans notre belle ville d'Acropole ! Celui cette fois du gouverneur ! Je me refuse de voir ce malandrin du meurtre devenir un tueur en série. Et je refuse de voir un premier échec de justice dans notre belle confédération, surtout aussi tôt dans mon mandat ! La chasse est lancée et nous vous retrouveront monsieur le tueur de Simon et de Tormenta ! On a les premières preuves avec nous, ils sont encore en vie. Et la piste est chaude encore. Enfin un peu tiédassse là. »",
+    "key": "2026-01-22|15:13|confederation libre|||la ministre de la justice monique quies a adresse un discours a la population : \" messieurs et mesdames, l'heure est grave. bruits de canne qui fait tres tres peur cette fois, houlala, t'as les foies mon gars aujourd'hui un deuxieme assassinat a eux lieu dans notre belle ville d'acropole ! celui cette fois du gouverneur ! je me refuse de voir ce malandrin du meurtre devenir un tueur en serie. et je refuse de voir un premier echec de justice dans notre belle confederation, surtout aussi tot dans mon mandat ! la chasse est lancee et nous vous retrouveront monsieur le tueur de simon et de tormenta ! on a les premieres preuves avec nous, ils sont encore en vie. et la piste est chaude encore. enfin un peu tiedassse la. \"",
+    "firstSeen": "2026-01-22T15:01:21.927Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "15:22",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Megakra a ouvert un chantier privé dans la ville Lampe du Génie en [17,9].",
+    "key": "2026-01-22|15:22|empire brun|mystisie|lampe du genie|megakra a ouvert un chantier prive dans la ville lampe du genie en [17,9].",
+    "firstSeen": "2026-01-22T15:01:21.565Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "15:25",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Grand Jardin",
+    "text": "Construction d'un bâtiment Station dans la ville Grand Jardin en [8,10].",
+    "key": "2026-01-22|15:25|paradigme vert|irendol|grand jardin|construction d'un batiment station dans la ville grand jardin en [8,10].",
+    "firstSeen": "2026-01-22T15:01:21.076Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "15:29",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Construction d'un bâtiment Vendeur de Tissu dans la ville Lampe du Génie en [17,9].",
+    "key": "2026-01-22|15:29|empire brun|mystisie|lampe du genie|construction d'un batiment vendeur de tissu dans la ville lampe du genie en [17,9].",
+    "firstSeen": "2026-01-22T15:01:20.566Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "15:41",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Jules Fégris a tenté de voler SerbitarSeraven ! Cependant, la police du Khanat Elmérien abandonne les poursuites parce que tous les policiers sont au bal de la police.",
+    "key": "2026-01-22|15:41|khanat elmerien|elmerie|gueule du lezard|jules fegris a tente de voler serbitarseraven ! cependant, la police du khanat elmerien abandonne les poursuites parce que tous les policiers sont au bal de la police.",
+    "firstSeen": "2026-01-22T15:01:18.893Z"
   }
 ]
