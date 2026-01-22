@@ -34618,5 +34618,65 @@
     "text": "Construction d'un bâtiment Comptoir dans la ville Ruthvenville en [18,11].",
     "key": "2026-01-22|12:49|royaume de ruthvenie|ruthvenie|ruthvenville|construction d'un batiment comptoir dans la ville ruthvenville en [18,11].",
     "firstSeen": "2026-01-22T11:57:49.383Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "13:08",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Santa Banana City",
+    "text": "La Bourgmestre Mademoiselle vient de modifier la taxe foncière (elle passe de 10 MØ à 5 MØ) : « Notre ville doit se développer, et matraquer ses habitants de taxes n’est pas productif. Aussi, je divise les taxes foncières par 2, en espérant que cela encourage la consommation et l’érection de nouveaux commerces. »",
+    "key": "2026-01-22|13:08|empire brun|santa banana|santa banana city|la bourgmestre mademoiselle vient de modifier la taxe fonciere (elle passe de 10 mø a 5 mø) : \" notre ville doit se developper, et matraquer ses habitants de taxes n'est pas productif. aussi, je divise les taxes foncieres par 2, en esperant que cela encourage la consommation et l'erection de nouveaux commerces. \"",
+    "firstSeen": "2026-01-22T13:58:50.679Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "13:10",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Santa Banana City",
+    "text": "Mademoiselle a bafouillé un discours ridicule au lieu de louer l'Empereur Tony Sokrano : « La ville de Santa Banana City felicite le nouvel Empereur ! Louons son accession au pouvoir selon les coutumes locales. »",
+    "key": "2026-01-22|13:10|empire brun|santa banana|santa banana city|mademoiselle a bafouille un discours ridicule au lieu de louer l'empereur tony sokrano : \" la ville de santa banana city felicite le nouvel empereur ! louons son accession au pouvoir selon les coutumes locales. \"",
+    "firstSeen": "2026-01-22T13:58:50.483Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "13:29",
+    "empire": "Provinces indépendantes",
+    "province": "",
+    "city": "",
+    "text": "Epoxy [429] a cédé la direction de l'organisation Aléocratie Maztike à Diagonale.",
+    "key": "2026-01-22|13:29|provinces independantes|||epoxy [429] a cede la direction de l'organisation aleocratie maztike a diagonale.",
+    "firstSeen": "2026-01-22T13:58:50.289Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "14:16",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Construction d'un bâtiment Comptoir dans la ville Ruthvenville en [4,9].",
+    "key": "2026-01-22|14:16|royaume de ruthvenie|ruthvenie|ruthvenville|construction d'un batiment comptoir dans la ville ruthvenville en [4,9].",
+    "firstSeen": "2026-01-22T13:58:50.090Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "14:18",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "Construction d'un bâtiment Comptoir dans la ville Fort Emouchet en [11,11].",
+    "key": "2026-01-22|14:18|royaume de ruthvenie|valegro|fort emouchet|construction d'un batiment comptoir dans la ville fort emouchet en [11,11].",
+    "firstSeen": "2026-01-22T13:58:49.429Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "14:39",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "",
+    "text": "Megakra s'est fait agresser par un groupe de créatures mené par Démon Mineur.",
+    "key": "2026-01-22|14:39|empire brun|mystisie||megakra s'est fait agresser par un groupe de creatures mene par demon mineur.",
+    "firstSeen": "2026-01-22T13:58:47.659Z"
   }
 ]
