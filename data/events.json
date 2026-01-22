@@ -34728,5 +34728,45 @@
     "text": "Jules Fégris a tenté de voler SerbitarSeraven ! Cependant, la police du Khanat Elmérien abandonne les poursuites parce que tous les policiers sont au bal de la police.",
     "key": "2026-01-22|15:41|khanat elmerien|elmerie|gueule du lezard|jules fegris a tente de voler serbitarseraven ! cependant, la police du khanat elmerien abandonne les poursuites parce que tous les policiers sont au bal de la police.",
     "firstSeen": "2026-01-22T15:01:18.893Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "16:00",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "Construction d'un bâtiment Petite Forge dans la ville Fort Emouchet en [13,7].",
+    "key": "2026-01-22|16:00|royaume de ruthvenie|valegro|fort emouchet|construction d'un batiment petite forge dans la ville fort emouchet en [13,7].",
+    "firstSeen": "2026-01-22T16:01:31.261Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "16:15",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Professeur Salifou a été victime d'un Tunnel Termondique de magnitude 6. Une grande lumière le frappe et le laisse dans le coma.",
+    "key": "2026-01-22|16:15|confederation libre|milieu|structural|professeur salifou a ete victime d'un tunnel termondique de magnitude 6. une grande lumiere le frappe et le laisse dans le coma.",
+    "firstSeen": "2026-01-22T16:01:31.037Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "16:46",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Une rumeur court parmi les habitants de la ville Garinaville : « Parait qu'il y a eu un souci à la taverne. »",
+    "key": "2026-01-22|16:46|paradigme vert|siberia|garinaville|une rumeur court parmi les habitants de la ville garinaville : \" parait qu'il y a eu un souci a la taverne. \"",
+    "firstSeen": "2026-01-22T16:01:30.810Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "16:47",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "",
+    "text": "Des conditions climatiques favorables font baisser la pollution dans la province Niarkalistan.",
+    "key": "2026-01-22|16:47|empire brun|niarkalistan||des conditions climatiques favorables font baisser la pollution dans la province niarkalistan.",
+    "firstSeen": "2026-01-22T16:01:29.518Z"
   }
 ]
