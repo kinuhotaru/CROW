@@ -34768,5 +34768,95 @@
     "text": "Des conditions climatiques favorables font baisser la pollution dans la province Niarkalistan.",
     "key": "2026-01-22|16:47|empire brun|niarkalistan||des conditions climatiques favorables font baisser la pollution dans la province niarkalistan.",
     "firstSeen": "2026-01-22T16:01:29.518Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "17:37",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Un pirate s'est introduit dans le réseau du Paradigme Vert pour dérober des informations sur la technologie Science Magique en faveur de l'Empire Brun (+3).",
+    "key": "2026-01-22|17:37|paradigme vert|foret de jade|accalmie|un pirate s'est introduit dans le reseau du paradigme vert pour derober des informations sur la technologie science magique en faveur de l'empire brun (+3).",
+    "firstSeen": "2026-01-22T17:48:28.104Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "17:49",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Construction d'un bâtiment Station dans la ville Igloo en [11,9].",
+    "key": "2026-01-22|17:49|khanat elmerien|elmerie|igloo|construction d'un batiment station dans la ville igloo en [11,9].",
+    "firstSeen": "2026-01-22T17:48:27.925Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "17:54",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Bonnie Red a ouvert un chantier privé dans la ville Igloo en [9,6].",
+    "key": "2026-01-22|17:54|khanat elmerien|elmerie|igloo|bonnie red a ouvert un chantier prive dans la ville igloo en [9,6].",
+    "firstSeen": "2026-01-22T17:48:27.742Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "17:57",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "",
+    "text": "Isotopine a trouvé une terre riche pour le bois dans la province Acropole : « Ouais. Profitez de ma présence. Là où je passe, le sol devient meuble, et les arbres poussent. Attention, ils peuvent être animés de mauvaises intentions, prévoir une hache affûtée ! »",
+    "key": "2026-01-22|17:57|confederation libre|acropole||isotopine a trouve une terre riche pour le bois dans la province acropole : \" ouais. profitez de ma presence. la ou je passe, le sol devient meuble, et les arbres poussent. attention, ils peuvent etre animes de mauvaises intentions, prevoir une hache affutee ! \"",
+    "firstSeen": "2026-01-22T17:48:27.553Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "18:03",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "Construction d'un bâtiment Comptoir dans la ville Sanctuaire en [14,9].",
+    "key": "2026-01-22|18:03|royaume de ruthvenie|geofront|sanctuaire|construction d'un batiment comptoir dans la ville sanctuaire en [14,9].",
+    "firstSeen": "2026-01-22T17:48:27.365Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "18:25",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Le petit Wood des 5 Pics a établi une chaîne de production dans le bâtiment Forge « Arcelormikral » (la production sera plus rapide) : « Labor Prohibus Omnia Vincit »",
+    "key": "2026-01-22|18:25|khanat elmerien|elmerie|gueule du lezard|le petit wood des 5 pics a etabli une chaine de production dans le batiment forge \" arcelormikral \" (la production sera plus rapide) : \" labor prohibus omnia vincit \"",
+    "firstSeen": "2026-01-22T17:48:27.177Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "18:31",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "",
+    "text": "L'Intendante (f.f.) Zi Eun vient de modifier l'impôt sur l'extraction. Ferme 0 -> 2 MØ Production de Bois 0 -> 2 MØ Enclos 0 -> 2 MØ Mine de Pierre 0 -> 2 MØ Mine de Fer 0 -> 2 MØ Puits de Pétrole 0 -> 2 MØ",
+    "key": "2026-01-22|18:31|empire brun|niarkalistan||l'intendante (f.f.) zi eun vient de modifier l'impot sur l'extraction. ferme 0 -> 2 mø production de bois 0 -> 2 mø enclos 0 -> 2 mø mine de pierre 0 -> 2 mø mine de fer 0 -> 2 mø puits de petrole 0 -> 2 mø",
+    "firstSeen": "2026-01-22T17:48:26.754Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "18:31",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "",
+    "text": "L'Intendante (f.f.) Zi Eun vient de modifier le taux d'imposition sur la vente de produits. Matières premières 0 -> 5% Nourriture 15% Repas 15% Boissons 15% Plantes 0 -> 5% Animaux d'élevage 0 -> 5% Produits intermédiaires 0 -> 2% Outils 10% Équipements de maison 10% Livres 10% Médicaments 10% Courrier 10% Vêtements et accessoires 10% Électronique 10% Armes de contact 10% Armes de tir/à distance 10% Munitions & explosifs 10% Armures 10% Armements divers 10% Véhicules 10% Bateaux 10% Avions 10% Composants 10% Énergie 10% Équipements de véhicules 10% Bijoux 10% Musique 10% Divers 15% Potions magiques 10% Objets magiques 10% Services 15% Stages 10 -> 15% Implants 10%",
+    "key": "2026-01-22|18:31|empire brun|niarkalistan||l'intendante (f.f.) zi eun vient de modifier le taux d'imposition sur la vente de produits. matieres premieres 0 -> 5% nourriture 15% repas 15% boissons 15% plantes 0 -> 5% animaux d'elevage 0 -> 5% produits intermediaires 0 -> 2% outils 10% equipements de maison 10% livres 10% medicaments 10% courrier 10% vetements et accessoires 10% electronique 10% armes de contact 10% armes de tir/a distance 10% munitions & explosifs 10% armures 10% armements divers 10% vehicules 10% bateaux 10% avions 10% composants 10% energie 10% equipements de vehicules 10% bijoux 10% musique 10% divers 15% potions magiques 10% objets magiques 10% services 15% stages 10 -> 15% implants 10%",
+    "firstSeen": "2026-01-22T17:48:26.986Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "18:45",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de la Recherche Tendi Neet a lancé la recherche de la technologie n°8 : « Mamie Monique m'a dit qu'elle voulait pouvoir produire plus de bonbons alors je propose que l'on développe des Clippy de Production ! »",
+    "key": "2026-01-22|18:45|confederation libre|||la ministre de la recherche tendi neet a lance la recherche de la technologie n°8 : \" mamie monique m'a dit qu'elle voulait pouvoir produire plus de bonbons alors je propose que l'on developpe des clippy de production ! \"",
+    "firstSeen": "2026-01-22T17:48:25.213Z"
   }
 ]
