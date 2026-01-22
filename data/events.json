@@ -34208,5 +34208,135 @@
     "text": "Le Khan Capitaine Igloo a nommé Yéti au poste de Chef de Tribu de la ville Igloo.",
     "key": "2026-01-22|07:57|khanat elmerien|elmerie||le khan capitaine igloo a nomme yeti au poste de chef de tribu de la ville igloo.",
     "firstSeen": "2026-01-22T07:03:43.800Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "08:04",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Selon les calculs de Pierre Ponce, une conjonction défavorable des corps célestes provoquera un Tremblement de Terre dans la ville Distillerie : « Bon, cette histoire me turlupine ! Je sens qu'on nous entourloupe, mais je ne sais pas où ni comment. On va en avoir le coeur net ! J'ai ici une machine de mon invention pour détecter les mouvements de la pierre. Je l'ai appelé un pierromètre. Suffit de le mettre là, de mettre ce truc là, de faire aller la manivelle dans ce sens-là et puis de mettre un peu d'eau ici. Normalement, ça devrait fonctionner. Ça va me dire si y'a des déplacements de pierre dans le coin, et donc si y'a bien une fontaine ici. Allez, c'est parti !! ... Bon, ... soit y'a pas de fontaine à cailloux. Soit ma machine fonctionne pas. J'suis pas avancé moi ... tant pis ! »",
+    "key": "2026-01-22|08:04|khanat elmerien|bananie|distillerie|selon les calculs de pierre ponce, une conjonction defavorable des corps celestes provoquera un tremblement de terre dans la ville distillerie : \" bon, cette histoire me turlupine ! je sens qu'on nous entourloupe, mais je ne sais pas ou ni comment. on va en avoir le coeur net ! j'ai ici une machine de mon invention pour detecter les mouvements de la pierre. je l'ai appele un pierrometre. suffit de le mettre la, de mettre ce truc la, de faire aller la manivelle dans ce sens-la et puis de mettre un peu d'eau ici. normalement, ca devrait fonctionner. ca va me dire si y'a des deplacements de pierre dans le coin, et donc si y'a bien une fontaine ici. allez, c'est parti !! ... bon, ... soit y'a pas de fontaine a cailloux. soit ma machine fonctionne pas. j'suis pas avance moi ... tant pis ! \"",
+    "firstSeen": "2026-01-22T07:51:49.937Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "08:09",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Capitaine Rompizzo a établi une chaîne de production dans le bâtiment Carrière (la production sera plus rapide) : « De la pierre ! Pour des bateaux en pierre ! »",
+    "key": "2026-01-22|08:09|royaume de ruthvenie|crab key|port magmor|capitaine rompizzo a etabli une chaine de production dans le batiment carriere (la production sera plus rapide) : \" de la pierre ! pour des bateaux en pierre ! \"",
+    "firstSeen": "2026-01-22T07:51:49.812Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "08:15",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "",
+    "text": "L'Intendante Lyanna de Nansay vient de modifier le taux d'imposition des salaires (qui passe de 10% à 0%).",
+    "key": "2026-01-22|08:15|empire brun|mystisie||l'intendante lyanna de nansay vient de modifier le taux d'imposition des salaires (qui passe de 10% a 0%).",
+    "firstSeen": "2026-01-22T07:51:49.564Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "08:15",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Construction d'un bâtiment Petite Briqueterie dans la ville Forum en [4,4].",
+    "key": "2026-01-22|08:15|confederation libre|acropole|forum|construction d'un batiment petite briqueterie dans la ville forum en [4,4].",
+    "firstSeen": "2026-01-22T07:51:49.687Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "08:16",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "",
+    "text": "L'Intendante Lyanna de Nansay vient de modifier le taux d'imposition sur la vente de produits. Matières premières 10 -> 0% Nourriture 10 -> 0% Repas 10 -> 0% Boissons 10 -> 0% Plantes 10 -> 0% Animaux d'élevage 10 -> 0% Produits intermédiaires 10 -> 0% Outils 10 -> 0% Équipements de maison 10 -> 0% Livres 10 -> 0% Médicaments 10 -> 0% Courrier 10 -> 0% Vêtements et accessoires 10 -> 0% Électronique 10 -> 0% Armes de contact 10 -> 0% Armes de tir/à distance 10 -> 0% Munitions & explosifs 10 -> 0% Armures 10 -> 0% Armements divers 10 -> 0% Véhicules 10 -> 0% Bateaux 10 -> 0% Avions 10 -> 0% Composants 10 -> 0% Énergie 10 -> 0% Équipements de véhicules 10 -> 0% Bijoux 10 -> 0% Musique 10 -> 0% Divers 10 -> 0% Potions magiques 10 -> 0% Objets magiques 10 -> 0% Services 10 -> 0% Stages 10 -> 0% Implants 10 -> 0%",
+    "key": "2026-01-22|08:16|empire brun|mystisie||l'intendante lyanna de nansay vient de modifier le taux d'imposition sur la vente de produits. matieres premieres 10 -> 0% nourriture 10 -> 0% repas 10 -> 0% boissons 10 -> 0% plantes 10 -> 0% animaux d'elevage 10 -> 0% produits intermediaires 10 -> 0% outils 10 -> 0% equipements de maison 10 -> 0% livres 10 -> 0% medicaments 10 -> 0% courrier 10 -> 0% vetements et accessoires 10 -> 0% electronique 10 -> 0% armes de contact 10 -> 0% armes de tir/a distance 10 -> 0% munitions & explosifs 10 -> 0% armures 10 -> 0% armements divers 10 -> 0% vehicules 10 -> 0% bateaux 10 -> 0% avions 10 -> 0% composants 10 -> 0% energie 10 -> 0% equipements de vehicules 10 -> 0% bijoux 10 -> 0% musique 10 -> 0% divers 10 -> 0% potions magiques 10 -> 0% objets magiques 10 -> 0% services 10 -> 0% stages 10 -> 0% implants 10 -> 0%",
+    "firstSeen": "2026-01-22T07:51:49.425Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "08:19",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "",
+    "text": "L'Intendante Lyanna de Nansay a adressé un discours à la population : « Les modifications fiscales, souhaitées par la gouverneure, que vous venez de constater sont le résultat de la longue et fastidieuse discussion sur la place publique locale à laquelle je vous renvoie. Je vous souhaite une bonne lecture. N'hésitez pas à venir débattre, même ces sujets méritent de gros sous méritent l'avis de tous. »",
+    "key": "2026-01-22|08:19|empire brun|mystisie||l'intendante lyanna de nansay a adresse un discours a la population : \" les modifications fiscales, souhaitees par la gouverneure, que vous venez de constater sont le resultat de la longue et fastidieuse discussion sur la place publique locale a laquelle je vous renvoie. je vous souhaite une bonne lecture. n'hesitez pas a venir debattre, meme ces sujets meritent de gros sous meritent l'avis de tous. \"",
+    "firstSeen": "2026-01-22T07:51:49.291Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "08:26",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Ren Chantargent a découvert la technologie Système Bancaire en faveur du Royaume de Ruthvénie : « Permet de construire le bâtiment Banque. En outre, le gouvernement peut faire fonctionner la planche à billets, ce qui lui apporte 500 FK/jour en plus des impôts récoltés par l'empire. »",
+    "key": "2026-01-22|08:26|royaume de ruthvenie|||ren chantargent a decouvert la technologie systeme bancaire en faveur du royaume de ruthvenie : \" permet de construire le batiment banque. en outre, le gouvernement peut faire fonctionner la planche a billets, ce qui lui apporte 500 fk/jour en plus des impots recoltes par l'empire. \"",
+    "firstSeen": "2026-01-22T07:51:49.166Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "08:27",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "Ren Chantargent a ouvert un chantier privé dans la ville Sanctuaire en [14,9].",
+    "key": "2026-01-22|08:27|royaume de ruthvenie|geofront|sanctuaire|ren chantargent a ouvert un chantier prive dans la ville sanctuaire en [14,9].",
+    "firstSeen": "2026-01-22T07:51:49.006Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "08:36",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Korail a bafouillé un discours ridicule au lieu de louer le Comte Stefan de Crab.",
+    "key": "2026-01-22|08:36|royaume de ruthvenie|crab key|port magmor|korail a bafouille un discours ridicule au lieu de louer le comte stefan de crab.",
+    "firstSeen": "2026-01-22T07:51:48.713Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "08:36",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Korail (Pacifiste) a prononcé un discours louant le Comte Stefan de Crab (Pacifiste) [PP +6].",
+    "key": "2026-01-22|08:36|royaume de ruthvenie|crab key|port magmor|korail (pacifiste) a prononce un discours louant le comte stefan de crab (pacifiste) [pp +6].",
+    "firstSeen": "2026-01-22T07:51:48.837Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "08:37",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Korail (Pacifiste) a prononcé un discours louant le Comte Stefan de Crab (Pacifiste) [PP +7].",
+    "key": "2026-01-22|08:37|royaume de ruthvenie|crab key|port magmor|korail (pacifiste) a prononce un discours louant le comte stefan de crab (pacifiste) [pp +7].",
+    "firstSeen": "2026-01-22T07:51:48.559Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "08:40",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "L'Empereur Tony Sokrano a adressé un discours à la population : « Citoyens de l’Empire Brun, Dignitaires, gouverneurs, soldats, Et vous, ambitieux qui rêvez encore de survivre à cette nouvelle ère… Aujourd’hui, l’histoire change dé main. Lé trône sour lequel yé souis assis n’est plous celui d’un empire hésitant, affaibli par les intrigues dé couloirs et les promesses creuses. Non. Cé trône est désormais celui d’un pouvoir assumé, tranchant, implacable. Le pouvoir d’oune homme qui n’a pas demandé la couronne… mais qui l’a prise. Yé proclame devant vous qué la Sicilia devient la Province Suprême, cœur battant de l’Empire, phare dé sa puissance, et nouvelle capitale impériale. Là où d’autres voyaient un trou perdu, yé vou un royaume. Là où d’autres voyaient un territoire, yé vou un destin. La Sicilia n’est pas seulement mon foyer. Elle est le modèle de ce qué doit devenir l’Empire : – fière, – indomptable, – riche de traditions, – et redoutée de tous ceux qui oseraient la défier. À partir dé cé jour, toutes les routes de l’Empire mèneront à la Sicilia. Tous les ordres partiront de la Sicilia. Et toute loyauté se mesurera à la fidélité envers la Sicilia… et envers moi, comme lé Parrain et la Sainte Madone l’ont souhaité. Yé né demande pas votre allégeance. Yé l’exige. Qué chaque gouverneur, chaque officier, chaque citoyen sé lève et proclame sa loyauté au nouvel Empire. Oune Empire plus fort. Oune Empire plus clairvoyant. Oune Empire qui ne tremble plus. Ceux qui sé soumettront seront protégés, enrichis, honorés. Ceux qui hésiteront seront… corrigés. Quant à ceux qui refuseront, ils apprendront que l’ombre dé la Sicilia s’étend loin, très loin, et qu’elle né laisse jamais de refuge. Aujourd’hui, l’Empire Brun renaît. Aujourd’hui, la Sicilia règne. Aujourd’hui, yé suis votre Empereur et Consigliere. Agenouillez-vous. Et déclarez votre loyauté. »",
+    "key": "2026-01-22|08:40|empire brun|||l'empereur tony sokrano a adresse un discours a la population : \" citoyens de l'empire brun, dignitaires, gouverneurs, soldats, et vous, ambitieux qui revez encore de survivre a cette nouvelle ere... aujourd'hui, l'histoire change de main. le trone sour lequel ye souis assis n'est plous celui d'un empire hesitant, affaibli par les intrigues de couloirs et les promesses creuses. non. ce trone est desormais celui d'un pouvoir assume, tranchant, implacable. le pouvoir d'oune homme qui n'a pas demande la couronne... mais qui l'a prise. ye proclame devant vous que la sicilia devient la province supreme, cœur battant de l'empire, phare de sa puissance, et nouvelle capitale imperiale. la ou d'autres voyaient un trou perdu, ye vou un royaume. la ou d'autres voyaient un territoire, ye vou un destin. la sicilia n'est pas seulement mon foyer. elle est le modele de ce que doit devenir l'empire : – fiere, – indomptable, – riche de traditions, – et redoutee de tous ceux qui oseraient la defier. a partir de ce jour, toutes les routes de l'empire meneront a la sicilia. tous les ordres partiront de la sicilia. et toute loyaute se mesurera a la fidelite envers la sicilia... et envers moi, comme le parrain et la sainte madone l'ont souhaite. ye ne demande pas votre allegeance. ye l'exige. que chaque gouverneur, chaque officier, chaque citoyen se leve et proclame sa loyaute au nouvel empire. oune empire plus fort. oune empire plus clairvoyant. oune empire qui ne tremble plus. ceux qui se soumettront seront proteges, enrichis, honores. ceux qui hesiteront seront... corriges. quant a ceux qui refuseront, ils apprendront que l'ombre de la sicilia s'etend loin, tres loin, et qu'elle ne laisse jamais de refuge. aujourd'hui, l'empire brun renait. aujourd'hui, la sicilia regne. aujourd'hui, ye suis votre empereur et consigliere. agenouillez-vous. et declarez votre loyaute. \"",
+    "firstSeen": "2026-01-22T07:51:48.376Z"
+  },
+  {
+    "date": "2026-01-22",
+    "time": "08:42",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Tribunal Cybermondial",
+    "text": "Hans Van Meegeren a ouvert un chantier public dans la ville Tribunal Cybermondial en [7,10].",
+    "key": "2026-01-22|08:42|confederation libre|acropole|tribunal cybermondial|hans van meegeren a ouvert un chantier public dans la ville tribunal cybermondial en [7,10].",
+    "firstSeen": "2026-01-22T07:51:47.132Z"
   }
 ]
