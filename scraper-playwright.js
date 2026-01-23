@@ -46,6 +46,8 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
   {
     name: 'Crime',
     match: text =>
+        /a lance .+ avis de recherche/.test(text) ||
+        /Un groupe de créature .+ attaque/.test(text) ||
       [
         'a tente de voler',
         'vient d\'achever sa peine',
@@ -62,7 +64,12 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
         'un groupe de policiers tente',
         'a impose une amende',
         'a tente de detourner de l\'argent',
-        's\'est fait agresser par'
+        's\'est fait agresser par',
+        'a tente d\'assassiner',
+        'a tente de fabriquer une fausse clef',
+        'a fixe le montant de la caution à',
+        'a tente de chasser dans',
+        'a tranche la gorge de'
       ].some(keyword => text.includes(keyword)),
     webhook: DISCORD_CRIME_WEBHOOK
   },
@@ -79,7 +86,8 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
         'en tentant d\'organiser une manifestation pro-science',
         'a organise une manifestation pro-science',
         'en tentant d\'organiser une manifestation anti-science',
-        'a organise une manifestation anti-science'
+        'a organise une manifestation anti-science',
+        's\'est introduit dans le réseau'
       ].some(keyword => text.includes(keyword)),
     webhook: DISCORD_RECHERCHE_WEBHOOK
   },
