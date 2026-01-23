@@ -36748,5 +36748,25 @@
     "text": "Construction d'un bâtiment Préfecture de Police dans la ville Igloo en [13,11].",
     "key": "2026-01-23|07:10|khanat elmerien|elmerie|igloo|construction d'un batiment prefecture de police dans la ville igloo en [13,11].",
     "firstSeen": "2026-01-23T07:02:47.293Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "08:41",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Korail a donné de l'entrain au travail dans le bâtiment Gisement de Fer (la production sera plus rapide) : « Un peu de rock pour le métal! »",
+    "key": "2026-01-23|08:41|royaume de ruthvenie|crab key|port magmor|korail a donne de l'entrain au travail dans le batiment gisement de fer (la production sera plus rapide) : \" un peu de rock pour le metal! \"",
+    "firstSeen": "2026-01-23T07:48:26.822Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "08:04",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "Un groupe de créatures mené par 1 Loup attaque La Culotte.",
+    "key": "2026-01-23|08:04|royaume de ruthvenie|ruthvenie||un groupe de creatures mene par 1 loup attaque la culotte.",
+    "firstSeen": "2026-01-23T07:48:28.193Z"
   }
 ]
