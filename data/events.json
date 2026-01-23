@@ -37251,6 +37251,16 @@
   },
   {
     "date": "2026-01-23",
+    "time": "14:22",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de la Recherche Epoxy [429] a lancé la recherche de la technologie n°2 : « Kramarades ! Nous avons avancé ; merci au peu de personnes participant. La Glorieuse a quelque peu usurpé son nom pour cette fois, mais c'est l'occasion de nous - de vous rattraper. Mes remerciements néanmoins aux Kramarade Vesperia, Simone et Jalala pour le rush de fin. ..- -. . / .-.. ..- -- .. . .-. . --..-- / ..- -. / .--. .-.. .- ... -- .- / . - / ..- -. / -.-. .... .- - / -.. --- -. -.-. Lors de ce voyage serein - la Capitale étant on ne peut plus facile à joindre pour une Ministre sans Coléoptère, car après tout c'est notre job de penser plus encore que les autres -, un peu prolongé comme celui de notre première Ministre, il m'est venu à l'esprit que l'île était peut-être un peu trop imprenable en ce moment. ... ..- .-. - --- ..- - / .--. .- .-. / ... . ... / .--. .-. --- .--. .-. . ... / .... .- -... .. - .- -. - ... Ce qui pourrait n'être pas un mal en soi ; mais là, tout de même, c'est compliqué pour le Kramarade lambda de venir y maçonner, miner, s'extasier, se mettre des lampadaires dans l'oeil, bref toutes ces petites choses qui témoignent d'une personne du Peuple ayant goûté à la quintessence de la Républike. -.-. . / --.- ..- .. / -.. . ...- .-. .- .. - / . - .-. . / ..- -. . / --- -... .-.. .. --. .- - .. --- -. Aussi, dans une optique de confort, de fluidification des transports, d'inclusivité des Kramarades et de mise en lumière de notre Républike, ai-je décidé d'étendre tentaculairement notre réseau de transport. A l'oeuvre, maintenant. ... .. / -.-. .- / .--. . ..- - / .-.. . ... / -- --- - .. ...- . .-. »",
+    "key": "2026-01-23|14:22|republique de kraland|||le ministre de la recherche epoxy [429] a lance la recherche de la technologie n°2 : \" kramarades ! nous avons avance ; merci au peu de personnes participant. la glorieuse a quelque peu usurpe son nom pour cette fois, mais c'est l'occasion de nous - de vous rattraper. mes remerciements neanmoins aux kramarade vesperia, simone et jalala pour le rush de fin. ..- -. . / .-.. ..- -- .. . .-. . --..-- / ..- -. / .--. .-.. .- ... -- .- / . - / ..- -. / -.-. .... .- - / -.. --- -. -.-. lors de ce voyage serein - la capitale etant on ne peut plus facile a joindre pour une ministre sans coleoptere, car apres tout c'est notre job de penser plus encore que les autres -, un peu prolonge comme celui de notre premiere ministre, il m'est venu a l'esprit que l'ile etait peut-etre un peu trop imprenable en ce moment. ... ..- .-. - --- ..- - / .--. .- .-. / ... . ... / .--. .-. --- .--. .-. . ... / .... .- -... .. - .- -. - ... ce qui pourrait n'etre pas un mal en soi ; mais la, tout de meme, c'est complique pour le kramarade lambda de venir y maconner, miner, s'extasier, se mettre des lampadaires dans l'oeil, bref toutes ces petites choses qui temoignent d'une personne du peuple ayant goute a la quintessence de la republike. -.-. . / --.- ..- .. / -.. . ...- .-. .- .. - / . - .-. . / ..- -. . / --- -... .-.. .. --. .- - .. --- -. aussi, dans une optique de confort, de fluidification des transports, d'inclusivite des kramarades et de mise en lumiere de notre republike, ai-je decide d'etendre tentaculairement notre reseau de transport. a l'oeuvre, maintenant. ... .. / -.-. .- / .--. . ..- - / .-.. . ... / -- --- - .. ...- . .-. \"",
+    "firstSeen": "2026-01-23T14:56:16.462Z"
+  },
+  {
+    "date": "2026-01-23",
     "time": "14:24",
     "empire": "République de Kraland",
     "province": "",
@@ -37298,5 +37308,125 @@
     "text": "Golgoth le Vagabond s'est fait agresser par un groupe de créatures mené par Loup.",
     "key": "2026-01-23|14:48|royaume de ruthvenie|valegro||golgoth le vagabond s'est fait agresser par un groupe de creatures mene par loup.",
     "firstSeen": "2026-01-23T13:55:34.084Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "15:20",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "La Bourgmestre Estelle Pravi a versé une prime de 200 ¢¢ à Buck Le Lynx Laramie : « Pour service rendu à la ville de Structural. M. Laramie a prêté main forte à nos équipe de jardinage afin de remettre de l'ordre dans le centre! Efficacité exemplaire, merci! »",
+    "key": "2026-01-23|15:20|confederation libre|milieu|structural|la bourgmestre estelle pravi a verse une prime de 200 ¢¢ a buck le lynx laramie : \" pour service rendu a la ville de structural. m. laramie a prete main forte a nos equipe de jardinage afin de remettre de l'ordre dans le centre! efficacite exemplaire, merci! \"",
+    "firstSeen": "2026-01-23T14:56:16.281Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "15:24",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Simon Halden a prononcé un discours louant le Gouverneur Tormenta [PP +4] : « Pour une province qui continue son expansion, on vote Tormenta ! »",
+    "key": "2026-01-23|15:24|confederation libre|acropole|forum|simon halden a prononce un discours louant le gouverneur tormenta [pp +4] : \" pour une province qui continue son expansion, on vote tormenta ! \"",
+    "firstSeen": "2026-01-23T14:56:16.102Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "15:29",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Grand Jardin",
+    "text": "Dale Shippen a pris sa retraite dans la ville Grand Jardin : « Dale une fois redevenu simple citoyen décida de monter une expédition au coeur de la forêt d\"irendol dans le but de trouver des vestiges de Magmor et de revendre des souvenirs a prix d'or aux touristes... Nul ne sait combien de temps durera cette expédition ni si il en reviendra... »",
+    "key": "2026-01-23|15:29|paradigme vert|irendol|grand jardin|dale shippen a pris sa retraite dans la ville grand jardin : \" dale une fois redevenu simple citoyen decida de monter une expedition au coeur de la foret d\"irendol dans le but de trouver des vestiges de magmor et de revendre des souvenirs a prix d'or aux touristes... nul ne sait combien de temps durera cette expedition ni si il en reviendra... \"",
+    "firstSeen": "2026-01-23T14:56:15.905Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "15:35",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "AvoKeuH vient d'arriver dans la ville Ruthvenville.",
+    "key": "2026-01-23|15:35|royaume de ruthvenie|ruthvenie|ruthvenville|avokeuh vient d'arriver dans la ville ruthvenville.",
+    "firstSeen": "2026-01-23T14:56:15.674Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "15:36",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Vik le viking vient d'arriver dans la ville Distillerie.",
+    "key": "2026-01-23|15:36|khanat elmerien|bananie|distillerie|vik le viking vient d'arriver dans la ville distillerie.",
+    "firstSeen": "2026-01-23T14:56:15.256Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "15:36",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Captain Ashclaw vient d'arriver dans la ville Port Magmor.",
+    "key": "2026-01-23|15:36|royaume de ruthvenie|crab key|port magmor|captain ashclaw vient d'arriver dans la ville port magmor.",
+    "firstSeen": "2026-01-23T14:56:15.481Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "15:37",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Cuchulainn vient d'arriver dans la ville Port Magmor.",
+    "key": "2026-01-23|15:37|royaume de ruthvenie|crab key|port magmor|cuchulainn vient d'arriver dans la ville port magmor.",
+    "firstSeen": "2026-01-23T14:56:15.028Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "15:38",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "Suite à la désactivation de son responsable, l'organisation MEDEF passe aux mains de Krak' Boom Da Goff Rocka.",
+    "key": "2026-01-23|15:38|republique de kraland|||suite a la desactivation de son responsable, l'organisation medef passe aux mains de krak' boom da goff rocka.",
+    "firstSeen": "2026-01-23T14:56:14.632Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "15:38",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Wolfgang Belfort a pris sa retraite dans la ville Trésorville : « Parti monter sa boîte dans un endroit plus propice au business. »",
+    "key": "2026-01-23|15:38|republique de kraland|karaibes|tresorville|wolfgang belfort a pris sa retraite dans la ville tresorville : \" parti monter sa boite dans un endroit plus propice au business. \"",
+    "firstSeen": "2026-01-23T14:56:14.834Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "15:41",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "Giada Giulia Gluanta a fait la déclaration officielle suivante aux habitants de la République de Kraland : « La criminalité n'existe pas en République de Kraland. Il n'existe que des comportements anti-inclusifs. C'est officiel, la Première Ministre l'a aussi rappelé, nous avons réussi à faire disparaitre aujourd'hui toute trace de déviance. Mais comme je le disais dans le manifeste du SPLAT, l'ennemi intérieur peut resurgir à tout moment, et de bien des manières. Car malgré tous nos efforts, certains camarades finissent par se sentir moins camarades que les autres. Que ce soit via de la méfiance, un fonctionnaire local trop zélé, des habitudes de vie qui ne ressemblent pas à celles des autres, ou encore un culte imaginaire qui jette l'opprobre sur votre entière communauté . Nous ne devons jamais arrêter nos efforts d'assimilation. C'est pourquoi nous mettons en place aujourd'hui le S.S.D : Score Social de Déconstruction. Chaque camarade possédera désormais son propre SSD allant de 0 à 50, qui sera affiché publiquement ici-même, et qui évoluera au fil du temps en temps semi-réel. Lorsque le SSD est plein, la déconstruction est totale et fait de vous un camarade modèle. Si celui ci se vide, ne vous inquiétez pas, nous avons toutes les solutions pour vous remettre dans le droit chemin. Afin de m'aider dans cette tâche de veille et de surveillance, je piocherai au sein des Camarades Modèles des Agents de recherche qui seront autorisés à ajouter ou enlever des points. Le barème précis ne sera pas rendu public, pour éviter toute transparence ne pas que les ennemis de l'intérieur ne manipulent les scores en leur faveur. »",
+    "key": "2026-01-23|15:41|republique de kraland|||giada giulia gluanta a fait la declaration officielle suivante aux habitants de la republique de kraland : \" la criminalite n'existe pas en republique de kraland. il n'existe que des comportements anti-inclusifs. c'est officiel, la premiere ministre l'a aussi rappele, nous avons reussi a faire disparaitre aujourd'hui toute trace de deviance. mais comme je le disais dans le manifeste du splat, l'ennemi interieur peut resurgir a tout moment, et de bien des manieres. car malgre tous nos efforts, certains camarades finissent par se sentir moins camarades que les autres. que ce soit via de la mefiance, un fonctionnaire local trop zele, des habitudes de vie qui ne ressemblent pas a celles des autres, ou encore un culte imaginaire qui jette l'opprobre sur votre entiere communaute . nous ne devons jamais arreter nos efforts d'assimilation. c'est pourquoi nous mettons en place aujourd'hui le s.s.d : score social de deconstruction. chaque camarade possedera desormais son propre ssd allant de 0 a 50, qui sera affiche publiquement ici-meme, et qui evoluera au fil du temps en temps semi-reel. lorsque le ssd est plein, la deconstruction est totale et fait de vous un camarade modele. si celui ci se vide, ne vous inquietez pas, nous avons toutes les solutions pour vous remettre dans le droit chemin. afin de m'aider dans cette tache de veille et de surveillance, je piocherai au sein des camarades modeles des agents de recherche qui seront autorises a ajouter ou enlever des points. le bareme precis ne sera pas rendu public, pour eviter toute transparence ne pas que les ennemis de l'interieur ne manipulent les scores en leur faveur. \"",
+    "firstSeen": "2026-01-23T14:56:11.971Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "15:41",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "Giada Giulia Gluanta a fait la déclaration officielle suivante aux habitants de la République de Kraland : « 50 : Lumière guidant le peuple Rang réservé à la Première Ministre 49 : Parangon d'inclusivité Rang réservé aux Ministres 35-48 : Camarade modèle Ce rang permet d'accéder aux nouvelles glorieuses professions : Agent de recherche, Tuteur de stage et Déconstructeur. 20-34 : Bon camarade Rang de base permettant de participer à la dénonciation citoyenne. 11-19 : Camarade en perte de repères Lorsque vous atteignez ce rang, vous êtes automatiquement assigné à un Tuteur de stage. Vous avez alors une semaine pour le suivre au moins 48 heures. A la fin de ce stage, vous redevenez un Bon camarade. En cas d'échec, vous rétrograderez au stade d'Ennemi intérieur. 0-10 : Ennemi intérieur Lorsqu'un ennemi intérieur est detecté, celui-ci est volontairement forcé à un rendez-vous auprès d'un des Déconstructeurs. Selon l'état d'avancée du problème, celui-ci déconstruira un certain nombre de vos membres, os, organes... Puis les remplacera par des morceaux permettant une meilleure fluidité de corps et d'esprit. Concernant cette dernière phrase, je pense avoir été claire lors du manifeste du SPLAT. La meilleure façon d'atteindre l'inclusivité et la camaraderie ultime, c'est qu'on se ressemble tous. Problème : personne ne me ressemble, alors que je suis une camarade modèle. Pour atteindre une certaine moyenne, il faut donc que je vous greffe des morceaux de moi. Ils seront imposés aux ennemis intérieurs, mais quiconque souhaite se faire apposer un appendice invertébré est le bienvenu aux locaux du SIMIC, le pôle de recherche mutatoire affilié à l'Aleocratie, Université mondialement reconnue. Nous avons plusieurs choix, et ceux-ci sont en constante évolution. »",
+    "key": "2026-01-23|15:41|republique de kraland|||giada giulia gluanta a fait la declaration officielle suivante aux habitants de la republique de kraland : \" 50 : lumiere guidant le peuple rang reserve a la premiere ministre 49 : parangon d'inclusivite rang reserve aux ministres 35-48 : camarade modele ce rang permet d'acceder aux nouvelles glorieuses professions : agent de recherche, tuteur de stage et deconstructeur. 20-34 : bon camarade rang de base permettant de participer a la denonciation citoyenne. 11-19 : camarade en perte de reperes lorsque vous atteignez ce rang, vous etes automatiquement assigne a un tuteur de stage. vous avez alors une semaine pour le suivre au moins 48 heures. a la fin de ce stage, vous redevenez un bon camarade. en cas d'echec, vous retrograderez au stade d'ennemi interieur. 0-10 : ennemi interieur lorsqu'un ennemi interieur est detecte, celui-ci est volontairement force a un rendez-vous aupres d'un des deconstructeurs. selon l'etat d'avancee du probleme, celui-ci deconstruira un certain nombre de vos membres, os, organes... puis les remplacera par des morceaux permettant une meilleure fluidite de corps et d'esprit. concernant cette derniere phrase, je pense avoir ete claire lors du manifeste du splat. la meilleure facon d'atteindre l'inclusivite et la camaraderie ultime, c'est qu'on se ressemble tous. probleme : personne ne me ressemble, alors que je suis une camarade modele. pour atteindre une certaine moyenne, il faut donc que je vous greffe des morceaux de moi. ils seront imposes aux ennemis interieurs, mais quiconque souhaite se faire apposer un appendice invertebre est le bienvenu aux locaux du simic, le pole de recherche mutatoire affilie a l'aleocratie, universite mondialement reconnue. nous avons plusieurs choix, et ceux-ci sont en constante evolution. \"",
+    "firstSeen": "2026-01-23T14:56:13.454Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "15:41",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Caïus Martius Ice a pris sa retraite dans la ville Forum : « Cela faisait plusieurs jours que Caïus n'était pas sorti des toilettes privées du palais présidentiel. Toilettes camouflées derrière un petit passage secret qu'il avait fait aménager secrètement (oui c'est le principe d'un passage secret), notamment pour camoufler les troubles liés à son âge grandissant. Caïus déprimait. On pourrait même dire que Caïus était entré en dépression. Il se sentait humilié, incompris, et surtout... Fatigué. Lui qui avait eu le sentiment de tout donner pour être élu et aimé de tous, il n'arrivait pas à admettre son échec. Qu'avait-il fait de mal hormis avoir été mutique pendant presque deux semaines, enfermé 19/24h dans ses toilettes pour cause de transit difficile, hormis avoir eu et utilisé un avion privé quand le peuple n'arrivait pas à joindre les deux bouts, hormis avoir surexploité et humilié certains de ses ministres, hormis avoir tenté de manipuler ses concitoyens en promettant tout et son contraire pour être réélu ? Des broutilles ! C'était inexplicable. En plus, il avait menti sur autre chose : il n'avait pas de chalet où partir en retraite. Il n'avait pas vraiment d'argent, d'ailleurs. Cela faisait longtemps qu'il aurait pu physiologiquement sortir des toilettes depuis lundi. Mais il n'osait pas. Il réfléchissait. Depuis plusieurs jours. Finalement, pour la première fois de sa vie depuis plusieurs décennies, il prit une décision. Il se leva d'un bond des toilettes, se rhabilla, et sorti. Personne dans le bureau présidentiel, tant mieux, il n'aurait pas pu supporter le regard de ce traître de Bladimir qu'il avait pourtant considéré comme son propre fils -mais uniquement dans le sens où il espérait que celui-ci prendrait soin de lui- et qui avait fini par lâchement l'envoyer dans une maison de retraite. Quel ingrat ! Il ferma la porte secrète. Il se regarda dans le miroir et prit une posture droite et fière, en bombant le torse. Lorsqu'il fut satisfait de son image, il sorti du palais présidentiel, prêt à affronter les regards des passants et se dirigea sans s'arrêter vers la gare. Nul ne sait où il partit. Néanmoins, certains passants l'auraient entendu clamer : \"Vous ne me méritiez pas !\" »",
+    "key": "2026-01-23|15:41|confederation libre|acropole|forum|caius martius ice a pris sa retraite dans la ville forum : \" cela faisait plusieurs jours que caius n'etait pas sorti des toilettes privees du palais presidentiel. toilettes camouflees derriere un petit passage secret qu'il avait fait amenager secretement (oui c'est le principe d'un passage secret), notamment pour camoufler les troubles lies a son age grandissant. caius deprimait. on pourrait meme dire que caius etait entre en depression. il se sentait humilie, incompris, et surtout... fatigue. lui qui avait eu le sentiment de tout donner pour etre elu et aime de tous, il n'arrivait pas a admettre son echec. qu'avait-il fait de mal hormis avoir ete mutique pendant presque deux semaines, enferme 19/24h dans ses toilettes pour cause de transit difficile, hormis avoir eu et utilise un avion prive quand le peuple n'arrivait pas a joindre les deux bouts, hormis avoir surexploite et humilie certains de ses ministres, hormis avoir tente de manipuler ses concitoyens en promettant tout et son contraire pour etre reelu ? des broutilles ! c'etait inexplicable. en plus, il avait menti sur autre chose : il n'avait pas de chalet ou partir en retraite. il n'avait pas vraiment d'argent, d'ailleurs. cela faisait longtemps qu'il aurait pu physiologiquement sortir des toilettes depuis lundi. mais il n'osait pas. il reflechissait. depuis plusieurs jours. finalement, pour la premiere fois de sa vie depuis plusieurs decennies, il prit une decision. il se leva d'un bond des toilettes, se rhabilla, et sorti. personne dans le bureau presidentiel, tant mieux, il n'aurait pas pu supporter le regard de ce traitre de bladimir qu'il avait pourtant considere comme son propre fils -mais uniquement dans le sens ou il esperait que celui-ci prendrait soin de lui- et qui avait fini par lachement l'envoyer dans une maison de retraite. quel ingrat ! il ferma la porte secrete. il se regarda dans le miroir et prit une posture droite et fiere, en bombant le torse. lorsqu'il fut satisfait de son image, il sorti du palais presidentiel, pret a affronter les regards des passants et se dirigea sans s'arreter vers la gare. nul ne sait ou il partit. neanmoins, certains passants l'auraient entendu clamer : \"vous ne me meritiez pas !\" \"",
+    "firstSeen": "2026-01-23T14:56:13.787Z"
   }
 ]
