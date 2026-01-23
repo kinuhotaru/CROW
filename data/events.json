@@ -36418,5 +36418,205 @@
     "text": "Quelqu'un vient d'arracher un arbre en [8,4] !",
     "key": "2026-01-23|00:52|confederation libre|milieu|structural|quelqu'un vient d'arracher un arbre en [8,4] !",
     "firstSeen": "2026-01-22T23:53:54.926Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "00:52",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Quelqu'un vient d'arracher un arbre en [7,5] !",
+    "key": "2026-01-23|00:52|confederation libre|milieu|structural|quelqu'un vient d'arracher un arbre en [7,5] !",
+    "firstSeen": "2026-01-23T03:58:48.113Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "00:53",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Quelqu'un vient d'arracher un arbre en [12,7] !",
+    "key": "2026-01-23|00:53|confederation libre|milieu|structural|quelqu'un vient d'arracher un arbre en [12,7] !",
+    "firstSeen": "2026-01-23T03:58:47.728Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "00:53",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Quelqu'un vient d'arracher un arbre en [7,7] !",
+    "key": "2026-01-23|00:53|confederation libre|milieu|structural|quelqu'un vient d'arracher un arbre en [7,7] !",
+    "firstSeen": "2026-01-23T03:58:47.922Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "00:54",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "La Comtesse Alice Chain a adressé un discours à la population : « MIAOU ! La prison a maintenant ses bureaux !! Notre juge Malcom va pouvoir travailler bien. Alice a rajoute des fonds dans la ferme, la ville prévoit bientôt cultiver les plantes qui soignent puis plus tard, celles qui sont bizarres. C'est tout pour aujourd'hui... »",
+    "key": "2026-01-23|00:54|royaume de ruthvenie|ruthvenie|ruthvenville|la comtesse alice chain a adresse un discours a la population : \" miaou ! la prison a maintenant ses bureaux !! notre juge malcom va pouvoir travailler bien. alice a rajoute des fonds dans la ferme, la ville prevoit bientot cultiver les plantes qui soignent puis plus tard, celles qui sont bizarres. c'est tout pour aujourd'hui... \"",
+    "firstSeen": "2026-01-23T03:58:47.539Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "01:02",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Masque a été victime d'un Tunnel Termondique de magnitude 2. Le tunnel détruit 1 Truelle.",
+    "key": "2026-01-23|01:02|confederation libre|milieu|structural|masque a ete victime d'un tunnel termondique de magnitude 2. le tunnel detruit 1 truelle.",
+    "firstSeen": "2026-01-23T03:58:47.348Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "01:10",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Masque a ouvert un chantier privé dans la ville Structural en [3,9].",
+    "key": "2026-01-23|01:10|confederation libre|milieu|structural|masque a ouvert un chantier prive dans la ville structural en [3,9].",
+    "firstSeen": "2026-01-23T03:58:47.156Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "01:19",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "Edgard le Canard a prononcé un discours louant l'Intendante Lucette Circulaire [PP +3] : « Coincoin Kamarade Lucette ! Saches que tu as toute mon admiration pour la vigilance accrue et graffitik que tu as eu ! L'administration sans kamarades efficace c'est un comme un canard sans plume, ca ne vole pas bien haut ! Coincoin ! Merci encore pour ton soutien et tes encouragement et ton soutien et tes encouragement et ton soutien ! COIN. Les finances de la province de la mare sont bien gardées avec toi et le grain n'est pas jeté par la fenêtre ! »",
+    "key": "2026-01-23|01:19|republique de kraland|kraland|quartier supreme|edgard le canard a prononce un discours louant l'intendante lucette circulaire [pp +3] : \" coincoin kamarade lucette ! saches que tu as toute mon admiration pour la vigilance accrue et graffitik que tu as eu ! l'administration sans kamarades efficace c'est un comme un canard sans plume, ca ne vole pas bien haut ! coincoin ! merci encore pour ton soutien et tes encouragement et ton soutien et tes encouragement et ton soutien ! coin. les finances de la province de la mare sont bien gardees avec toi et le grain n'est pas jete par la fenetre ! \"",
+    "firstSeen": "2026-01-23T03:58:46.578Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "01:19",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "",
+    "text": "Gontrand a tenté de nourrir les monstres de la province Capsulie, mais sans succès.",
+    "key": "2026-01-23|01:19|khanat elmerien|capsulie||gontrand a tente de nourrir les monstres de la province capsulie, mais sans succes.",
+    "firstSeen": "2026-01-23T03:58:46.772Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "01:19",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "",
+    "text": "Quelqu'un vient de jeter de la nourriture aux monstres de la province Capsulie. Ils se reproduisent et vont sans doute attaquer les voyageurs !",
+    "key": "2026-01-23|01:19|khanat elmerien|capsulie||quelqu'un vient de jeter de la nourriture aux monstres de la province capsulie. ils se reproduisent et vont sans doute attaquer les voyageurs !",
+    "firstSeen": "2026-01-23T03:58:46.964Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "01:21",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Alaenys Von Rich a convaincu les autorités judiciaires que Sultan Omar Al Khaïd était un danger public. Sa peine a été allongée de 1 jour de pour le délit Voler.",
+    "key": "2026-01-23|01:21|paradigme vert|foret de jade|accalmie|alaenys von rich a convaincu les autorites judiciaires que sultan omar al khaid etait un danger public. sa peine a ete allongee de 1 jour de pour le delit voler.",
+    "firstSeen": "2026-01-23T03:58:46.385Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "01:22",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Alaenys Von Rich a convaincu les autorités judiciaires que Sultan Omar Al Khaïd était un danger public. Sa peine a été allongée de 1 jour de pour le délit Voler.",
+    "key": "2026-01-23|01:22|paradigme vert|foret de jade|accalmie|alaenys von rich a convaincu les autorites judiciaires que sultan omar al khaid etait un danger public. sa peine a ete allongee de 1 jour de pour le delit voler.",
+    "firstSeen": "2026-01-23T03:58:46.187Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "01:23",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "",
+    "text": "Edgard le Canard s'est présenté aux élections pour le poste de Gouverneur de la province Kraland : « Coincoin Kamarades ! Je sais c'est un mandat qui ne fais que coinmencer mais je souhaites inscrire mon action dans la durée. Aussi je vous demanderais de me faire a nouveau confiance pour un second mandat. Si certain souhaitent rejoindre l'équipe provinciale, ou ont des projets pouvant être réaliser, mon kramail est ouvert. Pour un pas de plus dans la gloire, votez Edgard ! »",
+    "key": "2026-01-23|01:23|republique de kraland|kraland||edgard le canard s'est presente aux elections pour le poste de gouverneur de la province kraland : \" coincoin kamarades ! je sais c'est un mandat qui ne fais que coinmencer mais je souhaites inscrire mon action dans la duree. aussi je vous demanderais de me faire a nouveau confiance pour un second mandat. si certain souhaitent rejoindre l'equipe provinciale, ou ont des projets pouvant etre realiser, mon kramail est ouvert. pour un pas de plus dans la gloire, votez edgard ! \"",
+    "firstSeen": "2026-01-23T03:58:45.981Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "01:24",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Alaenys Von Rich a fait la déclaration officielle suivante aux habitants de la ville Accalmie : « Une dragonne entre dans le bureau de la prison. Le Sultan Omar peut assister à la discussion alors qu'il est transféré en direction de sa cellule. Bonjour, Alaenys Von Rich, avocate de la Famiglia. Au vu des griefs que nous avons avec le prévenu, je suis venue jeter un œil à son dossier. Mmmmh mais vous réalisez que ce vol-là, c'est une barre de pole dance ? Entre les mauvaises mains, cela peut être considéré comme une arme ! Sisi je vous jure ! ... ... Vous ne me croyez pas ? Vous avez déjà vu les dégâts que cela cause inséré au mauvais endroit ? Non ? Doit-on trouver un moyen de faire une démonstration ? Bon... Voyons tous ces autres dossiers également alors ! »",
+    "key": "2026-01-23|01:24|paradigme vert|foret de jade|accalmie|alaenys von rich a fait la declaration officielle suivante aux habitants de la ville accalmie : \" une dragonne entre dans le bureau de la prison. le sultan omar peut assister a la discussion alors qu'il est transfere en direction de sa cellule. bonjour, alaenys von rich, avocate de la famiglia. au vu des griefs que nous avons avec le prevenu, je suis venue jeter un œil a son dossier. mmmmh mais vous realisez que ce vol-la, c'est une barre de pole dance ? entre les mauvaises mains, cela peut etre considere comme une arme ! sisi je vous jure ! ... ... vous ne me croyez pas ? vous avez deja vu les degats que cela cause insere au mauvais endroit ? non ? doit-on trouver un moyen de faire une demonstration ? bon... voyons tous ces autres dossiers egalement alors ! \"",
+    "firstSeen": "2026-01-23T03:58:45.782Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "01:35",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "",
+    "text": "Edgard le Canard a fait la déclaration officielle suivante aux habitants de la province Kraland : « Coincoin Kamarades ! Comme vous l'avez vu, ou non sur notre place communale, l'équipe provinciale organise un concours de stakhanovisme. Le principe est simple : agrandir le plus rapidement possible deux bâtiments publics, le potager et l'embarcadère ! Ces deux équipements sont essentiels pour notre produktivité et le bien-être de tout les travailleurs et de toutes les travailleuses. Alors faites chauffer vos truelles, marouflez votre mortier et coincointez vos briques ! Les plus produktivites d'entre vous recevront une prime de produktion graffitik ! »",
+    "key": "2026-01-23|01:35|republique de kraland|kraland||edgard le canard a fait la declaration officielle suivante aux habitants de la province kraland : \" coincoin kamarades ! comme vous l'avez vu, ou non sur notre place communale, l'equipe provinciale organise un concours de stakhanovisme. le principe est simple : agrandir le plus rapidement possible deux batiments publics, le potager et l'embarcadere ! ces deux equipements sont essentiels pour notre produktivite et le bien-etre de tout les travailleurs et de toutes les travailleuses. alors faites chauffer vos truelles, marouflez votre mortier et coincointez vos briques ! les plus produktivites d'entre vous recevront une prime de produktion graffitik ! \"",
+    "firstSeen": "2026-01-23T03:58:45.582Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "01:56",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "Bisouville",
+    "text": "Simone Voile a entraîné dans une Valse Krakovienne les occupants du commerce du bâtiment Restaurant « La Vilaine Teuf » (Simone Voile, Dorian, Jacqueline Vent, Polly, Stone Héchardène, Rock Habi Lee, Pierre Ponce, Palmipouz, SHAH Kira).",
+    "key": "2026-01-23|01:56|republique de kraland|helenie|bisouville|simone voile a entraine dans une valse krakovienne les occupants du commerce du batiment restaurant \" la vilaine teuf \" (simone voile, dorian, jacqueline vent, polly, stone hechardene, rock habi lee, pierre ponce, palmipouz, shah kira).",
+    "firstSeen": "2026-01-23T03:58:45.267Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "02:05",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "Gynerak",
+    "text": "Cap'tain O'Kallaghan a retiré sa candidature en faveur de Eva Dey aux élections pour le poste de Bourgmestre de la ville Gynerak : « Eva fait du tres bon travail je n'ai aucune raison de vouloir la remplacer de fait , continue comme ça ma soeur ! »",
+    "key": "2026-01-23|02:05|republique de kraland|slavonie|gynerak|cap'tain o'kallaghan a retire sa candidature en faveur de eva dey aux elections pour le poste de bourgmestre de la ville gynerak : \" eva fait du tres bon travail je n'ai aucune raison de vouloir la remplacer de fait , continue comme ca ma soeur ! \"",
+    "firstSeen": "2026-01-23T03:58:45.071Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "02:06",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "",
+    "text": "Cap'tain O'Kallaghan a retiré sa candidature en faveur de Tears Velzard aux élections pour le poste de Gouverneur de la province Slavonie : « Pareil que pour Eva , Tears se débrouille comme elle peut très bien pour le moment ! »",
+    "key": "2026-01-23|02:06|republique de kraland|slavonie||cap'tain o'kallaghan a retire sa candidature en faveur de tears velzard aux elections pour le poste de gouverneur de la province slavonie : \" pareil que pour eva , tears se debrouille comme elle peut tres bien pour le moment ! \"",
+    "firstSeen": "2026-01-23T03:58:44.720Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "03:03",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "FurFang Ravenloft a découvert la technologie Production en Série en faveur du Paradigme Vert : « La Production en Série permet à chaque ville d'extraire directement de l'or, ce qui ajoute 100 FK chaque jour aux impôts perçus (répartis ensuite entre ville, province et empire). »",
+    "key": "2026-01-23|03:03|paradigme vert|||furfang ravenloft a decouvert la technologie production en serie en faveur du paradigme vert : \" la production en serie permet a chaque ville d'extraire directement de l'or, ce qui ajoute 100 fk chaque jour aux impots percus (repartis ensuite entre ville, province et empire). \"",
+    "firstSeen": "2026-01-23T03:58:44.523Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "04:05",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de la Recherche Big R a fixé le salaire pour la recherche technologique à 50 ÐE.",
+    "key": "2026-01-23|04:05|khanat elmerien|||le ministre de la recherche big r a fixe le salaire pour la recherche technologique a 50 ðe.",
+    "firstSeen": "2026-01-23T03:58:42.483Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "04:05",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Evan Garcia Liszt a fait la déclaration officielle suivante aux habitants du Royaume de Ruthvénie : « Intervention à succès de Carlito Thérapie ! Les émeutes des Sans-Chaussettes se sont calmées, et la menace magmorienne qui plane sur tous les citoyens mais particulièrement les bishonens s'est estompée. Il ne faut pas pour autant confondre \"plus de danger pour les bishonens\" avec \"plus besoin de s'occuper d'eux\". A Ruthvenville, en pleine capitale, c'est Gildas, un spécimen survivant qui dormait à peine le sol. Maudit, oui, mais parce que ce n'était pas par un cultiste de Magmor personne ne s'en souciait. Est-ce ainsi qu'on laisse mourir un homme quand il ne reste plus de se faire assassiner ? Heureusement, Carlito Thérapie n'oublie pas les plus démunis. Les intervenants de la fondation ont pris en charge le diagnostic, le soutien psychologique, l'accompagnement et même la préparation du remède pour ce cas social négligé de tous. Un caillou pré-sucé avec tout notre savoir-faire a été appliqué sur la source de son mal on n'allait pas l'embrasser, c'est pas hygiénique et le pouvoir bénéfique des pierres lui a rendu la santé. Une nouvelle preuve que les cristaux fonctionnent ! Aujourd'hui, nous ne savons pas où est Gildas, parti tout guilleret sans un regard ni un merci. Mais ce n'est pas grave, car l'important, que nous savons qu'il n'est plus gisant dans l'hôtel de ville de Ruthvenville, et que Carlito Thérapie l'a soigné sans reconnaissance de dettes ni tests de loyautés. A tous les Gildas, Toutes les personnes vulnérables, dont personne ne remarque l'absence, aux esprits en détresse et qui ont tant besoin qu'on s'occupe d'elles : Contactez la fondation Carlito Thérapie. Nous nous occuperons de votre cas. »",
+    "key": "2026-01-23|04:05|royaume de ruthvenie|||evan garcia liszt a fait la declaration officielle suivante aux habitants du royaume de ruthvenie : \" intervention a succes de carlito therapie ! les emeutes des sans-chaussettes se sont calmees, et la menace magmorienne qui plane sur tous les citoyens mais particulierement les bishonens s'est estompee. il ne faut pas pour autant confondre \"plus de danger pour les bishonens\" avec \"plus besoin de s'occuper d'eux\". a ruthvenville, en pleine capitale, c'est gildas, un specimen survivant qui dormait a peine le sol. maudit, oui, mais parce que ce n'etait pas par un cultiste de magmor personne ne s'en souciait. est-ce ainsi qu'on laisse mourir un homme quand il ne reste plus de se faire assassiner ? heureusement, carlito therapie n'oublie pas les plus demunis. les intervenants de la fondation ont pris en charge le diagnostic, le soutien psychologique, l'accompagnement et meme la preparation du remede pour ce cas social neglige de tous. un caillou pre-suce avec tout notre savoir-faire a ete applique sur la source de son mal on n'allait pas l'embrasser, c'est pas hygienique et le pouvoir benefique des pierres lui a rendu la sante. une nouvelle preuve que les cristaux fonctionnent ! aujourd'hui, nous ne savons pas ou est gildas, parti tout guilleret sans un regard ni un merci. mais ce n'est pas grave, car l'important, que nous savons qu'il n'est plus gisant dans l'hotel de ville de ruthvenville, et que carlito therapie l'a soigne sans reconnaissance de dettes ni tests de loyautes. a tous les gildas, toutes les personnes vulnerables, dont personne ne remarque l'absence, aux esprits en detresse et qui ont tant besoin qu'on s'occupe d'elles : contactez la fondation carlito therapie. nous nous occuperons de votre cas. \"",
+    "firstSeen": "2026-01-23T03:58:44.235Z"
   }
 ]
