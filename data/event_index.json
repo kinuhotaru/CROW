@@ -36938,5 +36938,35 @@
     "text": "Un groupe de créatures mené par 1 Araignée du Désert attaque Jamal Al-Fayeed.",
     "key": "2026-01-23|10:05|empire brun|santa banana||un groupe de creatures mene par 1 araignee du desert attaque jamal al-fayeed.",
     "firstSeen": "2026-01-23T09:54:31.869Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "11:36",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Conan le barbu a réussi l'examen du ruban et obtenu la récompense Ruban Mauve, ce qui lui permet de poursuivre sa carrière dans le Khanat Elmérien.",
+    "key": "2026-01-23|11:36|khanat elmerien|||conan le barbu a reussi l'examen du ruban et obtenu la recompense ruban mauve, ce qui lui permet de poursuivre sa carriere dans le khanat elmerien.",
+    "firstSeen": "2026-01-23T10:54:48.426Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "11:29",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "BoboFix a fait commerce d'un objet illégal (1 Virus). Il est à présent recherché par la police de la Confédération Libre pour cette infraction politique.",
+    "key": "2026-01-23|11:29|confederation libre|milieu|structural|bobofix a fait commerce d'un objet illegal (1 virus). il est a present recherche par la police de la confederation libre pour cette infraction politique.",
+    "firstSeen": "2026-01-23T10:54:49.794Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "11:03",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Axiom K-Null a ouvert un chantier privé dans la ville Structural en [17,3].",
+    "key": "2026-01-23|11:03|confederation libre|milieu|structural|axiom k-null a ouvert un chantier prive dans la ville structural en [17,3].",
+    "firstSeen": "2026-01-23T10:54:50.176Z"
   }
 ]
