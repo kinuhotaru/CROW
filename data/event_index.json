@@ -37768,5 +37768,255 @@
     "text": "Makiling a pris sa retraite dans la ville Quartier Suprême : « Makiling décida de changer de profession pour s'établir avec ses bagages au Quartier Central : au placard son costumer de trader à la bourse, place à un nouveau métier d'affairiste dédié à l'export de produits kralandais. »",
     "key": "2026-01-23|18:02|republique de kraland|kraland|quartier supreme|makiling a pris sa retraite dans la ville quartier supreme : \" makiling decida de changer de profession pour s'etablir avec ses bagages au quartier central : au placard son costumer de trader a la bourse, place a un nouveau metier d'affairiste dedie a l'export de produits kralandais. \"",
     "firstSeen": "2026-01-23T17:51:03.950Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "19:50",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Santa Banana City",
+    "text": "Mademoiselle a ouvert un chantier public dans la ville Santa Banana City en [13,9].",
+    "key": "2026-01-23|19:50|empire brun|santa banana|santa banana city|mademoiselle a ouvert un chantier public dans la ville santa banana city en [13,9].",
+    "firstSeen": "2026-01-23T19:02:41.845Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "19:49",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Construction d'un bâtiment Vendeur de Pacotille dans la ville Structural en [3,8].",
+    "key": "2026-01-23|19:49|confederation libre|milieu|structural|construction d'un batiment vendeur de pacotille dans la ville structural en [3,8].",
+    "firstSeen": "2026-01-23T19:02:43.336Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "19:49",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Big R a entamé un duel contre Aurelthar.",
+    "key": "2026-01-23|19:49|khanat elmerien|bananie|distillerie|big r a entame un duel contre aurelthar.",
+    "firstSeen": "2026-01-23T19:02:43.632Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "19:48",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "La Première Ministre Vesperia Ashcroft a adressé un discours à la population : « Ludi... C'est ta conscience qui te parle... Tu n'es pas la préférée de... Quoi? Ça va, j'arrête! »",
+    "key": "2026-01-23|19:48|republique de kraland|||la premiere ministre vesperia ashcroft a adresse un discours a la population : \" ludi... c'est ta conscience qui te parle... tu n'es pas la preferee de... quoi? ca va, j'arrete! \"",
+    "firstSeen": "2026-01-23T19:02:43.823Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "19:48",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "La Première Ministre Vesperia Ashcroft a adressé un discours à la population : « Et j'ai faim! Il y a pas un kramarade bienveillant qui veut me ramener un poke bowl de fenouils au quinoas? »",
+    "key": "2026-01-23|19:48|republique de kraland|||la premiere ministre vesperia ashcroft a adresse un discours a la population : \" et j'ai faim! il y a pas un kramarade bienveillant qui veut me ramener un poke bowl de fenouils au quinoas? \"",
+    "firstSeen": "2026-01-23T19:02:44.014Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "19:47",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "La Première Ministre Vesperia Ashcroft a adressé un discours à la population : « Ah et il me faut un COF! Un Comité d'Organisation des Festivités! De la bienveillance, de l'inclusivité et surtout de la fête et de la lumière! Je veux des volontaires! J'aurais des annonces à vous faire prochainement »",
+    "key": "2026-01-23|19:47|republique de kraland|||la premiere ministre vesperia ashcroft a adresse un discours a la population : \" ah et il me faut un cof! un comite d'organisation des festivites! de la bienveillance, de l'inclusivite et surtout de la fete et de la lumiere! je veux des volontaires! j'aurais des annonces a vous faire prochainement \"",
+    "firstSeen": "2026-01-23T19:02:44.206Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "19:46",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "La Première Ministre Vesperia Ashcroft a adressé un discours à la population : « Et je veux un.e médiateur.ice! C'est pour prouver ma bonne foi... Promis, je le tabasserai pas. »",
+    "key": "2026-01-23|19:46|republique de kraland|||la premiere ministre vesperia ashcroft a adresse un discours a la population : \" et je veux un.e mediateur.ice! c'est pour prouver ma bonne foi... promis, je le tabasserai pas. \"",
+    "firstSeen": "2026-01-23T19:02:44.396Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "19:46",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Santa Banana City",
+    "text": "La Bourgmestre Mademoiselle a adressé un discours à la population : « Chers administrés, notre Capitale a désormais son port autonome Les contrées lointaines et les rivages de l’île aux Kanards vous attendent ! Ramenez pleins de trésors et de poissons ! Je remercie tout particulièrement Charlie, qui a contribué à 80% du projet ! Le reste étant de moi, je constate que les habitants veulent des infrastructures, mais ne font aucun effort pour. Je vais méditer là desssus… »",
+    "key": "2026-01-23|19:46|empire brun|santa banana|santa banana city|la bourgmestre mademoiselle a adresse un discours a la population : \" chers administres, notre capitale a desormais son port autonome les contrees lointaines et les rivages de l'ile aux kanards vous attendent ! ramenez pleins de tresors et de poissons ! je remercie tout particulierement charlie, qui a contribue a 80% du projet ! le reste etant de moi, je constate que les habitants veulent des infrastructures, mais ne font aucun effort pour. je vais mediter la desssus... \"",
+    "firstSeen": "2026-01-23T19:02:44.586Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "19:46",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "La Première Ministre Vesperia Ashcroft a adressé un discours à la population : « Kramarade Sophos! Ramène tes fesses ici! Faut qu'on cause! Je sais que tu as fuis l'île mais on a une discussion à avoir toi et moi! »",
+    "key": "2026-01-23|19:46|republique de kraland|||la premiere ministre vesperia ashcroft a adresse un discours a la population : \" kramarade sophos! ramene tes fesses ici! faut qu'on cause! je sais que tu as fuis l'ile mais on a une discussion a avoir toi et moi! \"",
+    "firstSeen": "2026-01-23T19:02:44.852Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "19:38",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "Bisouville",
+    "text": "Construction d'un bâtiment Tombe dans la ville Bisouville en [19,8].",
+    "key": "2026-01-23|19:38|republique de kraland|helenie|bisouville|construction d'un batiment tombe dans la ville bisouville en [19,8].",
+    "firstSeen": "2026-01-23T19:02:45.048Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "19:34",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Zi Eun a prononcé un discours louant la Bourgmestre Syphilys [PP +6].",
+    "key": "2026-01-23|19:34|empire brun|niarkalistan|leprosie|zi eun a prononce un discours louant la bourgmestre syphilys [pp +6].",
+    "firstSeen": "2026-01-23T19:02:45.235Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "19:15",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Construction d'un bâtiment Librairie dans la ville Léprosie en [16,5].",
+    "key": "2026-01-23|19:15|empire brun|niarkalistan|leprosie|construction d'un batiment librairie dans la ville leprosie en [16,5].",
+    "firstSeen": "2026-01-23T19:02:45.441Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "19:14",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Achille Bombardier a entamé un combat contre Jay Padbol.",
+    "key": "2026-01-23|19:14|khanat elmerien|elmerie|gueule du lezard|achille bombardier a entame un combat contre jay padbol.",
+    "firstSeen": "2026-01-23T19:02:45.625Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "19:13",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Une rumeur court parmi les habitants de la ville Gueule du Lézard : « Il parait que Gédéon en à une toute petite ... »",
+    "key": "2026-01-23|19:13|khanat elmerien|elmerie|gueule du lezard|une rumeur court parmi les habitants de la ville gueule du lezard : \" il parait que gedeon en a une toute petite ... \"",
+    "firstSeen": "2026-01-23T19:02:45.804Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "19:09",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Tendi Neet a acheté le bâtiment Maisonnette « Résidence universitaire » au prix de 2107 ¢¢.",
+    "key": "2026-01-23|19:09|confederation libre|milieu|structural|tendi neet a achete le batiment maisonnette \" residence universitaire \" au prix de 2107 ¢¢.",
+    "firstSeen": "2026-01-23T19:02:45.985Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "19:06",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "La Première Ministre Vesperia Ashcroft a défini une nouvelle répartition budgétaire. Premier Ministre 2% Ministre de la Guerre 3% Ministre de la Justice 3% Ministre des Affaires Étrangères 0% Ministre de l'Économie 2% Ministre de la Recherche 80% Ministre de l'Intérieur 5% Ministre de l'Information 0% Directeur des Services Secrets 5% Ministre du Travail 0%",
+    "key": "2026-01-23|19:06|republique de kraland|||la premiere ministre vesperia ashcroft a defini une nouvelle repartition budgetaire. premier ministre 2% ministre de la guerre 3% ministre de la justice 3% ministre des affaires etrangeres 0% ministre de l'economie 2% ministre de la recherche 80% ministre de l'interieur 5% ministre de l'information 0% directeur des services secrets 5% ministre du travail 0%",
+    "firstSeen": "2026-01-23T19:02:46.166Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "19:02",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "La Duchesse Korail a transféré 666 Co du bâtiment Palais du Gouverneur au Ministère de l'Économie.",
+    "key": "2026-01-23|19:02|royaume de ruthvenie|||la duchesse korail a transfere 666 co du batiment palais du gouverneur au ministere de l'economie.",
+    "firstSeen": "2026-01-23T19:02:46.419Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "19:02",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "La Première Ministre Vesperia Ashcroft a adressé un discours à la population : « Voici une nouvelle fournée des ministres! Et non, ce n'est pas terminé! Même si j'ai dis qu'il n'y a pas d'alerte imminente, le kramarade Job fera une tournée façon inspection surprise pour me faire un rapport complet de notre défense. Bienvenue au ministère de la défense, de l'annexion favorable et de la régulation des populations extérieures, Job! Également, je nomme le Kramarade Bogdan Ministre de la Kollectivisation et de la budgétisation. Qui sera notre trésorier. Sa première mission sera de me faire un compte rendu sur le budget actuel. »",
+    "key": "2026-01-23|19:02|republique de kraland|||la premiere ministre vesperia ashcroft a adresse un discours a la population : \" voici une nouvelle fournee des ministres! et non, ce n'est pas termine! meme si j'ai dis qu'il n'y a pas d'alerte imminente, le kramarade job fera une tournee facon inspection surprise pour me faire un rapport complet de notre defense. bienvenue au ministere de la defense, de l'annexion favorable et de la regulation des populations exterieures, job! egalement, je nomme le kramarade bogdan ministre de la kollectivisation et de la budgetisation. qui sera notre tresorier. sa premiere mission sera de me faire un compte rendu sur le budget actuel. \"",
+    "firstSeen": "2026-01-23T19:02:46.601Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "19:02",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Construction d'un bâtiment Petite Forge dans la ville Igloo en [2,9].",
+    "key": "2026-01-23|19:02|khanat elmerien|elmerie|igloo|construction d'un batiment petite forge dans la ville igloo en [2,9].",
+    "firstSeen": "2026-01-23T19:02:46.838Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "18:58",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Bonnie Red a ouvert un chantier privé dans la ville Igloo en [2,9].",
+    "key": "2026-01-23|18:58|khanat elmerien|elmerie|igloo|bonnie red a ouvert un chantier prive dans la ville igloo en [2,9].",
+    "firstSeen": "2026-01-23T19:02:47.021Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "18:55",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Construction d'un bâtiment Petite Raffinerie dans la ville Igloo en [2,8].",
+    "key": "2026-01-23|18:55|khanat elmerien|elmerie|igloo|construction d'un batiment petite raffinerie dans la ville igloo en [2,8].",
+    "firstSeen": "2026-01-23T19:02:47.225Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "18:53",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Bonnie Red a ouvert un chantier privé dans la ville Igloo en [2,8].",
+    "key": "2026-01-23|18:53|khanat elmerien|elmerie|igloo|bonnie red a ouvert un chantier prive dans la ville igloo en [2,8].",
+    "firstSeen": "2026-01-23T19:02:47.406Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "18:53",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Saphir Ravenmaid (Démagogue) a prononcé un discours louant la Ministre des Affaires Étrangères Enya Ravenloft (Démagogue) [PP +7] : « *La maid garde son faux sourire et ses yeux rouges* M-Merci c'est gentil, heu, vous heu... Arrivez à rester calme malgré tout les vols, c'est heu... Une qualitée »",
+    "key": "2026-01-23|18:53|paradigme vert|foret de jade|accalmie|saphir ravenmaid (demagogue) a prononce un discours louant la ministre des affaires etrangeres enya ravenloft (demagogue) [pp +7] : \" *la maid garde son faux sourire et ses yeux rouges* m-merci c'est gentil, heu, vous heu... arrivez a rester calme malgre tout les vols, c'est heu... une qualitee \"",
+    "firstSeen": "2026-01-23T19:02:47.601Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "18:52",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "La Première Ministre Vesperia Ashcroft a nommé Bogdan D'Arken au poste de Ministre de l'Économie.",
+    "key": "2026-01-23|18:52|republique de kraland|||la premiere ministre vesperia ashcroft a nomme bogdan d'arken au poste de ministre de l'economie.",
+    "firstSeen": "2026-01-23T19:02:47.787Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "18:52",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "La Première Ministre Vesperia Ashcroft a nommé Structuran Job au poste de Ministre de la Guerre.",
+    "key": "2026-01-23|18:52|republique de kraland|||la premiere ministre vesperia ashcroft a nomme structuran job au poste de ministre de la guerre.",
+    "firstSeen": "2026-01-23T19:02:49.714Z"
   }
 ]
