@@ -36618,5 +36618,35 @@
     "text": "Quelqu'un vient d'arracher un arbre en [7,5] !",
     "key": "2026-01-23|00:52|confederation libre|milieu|structural|quelqu'un vient d'arracher un arbre en [7,5] !",
     "firstSeen": "2026-01-23T03:58:48.113Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "06:52",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Capitaine Igloo a proposé à Hezboleune de lui racheter le bâtiment Briqueterie « À la brique rouge » pour 2500 ÐE.",
+    "key": "2026-01-23|06:52|khanat elmerien|elmerie|igloo|capitaine igloo a propose a hezboleune de lui racheter le batiment briqueterie \" a la brique rouge \" pour 2500 ðe.",
+    "firstSeen": "2026-01-23T05:54:29.765Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "06:37",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de la Recherche Shana Al Khaïd a adressé un discours à la population : « On ne me voit pas, mais on me ressent quand deux êtres se rencontrent. Charlie . Je transforme ce qui est ordinaire en quelque chose de rare. Les anciens me cherchaient pour faire naître l’or là où il n’existait pas. 35 dossiers encore. Dépêchez vous après je suis attendue »",
+    "key": "2026-01-23|06:37|empire brun|||la ministre de la recherche shana al khaid a adresse un discours a la population : \" on ne me voit pas, mais on me ressent quand deux etres se rencontrent. charlie . je transforme ce qui est ordinaire en quelque chose de rare. les anciens me cherchaient pour faire naitre l'or la ou il n'existait pas. 35 dossiers encore. depechez vous apres je suis attendue \"",
+    "firstSeen": "2026-01-23T05:54:31.439Z"
+  },
+  {
+    "date": "2026-01-23",
+    "time": "05:16",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Soeur Marie-Thérèse a ouvert un chantier privé dans la ville CAPS LOCK en [13,10].",
+    "key": "2026-01-23|05:16|khanat elmerien|capsulie|caps lock|soeur marie-therese a ouvert un chantier prive dans la ville caps lock en [13,10].",
+    "firstSeen": "2026-01-23T05:54:31.671Z"
   }
 ]
