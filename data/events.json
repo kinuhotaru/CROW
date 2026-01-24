@@ -39428,5 +39428,25 @@
     "text": "Quelqu'un a fondé l'organisation secrète Gardiens de Jade.",
     "key": "2026-01-24|06:41|royaume de ruthvenie|||quelqu'un a fonde l'organisation secrete gardiens de jade.",
     "firstSeen": "2026-01-24T05:43:04.932Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "06:47",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Ed Wyplenel a brûlé par erreur des notes scientifiques importantes. La recherche est perturbée (-3 à la technologie n°111).",
+    "key": "2026-01-24|06:47|royaume de ruthvenie|||ed wyplenel a brule par erreur des notes scientifiques importantes. la recherche est perturbee (-3 a la technologie n°111).",
+    "firstSeen": "2026-01-24T05:54:07.247Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "06:50",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Ed Wyplenel a prononcé un discours louant le Ministre de la Recherche Aelin [PP +10] : « Je vous ai compris ! Quand on essaie, il arrive qu'on échoue. Aujourd'hui, j'ai beaucoup essayé et beaucoup échoué. J'ai même fait quelques erreurs d'appréciation qui ont gâché le travail des autres. J'assume donc l'entière responsabilité de ces échecs en me retirant du monde de la recherche. Il semblerait que ça ne soit pas trop pour moi, au final... Mais soyez rassurés, à chacune de mes sessions de travail, fructueuse ou pas, j'ai versé de ma poche 500 cc afin de ne pas pénaliser le budget de la recherche. Les ministres donnent l'exemple, comme l'a indiqué notre bon Roi ! »",
+    "key": "2026-01-24|06:50|royaume de ruthvenie|ruthvenie|ruthvenville|ed wyplenel a prononce un discours louant le ministre de la recherche aelin [pp +10] : \" je vous ai compris ! quand on essaie, il arrive qu'on echoue. aujourd'hui, j'ai beaucoup essaye et beaucoup echoue. j'ai meme fait quelques erreurs d'appreciation qui ont gache le travail des autres. j'assume donc l'entiere responsabilite de ces echecs en me retirant du monde de la recherche. il semblerait que ca ne soit pas trop pour moi, au final... mais soyez rassures, a chacune de mes sessions de travail, fructueuse ou pas, j'ai verse de ma poche 500 cc afin de ne pas penaliser le budget de la recherche. les ministres donnent l'exemple, comme l'a indique notre bon roi ! \"",
+    "firstSeen": "2026-01-24T05:54:06.285Z"
   }
 ]
