@@ -39338,5 +39338,55 @@
     "text": "Masque a donné de l'entrain au travail dans le bâtiment Petite Briqueterie (la production sera plus rapide).",
     "key": "2026-01-24|03:23|confederation libre|milieu|structural|masque a donne de l'entrain au travail dans le batiment petite briqueterie (la production sera plus rapide).",
     "firstSeen": "2026-01-24T03:52:17.247Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "04:56",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Alastair C. Shizen d'Excelisor a prononcé un discours louant Saphir Ravenmaid [PP +2] : « Très chère demoiselle Saphir, je voulais simplement vous signifier ma gratitude quant aux services et locaux de votre établissement d'enseignement. Vous avez adapté, selon les besoins de la communauté, les cours, le matériel fourni et le temps nécessaire pour ceux qui désirent enseigner ou apprendre, et maintenant les chercheurs peuvent aussi s'en donner à cœur joie. Félicitations pour votre von travail. »",
+    "key": "2026-01-24|04:56|paradigme vert|foret de jade|accalmie|alastair c. shizen d'excelisor a prononce un discours louant saphir ravenmaid [pp +2] : \" tres chere demoiselle saphir, je voulais simplement vous signifier ma gratitude quant aux services et locaux de votre etablissement d'enseignement. vous avez adapte, selon les besoins de la communaute, les cours, le materiel fourni et le temps necessaire pour ceux qui desirent enseigner ou apprendre, et maintenant les chercheurs peuvent aussi s'en donner a cœur joie. felicitations pour votre von travail. \"",
+    "firstSeen": "2026-01-24T04:58:23.176Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "05:01",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Alastair C. Shizen d'Excelisor a prononcé un discours louant la Ministre des Affaires Étrangères Enya Ravenloft [PP +5] : « Très chère demoiselle Enya, votre dernière œuvre est splendide et je vous remercie d'avoir réalisé cette demande spéciale avec autant de précision. Votre talent est tel une fleur rare dans une efflorescence sauvage. Je vous souhaite bonne continuité dans vos projets, autant personnels, qu'avec vos nouvelles responsabilités au Paradigme. »",
+    "key": "2026-01-24|05:01|paradigme vert|foret de jade|accalmie|alastair c. shizen d'excelisor a prononce un discours louant la ministre des affaires etrangeres enya ravenloft [pp +5] : \" tres chere demoiselle enya, votre derniere œuvre est splendide et je vous remercie d'avoir realise cette demande speciale avec autant de precision. votre talent est tel une fleur rare dans une efflorescence sauvage. je vous souhaite bonne continuite dans vos projets, autant personnels, qu'avec vos nouvelles responsabilites au paradigme. \"",
+    "firstSeen": "2026-01-24T04:58:22.963Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "05:09",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Grand Jardin",
+    "text": "Enya Ravenloft a prononcé un discours louant la Ministre de l'Économie Mina & Lilith Evermore [PP +9] : « \"Vos louanges sont une aubaine, un appel à la paix au sein de l'équilibre fragile de notre pays. Continuez ainsi à œuvrer pour le bien de notre territoire, je vous en conjure. Il en a grand besoin.\" »",
+    "key": "2026-01-24|05:09|paradigme vert|irendol|grand jardin|enya ravenloft a prononce un discours louant la ministre de l'economie mina & lilith evermore [pp +9] : \" \"vos louanges sont une aubaine, un appel a la paix au sein de l'equilibre fragile de notre pays. continuez ainsi a œuvrer pour le bien de notre territoire, je vous en conjure. il en a grand besoin.\" \"",
+    "firstSeen": "2026-01-24T04:58:22.710Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "05:17",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "michkie980 a apporté une protection contre l'arbitraire à Le martopilonneur de citron.",
+    "key": "2026-01-24|05:17|khanat elmerien|bananie|distillerie|michkie980 a apporte une protection contre l'arbitraire a le martopilonneur de citron.",
+    "firstSeen": "2026-01-24T04:58:22.453Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "05:53",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Construction d'un bâtiment Cage dans la ville Lampe du Génie en [16,7].",
+    "key": "2026-01-24|05:53|empire brun|mystisie|lampe du genie|construction d'un batiment cage dans la ville lampe du genie en [16,7].",
+    "firstSeen": "2026-01-24T04:58:20.831Z"
   }
 ]
