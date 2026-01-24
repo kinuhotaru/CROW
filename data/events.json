@@ -40258,5 +40258,85 @@
     "text": "Bladimir Bladimirovitch Mutin a effectué un sondage concernant les élections pour le poste de Gouverneur de la province Acropole: Tormenta 12 voix (80 %) Aldric de Valmont 3 voix (20 %)",
     "key": "2026-01-24|21:31|confederation libre|acropole||bladimir bladimirovitch mutin a effectue un sondage concernant les elections pour le poste de gouverneur de la province acropole: tormenta 12 voix (80 %) aldric de valmont 3 voix (20 %)",
     "firstSeen": "2026-01-24T20:39:55.985Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "22:02",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Pr Jean-Michel Nobyl a découvert la technologie Énergie Thermique en faveur de la Confédération Libre : « Permet de construire le bâtiment Centrale Thermique. »",
+    "key": "2026-01-24|22:02|confederation libre|||pr jean-michel nobyl a decouvert la technologie energie thermique en faveur de la confederation libre : \" permet de construire le batiment centrale thermique. \"",
+    "firstSeen": "2026-01-24T21:32:28.192Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "22:03",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Gérard Menvussa a tenté de fabriquer une fausse clef lui permettant d'entrer dans le bâtiment Quincaillerie « Clous et chignoles ». Il est à présent recherché par la police du cybermonde pour ce délit.",
+    "key": "2026-01-24|22:03|khanat elmerien|bananie|distillerie|gerard menvussa a tente de fabriquer une fausse clef lui permettant d'entrer dans le batiment quincaillerie \" clous et chignoles \". il est a present recherche par la police du cybermonde pour ce delit.",
+    "firstSeen": "2026-01-24T21:32:28.048Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "22:08",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Aurelthar a entamé un duel contre Gérard Menvussa.",
+    "key": "2026-01-24|22:08|khanat elmerien|bananie|distillerie|aurelthar a entame un duel contre gerard menvussa.",
+    "firstSeen": "2026-01-24T21:32:27.818Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "22:09",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Aurelthar vient de livrer Gérard Menvussa à la prison de la ville.",
+    "key": "2026-01-24|22:09|khanat elmerien|bananie|distillerie|aurelthar vient de livrer gerard menvussa a la prison de la ville.",
+    "firstSeen": "2026-01-24T21:32:27.560Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "22:10",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Gérard Menvussa vient d'achever sa peine et a quitté la prison.",
+    "key": "2026-01-24|22:10|khanat elmerien|bananie|distillerie|gerard menvussa vient d'achever sa peine et a quitte la prison.",
+    "firstSeen": "2026-01-24T21:32:27.407Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "22:11",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Construction d'un bâtiment Embarcadère dans la ville Trou Perdu en [5,11].",
+    "key": "2026-01-24|22:11|empire brun|sicilia|trou perdu|construction d'un batiment embarcadere dans la ville trou perdu en [5,11].",
+    "firstSeen": "2026-01-24T21:32:27.234Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "22:19",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Le Gouverneur Pr Jean-Michel Nobyl a transféré 80 ¢¢ du bâtiment Palais du Gouverneur au Ministère de l'Économie.",
+    "key": "2026-01-24|22:19|confederation libre|||le gouverneur pr jean-michel nobyl a transfere 80 ¢¢ du batiment palais du gouverneur au ministere de l'economie.",
+    "firstSeen": "2026-01-24T21:32:26.852Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "22:24",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "",
+    "text": "Le Gouverneur Pr Jean-Michel Nobyl a adressé un discours à la population : « Eureka² J'ai encore trouvé. Après Jean-Michel Apeupré, c'est Jean Michel j'ai de la chance pour terminer le travail des autres. Du coup après mon don du montant de PI en hommage à la Plaine Irradiée, je rends cette fois directement le salaire que j'ai touché sur cette recherche. C'est pas grand chose, car je n'ai pas fait grand chose. Découvrir l'énergie thermique alors que l'on fait déjà rouler des trains c'est pas non plus glorieux. Bref, encore une fois plutôt que mon nom, c'est celui de Tendi Neet qui aurait dû apparaitre sur vos écrans. Merci Tendi. »",
+    "key": "2026-01-24|22:24|confederation libre|plaine irradiee||le gouverneur pr jean-michel nobyl a adresse un discours a la population : \" eureka2 j'ai encore trouve. apres jean-michel apeupre, c'est jean michel j'ai de la chance pour terminer le travail des autres. du coup apres mon don du montant de pi en hommage a la plaine irradiee, je rends cette fois directement le salaire que j'ai touche sur cette recherche. c'est pas grand chose, car je n'ai pas fait grand chose. decouvrir l'energie thermique alors que l'on fait deja rouler des trains c'est pas non plus glorieux. bref, encore une fois plutot que mon nom, c'est celui de tendi neet qui aurait du apparaitre sur vos ecrans. merci tendi. \"",
+    "firstSeen": "2026-01-24T21:32:25.484Z"
   }
 ]
