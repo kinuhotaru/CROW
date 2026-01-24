@@ -40018,5 +40018,35 @@
     "text": "Krak' Boom Da Goff Rocka a réussi l'examen du ruban et obtenu la récompense Ruban Rouge, ce qui lui permet de poursuivre sa carrière dans la République de Kraland.",
     "key": "2026-01-24|15:44|republique de kraland|||krak' boom da goff rocka a reussi l'examen du ruban et obtenu la recompense ruban rouge, ce qui lui permet de poursuivre sa carriere dans la republique de kraland.",
     "firstSeen": "2026-01-24T14:52:46.757Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "16:35",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Tormenta a prononcé un discours louant l'Intendant Simon Halden [PP +11].",
+    "key": "2026-01-24|16:35|confederation libre|acropole|forum|tormenta a prononce un discours louant l'intendant simon halden [pp +11].",
+    "firstSeen": "2026-01-24T15:51:19.950Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "16:36",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Tormenta a prononcé un discours louant l'Intendant Simon Halden [PP +6].",
+    "key": "2026-01-24|16:36|confederation libre|acropole|forum|tormenta a prononce un discours louant l'intendant simon halden [pp +6].",
+    "firstSeen": "2026-01-24T15:51:18.217Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "16:36",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Tormenta a bafouillé un discours ridicule au lieu de louer l'Intendant Simon Halden.",
+    "key": "2026-01-24|16:36|confederation libre|acropole|forum|tormenta a bafouille un discours ridicule au lieu de louer l'intendant simon halden.",
+    "firstSeen": "2026-01-24T15:51:19.784Z"
   }
 ]
