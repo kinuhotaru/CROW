@@ -39388,5 +39388,45 @@
     "text": "Construction d'un bâtiment Cage dans la ville Lampe du Génie en [16,7].",
     "key": "2026-01-24|05:53|empire brun|mystisie|lampe du genie|construction d'un batiment cage dans la ville lampe du genie en [16,7].",
     "firstSeen": "2026-01-24T04:58:20.831Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "05:58",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Le Bourgmestre Bismuth El'K'Fadyh a nommé Silas des Sables au poste de Juge.",
+    "key": "2026-01-24|05:58|empire brun|mystisie|lampe du genie|le bourgmestre bismuth el'k'fadyh a nomme silas des sables au poste de juge.",
+    "firstSeen": "2026-01-24T05:43:06.567Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "05:58",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Le Bourgmestre Bismuth El'K'Fadyh a adressé un discours à la population : « Mystisiens, Mystisiennes ! Nous avons désormais, grâce aux efforts de votre Vizir, un lieu de villégiature pour génies du Mal en coup de moue qui va offrir repos, détente et temps libre a nos esprits les plus Mystisiens aux compétences les plus... Mystisiennes. De part le fait, il nous faut un homme, une femme, une chose charliesque, au pire, afin de gérer nos braves pensionnaires. Pour sa capacité a gérer de nombreux patients, pour son attitude hygiéniste, pour sa personnalité posée et intellectuelle, et parce que je suis un opportuniste profitant du fait que l'homme ai démissionné, sans compter qu'il l'a fait en clamant clairement sa loyauté géographique, comme il l'a dit lui même, vous devinez bien sur qui est le plus a même de gérer cet établissement qui lui fournira nombres de patients tout a fait volontaires pour ses activités médicales. Gloire a lui. »",
+    "key": "2026-01-24|05:58|empire brun|mystisie|lampe du genie|le bourgmestre bismuth el'k'fadyh a adresse un discours a la population : \" mystisiens, mystisiennes ! nous avons desormais, grace aux efforts de votre vizir, un lieu de villegiature pour genies du mal en coup de moue qui va offrir repos, detente et temps libre a nos esprits les plus mystisiens aux competences les plus... mystisiennes. de part le fait, il nous faut un homme, une femme, une chose charliesque, au pire, afin de gerer nos braves pensionnaires. pour sa capacite a gerer de nombreux patients, pour son attitude hygieniste, pour sa personnalite posee et intellectuelle, et parce que je suis un opportuniste profitant du fait que l'homme ai demissionne, sans compter qu'il l'a fait en clamant clairement sa loyaute geographique, comme il l'a dit lui meme, vous devinez bien sur qui est le plus a meme de gerer cet etablissement qui lui fournira nombres de patients tout a fait volontaires pour ses activites medicales. gloire a lui. \"",
+    "firstSeen": "2026-01-24T05:43:06.897Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "06:05",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Tribunal Cybermondial",
+    "text": "Construction d'un bâtiment Cage dans la ville Tribunal Cybermondial en [7,10].",
+    "key": "2026-01-24|06:05|confederation libre|acropole|tribunal cybermondial|construction d'un batiment cage dans la ville tribunal cybermondial en [7,10].",
+    "firstSeen": "2026-01-24T05:43:06.334Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "06:41",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Quelqu'un a fondé l'organisation secrète Gardiens de Jade.",
+    "key": "2026-01-24|06:41|royaume de ruthvenie|||quelqu'un a fonde l'organisation secrete gardiens de jade.",
+    "firstSeen": "2026-01-24T05:43:04.932Z"
   }
 ]
