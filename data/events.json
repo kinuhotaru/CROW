@@ -39468,5 +39468,45 @@
     "text": "VixenRavenloft a ouvert un chantier privé dans la ville Accalmie en [6,3].",
     "key": "2026-01-24|07:54|paradigme vert|foret de jade|accalmie|vixenravenloft a ouvert un chantier prive dans la ville accalmie en [6,3].",
     "firstSeen": "2026-01-24T06:56:51.676Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "08:04",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Imoen Bint Wololo Al Rasha vient d'achever sa peine et a quitté la prison.",
+    "key": "2026-01-24|08:04|empire brun|niarkalistan|leprosie|imoen bint wololo al rasha vient d'achever sa peine et a quitte la prison.",
+    "firstSeen": "2026-01-24T07:33:57.849Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "08:07",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Économie Isotopine a versé 314 ¢¢ au Ministère de la Recherche.",
+    "key": "2026-01-24|08:07|confederation libre|||la ministre de l'economie isotopine a verse 314 ¢¢ au ministere de la recherche.",
+    "firstSeen": "2026-01-24T07:33:57.451Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "08:09",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Yéti a ouvert un chantier public dans la ville Igloo en [3,11].",
+    "key": "2026-01-24|08:09|khanat elmerien|elmerie|igloo|yeti a ouvert un chantier public dans la ville igloo en [3,11].",
+    "firstSeen": "2026-01-24T07:33:57.274Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "08:10",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Construction d'un bâtiment Nappe de Pétrole dans la ville Igloo en [3,11].",
+    "key": "2026-01-24|08:10|khanat elmerien|elmerie|igloo|construction d'un batiment nappe de petrole dans la ville igloo en [3,11].",
+    "firstSeen": "2026-01-24T07:33:56.020Z"
   }
 ]
