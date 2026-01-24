@@ -39188,5 +39188,155 @@
     "text": "Saphir Ravenmaid a découvert la technologie Écologie en faveur du Paradigme Vert : « L'écologie permet de mieux connaître les besoins du cybermonde et l'impact de la pollution. »",
     "key": "2026-01-24|00:44|paradigme vert|||saphir ravenmaid a decouvert la technologie ecologie en faveur du paradigme vert : \" l'ecologie permet de mieux connaitre les besoins du cybermonde et l'impact de la pollution. \"",
     "firstSeen": "2026-01-23T23:53:07.246Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "03:23",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Masque a donné de l'entrain au travail dans le bâtiment Petite Briqueterie (la production sera plus rapide).",
+    "key": "2026-01-24|03:23|confederation libre|milieu|structural|masque a donne de l'entrain au travail dans le batiment petite briqueterie (la production sera plus rapide).",
+    "firstSeen": "2026-01-24T03:52:17.247Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "02:47",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Monique Pilon-Lemage a proposé à Prøsper Mølin de lui racheter le bâtiment Petite Scierie « Papeterie magique Pilon-Lemage » pour 1024 MØ.",
+    "key": "2026-01-24|02:47|empire brun|mystisie|lampe du genie|monique pilon-lemage a propose a prøsper mølin de lui racheter le batiment petite scierie \" papeterie magique pilon-lemage \" pour 1024 mø.",
+    "firstSeen": "2026-01-24T03:52:18.729Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "02:33",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Palerme DeiMachiavelli a retiré sa candidature en faveur de M. Faucher DeiMachiavelli aux élections pour le poste de Bourgmestre de la ville Trou Perdu : « C'est ici pour voter? J'aimerais voter pour M. Dei Machiavelli. Comment ça il y en avez deux? Qui essaie d'usurper mon identité? »",
+    "key": "2026-01-24|02:33|empire brun|sicilia|trou perdu|palerme deimachiavelli a retire sa candidature en faveur de m. faucher deimachiavelli aux elections pour le poste de bourgmestre de la ville trou perdu : \" c'est ici pour voter? j'aimerais voter pour m. dei machiavelli. comment ca il y en avez deux? qui essaie d'usurper mon identite? \"",
+    "firstSeen": "2026-01-24T03:52:18.918Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "01:48",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Kanard WaiCette s'est fait agresser par un groupe de créatures mené par Kanard Hostile.",
+    "key": "2026-01-24|01:48|paradigme vert|ile aux kanards|kanardville|kanard waicette s'est fait agresser par un groupe de creatures mene par kanard hostile.",
+    "firstSeen": "2026-01-24T03:52:19.163Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "01:44",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Un agent ennemi a réussi à hisser le drapeau de la Palladium Corporation.",
+    "key": "2026-01-24|01:44|paradigme vert|ile aux kanards|kanardville|un agent ennemi a reussi a hisser le drapeau de la palladium corporation.",
+    "firstSeen": "2026-01-24T03:52:19.330Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "01:44",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Construction d'un bâtiment Drapeau Paradigme dans la ville Kanardville en [7,7].",
+    "key": "2026-01-24|01:44|paradigme vert|ile aux kanards|kanardville|construction d'un batiment drapeau paradigme dans la ville kanardville en [7,7].",
+    "firstSeen": "2026-01-24T03:52:19.613Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "01:22",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "A.I. Soljenitsyne a réussi l'examen du ruban et obtenu la récompense Ruban Rouge, ce qui lui permet de poursuivre sa carrière dans la République de Kraland.",
+    "key": "2026-01-24|01:22|republique de kraland|||a.i. soljenitsyne a reussi l'examen du ruban et obtenu la recompense ruban rouge, ce qui lui permet de poursuivre sa carriere dans la republique de kraland.",
+    "firstSeen": "2026-01-24T03:52:19.767Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "01:20",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "Youpigrad",
+    "text": "Jean-Michel Très Normal a ouvert un chantier public dans la ville Youpigrad en [13,2].",
+    "key": "2026-01-24|01:20|khanat elmerien|bouletie|youpigrad|jean-michel tres normal a ouvert un chantier public dans la ville youpigrad en [13,2].",
+    "firstSeen": "2026-01-24T03:52:19.971Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "01:18",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "Youpigrad",
+    "text": "Construction d'un bâtiment Poste de Police dans la ville Youpigrad en [17,8].",
+    "key": "2026-01-24|01:18|khanat elmerien|bouletie|youpigrad|construction d'un batiment poste de police dans la ville youpigrad en [17,8].",
+    "firstSeen": "2026-01-24T03:52:20.104Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "01:16",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Martina D. DeiMachiavelli a ouvert un chantier public dans la ville Trou Perdu en [12,4].",
+    "key": "2026-01-24|01:16|empire brun|sicilia|trou perdu|martina d. deimachiavelli a ouvert un chantier public dans la ville trou perdu en [12,4].",
+    "firstSeen": "2026-01-24T03:52:20.240Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "01:11",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Saphir Ravenmaid a bafouillé un discours ridicule au lieu de louer la Ministre des Affaires Étrangères Enya Ravenloft : « Bon, je dois aussi admettre que le poil de maîtresse Enya et soigneux et hypoallergénique, c'est très pratique quand on as des allergies, oui ça explique mes yeux rouges »",
+    "key": "2026-01-24|01:11|paradigme vert|foret de jade|accalmie|saphir ravenmaid a bafouille un discours ridicule au lieu de louer la ministre des affaires etrangeres enya ravenloft : \" bon, je dois aussi admettre que le poil de maitresse enya et soigneux et hypoallergenique, c'est tres pratique quand on as des allergies, oui ca explique mes yeux rouges \"",
+    "firstSeen": "2026-01-24T03:52:20.373Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "01:07",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Quelqu'un a écrit des graffitis sur le mur du bâtiment École « Palladollar© University™ » : « À bas le krapitalisme! ✊ »",
+    "key": "2026-01-24|01:07|republique de kraland|karaibes|tresorville|quelqu'un a ecrit des graffitis sur le mur du batiment ecole \" palladollar© universitytm \" : \" a bas le krapitalisme! ✊ \"",
+    "firstSeen": "2026-01-24T03:52:20.505Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "01:03",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Construction d'un bâtiment École dans la ville Trésorville en [16,6].",
+    "key": "2026-01-24|01:03|republique de kraland|karaibes|tresorville|construction d'un batiment ecole dans la ville tresorville en [16,6].",
+    "firstSeen": "2026-01-24T03:52:20.642Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "01:01",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "A.I. Soljenitsyne a ouvert un chantier privé dans la ville Trésorville en [16,6].",
+    "key": "2026-01-24|01:01|republique de kraland|karaibes|tresorville|a.i. soljenitsyne a ouvert un chantier prive dans la ville tresorville en [16,6].",
+    "firstSeen": "2026-01-24T03:52:20.777Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "00:56",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "Gynerak",
+    "text": "Giada Giulia Gluanta s'est fait agresser par un groupe de créatures mené par Rapace Téméraire.",
+    "key": "2026-01-24|00:56|republique de kraland|slavonie|gynerak|giada giulia gluanta s'est fait agresser par un groupe de creatures mene par rapace temeraire.",
+    "firstSeen": "2026-01-24T03:52:20.947Z"
   }
 ]
