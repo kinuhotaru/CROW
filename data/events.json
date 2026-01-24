@@ -39718,5 +39718,25 @@
     "text": "Golgoth le Vagabond a prononcé un discours louant le Ministre de la Justice Ed Wyplenel [PP +1] : « Ed mec t’es un cador ! J’tiens a te féliciter pour ton ardeur dans ton travail de chercheur. En tant que mec-qui-serait-sûrement-ministre-de-la-recherche-si-Aelin-il-était-pas-méchant, c’est évidemment de mon devoir de te remercier pour ta fougue ! Quel talent ! Pis vous avez vu tous, Landraël il a dit qu’il filerait une récompense à celui qui rechercherait le plus ! Tous à l’université ! J’vais vous mettre la pâtée ! »",
     "key": "2026-01-24|10:26|royaume de ruthvenie|geofront|sanctuaire|golgoth le vagabond a prononce un discours louant le ministre de la justice ed wyplenel [pp +1] : \" ed mec t'es un cador ! j'tiens a te feliciter pour ton ardeur dans ton travail de chercheur. en tant que mec-qui-serait-surement-ministre-de-la-recherche-si-aelin-il-etait-pas-mechant, c'est evidemment de mon devoir de te remercier pour ta fougue ! quel talent ! pis vous avez vu tous, landrael il a dit qu'il filerait une recompense a celui qui rechercherait le plus ! tous a l'universite ! j'vais vous mettre la patee ! \"",
     "firstSeen": "2026-01-24T09:38:47.433Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "10:47",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Popop Duck a donné de l'entrain au travail dans le bâtiment Camp de Bûcherons (la production sera plus rapide) : « UNE planche DEUX planches TROIS planches ! On recommence ! UNE planche DEUX planches TROIS planches ! »",
+    "key": "2026-01-24|10:47|paradigme vert|ile aux kanards|kanardville|popop duck a donne de l'entrain au travail dans le batiment camp de bucherons (la production sera plus rapide) : \" une planche deux planches trois planches ! on recommence ! une planche deux planches trois planches ! \"",
+    "firstSeen": "2026-01-24T09:51:14.619Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "10:48",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Construction d'un bâtiment Herboriste dans la ville Léprosie en [8,4].",
+    "key": "2026-01-24|10:48|empire brun|niarkalistan|leprosie|construction d'un batiment herboriste dans la ville leprosie en [8,4].",
+    "firstSeen": "2026-01-24T09:51:13.249Z"
   }
 ]

@@ -39718,5 +39718,25 @@
     "text": "Construction d'un bâtiment Station dans la ville Fort Emouchet en [9,2].",
     "key": "2026-01-24|10:04|royaume de ruthvenie|valegro|fort emouchet|construction d'un batiment station dans la ville fort emouchet en [9,2].",
     "firstSeen": "2026-01-24T09:38:49.436Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "10:48",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Construction d'un bâtiment Herboriste dans la ville Léprosie en [8,4].",
+    "key": "2026-01-24|10:48|empire brun|niarkalistan|leprosie|construction d'un batiment herboriste dans la ville leprosie en [8,4].",
+    "firstSeen": "2026-01-24T09:51:13.249Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "10:47",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Popop Duck a donné de l'entrain au travail dans le bâtiment Camp de Bûcherons (la production sera plus rapide) : « UNE planche DEUX planches TROIS planches ! On recommence ! UNE planche DEUX planches TROIS planches ! »",
+    "key": "2026-01-24|10:47|paradigme vert|ile aux kanards|kanardville|popop duck a donne de l'entrain au travail dans le batiment camp de bucherons (la production sera plus rapide) : \" une planche deux planches trois planches ! on recommence ! une planche deux planches trois planches ! \"",
+    "firstSeen": "2026-01-24T09:51:14.619Z"
   }
 ]
