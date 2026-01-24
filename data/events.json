@@ -39788,5 +39788,65 @@
     "text": "Satela Zero (Démagogue) a prononcé un discours louant Saphir Ravenmaid (Démagogue) [PP +1] : « J'ai trouver un string bleu, j'ai supposer que c'étais a vous, bon l'élastique est un peu détendu j'ai essayer dans faire une fronde sans grande efficacité »",
     "key": "2026-01-24|11:31|paradigme vert|foret de jade|accalmie|satela zero (demagogue) a prononce un discours louant saphir ravenmaid (demagogue) [pp +1] : \" j'ai trouver un string bleu, j'ai supposer que c'etais a vous, bon l'elastique est un peu detendu j'ai essayer dans faire une fronde sans grande efficacite \"",
     "firstSeen": "2026-01-24T10:43:31.449Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "11:59",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Neloth a ouvert un chantier privé dans la ville Lampe du Génie en [18,9].",
+    "key": "2026-01-24|11:59|empire brun|mystisie|lampe du genie|neloth a ouvert un chantier prive dans la ville lampe du genie en [18,9].",
+    "firstSeen": "2026-01-24T11:30:44.185Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "12:02",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "",
+    "text": "Le Gouverneur Krak' Boom Da Goff Rocka a adressé un discours à la population : « Chers Kramarades Karaïbéens. L'amélioration d'l'intendance ayant atteint un niveau décent qui va permettre à Ama'r d'bosser serainement. Y m'aprait plus important pour l'moment d'permettre d'améliorer les infrastructures d'la ville de Trésorville plutôt qu'de mettre des efforts dans les structures provinciales qui apportent moins aux Prod'l'éther et qui pourront v'nir dans un second temps. C'est pour ça qu'je file une p'tite rallonge au bourgmestre malgré nos différent sur la façon dont on d'vrait utiliser nos prérogatives étatiques. Moustache, ça m'coûte mais j'vais essayer d'te faire confiance. Vois ça comme une main tendue pour enterrer l'micro d'guerre propagandiste entre-nous. Mais n'en pas pour utiliser cet argent pour satisfaire tes intérêts personnels. »",
+    "key": "2026-01-24|12:02|republique de kraland|karaibes||le gouverneur krak' boom da goff rocka a adresse un discours a la population : \" chers kramarades karaibeens. l'amelioration d'l'intendance ayant atteint un niveau decent qui va permettre a ama'r d'bosser serainement. y m'aprait plus important pour l'moment d'permettre d'ameliorer les infrastructures d'la ville de tresorville plutot qu'de mettre des efforts dans les structures provinciales qui apportent moins aux prod'l'ether et qui pourront v'nir dans un second temps. c'est pour ca qu'je file une p'tite rallonge au bourgmestre malgre nos different sur la facon dont on d'vrait utiliser nos prerogatives etatiques. moustache, ca m'coute mais j'vais essayer d'te faire confiance. vois ca comme une main tendue pour enterrer l'micro d'guerre propagandiste entre-nous. mais n'en pas pour utiliser cet argent pour satisfaire tes interets personnels. \"",
+    "firstSeen": "2026-01-24T11:30:44.016Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "12:03",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Construction d'un bâtiment Herboriste dans la ville Lampe du Génie en [18,9].",
+    "key": "2026-01-24|12:03|empire brun|mystisie|lampe du genie|construction d'un batiment herboriste dans la ville lampe du genie en [18,9].",
+    "firstSeen": "2026-01-24T11:30:43.730Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "12:12",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de la Recherche Aelin a lancé la recherche de la technologie n°11.",
+    "key": "2026-01-24|12:12|royaume de ruthvenie|||le ministre de la recherche aelin a lance la recherche de la technologie n°11.",
+    "firstSeen": "2026-01-24T11:30:43.519Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "12:15",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "",
+    "text": "Jay Padbol s'est fait agresser par un groupe de créatures mené par Primitif Elmérien.",
+    "key": "2026-01-24|12:15|khanat elmerien|elmerie||jay padbol s'est fait agresser par un groupe de creatures mene par primitif elmerien.",
+    "firstSeen": "2026-01-24T11:30:43.320Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "12:22",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Korail a donné de l'entrain au travail dans le bâtiment Petite Briqueterie (la production sera plus rapide) : « On transforme en produits finis pour finir les chantiers! »",
+    "key": "2026-01-24|12:22|royaume de ruthvenie|crab key|port magmor|korail a donne de l'entrain au travail dans le batiment petite briqueterie (la production sera plus rapide) : \" on transforme en produits finis pour finir les chantiers! \"",
+    "firstSeen": "2026-01-24T11:30:42.016Z"
   }
 ]
