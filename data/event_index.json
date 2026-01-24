@@ -40138,5 +40138,55 @@
     "text": "Le Duc Anarion l'Enflammé a nommé La Magicienne au poste de Intendante.",
     "key": "2026-01-24|18:59|royaume de ruthvenie|ruthvenie||le duc anarion l'enflamme a nomme la magicienne au poste de intendante.",
     "firstSeen": "2026-01-24T18:55:05.225Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "20:10",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "La Ministre des Affaires Étrangères Enya Ravenloft a nommé Lozana Shizen d'Excelizor au poste de Ambassadrice auprès de la République de Kraland : « \"Mademoiselle Lozana, Comme il en était convenu lors de notre discussion, bienvenue à votre nouveau poste. Ci-joint mes communications écrites pour plus de détails.\" »",
+    "key": "2026-01-24|20:10|paradigme vert|||la ministre des affaires etrangeres enya ravenloft a nomme lozana shizen d'excelizor au poste de ambassadrice aupres de la republique de kraland : \" \"mademoiselle lozana, comme il en etait convenu lors de notre discussion, bienvenue a votre nouveau poste. ci-joint mes communications ecrites pour plus de details.\" \"",
+    "firstSeen": "2026-01-24T19:28:49.682Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "20:08",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Construction d'un bâtiment Petite Armurerie dans la ville Accalmie en [5,10].",
+    "key": "2026-01-24|20:08|paradigme vert|foret de jade|accalmie|construction d'un batiment petite armurerie dans la ville accalmie en [5,10].",
+    "firstSeen": "2026-01-24T19:28:50.949Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "20:00",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "Le Duc Anarion l'Enflammé a provoqué des élections anticipées : « Citoyens de Ruthvénie ! Je souhaite vous donner la parole, en convoquant de élections ducales anticipées. »",
+    "key": "2026-01-24|20:00|royaume de ruthvenie|ruthvenie||le duc anarion l'enflamme a provoque des elections anticipees : \" citoyens de ruthvenie ! je souhaite vous donner la parole, en convoquant de elections ducales anticipees. \"",
+    "firstSeen": "2026-01-24T19:28:51.135Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "19:56",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Le fée Bobo a ouvert un chantier privé dans la ville Accalmie en [5,10].",
+    "key": "2026-01-24|19:56|paradigme vert|foret de jade|accalmie|le fee bobo a ouvert un chantier prive dans la ville accalmie en [5,10].",
+    "firstSeen": "2026-01-24T19:28:51.328Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "19:55",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Grand Jardin",
+    "text": "Enya Ravenloft a prononcé un discours louant le Commissaire de Police Selim [PP +9] : « \"Selim. Je vous ai connu en des temps de doute, et l'esprit embrumé. Notre rencontre nous a permis de tenir fait d'un constat : Vous êtes chez vous, ici comme ailleurs, je suis fière de vous compter parmi le personnel compétent de notre beau territoire.\" »",
+    "key": "2026-01-24|19:55|paradigme vert|irendol|grand jardin|enya ravenloft a prononce un discours louant le commissaire de police selim [pp +9] : \" \"selim. je vous ai connu en des temps de doute, et l'esprit embrume. notre rencontre nous a permis de tenir fait d'un constat : vous etes chez vous, ici comme ailleurs, je suis fiere de vous compter parmi le personnel competent de notre beau territoire.\" \"",
+    "firstSeen": "2026-01-24T19:28:51.516Z"
   }
 ]
