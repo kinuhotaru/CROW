@@ -41358,5 +41358,25 @@
     "text": "Salamé Plurien a entamé un duel contre Aurelthar.",
     "key": "2026-01-24|23:52|khanat elmerien|bananie|distillerie|salame plurien a entame un duel contre aurelthar.",
     "firstSeen": "2026-01-24T23:35:00.553Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "00:35",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Le Gouverneur Jalala a transféré 1 ¢¢ du bâtiment Palais du Gouverneur au Ministère de l'Économie.",
+    "key": "2026-01-25|00:35|confederation libre|||le gouverneur jalala a transfere 1 ¢¢ du batiment palais du gouverneur au ministere de l'economie.",
+    "firstSeen": "2026-01-24T23:51:02.826Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "00:35",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "M. Faucher DeiMachiavelli a ouvert un chantier public dans la ville Trou Perdu en [18,12].",
+    "key": "2026-01-25|00:35|empire brun|sicilia|trou perdu|m. faucher deimachiavelli a ouvert un chantier public dans la ville trou perdu en [18,12].",
+    "firstSeen": "2026-01-24T23:51:04.083Z"
   }
 ]
