@@ -39508,5 +39508,45 @@
     "text": "Imoen Bint Wololo Al Rasha vient d'achever sa peine et a quitté la prison.",
     "key": "2026-01-24|08:04|empire brun|niarkalistan|leprosie|imoen bint wololo al rasha vient d'achever sa peine et a quitte la prison.",
     "firstSeen": "2026-01-24T07:33:57.849Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "08:47",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Un groupe de policiers tente d'arrêter BoboFix qui est recherché.",
+    "key": "2026-01-24|08:47|confederation libre|milieu|structural|un groupe de policiers tente d'arreter bobofix qui est recherche.",
+    "firstSeen": "2026-01-24T07:48:36.415Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "08:45",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Un groupe de policiers tente d'arrêter BoboFix qui est recherché.",
+    "key": "2026-01-24|08:45|confederation libre|milieu|structural|un groupe de policiers tente d'arreter bobofix qui est recherche.",
+    "firstSeen": "2026-01-24T07:48:37.689Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "08:41",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "",
+    "text": "Hans Trap s'est fait agresser par un groupe de créatures mené par 2 Chevaux.",
+    "key": "2026-01-24|08:41|confederation libre|acropole||hans trap s'est fait agresser par un groupe de creatures mene par 2 chevaux.",
+    "firstSeen": "2026-01-24T07:48:38.044Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "08:34",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Le martopilonneur de citron vient d'achever sa peine et a quitté la prison.",
+    "key": "2026-01-24|08:34|khanat elmerien|bananie|distillerie|le martopilonneur de citron vient d'achever sa peine et a quitte la prison.",
+    "firstSeen": "2026-01-24T07:48:38.385Z"
   }
 ]
