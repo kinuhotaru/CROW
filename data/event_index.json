@@ -40048,5 +40048,35 @@
     "text": "Tormenta a prononcé un discours louant l'Intendant Simon Halden [PP +11].",
     "key": "2026-01-24|16:35|confederation libre|acropole|forum|tormenta a prononce un discours louant l'intendant simon halden [pp +11].",
     "firstSeen": "2026-01-24T15:51:19.950Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "17:43",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Simon Halden a prononcé un discours louant le Gouverneur Tormenta [PP +0].",
+    "key": "2026-01-24|17:43|confederation libre|acropole|forum|simon halden a prononce un discours louant le gouverneur tormenta [pp +0].",
+    "firstSeen": "2026-01-24T16:50:04.856Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "17:43",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Simon Halden a prononcé un discours louant le Gouverneur Tormenta [PP +1].",
+    "key": "2026-01-24|17:43|confederation libre|acropole|forum|simon halden a prononce un discours louant le gouverneur tormenta [pp +1].",
+    "firstSeen": "2026-01-24T16:50:06.310Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "17:29",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "",
+    "text": "Un groupe de créatures mené par 1 Bâtard du Géant des Montagnes attaque Zelphi.",
+    "key": "2026-01-24|17:29|confederation libre|plaine irradiee||un groupe de creatures mene par 1 batard du geant des montagnes attaque zelphi.",
+    "firstSeen": "2026-01-24T16:50:06.586Z"
   }
 ]
