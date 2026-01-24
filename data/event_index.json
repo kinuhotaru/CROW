@@ -40208,5 +40208,55 @@
     "text": "Hanako Ainozomi a ouvert un chantier privé dans la ville Sanctuaire en [8,12].",
     "key": "2026-01-24|20:43|royaume de ruthvenie|geofront|sanctuaire|hanako ainozomi a ouvert un chantier prive dans la ville sanctuaire en [8,12].",
     "firstSeen": "2026-01-24T19:49:20.211Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "21:31",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "",
+    "text": "Bladimir Bladimirovitch Mutin a effectué un sondage concernant les élections pour le poste de Gouverneur de la province Acropole: Tormenta 12 voix (80 %) Aldric de Valmont 3 voix (20 %)",
+    "key": "2026-01-24|21:31|confederation libre|acropole||bladimir bladimirovitch mutin a effectue un sondage concernant les elections pour le poste de gouverneur de la province acropole: tormenta 12 voix (80 %) aldric de valmont 3 voix (20 %)",
+    "firstSeen": "2026-01-24T20:39:55.985Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "21:27",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Kalogr von Krarovich a tenté de frauder aux élections de aux élections pour le poste de Bourgmestre de la ville Trou Perdu. Il est à présent recherché par la police de l'Empire Brun pour ce délit politique.",
+    "key": "2026-01-24|21:27|empire brun|sicilia|trou perdu|kalogr von krarovich a tente de frauder aux elections de aux elections pour le poste de bourgmestre de la ville trou perdu. il est a present recherche par la police de l'empire brun pour ce delit politique.",
+    "firstSeen": "2026-01-24T20:39:57.442Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "21:11",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Zi Eun a prononcé un discours louant la Bourgmestre Syphilys [PP +5].",
+    "key": "2026-01-24|21:11|empire brun|niarkalistan|leprosie|zi eun a prononce un discours louant la bourgmestre syphilys [pp +5].",
+    "firstSeen": "2026-01-24T20:39:57.959Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "21:11",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Zi Eun a bafouillé un discours ridicule au lieu de louer la Bourgmestre Syphilys.",
+    "key": "2026-01-24|21:11|empire brun|niarkalistan|leprosie|zi eun a bafouille un discours ridicule au lieu de louer la bourgmestre syphilys.",
+    "firstSeen": "2026-01-24T20:39:58.133Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "20:59",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Kashkaval s'est fait agresser par un groupe de créatures mené par Cheval.",
+    "key": "2026-01-24|20:59|empire brun|sicilia|trou perdu|kashkaval s'est fait agresser par un groupe de creatures mene par cheval.",
+    "firstSeen": "2026-01-24T20:39:58.330Z"
   }
 ]
