@@ -39848,5 +39848,15 @@
     "text": "Neloth a ouvert un chantier privé dans la ville Lampe du Génie en [18,9].",
     "key": "2026-01-24|11:59|empire brun|mystisie|lampe du genie|neloth a ouvert un chantier prive dans la ville lampe du genie en [18,9].",
     "firstSeen": "2026-01-24T11:30:44.185Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "12:36",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Prøsper Mølin a acheté le bâtiment Petite Scierie « Papeterie magique Pilon-Lemage » au prix de 1024 MØ.",
+    "key": "2026-01-24|12:36|empire brun|mystisie|lampe du genie|prøsper mølin a achete le batiment petite scierie \" papeterie magique pilon-lemage \" au prix de 1024 mø.",
+    "firstSeen": "2026-01-24T11:45:16.093Z"
   }
 ]
