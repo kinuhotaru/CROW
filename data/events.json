@@ -39678,5 +39678,45 @@
     "text": "Simon Halden a prononcé un discours louant le Gouverneur Tormenta [PP +5] : « Citoyens, citoyennes, N'oubliez pas de voter pour Tormenta pour qu'il garde son poste de Gouverneur. Il en va de la stabilité de notre province. Votre dévoué Simon »",
     "key": "2026-01-24|09:46|confederation libre|acropole|forum|simon halden a prononce un discours louant le gouverneur tormenta [pp +5] : \" citoyens, citoyennes, n'oubliez pas de voter pour tormenta pour qu'il garde son poste de gouverneur. il en va de la stabilite de notre province. votre devoue simon \"",
     "firstSeen": "2026-01-24T08:52:00.401Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "10:04",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "Construction d'un bâtiment Station dans la ville Fort Emouchet en [9,2].",
+    "key": "2026-01-24|10:04|royaume de ruthvenie|valegro|fort emouchet|construction d'un batiment station dans la ville fort emouchet en [9,2].",
+    "firstSeen": "2026-01-24T09:38:49.436Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "10:10",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Capitaine Rompizzo a établi une chaîne de production dans le bâtiment Librairie « Archives maritimes » (la production sera plus rapide) : « Nous allons enfin pouvoir écrire le code des pirates ! »",
+    "key": "2026-01-24|10:10|royaume de ruthvenie|crab key|port magmor|capitaine rompizzo a etabli une chaine de production dans le batiment librairie \" archives maritimes \" (la production sera plus rapide) : \" nous allons enfin pouvoir ecrire le code des pirates ! \"",
+    "firstSeen": "2026-01-24T09:38:49.226Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "10:14",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Construction d'un bâtiment Tribunal dans la ville Trou Perdu en [12,4].",
+    "key": "2026-01-24|10:14|empire brun|sicilia|trou perdu|construction d'un batiment tribunal dans la ville trou perdu en [12,4].",
+    "firstSeen": "2026-01-24T09:38:48.993Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "10:26",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "Golgoth le Vagabond a prononcé un discours louant le Ministre de la Justice Ed Wyplenel [PP +1] : « Ed mec t’es un cador ! J’tiens a te féliciter pour ton ardeur dans ton travail de chercheur. En tant que mec-qui-serait-sûrement-ministre-de-la-recherche-si-Aelin-il-était-pas-méchant, c’est évidemment de mon devoir de te remercier pour ta fougue ! Quel talent ! Pis vous avez vu tous, Landraël il a dit qu’il filerait une récompense à celui qui rechercherait le plus ! Tous à l’université ! J’vais vous mettre la pâtée ! »",
+    "key": "2026-01-24|10:26|royaume de ruthvenie|geofront|sanctuaire|golgoth le vagabond a prononce un discours louant le ministre de la justice ed wyplenel [pp +1] : \" ed mec t'es un cador ! j'tiens a te feliciter pour ton ardeur dans ton travail de chercheur. en tant que mec-qui-serait-surement-ministre-de-la-recherche-si-aelin-il-etait-pas-mechant, c'est evidemment de mon devoir de te remercier pour ta fougue ! quel talent ! pis vous avez vu tous, landrael il a dit qu'il filerait une recompense a celui qui rechercherait le plus ! tous a l'universite ! j'vais vous mettre la patee ! \"",
+    "firstSeen": "2026-01-24T09:38:47.433Z"
   }
 ]
