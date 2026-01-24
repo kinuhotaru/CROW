@@ -39738,5 +39738,55 @@
     "text": "Construction d'un bâtiment Herboriste dans la ville Léprosie en [8,4].",
     "key": "2026-01-24|10:48|empire brun|niarkalistan|leprosie|construction d'un batiment herboriste dans la ville leprosie en [8,4].",
     "firstSeen": "2026-01-24T09:51:13.249Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "11:00",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Structuran Job (Agitateur) a prononcé un discours louant le Gouverneur Jalala (Agitateur) [PP +4].",
+    "key": "2026-01-24|11:00|confederation libre|milieu|structural|structuran job (agitateur) a prononce un discours louant le gouverneur jalala (agitateur) [pp +4].",
+    "firstSeen": "2026-01-24T10:43:34.006Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "11:16",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "Bisouville",
+    "text": "Alice Chain a fait la déclaration officielle suivante aux habitants de la ville Bisouville : « Miaou ! Alice de Ruthvénie est très impressionnée par les réserves pétrolières de Bisouville… elle n’a jamais vu ça. Elle ouvre un garage à Ruthvenville, elle travaille avec des amis… pour proposer un jour des motos et des voitures qui vont vite. Car Alice adore la vitesse… ça oui ! Si vous passez par Rythvenville, venez me voir à l’auberge du centre ville, Alice vous servira un super poisson grillé ! Alice reviendra, merci à Bisouville ! »",
+    "key": "2026-01-24|11:16|republique de kraland|helenie|bisouville|alice chain a fait la declaration officielle suivante aux habitants de la ville bisouville : \" miaou ! alice de ruthvenie est tres impressionnee par les reserves petrolieres de bisouville... elle n'a jamais vu ca. elle ouvre un garage a ruthvenville, elle travaille avec des amis... pour proposer un jour des motos et des voitures qui vont vite. car alice adore la vitesse... ca oui ! si vous passez par rythvenville, venez me voir a l'auberge du centre ville, alice vous servira un super poisson grille ! alice reviendra, merci a bisouville ! \"",
+    "firstSeen": "2026-01-24T10:43:33.706Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "11:22",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Saphir Ravenmaid (Démagogue) a prononcé un discours louant la Ministre des Affaires Étrangères Enya Ravenloft (Démagogue) [PP +3] : « Bon hier j'ai pas été super claire heu... Bref, je voulais dire que même si on as des haut et des bas, j'aime quand même bien la famille que je sert, et je leur souhaite a minima d'être heureux. »",
+    "key": "2026-01-24|11:22|paradigme vert|foret de jade|accalmie|saphir ravenmaid (demagogue) a prononce un discours louant la ministre des affaires etrangeres enya ravenloft (demagogue) [pp +3] : \" bon hier j'ai pas ete super claire heu... bref, je voulais dire que meme si on as des haut et des bas, j'aime quand meme bien la famille que je sert, et je leur souhaite a minima d'etre heureux. \"",
+    "firstSeen": "2026-01-24T10:43:33.354Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "11:24",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Saphir Ravenmaid a fait la déclaration officielle suivante aux habitants de la ville Accalmie : « *Saphir se tourne ensuite vers Alastar* C-C'est vrai ? J'avoue que ce que vous me dites me vas droit au coeur ! »",
+    "key": "2026-01-24|11:24|paradigme vert|foret de jade|accalmie|saphir ravenmaid a fait la declaration officielle suivante aux habitants de la ville accalmie : \" *saphir se tourne ensuite vers alastar* c-c'est vrai ? j'avoue que ce que vous me dites me vas droit au coeur ! \"",
+    "firstSeen": "2026-01-24T10:43:33.069Z"
+  },
+  {
+    "date": "2026-01-24",
+    "time": "11:31",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Satela Zero (Démagogue) a prononcé un discours louant Saphir Ravenmaid (Démagogue) [PP +1] : « J'ai trouver un string bleu, j'ai supposer que c'étais a vous, bon l'élastique est un peu détendu j'ai essayer dans faire une fronde sans grande efficacité »",
+    "key": "2026-01-24|11:31|paradigme vert|foret de jade|accalmie|satela zero (demagogue) a prononce un discours louant saphir ravenmaid (demagogue) [pp +1] : \" j'ai trouver un string bleu, j'ai supposer que c'etais a vous, bon l'elastique est un peu detendu j'ai essayer dans faire une fronde sans grande efficacite \"",
+    "firstSeen": "2026-01-24T10:43:31.449Z"
   }
 ]
