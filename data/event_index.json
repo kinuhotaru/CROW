@@ -42588,5 +42588,25 @@
     "text": "baldus s'est fait agresser par un groupe de rebelles.",
     "key": "2026-01-25|20:37|khanat elmerien|bananie|distillerie|baldus s'est fait agresser par un groupe de rebelles.",
     "firstSeen": "2026-01-25T19:44:20.790Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "20:49",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "",
+    "text": "baldus s'est fait agresser par un groupe de créatures mené par Araignée-Éboueuse.",
+    "key": "2026-01-25|20:49|khanat elmerien|bananie||baldus s'est fait agresser par un groupe de creatures mene par araignee-eboueuse.",
+    "firstSeen": "2026-01-25T19:51:07.302Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "20:43",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "",
+    "text": "Kay'Zel a trouvé un gros filon d'or dans la province Mystisie.",
+    "key": "2026-01-25|20:43|empire brun|mystisie||kay'zel a trouve un gros filon d'or dans la province mystisie.",
+    "firstSeen": "2026-01-25T19:51:08.087Z"
   }
 ]
