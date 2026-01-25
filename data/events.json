@@ -41378,5 +41378,85 @@
     "text": "M. Faucher DeiMachiavelli a ouvert un chantier public dans la ville Trou Perdu en [18,12].",
     "key": "2026-01-25|00:35|empire brun|sicilia|trou perdu|m. faucher deimachiavelli a ouvert un chantier public dans la ville trou perdu en [18,12].",
     "firstSeen": "2026-01-24T23:51:04.083Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "00:57",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
+    "text": "Jacques St Misles s'est fait agresser par un groupe de créatures mené par Bâtard du Géant des Montagnes.",
+    "key": "2026-01-25|00:57|confederation libre|plaine irradiee|atome|jacques st misles s'est fait agresser par un groupe de creatures mene par batard du geant des montagnes.",
+    "firstSeen": "2026-01-25T04:20:53.365Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "01:02",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie Bogdan D'Arken a levé un impôt sur la fortune qui a touché 3 citoyens et qui a rapporté 630 FK : « Chers Kramarades, il est temps de passer à la vitesse supérieure, nos caisses ne permettant pas un avancement assez rapide de nos centres de production publique, nous allons inviter nos plus nanti à participer au budget. Merci d'avance à eux (et à moi aussi vu que j'en fais partie également). »",
+    "key": "2026-01-25|01:02|republique de kraland|||le ministre de l'economie bogdan d'arken a leve un impot sur la fortune qui a touche 3 citoyens et qui a rapporte 630 fk : \" chers kramarades, il est temps de passer a la vitesse superieure, nos caisses ne permettant pas un avancement assez rapide de nos centres de production publique, nous allons inviter nos plus nanti a participer au budget. merci d'avance a eux (et a moi aussi vu que j'en fais partie egalement). \"",
+    "firstSeen": "2026-01-25T04:20:52.725Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "01:02",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Construction d'un bâtiment École dans la ville Distillerie en [9,5].",
+    "key": "2026-01-25|01:02|khanat elmerien|bananie|distillerie|construction d'un batiment ecole dans la ville distillerie en [9,5].",
+    "firstSeen": "2026-01-25T04:20:52.906Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "01:02",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
+    "text": "Jacques St Misles a fait la déclaration officielle suivante aux habitants de la ville Atome : « Dis donc, j'en ai croisé des batards dans l'Acropole mais jamais des gros comme ici. »",
+    "key": "2026-01-25|01:02|confederation libre|plaine irradiee|atome|jacques st misles a fait la declaration officielle suivante aux habitants de la ville atome : \" dis donc, j'en ai croise des batards dans l'acropole mais jamais des gros comme ici. \"",
+    "firstSeen": "2026-01-25T04:20:53.110Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "01:03",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Nerdos Valkyry s'est fait agresser par un groupe de créatures mené par Araignée-Éboueuse.",
+    "key": "2026-01-25|01:03|khanat elmerien|bananie|distillerie|nerdos valkyry s'est fait agresser par un groupe de creatures mene par araignee-eboueuse.",
+    "firstSeen": "2026-01-25T04:20:52.455Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "01:15",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Sophos a prononcé un discours louant le Gouverneur Jalala [PP +1] : « Chers kramarade, chers citoyens confédérés, Je ne peux que vous félicitez d'avoir choisi Jalala comme gouverneur. Nul doute qu'un être qui soigne aussi bien les plaies des humains puisse soigner de même par la politique les maux de cette province. N'ayez crainte du bonheur ! On a peur de le choisir car on imagine que c'est un piège à l'image des républiques bourgeoises sont dirigées par de riches bonimenteurs politiciens qui vous promettent la lune et finalement vous font les poches ! »",
+    "key": "2026-01-25|01:15|confederation libre|milieu|structural|sophos a prononce un discours louant le gouverneur jalala [pp +1] : \" chers kramarade, chers citoyens confederes, je ne peux que vous felicitez d'avoir choisi jalala comme gouverneur. nul doute qu'un etre qui soigne aussi bien les plaies des humains puisse soigner de meme par la politique les maux de cette province. n'ayez crainte du bonheur ! on a peur de le choisir car on imagine que c'est un piege a l'image des republiques bourgeoises sont dirigees par de riches bonimenteurs politiciens qui vous promettent la lune et finalement vous font les poches ! \"",
+    "firstSeen": "2026-01-25T04:20:52.227Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "01:18",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Sophos a organisé une manifestation en faveur du gouvernement de la République de Kraland [loyauté +0.2] : « Il est honteux de voir que la Républike très très démokratique ne soit pas plus défendue dans une province fidèle à un pays qui se veut démocratique. Pourtant, vous êtes nombreux ici à connaître le sens du vrai bonheur, le seul, celui qui est universel. Venez manifester avec moi ! Vivre c'est lutter ! Kra20Kra ! »",
+    "key": "2026-01-25|01:18|confederation libre|milieu|structural|sophos a organise une manifestation en faveur du gouvernement de la republique de kraland [loyaute +0.2] : \" il est honteux de voir que la republike tres tres demokratique ne soit pas plus defendue dans une province fidele a un pays qui se veut democratique. pourtant, vous etes nombreux ici a connaitre le sens du vrai bonheur, le seul, celui qui est universel. venez manifester avec moi ! vivre c'est lutter ! kra20kra ! \"",
+    "firstSeen": "2026-01-25T04:20:51.952Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "02:50",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "",
+    "text": "Le Procureur Philippe Philoppe a adressé un discours à la population : « Chers habitants, La construction du tribunal d'Acropole est terminée, les tissus d'ameublement aux couleurs du Président sont posées, le marteau impérial de la justice est tout juste déballé, et j'ai relu deux-trois articles du code civil en buvant mon café. Bien.. qui veut recevoir une amende histoire de tester correctement le fonctionnement de cette toute fraîche institution? »",
+    "key": "2026-01-25|02:50|confederation libre|acropole||le procureur philippe philoppe a adresse un discours a la population : \" chers habitants, la construction du tribunal d'acropole est terminee, les tissus d'ameublement aux couleurs du president sont posees, le marteau imperial de la justice est tout juste deballe, et j'ai relu deux-trois articles du code civil en buvant mon cafe. bien.. qui veut recevoir une amende histoire de tester correctement le fonctionnement de cette toute fraiche institution? \"",
+    "firstSeen": "2026-01-25T04:20:50.135Z"
   }
 ]
