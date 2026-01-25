@@ -41458,5 +41458,15 @@
     "text": "Jacques St Misles s'est fait agresser par un groupe de créatures mené par Bâtard du Géant des Montagnes.",
     "key": "2026-01-25|00:57|confederation libre|plaine irradiee|atome|jacques st misles s'est fait agresser par un groupe de creatures mene par batard du geant des montagnes.",
     "firstSeen": "2026-01-25T04:20:53.365Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "05:38",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Construction d'un bâtiment Petite Briqueterie dans la ville Distillerie en [15,8].",
+    "key": "2026-01-25|05:38|khanat elmerien|bananie|distillerie|construction d'un batiment petite briqueterie dans la ville distillerie en [15,8].",
+    "firstSeen": "2026-01-25T05:46:23.352Z"
   }
 ]
