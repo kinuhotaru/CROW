@@ -42858,5 +42858,95 @@
     "text": "Frëlon Musc a ouvert un chantier privé dans la ville Structural en [18,3].",
     "key": "2026-01-25|22:34|confederation libre|milieu|structural|frelon musc a ouvert un chantier prive dans la ville structural en [18,3].",
     "firstSeen": "2026-01-25T21:50:38.652Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "23:12",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Monique Quiès a brûlé par erreur des notes scientifiques importantes. La recherche est perturbée (-3 à la technologie n°2).",
+    "key": "2026-01-25|23:12|confederation libre|||monique quies a brule par erreur des notes scientifiques importantes. la recherche est perturbee (-3 a la technologie n°2).",
+    "firstSeen": "2026-01-25T22:42:54.701Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "23:09",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Un pyromane a mis le feu au bureau de vote où se déroulent les élections pour le poste de Bourgmestre de la ville Trou Perdu. Une partie des bulletins de vote ont brûlé.",
+    "key": "2026-01-25|23:09|empire brun|sicilia|trou perdu|un pyromane a mis le feu au bureau de vote ou se deroulent les elections pour le poste de bourgmestre de la ville trou perdu. une partie des bulletins de vote ont brule.",
+    "firstSeen": "2026-01-25T22:42:55.949Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "23:06",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Un pyromane a mis le feu au bureau de vote où se déroulent les élections pour le poste de Bourgmestre de la ville Trou Perdu. Une partie des bulletins de vote ont brûlé.",
+    "key": "2026-01-25|23:06|empire brun|sicilia|trou perdu|un pyromane a mis le feu au bureau de vote ou se deroulent les elections pour le poste de bourgmestre de la ville trou perdu. une partie des bulletins de vote ont brule.",
+    "firstSeen": "2026-01-25T22:42:56.166Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "23:04",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "La Juge Alaenys Von Rich a imposé une amende de 25 MØ à Ragnar L.R DeiMachiavell : « Ragnar, même chose. Vous êtes sensés être de Sicilia mais vous avez plus utilisé toutes vos petites frappes contre les Sicilians qu'autre chose. Cela vous semble normal ? Comment ça je ne peux pas monter l'amende à 80 comme l'autre ? Il est pauvre en plus ? »",
+    "key": "2026-01-25|23:04|empire brun|sicilia|trou perdu|la juge alaenys von rich a impose une amende de 25 mø a ragnar l.r deimachiavell : \" ragnar, meme chose. vous etes senses etre de sicilia mais vous avez plus utilise toutes vos petites frappes contre les sicilians qu'autre chose. cela vous semble normal ? comment ca je ne peux pas monter l'amende a 80 comme l'autre ? il est pauvre en plus ? \"",
+    "firstSeen": "2026-01-25T22:42:56.655Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "23:03",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "La Juge Alaenys Von Rich a imposé une amende de 80 MØ à Benkaa DeiMachiavelli : « Benkaa DeiMachiavelli ! Vous vous croyez où ? C'est à coup de surinage les élections pour vous ? Les élections Siciliannes, c'est sensé être par fraude, incendies des urnes, ce genre de choses. Un peu de finesse, que diable ! Inadmissible ! »",
+    "key": "2026-01-25|23:03|empire brun|sicilia|trou perdu|la juge alaenys von rich a impose une amende de 80 mø a benkaa deimachiavelli : \" benkaa deimachiavelli ! vous vous croyez ou ? c'est a coup de surinage les elections pour vous ? les elections siciliannes, c'est sense etre par fraude, incendies des urnes, ce genre de choses. un peu de finesse, que diable ! inadmissible ! \"",
+    "firstSeen": "2026-01-25T22:42:56.842Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "22:53",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Captain Apparition vient d'arriver dans la ville Port Magmor.",
+    "key": "2026-01-25|22:53|royaume de ruthvenie|crab key|port magmor|captain apparition vient d'arriver dans la ville port magmor.",
+    "firstSeen": "2026-01-25T22:42:57.059Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "22:52",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "Vostroyan vient d'arriver dans la ville Quartier Suprême.",
+    "key": "2026-01-25|22:52|republique de kraland|kraland|quartier supreme|vostroyan vient d'arriver dans la ville quartier supreme.",
+    "firstSeen": "2026-01-25T22:42:57.209Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "22:51",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Grand Jardin",
+    "text": "Orelia Clairmont vient d'arriver dans la ville Grand Jardin.",
+    "key": "2026-01-25|22:51|paradigme vert|irendol|grand jardin|orelia clairmont vient d'arriver dans la ville grand jardin.",
+    "firstSeen": "2026-01-25T22:42:57.358Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "22:51",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Erbine vient d'arriver dans la ville Structural.",
+    "key": "2026-01-25|22:51|confederation libre|milieu|structural|erbine vient d'arriver dans la ville structural.",
+    "firstSeen": "2026-01-25T22:42:57.512Z"
   }
 ]
