@@ -42948,5 +42948,55 @@
     "text": "Erbine vient d'arriver dans la ville Structural.",
     "key": "2026-01-25|22:51|confederation libre|milieu|structural|erbine vient d'arriver dans la ville structural.",
     "firstSeen": "2026-01-25T22:42:57.512Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "23:53",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Économie Mina & Lilith Evermore a versé 1800 Éf au Ministère de la Recherche.",
+    "key": "2026-01-25|23:53|paradigme vert|||la ministre de l'economie mina & lilith evermore a verse 1800 ef au ministere de la recherche.",
+    "firstSeen": "2026-01-25T22:55:11.274Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "23:52",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "",
+    "text": "Le Khan Riguel Templar a accordé la récompense Pelure de Banane à Aurelthar : « *Communication khanique* Notre petite chasse bananienne vient de prendre fin. Je pense que le gagnant de notre petit jeu ne sera pas contesté. Il a livré des personnes à notre prison + lui-même. A moins que quelqu'un ait gagné des dizaines de points sans que je le vois, je désigne Aurelthar grand gagnant de la première Pelure de Banane de Bananie ! Bravo à lui. Tout le monde a pu constater ses qualité de guerrier. Et son fair-play également vu qu'il est resté dans l'auberge pour répondre aux demandes de duels des autres participants. »",
+    "key": "2026-01-25|23:52|khanat elmerien|bananie||le khan riguel templar a accorde la recompense pelure de banane a aurelthar : \" *communication khanique* notre petite chasse bananienne vient de prendre fin. je pense que le gagnant de notre petit jeu ne sera pas conteste. il a livre des personnes a notre prison + lui-meme. a moins que quelqu'un ait gagne des dizaines de points sans que je le vois, je designe aurelthar grand gagnant de la premiere pelure de banane de bananie ! bravo a lui. tout le monde a pu constater ses qualite de guerrier. et son fair-play egalement vu qu'il est reste dans l'auberge pour repondre aux demandes de duels des autres participants. \"",
+    "firstSeen": "2026-01-25T22:55:12.079Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "23:51",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Un pyromane a mis le feu au bureau de vote où se déroulent les élections pour le poste de Bourgmestre de la ville Trou Perdu. Une partie des bulletins de vote ont brûlé.",
+    "key": "2026-01-25|23:51|empire brun|sicilia|trou perdu|un pyromane a mis le feu au bureau de vote ou se deroulent les elections pour le poste de bourgmestre de la ville trou perdu. une partie des bulletins de vote ont brule.",
+    "firstSeen": "2026-01-25T22:55:12.247Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "23:50",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Alastair C. Shizen d'Excelisor a prononcé un discours louant la Procureure La fée Tide [PP +1] : « Très chère collègue, il me fera plaisir de travailler en votre agréable compagnie pour le bien de la Forêt. N'hésitez point à me faire signe si vous avez besoin de quoi que ce soit. Je viendrai certainement prendre un thé avec vous aux 4 arbres bientôt. »",
+    "key": "2026-01-25|23:50|paradigme vert|foret de jade|accalmie|alastair c. shizen d'excelisor a prononce un discours louant la procureure la fee tide [pp +1] : \" tres chere collegue, il me fera plaisir de travailler en votre agreable compagnie pour le bien de la foret. n'hesitez point a me faire signe si vous avez besoin de quoi que ce soit. je viendrai certainement prendre un the avec vous aux 4 arbres bientot. \"",
+    "firstSeen": "2026-01-25T22:55:12.393Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "23:47",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Alastair C. Shizen d'Excelisor a prononcé un discours louant le Gouverneur La fée K. Lome [PP +4] : « Je vous remercie pour votre confiance très chère Fée Gouverneure. Je ferai de mon mieux pour aider les habitants de la Forêt de Jade et travailler en tadem avec La Fée Tide. J'annoncerai mon projet bientôt sur la place publique d'Accalmie. »",
+    "key": "2026-01-25|23:47|paradigme vert|foret de jade|accalmie|alastair c. shizen d'excelisor a prononce un discours louant le gouverneur la fee k. lome [pp +4] : \" je vous remercie pour votre confiance tres chere fee gouverneure. je ferai de mon mieux pour aider les habitants de la foret de jade et travailler en tadem avec la fee tide. j'annoncerai mon projet bientot sur la place publique d'accalmie. \"",
+    "firstSeen": "2026-01-25T22:55:12.550Z"
   }
 ]
