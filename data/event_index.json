@@ -42568,5 +42568,25 @@
     "text": "Construction d'un bâtiment Cage dans la ville Trésorville en [17,3].",
     "key": "2026-01-25|19:56|republique de kraland|karaibes|tresorville|construction d'un batiment cage dans la ville tresorville en [17,3].",
     "firstSeen": "2026-01-25T19:29:42.631Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "20:42",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "La Bourgmestre Annie a adressé un discours à la population : « Je sais pas si c'est moi qu'est folle mais à chaque fois que je vois Simone Voile parler, elle mentionne Garinaville. J'arrive pas trop à comprendre pourquoi, si quelqu'un pouvait m'expliquer. En plus je suis même souvent mentionnée dans ses interventions. Après elle a peut-être une dent contre la palladium et je suis la plus près géographiquement car les kanards se planquent sur leur île. Vous pensez que je suis en danger ?? J'ai essayé plusieurs fois le stage d'agent de sécurité au Poste de Police mais ils m'ont carrément renvoyé du stage, je savais même pas que c'était possible. »",
+    "key": "2026-01-25|20:42|paradigme vert|siberia|garinaville|la bourgmestre annie a adresse un discours a la population : \" je sais pas si c'est moi qu'est folle mais a chaque fois que je vois simone voile parler, elle mentionne garinaville. j'arrive pas trop a comprendre pourquoi, si quelqu'un pouvait m'expliquer. en plus je suis meme souvent mentionnee dans ses interventions. apres elle a peut-etre une dent contre la palladium et je suis la plus pres geographiquement car les kanards se planquent sur leur ile. vous pensez que je suis en danger ?? j'ai essaye plusieurs fois le stage d'agent de securite au poste de police mais ils m'ont carrement renvoye du stage, je savais meme pas que c'etait possible. \"",
+    "firstSeen": "2026-01-25T19:44:19.577Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "20:37",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "baldus s'est fait agresser par un groupe de rebelles.",
+    "key": "2026-01-25|20:37|khanat elmerien|bananie|distillerie|baldus s'est fait agresser par un groupe de rebelles.",
+    "firstSeen": "2026-01-25T19:44:20.790Z"
   }
 ]
