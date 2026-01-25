@@ -42818,5 +42818,45 @@
     "text": "Seraphiel Ravenloft a prononcé un discours louant la Ministre des Affaires Étrangères Enya Ravenloft [PP +3] : « Ma chère fille, Je t'offre ici mon soutiens et je t'invite aussi à faire confiance en la sagesse de ton père, j'espère que tu retrouveras la Régente ! »",
     "key": "2026-01-25|22:06|paradigme vert|foret de jade|accalmie|seraphiel ravenloft a prononce un discours louant la ministre des affaires etrangeres enya ravenloft [pp +3] : \" ma chere fille, je t'offre ici mon soutiens et je t'invite aussi a faire confiance en la sagesse de ton pere, j'espere que tu retrouveras la regente ! \"",
     "firstSeen": "2026-01-25T21:34:39.294Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "22:49",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Rose Nelson a prononcé un discours critiquant la politique du gouvernement du Paradigme Vert [loyauté -0.5] au nom de l'organisation Kanardium Corporation : « Halte au matraquage fiscal ! Il suffit ! La Kanardium Corporation ne peut que constater, conformément à l’article 12‑4 du Code des Effondrements Institutionnels Prévisibles, la lente déliquescence du Paradigme, qui pourtant ne partait déjà pas de très haut sur l’échelle de la compétence administrative. Plus le temps passe, plus les provinces se livrent à des attaques fiscales sans vergogne contre les entrepreneurs, les investisseurs et toute personne ayant plus de deux chiffres sur son compte en banque. Si les Bruns n’étaient pas actuellement occupés à tenter d’usurper le siège de la Régente, nous pourrions presque soupçonner une ingérence extérieure de la Républike de Kraland ; mais restons sérieux, ils ont déjà du mal à produire des boulons alors fomenter une déstabilisation à trois bandes… Dernière illustration de cette dérive : Sibéria. Cloaque notoire des désœuvrés, puisqu’il s’agit de leur lieu de villégiature officiel, elle nous offre une nouvelle démonstration de fiscalité punitive. Et, sans surprise, Annie (dite Annie la rouge) figure encore parmi les instigatrices de ces mesures exubérantes, nuisibles à l’innovation, à la disruption, et surtout à la fluidité de l’or (L’OR !!) dans les poches d’actionnaires honnêtes et méritants. Riches du Paradigme, soyez rassurés : la Kanardium Corporation demeurera, en vertu de son statut d’Entité à Fiscalité Optimisée et Parfaitement Légale, votre refuge fiscal naturel et éternel. »",
+    "key": "2026-01-25|22:49|paradigme vert|ile aux kanards|kanardville|rose nelson a prononce un discours critiquant la politique du gouvernement du paradigme vert [loyaute -0.5] au nom de l'organisation kanardium corporation : \" halte au matraquage fiscal ! il suffit ! la kanardium corporation ne peut que constater, conformement a l'article 12‐4 du code des effondrements institutionnels previsibles, la lente deliquescence du paradigme, qui pourtant ne partait deja pas de tres haut sur l'echelle de la competence administrative. plus le temps passe, plus les provinces se livrent a des attaques fiscales sans vergogne contre les entrepreneurs, les investisseurs et toute personne ayant plus de deux chiffres sur son compte en banque. si les bruns n'etaient pas actuellement occupes a tenter d'usurper le siege de la regente, nous pourrions presque soupconner une ingerence exterieure de la republike de kraland ; mais restons serieux, ils ont deja du mal a produire des boulons alors fomenter une destabilisation a trois bandes... derniere illustration de cette derive : siberia. cloaque notoire des desœuvres, puisqu'il s'agit de leur lieu de villegiature officiel, elle nous offre une nouvelle demonstration de fiscalite punitive. et, sans surprise, annie (dite annie la rouge) figure encore parmi les instigatrices de ces mesures exuberantes, nuisibles a l'innovation, a la disruption, et surtout a la fluidite de l'or (l'or !!) dans les poches d'actionnaires honnetes et meritants. riches du paradigme, soyez rassures : la kanardium corporation demeurera, en vertu de son statut d'entite a fiscalite optimisee et parfaitement legale, votre refuge fiscal naturel et eternel. \"",
+    "firstSeen": "2026-01-25T21:50:37.417Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "22:48",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Imoen Bint Wololo Al Rasha est désormais domiciliée dans la ville Trou Perdu.",
+    "key": "2026-01-25|22:48|empire brun|sicilia|trou perdu|imoen bint wololo al rasha est desormais domiciliee dans la ville trou perdu.",
+    "firstSeen": "2026-01-25T21:50:38.384Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "22:36",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Construction d'un bâtiment Chapelle Grande Déesse dans la ville Structural en [18,3].",
+    "key": "2026-01-25|22:36|confederation libre|milieu|structural|construction d'un batiment chapelle grande deesse dans la ville structural en [18,3].",
+    "firstSeen": "2026-01-25T21:50:38.522Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "22:34",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Frëlon Musc a ouvert un chantier privé dans la ville Structural en [18,3].",
+    "key": "2026-01-25|22:34|confederation libre|milieu|structural|frelon musc a ouvert un chantier prive dans la ville structural en [18,3].",
+    "firstSeen": "2026-01-25T21:50:38.652Z"
   }
 ]
