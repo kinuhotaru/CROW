@@ -41548,5 +41548,25 @@
     "text": "Géo Trouvetou n'a pas réussi à établir une chaîne de production dans le bâtiment Gisement d'Or.",
     "key": "2026-01-25|08:21|paradigme vert|ile aux kanards|kanardville|geo trouvetou n'a pas reussi a etablir une chaine de production dans le batiment gisement d'or.",
     "firstSeen": "2026-01-25T07:39:03.598Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "08:41",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Lola Katta est désormais domiciliée dans la ville Garinaville.",
+    "key": "2026-01-25|08:41|paradigme vert|siberia|garinaville|lola katta est desormais domiciliee dans la ville garinaville.",
+    "firstSeen": "2026-01-25T07:51:04.789Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "08:47",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "BoboFix vient d'achever sa peine et a quitté la prison.",
+    "key": "2026-01-25|08:47|confederation libre|milieu|structural|bobofix vient d'achever sa peine et a quitte la prison.",
+    "firstSeen": "2026-01-25T07:51:03.461Z"
   }
 ]
