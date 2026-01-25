@@ -41568,5 +41568,85 @@
     "text": "Lola Katta est désormais domiciliée dans la ville Garinaville.",
     "key": "2026-01-25|08:41|paradigme vert|siberia|garinaville|lola katta est desormais domiciliee dans la ville garinaville.",
     "firstSeen": "2026-01-25T07:51:04.789Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "09:50",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Camélia a acheté le bâtiment Vendeur de Pacotille « Bazar de l'Expédition » au prix de 1120 ¢¢.",
+    "key": "2026-01-25|09:50|confederation libre|milieu|structural|camelia a achete le batiment vendeur de pacotille \" bazar de l'expedition \" au prix de 1120 ¢¢.",
+    "firstSeen": "2026-01-25T08:52:50.182Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "09:46",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "Erdny a ouvert un chantier privé dans la ville Fort Emouchet en [4,12].",
+    "key": "2026-01-25|09:46|royaume de ruthvenie|valegro|fort emouchet|erdny a ouvert un chantier prive dans la ville fort emouchet en [4,12].",
+    "firstSeen": "2026-01-25T08:52:51.609Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "09:36",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Santa Banana City",
+    "text": "Construction d'un bâtiment Cage dans la ville Santa Banana City en [13,9].",
+    "key": "2026-01-25|09:36|empire brun|santa banana|santa banana city|construction d'un batiment cage dans la ville santa banana city en [13,9].",
+    "firstSeen": "2026-01-25T08:52:51.851Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "09:29",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "",
+    "text": "Light Deathnote a trouvé une vaste terre riche pour le bois dans la province Bananie : « Le Khanat a besoin du bois de nos Bananeraies! J'ai aperçu de belles variétés dans notre foret. »",
+    "key": "2026-01-25|09:29|khanat elmerien|bananie||light deathnote a trouve une vaste terre riche pour le bois dans la province bananie : \" le khanat a besoin du bois de nos bananeraies! j'ai apercu de belles varietes dans notre foret. \"",
+    "firstSeen": "2026-01-25T08:52:52.148Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "08:58",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Gladstone Krander a ouvert un chantier public dans la ville Kanardville en [3,4].",
+    "key": "2026-01-25|08:58|paradigme vert|ile aux kanards|kanardville|gladstone krander a ouvert un chantier public dans la ville kanardville en [3,4].",
+    "firstSeen": "2026-01-25T08:52:52.357Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "08:58",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Mademoiselle a donné un spectacle distrayant dans le bâtiment Hôtel « Auberge du corbeau » : « Le spectacle n’était pas parfaitement huilé. Il y eut des silences un peu trop longs, des mots cherchés, des hésitations. On sentait que ce n’était pas une habituée de la scène. Mais la voix tenait, l’attention aussi. Les gens se sont tus progressivement. Ce n’était pas brillant ni maîtrisé. Mais c’était sincère et direct. À la fin, il n’y a pas eu d’ovation. Mais personne n’est parti tout de suite. »",
+    "key": "2026-01-25|08:58|paradigme vert|foret de jade|accalmie|mademoiselle a donne un spectacle distrayant dans le batiment hotel \" auberge du corbeau \" : \" le spectacle n'etait pas parfaitement huile. il y eut des silences un peu trop longs, des mots cherches, des hesitations. on sentait que ce n'etait pas une habituee de la scene. mais la voix tenait, l'attention aussi. les gens se sont tus progressivement. ce n'etait pas brillant ni maitrise. mais c'etait sincere et direct. a la fin, il n'y a pas eu d'ovation. mais personne n'est parti tout de suite. \"",
+    "firstSeen": "2026-01-25T08:52:52.620Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "08:57",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Lola Katta dirige la construction du bâtiment Électronique (la construction sera plus rapide).",
+    "key": "2026-01-25|08:57|paradigme vert|siberia|garinaville|lola katta dirige la construction du batiment electronique (la construction sera plus rapide).",
+    "firstSeen": "2026-01-25T08:52:52.832Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "08:51",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Capitaine Igloo a ouvert un chantier public dans la ville Igloo en [14,10].",
+    "key": "2026-01-25|08:51|khanat elmerien|elmerie|igloo|capitaine igloo a ouvert un chantier public dans la ville igloo en [14,10].",
+    "firstSeen": "2026-01-25T08:52:53.026Z"
   }
 ]
