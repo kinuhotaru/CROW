@@ -41648,5 +41648,185 @@
     "text": "Capitaine Igloo a ouvert un chantier public dans la ville Igloo en [14,10].",
     "key": "2026-01-25|08:51|khanat elmerien|elmerie|igloo|capitaine igloo a ouvert un chantier public dans la ville igloo en [14,10].",
     "firstSeen": "2026-01-25T08:52:53.026Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "10:48",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Construction d'un bâtiment Pré dans la ville Blofeldopolis en [3,9].",
+    "key": "2026-01-25|10:48|confederation libre|warriorland|blofeldopolis|construction d'un batiment pre dans la ville blofeldopolis en [3,9].",
+    "firstSeen": "2026-01-25T09:52:10.991Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "10:44",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Lyanna de Nansay a établi une chaîne de production dans le bâtiment Camp de Bûcherons (la production sera plus rapide) : « Comme avant hier à Atome, la Mystisie est heureuse de vous apporter un petit coup de main. L'optimisation des process de production est un art complexe mais il peut être utile, s'il est bien employé. »",
+    "key": "2026-01-25|10:44|empire brun|niarkalistan|leprosie|lyanna de nansay a etabli une chaine de production dans le batiment camp de bucherons (la production sera plus rapide) : \" comme avant hier a atome, la mystisie est heureuse de vous apporter un petit coup de main. l'optimisation des process de production est un art complexe mais il peut etre utile, s'il est bien employe. \"",
+    "firstSeen": "2026-01-25T09:52:12.466Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "10:36",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Saphir Ravenmaid (Démagogue) a prononcé un discours louant la Ministre des Affaires Étrangères Enya Ravenloft (Démagogue) [PP +10] : « J'ai pu voir le dernier tableau de maitresse Enya... Et whow... Il est absolument magnifique, j'espère qu'il ne sera pas volé celui-là. »",
+    "key": "2026-01-25|10:36|paradigme vert|foret de jade|accalmie|saphir ravenmaid (demagogue) a prononce un discours louant la ministre des affaires etrangeres enya ravenloft (demagogue) [pp +10] : \" j'ai pu voir le dernier tableau de maitresse enya... et whow... il est absolument magnifique, j'espere qu'il ne sera pas vole celui-la. \"",
+    "firstSeen": "2026-01-25T09:52:12.757Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "10:34",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Saphir Ravenmaid a prononcé un discours louant Alastair C. Shizen d'Excelisor [PP +3] : « Je voulais remercier un peu plus... Heu... Sympatiquement, monsieur Alastair, votre compliment m'a vraiment chaud au cœur, et même si vous n'avez pas eu de poste, vous êtes un des hommes les plus volontaires et solidaires envers la communauté de Jade. »",
+    "key": "2026-01-25|10:34|paradigme vert|foret de jade|accalmie|saphir ravenmaid a prononce un discours louant alastair c. shizen d'excelisor [pp +3] : \" je voulais remercier un peu plus... heu... sympatiquement, monsieur alastair, votre compliment m'a vraiment chaud au cœur, et meme si vous n'avez pas eu de poste, vous etes un des hommes les plus volontaires et solidaires envers la communaute de jade. \"",
+    "firstSeen": "2026-01-25T09:52:13.076Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "10:33",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Rhadamanthe Seraven a entamé un duel contre Falkorn ⭐️.",
+    "key": "2026-01-25|10:33|khanat elmerien|elmerie|gueule du lezard|rhadamanthe seraven a entame un duel contre falkorn ⭐️.",
+    "firstSeen": "2026-01-25T09:52:13.401Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "10:33",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Erbine a pris sa retraite dans la ville Structural.",
+    "key": "2026-01-25|10:33|confederation libre|milieu|structural|erbine a pris sa retraite dans la ville structural.",
+    "firstSeen": "2026-01-25T09:52:13.635Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "10:26",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Annie a ouvert un chantier public dans la ville Garinaville en [14,12].",
+    "key": "2026-01-25|10:26|paradigme vert|siberia|garinaville|annie a ouvert un chantier public dans la ville garinaville en [14,12].",
+    "firstSeen": "2026-01-25T09:52:13.894Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "10:26",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Construction d'un bâtiment Drapeau Paradigme dans la ville Garinaville en [13,12].",
+    "key": "2026-01-25|10:26|paradigme vert|siberia|garinaville|construction d'un batiment drapeau paradigme dans la ville garinaville en [13,12].",
+    "firstSeen": "2026-01-25T09:52:14.163Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "10:21",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "Le Bourgmestre MichelDruKra a versé une prime de 250 FK à Lucette Circulaire : « Kramarade Lucette ! C'est indéniable : vos efforts pour rendre la ville agréable surpassent les autres ! Et sans réclamer de salaire, en plus ! Recevez cette prime en gage de gratitude graffitike ! KRA20KRA ! »",
+    "key": "2026-01-25|10:21|republique de kraland|kraland|quartier supreme|le bourgmestre micheldrukra a verse une prime de 250 fk a lucette circulaire : \" kramarade lucette ! c'est indeniable : vos efforts pour rendre la ville agreable surpassent les autres ! et sans reclamer de salaire, en plus ! recevez cette prime en gage de gratitude graffitike ! kra20kra ! \"",
+    "firstSeen": "2026-01-25T09:52:14.295Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "10:21",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Annie a ouvert un chantier public dans la ville Garinaville en [13,12].",
+    "key": "2026-01-25|10:21|paradigme vert|siberia|garinaville|annie a ouvert un chantier public dans la ville garinaville en [13,12].",
+    "firstSeen": "2026-01-25T09:52:14.448Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "10:14",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Bladimir Bladimirovitch Mutin a prononcé un discours louant l'Intendant Simon Halden [PP +5].",
+    "key": "2026-01-25|10:14|confederation libre|acropole|forum|bladimir bladimirovitch mutin a prononce un discours louant l'intendant simon halden [pp +5].",
+    "firstSeen": "2026-01-25T09:52:14.581Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "10:14",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Bladimir Bladimirovitch Mutin (Démagogue) a prononcé un discours louant le Gouverneur Tormenta (Démagogue) [PP +0] : « Meяci pouя votяe généяeux mécénat désintéяessé. Vous auяez méяité votяe pяix. »",
+    "key": "2026-01-25|10:14|confederation libre|acropole|forum|bladimir bladimirovitch mutin (demagogue) a prononce un discours louant le gouverneur tormenta (demagogue) [pp +0] : \" meяci pouя votяe geneяeux mecenat desinteяesse. vous auяez meяite votяe pяix. \"",
+    "firstSeen": "2026-01-25T09:52:14.711Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "10:13",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Katherine Khanova a acheté le bâtiment Scierie « Charpenterie Navale » au prix de 1743 ¢¢.",
+    "key": "2026-01-25|10:13|confederation libre|milieu|structural|katherine khanova a achete le batiment scierie \" charpenterie navale \" au prix de 1743 ¢¢.",
+    "firstSeen": "2026-01-25T09:52:14.846Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "10:12",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Erbine a proposé à Katherine Khanova de lui racheter le bâtiment Scierie « Charpenterie Navale » pour 1743 ¢¢.",
+    "key": "2026-01-25|10:12|confederation libre|milieu|structural|erbine a propose a katherine khanova de lui racheter le batiment scierie \" charpenterie navale \" pour 1743 ¢¢.",
+    "firstSeen": "2026-01-25T09:52:14.973Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "10:12",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Bladimir Bladimirovitch Mutin a prononcé un discours louant l'Ambassadrice Mercuriale [PP +8] : « Cheяe amie. Meяci pouя votяe dévouement. Je sais que ce n'est que votяe tяavail, mais contяaiяement à Henяi, vous le faites. Et vous le faites même bien. Continuez comme cela. »",
+    "key": "2026-01-25|10:12|confederation libre|acropole|forum|bladimir bladimirovitch mutin a prononce un discours louant l'ambassadrice mercuriale [pp +8] : \" cheяe amie. meяci pouя votяe devouement. je sais que ce n'est que votяe tяavail, mais contяaiяement a henяi, vous le faites. et vous le faites meme bien. continuez comme cela. \"",
+    "firstSeen": "2026-01-25T09:52:15.110Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "10:11",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Katherine Khanova a acheté le bâtiment Petite Briqueterie « Autel truelléen » au prix de 2820 ¢¢.",
+    "key": "2026-01-25|10:11|confederation libre|milieu|structural|katherine khanova a achete le batiment petite briqueterie \" autel truelleen \" au prix de 2820 ¢¢.",
+    "firstSeen": "2026-01-25T09:52:15.257Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "10:10",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Erbine a proposé à Katherine Khanova de lui racheter le bâtiment Petite Briqueterie « Autel truelléen » pour 2820 ¢¢.",
+    "key": "2026-01-25|10:10|confederation libre|milieu|structural|erbine a propose a katherine khanova de lui racheter le batiment petite briqueterie \" autel truelleen \" pour 2820 ¢¢.",
+    "firstSeen": "2026-01-25T09:52:15.388Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "10:06",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "L'Intendante (f.f.) Zi Eun a encouragé le travail dans les centres de production provinciaux : « Mes chers administrés, Je vous encourage à donner le meilleur de vous chaque jour que Naar fait! Travaillez mes chers esclaves! Héhé. »",
+    "key": "2026-01-25|10:06|empire brun|niarkalistan|leprosie|l'intendante (f.f.) zi eun a encourage le travail dans les centres de production provinciaux : \" mes chers administres, je vous encourage a donner le meilleur de vous chaque jour que naar fait! travaillez mes chers esclaves! hehe. \"",
+    "firstSeen": "2026-01-25T09:52:15.520Z"
   }
 ]
