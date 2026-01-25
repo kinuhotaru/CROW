@@ -42748,5 +42748,75 @@
     "text": "Construction d'un bâtiment Petit Musée dans la ville Igloo en [11,10].",
     "key": "2026-01-25|20:52|khanat elmerien|elmerie|igloo|construction d'un batiment petit musee dans la ville igloo en [11,10].",
     "firstSeen": "2026-01-25T20:43:31.955Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "22:25",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Light Deathnote s'est présenté aux élections pour le poste de Chef de Tribu de la ville Distillerie : « Les projets ne sont pas encore terminés. Et mon fan club est a entretenir. »",
+    "key": "2026-01-25|22:25|khanat elmerien|bananie|distillerie|light deathnote s'est presente aux elections pour le poste de chef de tribu de la ville distillerie : \" les projets ne sont pas encore termines. et mon fan club est a entretenir. \"",
+    "firstSeen": "2026-01-25T21:34:37.059Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "22:14",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Bamboutopia",
+    "text": "Kara H a ouvert un chantier public dans la ville Bamboutopia en [9,2].",
+    "key": "2026-01-25|22:14|paradigme vert|irendol|bamboutopia|kara h a ouvert un chantier public dans la ville bamboutopia en [9,2].",
+    "firstSeen": "2026-01-25T21:34:38.324Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "22:14",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Bamboutopia",
+    "text": "Construction d'un bâtiment Drapeau Paradigme dans la ville Bamboutopia en [5,8].",
+    "key": "2026-01-25|22:14|paradigme vert|irendol|bamboutopia|construction d'un batiment drapeau paradigme dans la ville bamboutopia en [5,8].",
+    "firstSeen": "2026-01-25T21:34:38.520Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "22:13",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de la Recherche Big R a fixé le salaire pour la recherche technologique à 10 ÐE : « Les caisses du ministère sont vides et notre ministre de l'économie soulève des impôts exceptionnels pour... Pour quoi déjà ? Il est donc impossible de ne pas diminuer les salaires :'( »",
+    "key": "2026-01-25|22:13|khanat elmerien|||le ministre de la recherche big r a fixe le salaire pour la recherche technologique a 10 ðe : \" les caisses du ministere sont vides et notre ministre de l'economie souleve des impots exceptionnels pour... pour quoi deja ? il est donc impossible de ne pas diminuer les salaires :'( \"",
+    "firstSeen": "2026-01-25T21:34:38.734Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "22:08",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Deux-Fleurs de Pont-Krivell a recommandé Imoen Bint Wololo Al Rasha, permettant la domiciliation dans une ville de la province sans délai.",
+    "key": "2026-01-25|22:08|empire brun|sicilia|trou perdu|deux-fleurs de pont-krivell a recommande imoen bint wololo al rasha, permettant la domiciliation dans une ville de la province sans delai.",
+    "firstSeen": "2026-01-25T21:34:38.888Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "22:07",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Le Bourgmestre Gladstone Krander a versé une prime de 250 Éf à Popop Duck : « Koin! Koin koin koin koin koin ( …) koin. (Traduction : Mlle Popop! Il y a ceci de commun aux artistes et aux rats d’aimer tout autant vivre dans la fange et d’y trouver, l’un ses chefs-d’œuvre, l’autre son dîner, comme si la Krasse était la seule monnaie d’échange entre le génie et la vermine. Mais ne jugeons pas, non, au Paradigme Vert sont protégées toutes les diversités… Miss Popop, c’est le génie que nous saluons ce soir, et mon loyer que je vous paye .) »",
+    "key": "2026-01-25|22:07|paradigme vert|ile aux kanards|kanardville|le bourgmestre gladstone krander a verse une prime de 250 ef a popop duck : \" koin! koin koin koin koin koin ( ...) koin. (traduction : mlle popop! il y a ceci de commun aux artistes et aux rats d'aimer tout autant vivre dans la fange et d'y trouver, l'un ses chefs-d'œuvre, l'autre son diner, comme si la krasse etait la seule monnaie d'echange entre le genie et la vermine. mais ne jugeons pas, non, au paradigme vert sont protegees toutes les diversites... miss popop, c'est le genie que nous saluons ce soir, et mon loyer que je vous paye .) \"",
+    "firstSeen": "2026-01-25T21:34:39.147Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "22:06",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Seraphiel Ravenloft a prononcé un discours louant la Ministre des Affaires Étrangères Enya Ravenloft [PP +3] : « Ma chère fille, Je t'offre ici mon soutiens et je t'invite aussi à faire confiance en la sagesse de ton père, j'espère que tu retrouveras la Régente ! »",
+    "key": "2026-01-25|22:06|paradigme vert|foret de jade|accalmie|seraphiel ravenloft a prononce un discours louant la ministre des affaires etrangeres enya ravenloft [pp +3] : \" ma chere fille, je t'offre ici mon soutiens et je t'invite aussi a faire confiance en la sagesse de ton pere, j'espere que tu retrouveras la regente ! \"",
+    "firstSeen": "2026-01-25T21:34:39.294Z"
   }
 ]
