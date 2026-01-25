@@ -42238,5 +42238,65 @@
     "text": "La Gouverneure Jadina a adressé un discours à la population : « Politique de Grands Travaux Peuple de Sibéria, Les récentes réformes économiques que j'ai entreprises n'auraient aucun sens si je n'allais pas au bout de la démarche. Comme je vous l'expliquais, je souhaite réorienter la force de production vers le salariat au détriment de l'extraction. Pour que ce système fonctionne, il faut bien évidemment qu'il y ait des endroits où travailler avec un salaire décent. J'encourage donc les commerçants qui le peuvent à maintenir des salaires attractifs pour remplir leurs stocks, même si je comprends que ce n'est pas toujours évident du fait de la répercussion tarifaire. Mais aussi et surtout, j'annonce le lancement prioritaire de deux chantiers publics pour lesquels la Bourgmestre Annie et moi-même nous sommes mises d’accord pour essayer de remplir les caisses autant que faire se peut. Il s'agit du Complexe Agricole, d'une part, et de la préfecture de Police Autrement dit, si vous voulez gagner un peu d'argent et aider au développement du royaume, c'est vers ces bâtiments que vous pourrez consacrer vos efforts en profitant d'un salaire raisonnable et peu taxé. Annie et Jadina, sortant de réunion »",
     "key": "2026-01-25|15:45|paradigme vert|siberia||la gouverneure jadina a adresse un discours a la population : \" politique de grands travaux peuple de siberia, les recentes reformes economiques que j'ai entreprises n'auraient aucun sens si je n'allais pas au bout de la demarche. comme je vous l'expliquais, je souhaite reorienter la force de production vers le salariat au detriment de l'extraction. pour que ce systeme fonctionne, il faut bien evidemment qu'il y ait des endroits ou travailler avec un salaire decent. j'encourage donc les commercants qui le peuvent a maintenir des salaires attractifs pour remplir leurs stocks, meme si je comprends que ce n'est pas toujours evident du fait de la repercussion tarifaire. mais aussi et surtout, j'annonce le lancement prioritaire de deux chantiers publics pour lesquels la bourgmestre annie et moi-meme nous sommes mises d'accord pour essayer de remplir les caisses autant que faire se peut. il s'agit du complexe agricole, d'une part, et de la prefecture de police autrement dit, si vous voulez gagner un peu d'argent et aider au developpement du royaume, c'est vers ces batiments que vous pourrez consacrer vos efforts en profitant d'un salaire raisonnable et peu taxe. annie et jadina, sortant de reunion \"",
     "firstSeen": "2026-01-25T14:53:25.460Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "16:07",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "",
+    "text": "Minskirouille s'est fait agresser par un groupe de créatures mené par Cheval.",
+    "key": "2026-01-25|16:07|empire brun|sicilia||minskirouille s'est fait agresser par un groupe de creatures mene par cheval.",
+    "firstSeen": "2026-01-25T15:38:46.981Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "16:07",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Minskirouille a tenté de voler dans la caisse du bâtiment Hôtel « Seven Sins Inn ». Il est à présent recherché par la police du cybermonde pour ce délit.",
+    "key": "2026-01-25|16:07|empire brun|sicilia|trou perdu|minskirouille a tente de voler dans la caisse du batiment hotel \" seven sins inn \". il est a present recherche par la police du cybermonde pour ce delit.",
+    "firstSeen": "2026-01-25T15:38:47.139Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "16:21",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Construction d'un bâtiment Petite Raffinerie dans la ville Trésorville en [14,9].",
+    "key": "2026-01-25|16:21|republique de kraland|karaibes|tresorville|construction d'un batiment petite raffinerie dans la ville tresorville en [14,9].",
+    "firstSeen": "2026-01-25T15:38:46.795Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "16:23",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "",
+    "text": "L'Intendant ama'r vient de modifier le taux d'imposition des salaires (qui passe de 10% à 5%).",
+    "key": "2026-01-25|16:23|republique de kraland|karaibes||l'intendant ama'r vient de modifier le taux d'imposition des salaires (qui passe de 10% a 5%).",
+    "firstSeen": "2026-01-25T15:38:46.442Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "16:23",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "",
+    "text": "Dusk et Aurora s'est fait agresser par un groupe de créatures mené par Cheval.",
+    "key": "2026-01-25|16:23|empire brun|sicilia||dusk et aurora s'est fait agresser par un groupe de creatures mene par cheval.",
+    "firstSeen": "2026-01-25T15:38:46.615Z"
+  },
+  {
+    "date": "2026-01-25",
+    "time": "16:34",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Satela Zero (Démagogue) a prononcé un discours louant la Bourgmestre Saphir Ravenmaid (Démagogue) [PP +1] : « Pleurer c'est pour les faible Saph, tiens je te rends ton 2nd string, il est toujours aussi nul en fronde »",
+    "key": "2026-01-25|16:34|paradigme vert|foret de jade|accalmie|satela zero (demagogue) a prononce un discours louant la bourgmestre saphir ravenmaid (demagogue) [pp +1] : \" pleurer c'est pour les faible saph, tiens je te rends ton 2nd string, il est toujours aussi nul en fronde \"",
+    "firstSeen": "2026-01-25T15:38:45.238Z"
   }
 ]
