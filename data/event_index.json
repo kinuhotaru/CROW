@@ -44048,5 +44048,85 @@
     "text": "Robin des Bars a proposé à Yéti de lui racheter le bâtiment Hôtel « L'Antigel » pour 8100 ÐE.",
     "key": "2026-01-26|06:29|khanat elmerien|elmerie|igloo|robin des bars a propose a yeti de lui racheter le batiment hotel \" l'antigel \" pour 8100 ðe.",
     "firstSeen": "2026-01-26T05:57:04.040Z"
+  },
+  {
+    "date": "2026-01-26",
+    "time": "07:57",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Yéti a acheté le bâtiment Hôtel « L'Antigel » au prix de 8100 ÐE.",
+    "key": "2026-01-26|07:57|khanat elmerien|elmerie|igloo|yeti a achete le batiment hotel \" l'antigel \" au prix de 8100 ðe.",
+    "firstSeen": "2026-01-26T07:05:34.677Z"
+  },
+  {
+    "date": "2026-01-26",
+    "time": "07:52",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Ranxerox a ouvert un chantier privé dans la ville Structural en [19,5].",
+    "key": "2026-01-26|07:52|confederation libre|milieu|structural|ranxerox a ouvert un chantier prive dans la ville structural en [19,5].",
+    "firstSeen": "2026-01-26T07:05:36.327Z"
+  },
+  {
+    "date": "2026-01-26",
+    "time": "07:42",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Bonnie Red a mis en vente le bâtiment Petite Forge « 500 » pour 1500 ÐE.",
+    "key": "2026-01-26|07:42|khanat elmerien|elmerie|igloo|bonnie red a mis en vente le batiment petite forge \" 500 \" pour 1500 ðe.",
+    "firstSeen": "2026-01-26T07:05:36.686Z"
+  },
+  {
+    "date": "2026-01-26",
+    "time": "07:39",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "",
+    "text": "Un groupe de créatures mené par 1 Ver de Glace attaque Trøels.",
+    "key": "2026-01-26|07:39|khanat elmerien|capsulie||un groupe de creatures mene par 1 ver de glace attaque trøels.",
+    "firstSeen": "2026-01-26T07:05:37.002Z"
+  },
+  {
+    "date": "2026-01-26",
+    "time": "07:19",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "",
+    "text": "Le Khan Pierre Ponce a nommé Stone Héchardène au poste de Procureure.",
+    "key": "2026-01-26|07:19|khanat elmerien|bouletie||le khan pierre ponce a nomme stone hechardene au poste de procureure.",
+    "firstSeen": "2026-01-26T07:05:37.290Z"
+  },
+  {
+    "date": "2026-01-26",
+    "time": "07:18",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "Youpigrad",
+    "text": "Pierre Ponce a ouvert un chantier public dans la ville Youpigrad en [14,7].",
+    "key": "2026-01-26|07:18|khanat elmerien|bouletie|youpigrad|pierre ponce a ouvert un chantier public dans la ville youpigrad en [14,7].",
+    "firstSeen": "2026-01-26T07:05:37.469Z"
+  },
+  {
+    "date": "2026-01-26",
+    "time": "07:13",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Aken a tenté de voler Minskirouille ! Il est à présent recherché par la police du cybermonde pour ce délit.",
+    "key": "2026-01-26|07:13|empire brun|sicilia|trou perdu|aken a tente de voler minskirouille ! il est a present recherche par la police du cybermonde pour ce delit.",
+    "firstSeen": "2026-01-26T07:05:37.650Z"
+  },
+  {
+    "date": "2026-01-26",
+    "time": "07:01",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "VixenRavenloft vient d'achever sa peine et a quitté la prison.",
+    "key": "2026-01-26|07:01|paradigme vert|foret de jade|accalmie|vixenravenloft vient d'achever sa peine et a quitte la prison.",
+    "firstSeen": "2026-01-26T07:05:37.827Z"
   }
 ]
