@@ -46548,5 +46548,35 @@
     "text": "Construction d'un bâtiment École dans la ville Bisouville en [14,11].",
     "key": "2026-01-27|00:39|republique de kraland|helenie|bisouville|construction d'un batiment ecole dans la ville bisouville en [14,11].",
     "firstSeen": "2026-01-26T23:41:59.037Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "00:46",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "Stella Artois a fait la déclaration officielle suivante aux habitants du Paradigme Vert : « Pauvres petites écolières qui pleurent ! Ne vous inquiétez pas ! Je ne vais pas me perdre voyons... J'ai attaché une mèche de cheveux au premier bambou que j'ai vu. Je suis sûre de réussir à la trouver pour me guider quand ce sera le moment de rentrer ! »",
+    "key": "2026-01-27|00:46|paradigme vert|||stella artois a fait la declaration officielle suivante aux habitants du paradigme vert : \" pauvres petites ecolieres qui pleurent ! ne vous inquietez pas ! je ne vais pas me perdre voyons... j'ai attache une meche de cheveux au premier bambou que j'ai vu. je suis sure de reussir a la trouver pour me guider quand ce sera le moment de rentrer ! \"",
+    "firstSeen": "2026-01-26T23:56:49.455Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "00:48",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "FurFang Ravenloft a brûlé par erreur des notes scientifiques importantes. La recherche est perturbée (-3 à la technologie n°8).",
+    "key": "2026-01-27|00:48|paradigme vert|||furfang ravenloft a brule par erreur des notes scientifiques importantes. la recherche est perturbee (-3 a la technologie n°8).",
+    "firstSeen": "2026-01-26T23:56:49.260Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "00:49",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "FurFang Ravenloft a découvert la technologie Énergie Thermique en faveur du Paradigme Vert : « Permet de construire le bâtiment Centrale Thermique. »",
+    "key": "2026-01-27|00:49|paradigme vert|||furfang ravenloft a decouvert la technologie energie thermique en faveur du paradigme vert : \" permet de construire le batiment centrale thermique. \"",
+    "firstSeen": "2026-01-26T23:56:48.156Z"
   }
 ]
