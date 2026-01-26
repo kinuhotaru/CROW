@@ -44028,5 +44028,25 @@
     "text": "Kara H a ouvert un chantier privé dans la ville Bamboutopia en [11,12].",
     "key": "2026-01-26|05:00|paradigme vert|irendol|bamboutopia|kara h a ouvert un chantier prive dans la ville bamboutopia en [11,12].",
     "firstSeen": "2026-01-26T04:35:58.011Z"
+  },
+  {
+    "date": "2026-01-26",
+    "time": "06:29",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Robin des Bars a proposé à Yéti de lui racheter le bâtiment Hôtel « L'Antigel » pour 8100 ÐE.",
+    "key": "2026-01-26|06:29|khanat elmerien|elmerie|igloo|robin des bars a propose a yeti de lui racheter le batiment hotel \" l'antigel \" pour 8100 ðe.",
+    "firstSeen": "2026-01-26T05:57:04.040Z"
+  },
+  {
+    "date": "2026-01-26",
+    "time": "06:42",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Tovaritch Tovaritch vient de disparaître à tout jamais dans la ville Distillerie.",
+    "key": "2026-01-26|06:42|khanat elmerien|bananie|distillerie|tovaritch tovaritch vient de disparaitre a tout jamais dans la ville distillerie.",
+    "firstSeen": "2026-01-26T05:57:02.424Z"
   }
 ]

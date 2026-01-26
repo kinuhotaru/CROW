@@ -44028,5 +44028,25 @@
     "text": "Nesta Nonyme a tenté d'arracher un arbre en [10,8] ! Il est à présent recherché par la police de la Confédération Libre pour ce délit politique.",
     "key": "2026-01-26|00:35|confederation libre|plaine irradiee|atome|nesta nonyme a tente d'arracher un arbre en [10,8] ! il est a present recherche par la police de la confederation libre pour ce delit politique.",
     "firstSeen": "2026-01-26T04:36:02.368Z"
+  },
+  {
+    "date": "2026-01-26",
+    "time": "06:42",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Tovaritch Tovaritch vient de disparaître à tout jamais dans la ville Distillerie.",
+    "key": "2026-01-26|06:42|khanat elmerien|bananie|distillerie|tovaritch tovaritch vient de disparaitre a tout jamais dans la ville distillerie.",
+    "firstSeen": "2026-01-26T05:57:02.424Z"
+  },
+  {
+    "date": "2026-01-26",
+    "time": "06:29",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Robin des Bars a proposé à Yéti de lui racheter le bâtiment Hôtel « L'Antigel » pour 8100 ÐE.",
+    "key": "2026-01-26|06:29|khanat elmerien|elmerie|igloo|robin des bars a propose a yeti de lui racheter le batiment hotel \" l'antigel \" pour 8100 ðe.",
+    "firstSeen": "2026-01-26T05:57:04.040Z"
   }
 ]
