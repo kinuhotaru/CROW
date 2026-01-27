@@ -46788,5 +46788,95 @@
     "text": "Construction d'un bâtiment Petite Raffinerie dans la ville Youpigrad en [6,8].",
     "key": "2026-01-27|06:48|khanat elmerien|bouletie|youpigrad|construction d'un batiment petite raffinerie dans la ville youpigrad en [6,8].",
     "firstSeen": "2026-01-27T07:03:34.731Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "08:48",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Achille Bombardier a entamé un duel contre Gédéon Saillibard .",
+    "key": "2026-01-27|08:48|khanat elmerien|elmerie|gueule du lezard|achille bombardier a entame un duel contre gedeon saillibard .",
+    "firstSeen": "2026-01-27T07:52:20.081Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "08:48",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Construction d'un bâtiment Préfecture de Police dans la ville Trou Perdu en [13,4].",
+    "key": "2026-01-27|08:48|empire brun|sicilia|trou perdu|construction d'un batiment prefecture de police dans la ville trou perdu en [13,4].",
+    "firstSeen": "2026-01-27T07:52:21.491Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "08:46",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Quelqu'un a écrit des graffitis sur le mur du bâtiment Garage Central : « Zelphi + Aken = »",
+    "key": "2026-01-27|08:46|empire brun|sicilia|trou perdu|quelqu'un a ecrit des graffitis sur le mur du batiment garage central : \" zelphi + aken = \"",
+    "firstSeen": "2026-01-27T07:52:21.713Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "08:44",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Martina D. DeiMachiavelli a ouvert un chantier public dans la ville Trou Perdu en [13,4].",
+    "key": "2026-01-27|08:44|empire brun|sicilia|trou perdu|martina d. deimachiavelli a ouvert un chantier public dans la ville trou perdu en [13,4].",
+    "firstSeen": "2026-01-27T07:52:21.915Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "08:42",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Construction d'un bâtiment Pompe d'Épuration dans la ville Trou Perdu en [18,12].",
+    "key": "2026-01-27|08:42|empire brun|sicilia|trou perdu|construction d'un batiment pompe d'epuration dans la ville trou perdu en [18,12].",
+    "firstSeen": "2026-01-27T07:52:22.156Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "08:35",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Aken vient d'achever sa peine et a quitté la prison.",
+    "key": "2026-01-27|08:35|empire brun|sicilia|trou perdu|aken vient d'achever sa peine et a quitte la prison.",
+    "firstSeen": "2026-01-27T07:52:22.353Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "08:10",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Lyanna de Nansay a ouvert un chantier privé dans la ville Lampe du Génie en [15,10].",
+    "key": "2026-01-27|08:10|empire brun|mystisie|lampe du genie|lyanna de nansay a ouvert un chantier prive dans la ville lampe du genie en [15,10].",
+    "firstSeen": "2026-01-27T07:52:22.572Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "08:08",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Construction d'un bâtiment Technicien dans la ville Lampe du Génie en [15,9].",
+    "key": "2026-01-27|08:08|empire brun|mystisie|lampe du genie|construction d'un batiment technicien dans la ville lampe du genie en [15,9].",
+    "firstSeen": "2026-01-27T07:52:22.768Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "08:06",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Le Chef de Tribu Yéti a imposé une taxe immobilière qui a rapporté 1071 ÐE : « Yéti à besoin pour continuer Igloo. »",
+    "key": "2026-01-27|08:06|khanat elmerien|elmerie|igloo|le chef de tribu yeti a impose une taxe immobiliere qui a rapporte 1071 ðe : \" yeti a besoin pour continuer igloo. \"",
+    "firstSeen": "2026-01-27T07:52:22.961Z"
   }
 ]
