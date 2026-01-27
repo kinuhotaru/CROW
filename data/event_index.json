@@ -46678,5 +46678,25 @@
     "text": "Construction d'un bâtiment Petite Raffinerie dans la ville Forum en [4,9].",
     "key": "2026-01-27|00:56|confederation libre|acropole|forum|construction d'un batiment petite raffinerie dans la ville forum en [4,9].",
     "firstSeen": "2026-01-27T04:13:40.452Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "06:44",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "",
+    "text": "Un groupe de créatures mené par 1 Dragon attaque Shana Al Khaïd.",
+    "key": "2026-01-27|06:44|empire brun|santa banana||un groupe de creatures mene par 1 dragon attaque shana al khaid.",
+    "firstSeen": "2026-01-27T05:46:12.925Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "06:16",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Val vient d'achever sa peine et a quitté la prison.",
+    "key": "2026-01-27|06:16|republique de kraland|karaibes|tresorville|val vient d'achever sa peine et a quitte la prison.",
+    "firstSeen": "2026-01-27T05:46:14.585Z"
   }
 ]
