@@ -47358,5 +47358,55 @@
     "text": "Stefan de Crab a ouvert un chantier public dans la ville Port Magmor en [8,11].",
     "key": "2026-01-27|13:14|royaume de ruthvenie|crab key|port magmor|stefan de crab a ouvert un chantier public dans la ville port magmor en [8,11].",
     "firstSeen": "2026-01-27T13:59:58.565Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "15:57",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Kubilai a ouvert un chantier public dans la ville Gueule du Lézard en [6,2].",
+    "key": "2026-01-27|15:57|khanat elmerien|elmerie|gueule du lezard|kubilai a ouvert un chantier public dans la ville gueule du lezard en [6,2].",
+    "firstSeen": "2026-01-27T15:04:03.884Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "15:19",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Hench St Misles a ouvert un chantier public dans la ville Blofeldopolis en [14,6].",
+    "key": "2026-01-27|15:19|confederation libre|warriorland|blofeldopolis|hench st misles a ouvert un chantier public dans la ville blofeldopolis en [14,6].",
+    "firstSeen": "2026-01-27T15:04:05.042Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "15:17",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Hench St Misles (Démagogue) a prononcé un discours louant le Président Bladimir Bladimirovitch Mutin (Démagogue) [PP +0] au nom de l'organisation Vérité.",
+    "key": "2026-01-27|15:17|confederation libre|warriorland|blofeldopolis|hench st misles (demagogue) a prononce un discours louant le president bladimir bladimirovitch mutin (demagogue) [pp +0] au nom de l'organisation verite.",
+    "firstSeen": "2026-01-27T15:04:05.192Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "15:17",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Hench St Misles (Démagogue) a prononcé un discours louant le Président Bladimir Bladimirovitch Mutin (Démagogue) [PP +1].",
+    "key": "2026-01-27|15:17|confederation libre|warriorland|blofeldopolis|hench st misles (demagogue) a prononce un discours louant le president bladimir bladimirovitch mutin (demagogue) [pp +1].",
+    "firstSeen": "2026-01-27T15:04:05.571Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "15:05",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Petit Tonnerre vient de mourir dans la ville Gueule du Lézard : « Après avoir été exclu de son clan Pacifista, Petit Tonnerre a été laissé seul malgré son très jeune âge. Il s'est mis à attaquer un mouton qui s'est assis sur lui dans sa lutte inégale. Petit Tonnerre est mort d'étouffement. »",
+    "key": "2026-01-27|15:05|khanat elmerien|elmerie|gueule du lezard|petit tonnerre vient de mourir dans la ville gueule du lezard : \" apres avoir ete exclu de son clan pacifista, petit tonnerre a ete laisse seul malgre son tres jeune age. il s'est mis a attaquer un mouton qui s'est assis sur lui dans sa lutte inegale. petit tonnerre est mort d'etouffement. \"",
+    "firstSeen": "2026-01-27T15:04:05.744Z"
   }
 ]
