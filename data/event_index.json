@@ -47868,5 +47868,165 @@
     "text": "Bartolomus Ravenloft a ouvert un chantier privé dans la ville Accalmie en [4,10].",
     "key": "2026-01-27|20:18|paradigme vert|foret de jade|accalmie|bartolomus ravenloft a ouvert un chantier prive dans la ville accalmie en [4,10].",
     "firstSeen": "2026-01-27T19:55:52.736Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "21:42",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Landraël 1er a prononcé un discours louant le Directeur des Services Secrets Darth Leo [PP +11] : « Mon Cher Leo, Pendant que les Sujets du Royaume se reposent, je sais que vous êtes là, à veiller inlassablement sur ses ennemis. Vous surveiller, vous planifier, vous préparez, vous anticipez. La Couronne ne peut que se réjouir d'avoir un si fidèle serviteur. »",
+    "key": "2026-01-27|21:42|royaume de ruthvenie|ruthvenie|ruthvenville|landrael 1er a prononce un discours louant le directeur des services secrets darth leo [pp +11] : \" mon cher leo, pendant que les sujets du royaume se reposent, je sais que vous etes la, a veiller inlassablement sur ses ennemis. vous surveiller, vous planifier, vous preparez, vous anticipez. la couronne ne peut que se rejouir d'avoir un si fidele serviteur. \"",
+    "firstSeen": "2026-01-27T20:48:29.566Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "21:41",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre des Affaires Étrangères (f.f.) Bladimir Bladimirovitch Mutin a retiré à Caucherêve le poste de Ambassadeur auprès du Khanat Elmérien : « Caucheяêve, vous me décevez beaucoup. Losqu'on est un délinquant en réhabilitation, on ne pose pas de \"conditions\". »",
+    "key": "2026-01-27|21:41|confederation libre|||le ministre des affaires etrangeres (f.f.) bladimir bladimirovitch mutin a retire a cauchereve le poste de ambassadeur aupres du khanat elmerien : \" caucheяeve, vous me decevez beaucoup. losqu'on est un delinquant en rehabilitation, on ne pose pas de \"conditions\". \"",
+    "firstSeen": "2026-01-27T20:48:31.000Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "21:41",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Landraël 1er a prononcé un discours louant le Ministre des Affaires Étrangères Baptiste Le Tellier [PP +10] : « Mon cher Baptiste, Si certains esprits chagrins ont déploré votre prise de fonction, c'est parce qu'ils confondent le travail réel de la diplomatie, qui sait se faire discret et efficace avec le fracas de la polémique publique qu'ils affectionnent. Vous avez tout mon soutien ! »",
+    "key": "2026-01-27|21:41|royaume de ruthvenie|ruthvenie|ruthvenville|landrael 1er a prononce un discours louant le ministre des affaires etrangeres baptiste le tellier [pp +10] : \" mon cher baptiste, si certains esprits chagrins ont deplore votre prise de fonction, c'est parce qu'ils confondent le travail reel de la diplomatie, qui sait se faire discret et efficace avec le fracas de la polemique publique qu'ils affectionnent. vous avez tout mon soutien ! \"",
+    "firstSeen": "2026-01-27T20:48:31.245Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "21:39",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Landraël 1er (Démagogue) a prononcé un discours louant le Ministre de la Recherche Aelin (Démagogue) [PP +9] : « En cette journée de repos pour la Recherche, je tiens à féliciter personnellement Aelin pour son travail jusqu'ici. Je suis convaincu que les prochains découvertes nous rapprocherons un peu plus de Sa Singularité (et de l'alchimie, ça vient, ça vient) »",
+    "key": "2026-01-27|21:39|royaume de ruthvenie|ruthvenie|ruthvenville|landrael 1er (demagogue) a prononce un discours louant le ministre de la recherche aelin (demagogue) [pp +9] : \" en cette journee de repos pour la recherche, je tiens a feliciter personnellement aelin pour son travail jusqu'ici. je suis convaincu que les prochains decouvertes nous rapprocherons un peu plus de sa singularite (et de l'alchimie, ca vient, ca vient) \"",
+    "firstSeen": "2026-01-27T20:48:31.417Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "21:39",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Saphir Ravenmaid a prononcé un discours louant la Ministre de l'Économie Mina & Lilith Evermore [PP +11].",
+    "key": "2026-01-27|21:39|paradigme vert|foret de jade|accalmie|saphir ravenmaid a prononce un discours louant la ministre de l'economie mina & lilith evermore [pp +11].",
+    "firstSeen": "2026-01-27T20:48:31.643Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "21:38",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Saphir Ravenmaid a prononcé un discours louant la Ministre de l'Économie Mina & Lilith Evermore [PP +7] : « On m'a reproché de soutenir un peu trop maitresse Enya Ravenloft, mais en tant que BM, il faut que je montre mon impartialité, alors je vais soutenir une autre ministre qui ne fait pas partie du clan c'est-à-dire la seule : madame Evermore. Vous êtes une merveille d'assimilation dans notre nation tricolore, vert, jaune et bleu, vous êtes la preuve que nous pouvons marcher main dans la main pour un paradigme fort, ou l'écologie est défendue à coup d'écubio, et où le culte de la Déesse peut y vivre. Félicitation madame Mina, continuez comme ça. »",
+    "key": "2026-01-27|21:38|paradigme vert|foret de jade|accalmie|saphir ravenmaid a prononce un discours louant la ministre de l'economie mina & lilith evermore [pp +7] : \" on m'a reproche de soutenir un peu trop maitresse enya ravenloft, mais en tant que bm, il faut que je montre mon impartialite, alors je vais soutenir une autre ministre qui ne fait pas partie du clan c'est-a-dire la seule : madame evermore. vous etes une merveille d'assimilation dans notre nation tricolore, vert, jaune et bleu, vous etes la preuve que nous pouvons marcher main dans la main pour un paradigme fort, ou l'ecologie est defendue a coup d'ecubio, et ou le culte de la deesse peut y vivre. felicitation madame mina, continuez comme ca. \"",
+    "firstSeen": "2026-01-27T20:48:31.813Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "21:34",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Caucherêve a fait la déclaration officielle suivante aux habitants de la Confédération Libre : « Président, je refuse cette nomination qui ressemble plus à une mise au placard qu'à une réelle promotion. Ne faites pas de moi un ennemi pour protéger une vieille ménopausée avec qui vous semblez partager votre verre à dentier. Dans certains empire, les plans s'annoncent à l'avance. Considérez que cet avertissement est le début d'un plan. »",
+    "key": "2026-01-27|21:34|confederation libre|||cauchereve a fait la declaration officielle suivante aux habitants de la confederation libre : \" president, je refuse cette nomination qui ressemble plus a une mise au placard qu'a une reelle promotion. ne faites pas de moi un ennemi pour proteger une vieille menopausee avec qui vous semblez partager votre verre a dentier. dans certains empire, les plans s'annoncent a l'avance. considerez que cet avertissement est le debut d'un plan. \"",
+    "firstSeen": "2026-01-27T20:48:31.965Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "21:24",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Le Bourgmestre Bernard le clochard a provoqué des élections anticipées : « La ville est sur de bons rails ! Car le vin est disponible. Ce qui fait de Forum une des villes les plus avancées. Puisque j'ai amené ma pierre à l'édifice, c'est à un autre de montrer ce qu'il peut apporter aussi ! Vive la démocratie ! »",
+    "key": "2026-01-27|21:24|confederation libre|acropole|forum|le bourgmestre bernard le clochard a provoque des elections anticipees : \" la ville est sur de bons rails ! car le vin est disponible. ce qui fait de forum une des villes les plus avancees. puisque j'ai amene ma pierre a l'edifice, c'est a un autre de montrer ce qu'il peut apporter aussi ! vive la democratie ! \"",
+    "firstSeen": "2026-01-27T20:48:32.106Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "21:24",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Seraphiel Ravenloft a prononcé un discours louant la Ministre de l'Économie Mina & Lilith Evermore [PP +3].",
+    "key": "2026-01-27|21:24|paradigme vert|foret de jade|accalmie|seraphiel ravenloft a prononce un discours louant la ministre de l'economie mina & lilith evermore [pp +3].",
+    "firstSeen": "2026-01-27T20:48:32.253Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "21:23",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "BienFerme s'est fait agresser par un groupe de créatures mené par Soldat Déserteur.",
+    "key": "2026-01-27|21:23|empire brun|sicilia|trou perdu|bienferme s'est fait agresser par un groupe de creatures mene par soldat deserteur.",
+    "firstSeen": "2026-01-27T20:48:32.389Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "21:15",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Le Bourgmestre Bernard le clochard s'est versé une prime de 250 ¢¢ : « Voilà une promesse accomplie ! Le vin coule à flot ! Et c'est grâce à Bibi et pas à vous que la ferme roule ! Donc récompense au plus méritant ! »",
+    "key": "2026-01-27|21:15|confederation libre|acropole|forum|le bourgmestre bernard le clochard s'est verse une prime de 250 ¢¢ : \" voila une promesse accomplie ! le vin coule a flot ! et c'est grace a bibi et pas a vous que la ferme roule ! donc recompense au plus meritant ! \"",
+    "firstSeen": "2026-01-27T20:48:32.541Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "21:07",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Tendi Neet a prononcé un discours louant BoboFix [PP +1] : « Y'a pas d'âge pour apprendre l'informatique ! Allez soutenez Bobo pour qu'il fasse son plus beau commit ! BOBO ! BOBO ! BOBO ! »",
+    "key": "2026-01-27|21:07|confederation libre|milieu|structural|tendi neet a prononce un discours louant bobofix [pp +1] : \" y'a pas d'age pour apprendre l'informatique ! allez soutenez bobo pour qu'il fasse son plus beau commit ! bobo ! bobo ! bobo ! \"",
+    "firstSeen": "2026-01-27T20:48:32.686Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "21:05",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "Gynerak",
+    "text": "Eva Dey a prononcé un discours louant la Première Ministre Vesperia Ashcroft [PP +2] : « Ha ben je m'excuse si le message est mal passé, kramarade. Il faudra que je m'entraine d'avantage. Mais il n'y a pas que ça aussi. Je traine des maux de gorge depuis des jours et que je ne peux pas encore soigner parce qu'on n'a toujours pas la technologique pour les médicaments. Ca a aussi un impacte pour discourir quand on n'est pas en pleine santé ... Je suis désolée. »",
+    "key": "2026-01-27|21:05|republique de kraland|slavonie|gynerak|eva dey a prononce un discours louant la premiere ministre vesperia ashcroft [pp +2] : \" ha ben je m'excuse si le message est mal passe, kramarade. il faudra que je m'entraine d'avantage. mais il n'y a pas que ca aussi. je traine des maux de gorge depuis des jours et que je ne peux pas encore soigner parce qu'on n'a toujours pas la technologique pour les medicaments. ca a aussi un impacte pour discourir quand on n'est pas en pleine sante ... je suis desolee. \"",
+    "firstSeen": "2026-01-27T20:48:32.850Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "21:00",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "Gynerak",
+    "text": "Eva Dey a bafouillé un discours ridicule au lieu de louer la Première Ministre Vesperia Ashcroft : « Mes plus sincères remerciements de l'honneur que vous nous faîtes par votre visite chez nous, kramarade Première ministre. Comme vous pouvez le constater les travaux de développement de la ville avance bien et nous sommes heureux de pouvoir miner dans ce but. »",
+    "key": "2026-01-27|21:00|republique de kraland|slavonie|gynerak|eva dey a bafouille un discours ridicule au lieu de louer la premiere ministre vesperia ashcroft : \" mes plus sinceres remerciements de l'honneur que vous nous faites par votre visite chez nous, kramarade premiere ministre. comme vous pouvez le constater les travaux de developpement de la ville avance bien et nous sommes heureux de pouvoir miner dans ce but. \"",
+    "firstSeen": "2026-01-27T20:48:33.019Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "20:56",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre des Affaires Étrangères (f.f.) Bladimir Bladimirovitch Mutin a nommé Caucherêve au poste de Ambassadeur auprès du Khanat Elmérien : « x Message à caractère informatif Présidence de la Confédération Libre Cheя Caucheяêve. Vous me posez un cas de conscience. Paя ceяtain côtés vous semblez pouvoiя êtяe utile à ma caяяièяe la confédéяation. Paя d'autяes vous ne semblez pas doué d'un bяin de jugeotte, ce qui peut êtяe tяès pяéjudiciable en politique. Vous imaginez si les mauvaise peяsonnes avaient des accidents de genoux ? Niet !. La confédéяation a besoin d'agents, mais d'agents pяo-fess-ion-nels, pas d'adolescents impulsifs. Pas de dяogués qui pяétendent voiя des gens qui sont moяts, mais qui ne savent pas qu'ils sont moяts. Nous ne pouvons pas vous engageя en tant qu'agent pouя l'instant. Les seяvices secяets de Monique ont un ceяtain standard et vous n'êtes pas encoяe au niveau. Mais je vois en vous du potentiel, Jeune Caucheяêve. Nous suivяons votяe caяяière avec un gяand intéяêt. J'ai pяis la décision de vous nommeя stagiaiяe ambassadeuя aupяès de la Grande Khanasse. Je suis sûr que vous appяendяez plein de choses. Notamment, je l'éspèяe quand ne pas soяtiя votяe aяme de son fouяeau. Les Elméяien sont яéputés яudes, cela vous feяa du bien. En outяe, vous seяez loin, et cela nous feяa du bien. Nous avons des affaiяes plus impoяtantes à яégleя que votяe cяise d'adolescence. Considéяez ceci comme un nouveau dépaяt. Et une deяnièяe chance. Ne me décevez pas. Vous aussi avez des genoux, après tout. »",
+    "key": "2026-01-27|20:56|confederation libre|||le ministre des affaires etrangeres (f.f.) bladimir bladimirovitch mutin a nomme cauchereve au poste de ambassadeur aupres du khanat elmerien : \" x message a caractere informatif presidence de la confederation libre cheя caucheяeve. vous me posez un cas de conscience. paя ceяtain cotes vous semblez pouvoiя etяe utile a ma caяяieяe la confedeяation. paя d'autяes vous ne semblez pas doue d'un bяin de jugeotte, ce qui peut etяe tяes pяejudiciable en politique. vous imaginez si les mauvaise peяsonnes avaient des accidents de genoux ? niet !. la confedeяation a besoin d'agents, mais d'agents pяo-fess-ion-nels, pas d'adolescents impulsifs. pas de dяogues qui pяetendent voiя des gens qui sont moяts, mais qui ne savent pas qu'ils sont moяts. nous ne pouvons pas vous engageя en tant qu'agent pouя l'instant. les seяvices secяets de monique ont un ceяtain standard et vous n'etes pas encoяe au niveau. mais je vois en vous du potentiel, jeune caucheяeve. nous suivяons votяe caяяiere avec un gяand inteяet. j'ai pяis la decision de vous nommeя stagiaiяe ambassadeuя aupяes de la grande khanasse. je suis sur que vous appяendяez plein de choses. notamment, je l'espeяe quand ne pas soяtiя votяe aяme de son fouяeau. les elmeяien sont яeputes яudes, cela vous feяa du bien. en outяe, vous seяez loin, et cela nous feяa du bien. nous avons des affaiяes plus impoяtantes a яegleя que votяe cяise d'adolescence. consideяez ceci comme un nouveau depaяt. et une deяnieяe chance. ne me decevez pas. vous aussi avez des genoux, apres tout. \"",
+    "firstSeen": "2026-01-27T20:48:33.190Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "20:54",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "Bisouville",
+    "text": "Construction d'un bâtiment Cabane dans la ville Bisouville en [4,12].",
+    "key": "2026-01-27|20:54|republique de kraland|helenie|bisouville|construction d'un batiment cabane dans la ville bisouville en [4,12].",
+    "firstSeen": "2026-01-27T20:48:33.348Z"
   }
 ]
