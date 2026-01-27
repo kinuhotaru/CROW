@@ -47828,5 +47828,45 @@
     "text": "Tinylia Cératy a réussi l'examen du ruban et obtenu la récompense Ruban Mauve, ce qui lui permet de poursuivre sa carrière dans le Khanat Elmérien.",
     "key": "2026-01-27|18:57|khanat elmerien|||tinylia ceraty a reussi l'examen du ruban et obtenu la recompense ruban mauve, ce qui lui permet de poursuivre sa carriere dans le khanat elmerien.",
     "firstSeen": "2026-01-27T19:17:52.343Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "20:45",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Santa Banana City",
+    "text": "Dusk et Aurora a donné de l'entrain au travail dans le bâtiment Auberge (la production sera plus rapide) : « On est coincés sur la capitale, alors on veut de vrai lits ! Au boulot, agrandissez moi ça ! »",
+    "key": "2026-01-27|20:45|empire brun|santa banana|santa banana city|dusk et aurora a donne de l'entrain au travail dans le batiment auberge (la production sera plus rapide) : \" on est coinces sur la capitale, alors on veut de vrai lits ! au boulot, agrandissez moi ca ! \"",
+    "firstSeen": "2026-01-27T19:55:50.887Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "20:40",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Des policiers interviennent contre un groupe criminel. La police confisque le matériel illégal : La fée Tide (1 Faux Papiers). La police a conduit dans la prison de Accalmie : La fée Tide.",
+    "key": "2026-01-27|20:40|paradigme vert|foret de jade|accalmie|des policiers interviennent contre un groupe criminel. la police confisque le materiel illegal : la fee tide (1 faux papiers). la police a conduit dans la prison de accalmie : la fee tide.",
+    "firstSeen": "2026-01-27T19:55:52.322Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "20:37",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Møg a usé de ses prérogatives de Diplomate pour devenir Commissaire de Police de la ville Igloo : « La police a besoin d’un policier, je serais votre homme. »",
+    "key": "2026-01-27|20:37|khanat elmerien|elmerie|igloo|møg a use de ses prerogatives de diplomate pour devenir commissaire de police de la ville igloo : \" la police a besoin d'un policier, je serais votre homme. \"",
+    "firstSeen": "2026-01-27T19:55:52.530Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "20:18",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Bartolomus Ravenloft a ouvert un chantier privé dans la ville Accalmie en [4,10].",
+    "key": "2026-01-27|20:18|paradigme vert|foret de jade|accalmie|bartolomus ravenloft a ouvert un chantier prive dans la ville accalmie en [4,10].",
+    "firstSeen": "2026-01-27T19:55:52.736Z"
   }
 ]
