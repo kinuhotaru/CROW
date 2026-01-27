@@ -47488,5 +47488,75 @@
     "text": "Une rumeur court parmi les habitants de la ville Trou Perdu : « On aurait identifié Lotr sur la plage après le cyclone. Elle était en pleine enquête. »",
     "key": "2026-01-27|16:49|empire brun|sicilia|trou perdu|une rumeur court parmi les habitants de la ville trou perdu : \" on aurait identifie lotr sur la plage apres le cyclone. elle etait en pleine enquete. \"",
     "firstSeen": "2026-01-27T15:55:42.404Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "17:04",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie Floran Baumé a versé une prime de 300 MØ à Paulie Sokrano : « Monsieur Paulie bonsoir. C'est Floran qui vient de recevoir votre facture pour services rendus au gouvernement. Voici ce qui vous est dû. Merci encore ! »",
+    "key": "2026-01-27|17:04|empire brun|||le ministre de l'economie floran baume a verse une prime de 300 mø a paulie sokrano : \" monsieur paulie bonsoir. c'est floran qui vient de recevoir votre facture pour services rendus au gouvernement. voici ce qui vous est du. merci encore ! \"",
+    "firstSeen": "2026-01-27T17:02:53.670Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "17:23",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Capitaine Rompizzo a établi une chaîne de production dans le bâtiment Camp de Bûcherons (la production sera plus rapide) : « Du bois pour les bateaux ! »",
+    "key": "2026-01-27|17:23|royaume de ruthvenie|crab key|port magmor|capitaine rompizzo a etabli une chaine de production dans le batiment camp de bucherons (la production sera plus rapide) : \" du bois pour les bateaux ! \"",
+    "firstSeen": "2026-01-27T17:02:53.450Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "17:27",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Capitaine Rompizzo a ouvert un chantier privé dans la ville Port Magmor en [19,8].",
+    "key": "2026-01-27|17:27|royaume de ruthvenie|crab key|port magmor|capitaine rompizzo a ouvert un chantier prive dans la ville port magmor en [19,8].",
+    "firstSeen": "2026-01-27T17:02:53.135Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "17:30",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "Construction d'un bâtiment Tribunal dans la ville Sanctuaire en [9,2].",
+    "key": "2026-01-27|17:30|royaume de ruthvenie|geofront|sanctuaire|construction d'un batiment tribunal dans la ville sanctuaire en [9,2].",
+    "firstSeen": "2026-01-27T17:02:52.944Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "17:39",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "La Bourgmestre Annie vient de modifier la taxe foncière (elle passe de 10 Éf à 4 Éf) : « Les flux économiques sont plutôt constants donc on retourne à 4 comme promis. »",
+    "key": "2026-01-27|17:39|paradigme vert|siberia|garinaville|la bourgmestre annie vient de modifier la taxe fonciere (elle passe de 10 ef a 4 ef) : \" les flux economiques sont plutot constants donc on retourne a 4 comme promis. \"",
+    "firstSeen": "2026-01-27T17:02:52.665Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "17:47",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Mercuriale a ouvert un chantier privé dans la ville Port Magmor en [16,4].",
+    "key": "2026-01-27|17:47|royaume de ruthvenie|crab key|port magmor|mercuriale a ouvert un chantier prive dans la ville port magmor en [16,4].",
+    "firstSeen": "2026-01-27T17:02:52.459Z"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "17:56",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Construction d'un bâtiment Préfecture de Police dans la ville Garinaville en [14,7].",
+    "key": "2026-01-27|17:56|paradigme vert|siberia|garinaville|construction d'un batiment prefecture de police dans la ville garinaville en [14,7].",
+    "firstSeen": "2026-01-27T17:02:51.004Z"
   }
 ]
