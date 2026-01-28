@@ -49828,5 +49828,25 @@
     "text": "Le Commissaire de Police PascalCroc a perquisitionné le bâtiment École Supérieure « I.S.S.N. ».",
     "key": "2026-01-28|11:49|confederation libre|acropole|forum|le commissaire de police pascalcroc a perquisitionne le batiment ecole superieure \" i.s.s.n. \".",
     "firstSeen": "2026-01-28T10:59:41.571Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "12:14",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Construction d'un bâtiment Vendeur de Tissu dans la ville Blofeldopolis en [11,9].",
+    "key": "2026-01-28|12:14|confederation libre|warriorland|blofeldopolis|construction d'un batiment vendeur de tissu dans la ville blofeldopolis en [11,9].",
+    "firstSeen": "2026-01-28T11:43:30.191Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "12:38",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "Le Comte Sysson a exproprié le bâtiment Chantier Maison (4,12) pour 0 Co.",
+    "key": "2026-01-28|12:38|royaume de ruthvenie|valegro|fort emouchet|le comte sysson a exproprie le batiment chantier maison (4,12) pour 0 co.",
+    "firstSeen": "2026-01-28T11:43:28.691Z"
   }
 ]
