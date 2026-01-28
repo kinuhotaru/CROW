@@ -49668,5 +49668,75 @@
     "text": "Neodym Seltenerd a brûlé par erreur des notes scientifiques importantes. La recherche est perturbée (-3 à la technologie n°111).",
     "key": "2026-01-28|08:08|empire brun|||neodym seltenerd a brule par erreur des notes scientifiques importantes. la recherche est perturbee (-3 a la technologie n°111).",
     "firstSeen": "2026-01-28T07:51:49.071Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "10:00",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de la Recherche Aelin a fixé le salaire pour la recherche technologique à 15 Co.",
+    "key": "2026-01-28|10:00|royaume de ruthvenie|||le ministre de la recherche aelin a fixe le salaire pour la recherche technologique a 15 co.",
+    "firstSeen": "2026-01-28T09:04:01.812Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "09:59",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de la Recherche Aelin a lancé la recherche de la technologie n°37 : « Amis chercheurs, il est temps de varier nos sujets d'étude. Aujourd'hui : l'alchimie. »",
+    "key": "2026-01-28|09:59|royaume de ruthvenie|||le ministre de la recherche aelin a lance la recherche de la technologie n°37 : \" amis chercheurs, il est temps de varier nos sujets d'etude. aujourd'hui : l'alchimie. \"",
+    "firstSeen": "2026-01-28T09:04:03.277Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "09:57",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "Quelqu'un a fondé l'organisation secrète Les Luminaires.",
+    "key": "2026-01-28|09:57|republique de kraland|||quelqu'un a fonde l'organisation secrete les luminaires.",
+    "firstSeen": "2026-01-28T09:04:03.700Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "09:39",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "Bisouville",
+    "text": "Selon les calculs de Annie, une conjonction défavorable des corps célestes provoquera un Déluge dans la ville Bisouville : « Je voyage pas encore beaucoup mais c'est la première fois que je ne vois pas un flocon à l'horizon, vous avez jeté des sorts pour faire tout disparaitre ?? »",
+    "key": "2026-01-28|09:39|republique de kraland|helenie|bisouville|selon les calculs de annie, une conjonction defavorable des corps celestes provoquera un deluge dans la ville bisouville : \" je voyage pas encore beaucoup mais c'est la premiere fois que je ne vois pas un flocon a l'horizon, vous avez jete des sorts pour faire tout disparaitre ?? \"",
+    "firstSeen": "2026-01-28T09:04:03.894Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "09:36",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Une rumeur court parmi les habitants de la ville Structural : « Non seulement BoboFix à fait un magnifique Commit, mais également un Merge d’une pureté rarement vu à ce jour »",
+    "key": "2026-01-28|09:36|confederation libre|milieu|structural|une rumeur court parmi les habitants de la ville structural : \" non seulement bobofix a fait un magnifique commit, mais egalement un merge d'une purete rarement vu a ce jour \"",
+    "firstSeen": "2026-01-28T09:04:04.081Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "09:24",
+    "empire": "Mondial",
+    "province": "",
+    "city": "",
+    "text": "La technologie Production en Série est tombée dans le domaine public, les Provinces Indépendantes en bénéficient désormais.",
+    "key": "2026-01-28|09:24|mondial|||la technologie production en serie est tombee dans le domaine public, les provinces independantes en beneficient desormais.",
+    "firstSeen": "2026-01-28T09:04:04.267Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "09:24",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "BoboFix a découvert la technologie Production en Série en faveur de la Confédération Libre : « La Production en Série permet à chaque ville d'extraire directement de l'or, ce qui ajoute 100 FK chaque jour aux impôts perçus (répartis ensuite entre ville, province et empire). »",
+    "key": "2026-01-28|09:24|confederation libre|||bobofix a decouvert la technologie production en serie en faveur de la confederation libre : \" la production en serie permet a chaque ville d'extraire directement de l'or, ce qui ajoute 100 fk chaque jour aux impots percus (repartis ensuite entre ville, province et empire). \"",
+    "firstSeen": "2026-01-28T09:04:04.439Z"
   }
 ]
