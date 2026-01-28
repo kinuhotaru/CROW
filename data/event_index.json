@@ -49518,5 +49518,65 @@
     "text": "Construction d'un bâtiment Poste de Garde dans la ville Distillerie en [18,9].",
     "key": "2026-01-28|06:16|khanat elmerien|bananie|distillerie|construction d'un batiment poste de garde dans la ville distillerie en [18,9].",
     "firstSeen": "2026-01-28T05:56:38.545Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "07:32",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Le Bourgmestre Bismuth El'K'Fadyh a nommé Don Amortel au poste de Commissaire de Police.",
+    "key": "2026-01-28|07:32|empire brun|mystisie|lampe du genie|le bourgmestre bismuth el'k'fadyh a nomme don amortel au poste de commissaire de police.",
+    "firstSeen": "2026-01-28T07:03:49.340Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "07:25",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "",
+    "text": "Isotopine a trouvé une terre riche pour le bois dans la province Niarkalistan : « Ouais. C'est pas tous les jours que j'débarque ici, et j'suis venu avec mes potes les arbres mutants. Faites vous plaisir, amis Bruns, mais attention, ils sont joueurs ! »",
+    "key": "2026-01-28|07:25|empire brun|niarkalistan||isotopine a trouve une terre riche pour le bois dans la province niarkalistan : \" ouais. c'est pas tous les jours que j'debarque ici, et j'suis venu avec mes potes les arbres mutants. faites vous plaisir, amis bruns, mais attention, ils sont joueurs ! \"",
+    "firstSeen": "2026-01-28T07:03:50.988Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "07:19",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Économie Isotopine a versé 350 ¢¢ au Ministère des Services Secrets.",
+    "key": "2026-01-28|07:19|confederation libre|||la ministre de l'economie isotopine a verse 350 ¢¢ au ministere des services secrets.",
+    "firstSeen": "2026-01-28T07:03:51.521Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "07:19",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Économie Isotopine a versé 500 ¢¢ au Ministère de la Justice.",
+    "key": "2026-01-28|07:19|confederation libre|||la ministre de l'economie isotopine a verse 500 ¢¢ au ministere de la justice.",
+    "firstSeen": "2026-01-28T07:03:51.713Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "07:12",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Robin des Bars a acheté le bâtiment Vendeur de Tissu au prix de 1302 ÐE.",
+    "key": "2026-01-28|07:12|khanat elmerien|elmerie|gueule du lezard|robin des bars a achete le batiment vendeur de tissu au prix de 1302 ðe.",
+    "firstSeen": "2026-01-28T07:03:51.905Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "07:08",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "La fée Tide vient d'achever sa peine et a quitté la prison.",
+    "key": "2026-01-28|07:08|paradigme vert|foret de jade|accalmie|la fee tide vient d'achever sa peine et a quitte la prison.",
+    "firstSeen": "2026-01-28T07:03:52.219Z"
   }
 ]
