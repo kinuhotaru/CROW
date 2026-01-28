@@ -49848,5 +49848,15 @@
     "text": "Le Comte Sysson a exproprié le bâtiment Chantier Maison (4,12) pour 0 Co.",
     "key": "2026-01-28|12:38|royaume de ruthvenie|valegro|fort emouchet|le comte sysson a exproprie le batiment chantier maison (4,12) pour 0 co.",
     "firstSeen": "2026-01-28T11:43:28.691Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "12:43",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "Sysson a ouvert un chantier public dans la ville Fort Emouchet en [3,10].",
+    "key": "2026-01-28|12:43|royaume de ruthvenie|valegro|fort emouchet|sysson a ouvert un chantier public dans la ville fort emouchet en [3,10].",
+    "firstSeen": "2026-01-28T11:57:56.203Z"
   }
 ]

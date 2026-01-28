@@ -49848,5 +49848,15 @@
     "text": "Construction d'un bâtiment Vendeur de Tissu dans la ville Blofeldopolis en [11,9].",
     "key": "2026-01-28|12:14|confederation libre|warriorland|blofeldopolis|construction d'un batiment vendeur de tissu dans la ville blofeldopolis en [11,9].",
     "firstSeen": "2026-01-28T11:43:30.191Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "12:43",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "Sysson a ouvert un chantier public dans la ville Fort Emouchet en [3,10].",
+    "key": "2026-01-28|12:43|royaume de ruthvenie|valegro|fort emouchet|sysson a ouvert un chantier public dans la ville fort emouchet en [3,10].",
+    "firstSeen": "2026-01-28T11:57:56.203Z"
   }
 ]
