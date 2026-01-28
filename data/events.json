@@ -49738,5 +49738,35 @@
     "text": "Le Ministre de la Recherche Aelin a fixé le salaire pour la recherche technologique à 15 Co.",
     "key": "2026-01-28|10:00|royaume de ruthvenie|||le ministre de la recherche aelin a fixe le salaire pour la recherche technologique a 15 co.",
     "firstSeen": "2026-01-28T09:04:01.812Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "10:09",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "Leblanc Blastovitch a brûlé par erreur des notes scientifiques importantes. La recherche est perturbée (-3 à la technologie n°20).",
+    "key": "2026-01-28|10:09|republique de kraland|||leblanc blastovitch a brule par erreur des notes scientifiques importantes. la recherche est perturbee (-3 a la technologie n°20).",
+    "firstSeen": "2026-01-28T10:00:48.333Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "10:43",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Nigral a entamé un combat contre Caucherêve.",
+    "key": "2026-01-28|10:43|confederation libre|acropole|forum|nigral a entame un combat contre cauchereve.",
+    "firstSeen": "2026-01-28T10:00:47.988Z"
+  },
+  {
+    "date": "2026-01-28",
+    "time": "10:56",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Max Planch a proposé à Elbereth Seraven de lui racheter le bâtiment Université « Antenne Aléocrate Anti Ahuris » pour 7000 ÐE.",
+    "key": "2026-01-28|10:56|khanat elmerien|elmerie|gueule du lezard|max planch a propose a elbereth seraven de lui racheter le batiment universite \" antenne aleocrate anti ahuris \" pour 7000 ðe.",
+    "firstSeen": "2026-01-28T10:00:46.220Z"
   }
 ]
