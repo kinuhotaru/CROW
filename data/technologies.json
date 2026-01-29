@@ -1,0 +1,90 @@
+{
+  "République de Kraland": {
+    "systeme bancaire": {
+      "status": "owned",
+      "updatedAt": "2026-01-18T02:19:21.848Z"
+    },
+    "demokratie": {
+      "status": "owned",
+      "updatedAt": "2026-01-18T02:15:40.956Z"
+    },
+    "production en serie": {
+      "status": "owned",
+      "updatedAt": "2026-01-23T13:55:39.607Z"
+    },
+    "automobile": {
+      "status": "owned",
+      "updatedAt": "2026-01-27T23:41:51.735Z"
+    },
+    "centralisation": {
+      "status": "owned",
+      "updatedAt": "2026-01-28T15:02:33.223Z"
+    }
+  },
+  "Empire Brun": {
+    "production en serie": {
+      "status": "owned",
+      "updatedAt": "2026-01-18T02:18:42.951Z"
+    },
+    "automobile": {
+      "status": "owned",
+      "updatedAt": "2026-01-18T02:16:03.171Z"
+    },
+    "systeme bancaire": {
+      "status": "owned",
+      "updatedAt": "2026-01-18T02:13:29.527Z"
+    },
+    "centralisation": {
+      "status": "owned",
+      "updatedAt": "2026-01-19T20:58:06.428Z"
+    },
+    "releve des gisements d'or": {
+      "status": "owned",
+      "updatedAt": "2026-01-22T04:15:05.687Z"
+    },
+    "potions mineures": {
+      "status": "owned",
+      "updatedAt": "2026-01-23T11:39:43.223Z"
+    },
+    "ecologie": {
+      "status": "owned",
+      "updatedAt": "2026-01-24T23:35:00.410Z"
+    },
+    "epuration": {
+      "status": "owned",
+      "updatedAt": "2026-01-27T04:13:38.853Z"
+    },
+    "fiscalite": {
+      "status": "owned",
+      "updatedAt": "2026-01-28T22:58:44.198Z"
+    }
+  },
+  "Confédération Libre": {
+    "production en serie": {
+      "status": "owned",
+      "updatedAt": "2026-01-28T09:04:04.439Z"
+    },
+    "centralisation": {
+      "status": "owned",
+      "updatedAt": "2026-01-19T19:48:27.927Z"
+    },
+    "systeme bancaire": {
+      "status": "owned",
+      "updatedAt": "2026-01-21T21:53:58.493Z"
+    },
+    "energie thermique": {
+      "status": "owned",
+      "updatedAt": "2026-01-24T21:32:28.192Z"
+    },
+    "automobile": {
+      "status": "owned",
+      "updatedAt": "2026-01-29T11:59:18.459Z"
+    }
+  },
+  "Paradigme Vert": {
+    "production en serie": {
+      "status": "lost",
+      "updatedAt": "2026-01-28T23:51:38.307Z"
+    }
+  }
+}
