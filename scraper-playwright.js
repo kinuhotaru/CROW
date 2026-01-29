@@ -1279,12 +1279,12 @@ if (timeRegex.test(time) && eventText) {
 
   //Stats to Discord
   const dailyStats = buildDailyFinanceTables(events);
-  const { tech } = updateTechnologyRegistry(events);
+  const { techs, changes } = updateTechnologyRegistry(events);
 
   saveJSON(STATS_FILE, dailyStats);
   await sendDailyRanking(dailyStats);
 
-  await sendTechnologyResume(tech);
+  await sendTechnologyResume(changes);
 
   await sendToDiscord(events);
   await browser.close();
