@@ -762,6 +762,25 @@ function updateTechnologyRegistry(events) {
   return { techs, changes };
 }
 
+function computeCommonTechnologies(techs){
+    const empires = Object.keys(techs);
+    if (!empires.length) return [];
+
+    const counts = {};
+
+    for(const empire of empires){
+        for(const [tech, info] of Object.entries(techs[empire])){
+            if (info.status !== 'owned') continue;
+            counts[tech] = (counts[tech] || 0) + 1;
+        }
+    }
+
+    return Object.entries(counts)
+        .filter(([_, c]) => c === empires.length)
+        .map(([tech]) => tech);
+
+}
+
 // REST FONCTION SUPABASE
 
 async function sendEventToSupabase(event) {
@@ -1060,28 +1079,42 @@ async function sendDailyRanking(dailyTables) {
 
 // SEND Tech resume
 
-async function sendTechnologyResume(changes) {
+async function sendTechnologyResume(changes, techs) {
   if (!DISCORD_TECH_WEBHOOK) return;
   if (!Object.keys(changes).length) {
     console.log('🧬 Aucun changement technologique');
     return;
   }
 
+  const common = computeCommonTechnologies(techs);
+
   for (const [empire, diff] of Object.entries(changes)) {
+    const gained = diff.gained || [];
+    const lost = diff.lost || [];
+    if (!gained.length && !lost.length) continue;
+
     const fields = [];
 
-    if (diff.gained.length) {
+    if (gained.length) {
       fields.push({
-        name: '🧪 Technologie(s) gagnée(s)',
-        value: diff.gained.map(t => `• ${t}`).join('\n'),
+        name: '🧪 Découvertes / Redécouvertes',
+        value: gained.map(t => `• ${t}`).join('\n'),
         inline: false
       });
     }
 
-    if (diff.lost.length) {
+    if (lost.length) {
       fields.push({
-        name: '💥 Technologie(s) perdue(s)',
-        value: diff.lost.map(t => `• ${t}`).join('\n'),
+        name: '💥 Technologies perdues',
+        value: lost.map(t => `• ${t}`).join('\n'),
+        inline: false
+      });
+    }
+
+    if (common.length) {
+      fields.push({
+        name: '🌍 Technologies communes',
+        value: common.map(t => `• ${t}`).join('\n'),
         inline: false
       });
     }
@@ -1279,12 +1312,13 @@ if (timeRegex.test(time) && eventText) {
 
   //Stats to Discord
   const dailyStats = buildDailyFinanceTables(events);
-  const { techs, changes } = updateTechnologyRegistry(events);
 
+  const allEvents = loadJSON(EVENTS_FILE, []);
+  const { techs, changes } = updateTechnologyRegistry(allEvents);
   saveJSON(STATS_FILE, dailyStats);
   await sendDailyRanking(dailyStats);
 
-  await sendTechnologyResume(changes);
+  await sendTechnologyResume(changes, techs);
 
   await sendToDiscord(events);
   await browser.close();
