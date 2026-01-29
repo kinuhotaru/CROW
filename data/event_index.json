@@ -53078,5 +53078,55 @@
     "text": "Le Duc Anarion l'Enflammé a nommé La Magicienne au poste de Préfète de Police.",
     "key": "2026-01-29|12:59|royaume de ruthvenie|ruthvenie||le duc anarion l'enflamme a nomme la magicienne au poste de prefete de police.",
     "firstSeen": "2026-01-29T13:33:50.990Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "15:08",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "",
+    "text": "Une rumeur court parmi les habitants de la province Acropole : « Caucheяêve m’a tueя »",
+    "key": "2026-01-29|15:08|confederation libre|acropole||une rumeur court parmi les habitants de la province acropole : \" caucheяeve m'a tueя \"",
+    "firstSeen": "2026-01-29T14:11:37.296Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "14:57",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Bamboutopia",
+    "text": "Construction d'un bâtiment Petite Briqueterie dans la ville Bamboutopia en [11,12].",
+    "key": "2026-01-29|14:57|paradigme vert|irendol|bamboutopia|construction d'un batiment petite briqueterie dans la ville bamboutopia en [11,12].",
+    "firstSeen": "2026-01-29T14:11:38.976Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "14:55",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Felix Gaouvara s'est fait agresser par un groupe de créatures mené par Assassin.",
+    "key": "2026-01-29|14:55|confederation libre|milieu|structural|felix gaouvara s'est fait agresser par un groupe de creatures mene par assassin.",
+    "firstSeen": "2026-01-29T14:11:39.248Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "14:48",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "Bisouville",
+    "text": "Golgoth le Vagabond a prononcé un discours louant la Gouverneure Simone Voile [PP +3] : « Bonjour à tous habitants de Bisouville ! Moi, GolgothMawi, mec super riche de réputation cybermondiale et grand frère du jeune Zyor me trouve en ce jour dans votre belle et humble contrée pour acquérir la trouvaille que Simone a faite dernièrement dans un mausolée ruthvène. L'objectif est bien entendu de payer le prix convenu, puis de l'offrir à ma belle-sœur la Régente pour son mariage. On est comme ça nous dans la famille Mawi. Bravo en tous cas Simone pour cette découverte singulière, je t'attendrai dans l'auberge pour procéder à l'échange. En attendant, pour tous ceux qui souhaitent me contacter je vous laisse ma carte. »",
+    "key": "2026-01-29|14:48|republique de kraland|helenie|bisouville|golgoth le vagabond a prononce un discours louant la gouverneure simone voile [pp +3] : \" bonjour a tous habitants de bisouville ! moi, golgothmawi, mec super riche de reputation cybermondiale et grand frere du jeune zyor me trouve en ce jour dans votre belle et humble contree pour acquerir la trouvaille que simone a faite dernierement dans un mausolee ruthvene. l'objectif est bien entendu de payer le prix convenu, puis de l'offrir a ma belle-sœur la regente pour son mariage. on est comme ca nous dans la famille mawi. bravo en tous cas simone pour cette decouverte singuliere, je t'attendrai dans l'auberge pour proceder a l'echange. en attendant, pour tous ceux qui souhaitent me contacter je vous laisse ma carte. \"",
+    "firstSeen": "2026-01-29T14:11:39.559Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "14:42",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Une rumeur court parmi les habitants de la Confédération Libre : « La justice aurait saisi la boite Kramail du prévenu. Pauvre jeune homme. Je le comprends. Moi aussi, l'hétérosexualité du Président m'a fait un choc. »",
+    "key": "2026-01-29|14:42|confederation libre|||une rumeur court parmi les habitants de la confederation libre : \" la justice aurait saisi la boite kramail du prevenu. pauvre jeune homme. je le comprends. moi aussi, l'heterosexualite du president m'a fait un choc. \"",
+    "firstSeen": "2026-01-29T14:11:39.814Z"
   }
 ]
