@@ -53758,5 +53758,25 @@
     "text": "L'Intendante (f.f.) DameDémerzel vient de modifier le taux d'imposition sur la vente de produits : « Enfin, quelques ajustements dans la taxation des ventes, le but est de baisser les produits de premières nécessités, et d'augmenter les taxes sur ce qui est superflue pour le moment. Des ajustements viendront probablement Tous ensemble, œuvrons à la reconstruction du Géofront, pour la gloire de notre Grande Déesse, pour Son Saint Royaume » Matières premières 10 -> 5% Nourriture 10 -> 5% Repas 10 -> 5% Boissons 10 -> 15% Plantes 10 -> 5% Animaux d'élevage 10 -> 5% Produits intermédiaires 10% Outils 10% Équipements de maison 10% Livres 10% Médicaments 10 -> 5% Courrier 10% Vêtements et accessoires 10% Électronique 10% Armes de contact 10 -> 15% Armes de tir/à distance 10 -> 15% Munitions & explosifs 10 -> 15% Armures 10 -> 15% Armements divers 10 -> 15% Véhicules 10 -> 15% Bateaux 10 -> 15% Avions 10 -> 15% Composants 10% Énergie 10% Équipements de véhicules 10 -> 15% Bijoux 10 -> 15% Musique 10% Divers 10% Potions magiques 10 -> 15% Objets magiques 10 -> 15% Services 10 -> 5% Stages 10 -> 5% Implants 10%",
     "key": "2026-01-29|22:02|royaume de ruthvenie|geofront||l'intendante (f.f.) damedemerzel vient de modifier le taux d'imposition sur la vente de produits : \" enfin, quelques ajustements dans la taxation des ventes, le but est de baisser les produits de premieres necessites, et d'augmenter les taxes sur ce qui est superflue pour le moment. des ajustements viendront probablement tous ensemble, œuvrons a la reconstruction du geofront, pour la gloire de notre grande deesse, pour son saint royaume \" matieres premieres 10 -> 5% nourriture 10 -> 5% repas 10 -> 5% boissons 10 -> 15% plantes 10 -> 5% animaux d'elevage 10 -> 5% produits intermediaires 10% outils 10% equipements de maison 10% livres 10% medicaments 10 -> 5% courrier 10% vetements et accessoires 10% electronique 10% armes de contact 10 -> 15% armes de tir/a distance 10 -> 15% munitions & explosifs 10 -> 15% armures 10 -> 15% armements divers 10 -> 15% vehicules 10 -> 15% bateaux 10 -> 15% avions 10 -> 15% composants 10% energie 10% equipements de vehicules 10 -> 15% bijoux 10 -> 15% musique 10% divers 10% potions magiques 10 -> 15% objets magiques 10 -> 15% services 10 -> 5% stages 10 -> 5% implants 10%",
     "firstSeen": "2026-01-29T21:56:44.861Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "23:01",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "La Fée Du bien a prononcé un discours louant le Gouverneur La fée K. Lome [PP +6] : « Merci la Fée K Lome pour tout le travail que tu accompli au quotidien pour notre belle forêt. For sure ! »",
+    "key": "2026-01-29|23:01|paradigme vert|foret de jade|accalmie|la fee du bien a prononce un discours louant le gouverneur la fee k. lome [pp +6] : \" merci la fee k lome pour tout le travail que tu accompli au quotidien pour notre belle foret. for sure ! \"",
+    "firstSeen": "2026-01-29T22:06:11.886Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "22:56",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Construction d'un bâtiment Pré dans la ville Trésorville en [11,3].",
+    "key": "2026-01-29|22:56|republique de kraland|karaibes|tresorville|construction d'un batiment pre dans la ville tresorville en [11,3].",
+    "firstSeen": "2026-01-29T22:06:12.837Z"
   }
 ]

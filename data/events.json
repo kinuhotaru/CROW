@@ -53758,5 +53758,25 @@
     "text": "Un portail est apparu dans la ville Trou Perdu [18,6].",
     "key": "2026-01-29|22:34|empire brun|sicilia|trou perdu|un portail est apparu dans la ville trou perdu [18,6].",
     "firstSeen": "2026-01-29T21:56:44.292Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "22:56",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Construction d'un bâtiment Pré dans la ville Trésorville en [11,3].",
+    "key": "2026-01-29|22:56|republique de kraland|karaibes|tresorville|construction d'un batiment pre dans la ville tresorville en [11,3].",
+    "firstSeen": "2026-01-29T22:06:12.837Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "23:01",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "La Fée Du bien a prononcé un discours louant le Gouverneur La fée K. Lome [PP +6] : « Merci la Fée K Lome pour tout le travail que tu accompli au quotidien pour notre belle forêt. For sure ! »",
+    "key": "2026-01-29|23:01|paradigme vert|foret de jade|accalmie|la fee du bien a prononce un discours louant le gouverneur la fee k. lome [pp +6] : \" merci la fee k lome pour tout le travail que tu accompli au quotidien pour notre belle foret. for sure ! \"",
+    "firstSeen": "2026-01-29T22:06:11.886Z"
   }
 ]

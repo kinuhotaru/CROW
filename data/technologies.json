@@ -1,0 +1,220 @@
+{
+  "République de Kraland": {
+    "systeme bancaire": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Banque. En outre, le gouvernement peut faire fonctionner la planche à billets, ce qui lui apporte 500 FK/jour en plus des impôts récoltés par l'empire.",
+      "updatedAt": "2026-01-18T02:19:21.848Z"
+    },
+    "demokratie": {
+      "status": "owned",
+      "description": "La Démokratie est le régime politique régnant à Kraland, où les citoyens soutiennent totalement un régime infaillible leur apportant le bonheur. L'ordre Candidat du Parti Unique est alors disponible pour le Premier Ministre.",
+      "updatedAt": "2026-01-18T02:15:40.956Z"
+    },
+    "production en serie": {
+      "status": "owned",
+      "public": true,
+      "updatedAt": "2026-01-23T13:55:39.416Z"
+    },
+    "automobile": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Garage et d'y produire des véhicules de tout type, sauf le camion et le bus.",
+      "updatedAt": "2026-01-27T23:41:51.735Z"
+    },
+    "centralisation": {
+      "status": "owned",
+      "description": "La centralisation est une étape nécessaire à la mise en oeuvre de politiques d'ensemble. En outre, l'État est plus efficace, ce qui lui apporte 500 FK/jour en plus des impôts récoltés par l'empire.",
+      "updatedAt": "2026-01-28T15:02:33.223Z"
+    }
+  },
+  "Empire Brun": {
+    "production en serie": {
+      "status": "owned",
+      "description": "La Production en Série permet à chaque ville d'extraire directement de l'or, ce qui ajoute 100 FK chaque jour aux impôts perçus (répartis ensuite entre ville, province et empire).",
+      "updatedAt": "2026-01-18T02:18:42.951Z"
+    },
+    "automobile": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Garage et d'y produire des véhicules de tout type, sauf le camion et le bus.",
+      "updatedAt": "2026-01-18T02:16:03.171Z"
+    },
+    "systeme bancaire": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Banque. En outre, le gouvernement peut faire fonctionner la planche à billets, ce qui lui apporte 500 FK/jour en plus des impôts récoltés par l'empire.",
+      "updatedAt": "2026-01-18T02:13:29.527Z"
+    },
+    "centralisation": {
+      "status": "owned",
+      "description": "La centralisation est une étape nécessaire à la mise en oeuvre de politiques d'ensemble. En outre, l'État est plus efficace, ce qui lui apporte 500 FK/jour en plus des impôts récoltés par l'empire.",
+      "updatedAt": "2026-01-19T20:58:06.428Z"
+    },
+    "releve des gisements d'or": {
+      "status": "owned",
+      "description": "Le relevé des gisements d'or permet de savoir où creuser. Le multiplicateur d'extraction de l'or baisse de 0,1.",
+      "updatedAt": "2026-01-22T04:15:05.687Z"
+    },
+    "potions mineures": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Alchimie et de produire des potions magiques de maximum niveau 2 (potion de soins, potion neutralisante, élixir de vision...).",
+      "updatedAt": "2026-01-23T11:39:43.223Z"
+    },
+    "ecologie": {
+      "status": "owned",
+      "description": "L'écologie permet de mieux connaître les besoins du cybermonde et l'impact de la pollution.",
+      "updatedAt": "2026-01-24T23:35:00.410Z"
+    },
+    "epuration": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Station d'Épuration.",
+      "updatedAt": "2026-01-27T04:13:38.853Z"
+    },
+    "fiscalite": {
+      "status": "owned",
+      "description": "Permet d'effectuer des enquêtes fiscales et des redressements fiscaux, ainsi que d'imposer des taxes provinciales.",
+      "updatedAt": "2026-01-28T22:58:44.198Z"
+    }
+  },
+  "Confédération Libre": {
+    "production en serie": {
+      "status": "owned",
+      "description": "La Production en Série permet à chaque ville d'extraire directement de l'or, ce qui ajoute 100 FK chaque jour aux impôts perçus (répartis ensuite entre ville, province et empire).",
+      "updatedAt": "2026-01-28T09:04:04.439Z"
+    },
+    "centralisation": {
+      "status": "owned",
+      "description": "La centralisation est une étape nécessaire à la mise en oeuvre de politiques d'ensemble. En outre, l'État est plus efficace, ce qui lui apporte 500 FK/jour en plus des impôts récoltés par l'empire.",
+      "updatedAt": "2026-01-19T19:48:27.927Z"
+    },
+    "systeme bancaire": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Banque. En outre, le gouvernement peut faire fonctionner la planche à billets, ce qui lui apporte 500 FK/jour en plus des impôts récoltés par l'empire.",
+      "updatedAt": "2026-01-21T21:53:58.493Z"
+    },
+    "energie thermique": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Centrale Thermique.",
+      "updatedAt": "2026-01-24T21:32:28.192Z"
+    },
+    "automobile": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Garage et d'y produire des véhicules de tout type, sauf le camion et le bus.",
+      "updatedAt": "2026-01-29T11:59:18.459Z"
+    }
+  },
+  "Paradigme Vert": {
+    "centralisation": {
+      "status": "owned",
+      "description": "La centralisation est une étape nécessaire à la mise en oeuvre de politiques d'ensemble. En outre, l'État est plus efficace, ce qui lui apporte 500 FK/jour en plus des impôts récoltés par l'empire.",
+      "updatedAt": "2026-01-18T02:17:11.081Z"
+    },
+    "systeme bancaire": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Banque. En outre, le gouvernement peut faire fonctionner la planche à billets, ce qui lui apporte 500 FK/jour en plus des impôts récoltés par l'empire.",
+      "updatedAt": "2026-01-18T02:14:56.596Z"
+    },
+    "automobile": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Garage et d'y produire des véhicules de tout type, sauf le camion et le bus.",
+      "updatedAt": "2026-01-19T23:39:08.873Z"
+    },
+    "science magique": {
+      "status": "owned",
+      "description": "La connaissance des bases de la magie est nécessaire à la recherche magique.",
+      "updatedAt": "2026-01-22T04:15:04.880Z"
+    },
+    "production en serie": {
+      "status": "owned",
+      "description": "La Production en Série permet à chaque ville d'extraire directement de l'or, ce qui ajoute 100 FK chaque jour aux impôts perçus (répartis ensuite entre ville, province et empire).",
+      "updatedAt": "2026-01-29T04:54:14.854Z"
+    },
+    "ecologie": {
+      "status": "owned",
+      "description": "L'écologie permet de mieux connaître les besoins du cybermonde et l'impact de la pollution.",
+      "updatedAt": "2026-01-23T23:53:07.246Z"
+    },
+    "energie thermique": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Centrale Thermique.",
+      "updatedAt": "2026-01-26T23:56:48.156Z"
+    },
+    "potions mineures": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Alchimie et de produire des potions magiques de maximum niveau 2 (potion de soins, potion neutralisante, élixir de vision...).",
+      "updatedAt": "2026-01-29T15:39:37.429Z"
+    }
+  },
+  "Royaume de Ruthvénie": {
+    "centralisation": {
+      "status": "owned",
+      "description": "La centralisation est une étape nécessaire à la mise en oeuvre de politiques d'ensemble. En outre, l'État est plus efficace, ce qui lui apporte 500 FK/jour en plus des impôts récoltés par l'empire.",
+      "updatedAt": "2026-01-18T02:16:26.781Z"
+    },
+    "production en serie": {
+      "status": "owned",
+      "description": "La Production en Série permet à chaque ville d'extraire directement de l'or, ce qui ajoute 100 FK chaque jour aux impôts perçus (répartis ensuite entre ville, province et empire).",
+      "updatedAt": "2026-01-18T02:14:05.440Z"
+    },
+    "automobile": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Garage et d'y produire des véhicules de tout type, sauf le camion et le bus.",
+      "updatedAt": "2026-01-19T04:18:48.231Z"
+    },
+    "systeme bancaire": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Banque. En outre, le gouvernement peut faire fonctionner la planche à billets, ce qui lui apporte 500 FK/jour en plus des impôts récoltés par l'empire.",
+      "updatedAt": "2026-01-22T07:51:49.166Z"
+    },
+    "fiscalite": {
+      "status": "owned",
+      "description": "Permet d'effectuer des enquêtes fiscales et des redressements fiscaux, ainsi que d'imposer des taxes provinciales.",
+      "updatedAt": "2026-01-24T08:52:01.866Z"
+    },
+    "ecologie": {
+      "status": "owned",
+      "description": "L'écologie permet de mieux connaître les besoins du cybermonde et l'impact de la pollution.",
+      "updatedAt": "2026-01-25T20:43:31.109Z"
+    },
+    "aviation": {
+      "status": "owned",
+      "description": "Permet de maîtriser le déplacement aérien. Permet de construire le bâtiment Aéroport et d'y produire des montgolfières et des hélicoptères ou d'organiser des voyages en avion.",
+      "updatedAt": "2026-01-27T09:59:45.491Z"
+    },
+    "potions mineures": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Alchimie et de produire des potions magiques de maximum niveau 2 (potion de soins, potion neutralisante, élixir de vision...).",
+      "updatedAt": "2026-01-29T07:29:57.798Z"
+    }
+  },
+  "Khanat Elmérien": {
+    "production en serie": {
+      "status": "owned",
+      "description": "La Production en Série permet à chaque ville d'extraire directement de l'or, ce qui ajoute 100 FK chaque jour aux impôts perçus (répartis ensuite entre ville, province et empire).",
+      "updatedAt": "2026-01-18T02:13:17.477Z"
+    },
+    "explosifs": {
+      "status": "owned",
+      "description": "Les explosifs permettent de produire de la Poudre, et donc des bombes pour les attentats.",
+      "updatedAt": "2026-01-23T23:39:45.858Z"
+    }
+  },
+  "Palladium Corporation": {
+    "production en serie": {
+      "status": "owned",
+      "public": true,
+      "updatedAt": "2026-01-23T13:55:39.416Z"
+    }
+  },
+  "Théocratie Seelienne": {
+    "production en serie": {
+      "status": "owned",
+      "public": true,
+      "updatedAt": "2026-01-23T13:55:39.416Z"
+    }
+  },
+  "Provinces indépendantes": {
+    "production en serie": {
+      "status": "owned",
+      "public": true,
+      "updatedAt": "2026-01-23T13:55:39.416Z"
+    }
+  }
+}
