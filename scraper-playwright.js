@@ -285,6 +285,16 @@ function loadJSON(file, fallback = []) {
   }
 }
 
+function formatLocation(e) {
+  const parts = [];
+
+  if (e.province) parts.push(e.province);
+  if (e.city) parts.push(e.city);
+
+  if (!parts.length) return '';
+  return `📍 ${parts.join(' • ')} — `;
+}
+
 function saveJSON(file, data) {
   fs.writeFileSync(file, JSON.stringify(data, null, 2));
 }
@@ -826,7 +836,7 @@ for (const [date, empires] of Object.entries(timeline)) {
         : null;
 
     const lines = evts.map(
-        e => `**${e.time || '--:--'}** — ${e.text}`
+        e => `**${e.time || '--:--'}** — ${formatLocation(e)}${e.text}`
     );
 
     const chunks = chunkEmbedLines(lines);
