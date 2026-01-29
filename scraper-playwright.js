@@ -686,14 +686,19 @@ function extractTechnologyEvent(event) {
   // GAIN
   // ======================
   const gainMatch = text.match(
-    /a decouvert la technologie\s+(.+?)\s+en faveur de\s+(.+?)\s*:/
+    /a decouvert la technologie\s+(.+?)\s+en faveur d[eu']\s+(.+?)\s*:/
   );
 
   if (gainMatch) {
+
+    // description entre « »
+    const descMatch = raw.match(/«([^»]+)»/);
+
     return {
       type: 'gain',
       tech: gainMatch[1].trim(),
-      empire: event.empire
+      empire: event.empire,
+      description: descMatch ? descMatch[1].trim() : null
     };
   }
 
@@ -709,6 +714,20 @@ function extractTechnologyEvent(event) {
       type: 'loss',
       tech: lossMatch[1].trim(),
       empire: event.empire
+    };
+  }
+
+  // ======================
+  // PUBLIC DOMAIN
+  // ======================
+  const publicMatch = text.match(
+    /la technologie\s+(.+?)\s+est tombee dans le domaine public/
+  );
+
+  if (publicMatch) {
+    return {
+      type: 'public',
+      tech: publicMatch[1].trim()
     };
   }
 
@@ -733,15 +752,16 @@ function updateTechnologyRegistry(events) {
     // GAIN
     // ======================
     if (type === 'gain') {
-      if (!prev || prev.status !== 'owned') {
+    if (!prev || prev.status !== 'owned') {
         techs[empire][tech] = {
-          status: 'owned',
-          updatedAt: e.firstSeen || new Date().toISOString()
+        status: 'owned',
+        description: result.description || prev?.description || null,
+        updatedAt: e.firstSeen || new Date().toISOString()
         };
 
         changes[empire] ??= { gained: [], lost: [] };
         changes[empire].gained.push(tech);
-      }
+    }
     }
 
     // ======================
@@ -758,6 +778,26 @@ function updateTechnologyRegistry(events) {
         changes[empire].lost.push(tech);
       }
     }
+
+    if (type === 'public') {
+
+  for (const empireName of Object.keys(EMPIRE_MAP).map(k => EMPIRE_MAP[k])) {
+
+    techs[empireName] ??= {};
+
+    if (!techs[empireName][tech] || techs[empireName][tech].status !== 'owned') {
+      techs[empireName][tech] = {
+        status: 'owned',
+        public: true,
+        updatedAt: e.firstSeen || new Date().toISOString()
+      };
+
+      changes[empireName] ??= { gained: [], lost: [] };
+      changes[empireName].gained.push(tech);
+    }
+  }
+}
+
   }
 
   if (Object.keys(changes).length > 0) {
@@ -1101,11 +1141,16 @@ async function sendTechnologyResume(changes, techs) {
     const fields = [];
 
     if (gained.length) {
-      fields.push({
+    const lines = gained.map(t => {
+        const desc = techs[empire]?.[t]?.description;
+        return desc ? `• **${t}**\n> ${desc}` : `• ${t}`;
+    });
+
+    fields.push({
         name: '🧪 Découvertes / Redécouvertes',
-        value: gained.map(t => `• ${t}`).join('\n'),
+        value: lines.join('\n\n'),
         inline: false
-      });
+    });
     }
 
     if (lost.length) {
@@ -1323,7 +1368,7 @@ if (timeRegex.test(time) && eventText) {
 
   const { techs, changes } = updateTechnologyRegistry(allEvents);
   saveJSON(STATS_FILE, dailyStats);
-  
+
   await sendDailyRanking(dailyStats);
 
   await sendTechnologyResume(changes, techs);
