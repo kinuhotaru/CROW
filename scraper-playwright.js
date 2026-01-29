@@ -1141,16 +1141,25 @@ async function sendTechnologyResume(changes, techs) {
     const fields = [];
 
     if (gained.length) {
-    const lines = gained.map(t => {
+
+    const blocks = gained.map(t => {
         const desc = techs[empire]?.[t]?.description;
-        return desc ? `• **${t}**\n> ${desc}` : `• ${t}`;
+        return desc
+        ? `• **${t}**\n> ${desc}`
+        : `• ${t}`;
     });
 
-    fields.push({
-        name: '🧪 Découvertes / Redécouvertes',
-        value: lines.join('\n\n'),
+    const chunks = chunkEmbedLines(blocks, 1000); // <- sécurité Discord
+
+    for (let i = 0; i < chunks.length; i++) {
+        fields.push({
+        name: i === 0
+            ? '🧪 Découvertes / Redécouvertes'
+            : '🧪 Découvertes (suite)',
+        value: chunks[i],
         inline: false
-    });
+        });
+    }
     }
 
     if (lost.length) {
@@ -1167,6 +1176,11 @@ async function sendTechnologyResume(changes, techs) {
         value: common.map(t => `• ${t}`).join('\n'),
         inline: false
       });
+    }
+
+    if (!fields.length) {
+        console.log(`⚠️ Aucun field valide pour ${empire}, skip`);
+        continue;
     }
 
     await sendWebhookGuaranteed(DISCORD_TECH_WEBHOOK, {
