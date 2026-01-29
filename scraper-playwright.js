@@ -712,6 +712,7 @@ function extractTechnologyEvent(event) {
 
 function updateTechnologyRegistry(events) {
   const techs = loadJSON(TECH_FILE, {});
+  const changes = {}; // ← diff à retourner
 
   for (const e of events) {
     const result = extractTechnologyEvent(e);
@@ -721,24 +722,44 @@ function updateTechnologyRegistry(events) {
     if (!empire || !tech) continue;
 
     techs[empire] ??= {};
+    const prev = techs[empire][tech];
 
+    // ======================
+    // GAIN
+    // ======================
     if (type === 'gain') {
-      techs[empire][tech] = {
-        status: 'owned',
-        firstSeen: e.firstSeen || new Date().toISOString()
-      };
+      if (!prev || prev.status !== 'owned') {
+        techs[empire][tech] = {
+          status: 'owned',
+          updatedAt: e.firstSeen || new Date().toISOString()
+        };
+
+        changes[empire] ??= { gained: [], lost: [] };
+        changes[empire].gained.push(tech);
+      }
     }
 
+    // ======================
+    // LOSS
+    // ======================
     if (type === 'loss') {
-      techs[empire][tech] = {
-        status: 'lost',
-        lostAt: e.firstSeen || new Date().toISOString()
-      };
+      if (!prev || prev.status !== 'lost') {
+        techs[empire][tech] = {
+          status: 'lost',
+          updatedAt: e.firstSeen || new Date().toISOString()
+        };
+
+        changes[empire] ??= { gained: [], lost: [] };
+        changes[empire].lost.push(tech);
+      }
     }
   }
 
-  saveJSON(TECH_FILE, techs);
-  return techs;
+  if (Object.keys(changes).length > 0) {
+    saveJSON(TECH_FILE, techs);
+  }
+
+  return { techs, changes };
 }
 
 // REST FONCTION SUPABASE
@@ -1039,41 +1060,35 @@ async function sendDailyRanking(dailyTables) {
 
 // SEND Tech resume
 
-async function sendTechnologyResume(techs) {
+async function sendTechnologyResume(changes) {
   if (!DISCORD_TECH_WEBHOOK) return;
+  if (!Object.keys(changes).length) {
+    console.log('🧬 Aucun changement technologique');
+    return;
+  }
 
-  for (const [empire, entries] of Object.entries(techs)) {
-    const owned = [];
-    const lost = [];
-
-    for (const [tech, data] of Object.entries(entries)) {
-      if (data.status === 'owned') owned.push(tech);
-      if (data.status === 'lost') lost.push(tech);
-    }
-
-    if (!owned.length && !lost.length) continue;
-
+  for (const [empire, diff] of Object.entries(changes)) {
     const fields = [];
 
-    if (owned.length) {
+    if (diff.gained.length) {
       fields.push({
-        name: '🧪 Technologies découvertes',
-        value: owned.map(t => `• ${t}`).join('\n'),
+        name: '🧪 Technologie(s) gagnée(s)',
+        value: diff.gained.map(t => `• ${t}`).join('\n'),
         inline: false
       });
     }
 
-    if (lost.length) {
+    if (diff.lost.length) {
       fields.push({
-        name: '💥 Technologies perdues',
-        value: lost.map(t => `• ${t}`).join('\n'),
+        name: '💥 Technologie(s) perdue(s)',
+        value: diff.lost.map(t => `• ${t}`).join('\n'),
         inline: false
       });
     }
 
     await sendWebhookGuaranteed(DISCORD_TECH_WEBHOOK, {
       embeds: [{
-        title: `🔬 Recherche scientifique — ${empire}`,
+        title: `🔬 Mise à jour technologique — ${empire}`,
         color: empireColor(empire),
         fields
       }]
@@ -1264,12 +1279,12 @@ if (timeRegex.test(time) && eventText) {
 
   //Stats to Discord
   const dailyStats = buildDailyFinanceTables(events);
-  const technologies = updateTechnologyRegistry(events);
+  const tech = updateTechnologyRegistry(events);
 
   saveJSON(STATS_FILE, dailyStats);
   await sendDailyRanking(dailyStats);
 
-  await sendTechnologyResume(technologies);
+  await sendTechnologyResume(tech);
 
   await sendToDiscord(events);
   await browser.close();
