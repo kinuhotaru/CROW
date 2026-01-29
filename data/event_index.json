@@ -52988,5 +52988,95 @@
     "text": "La Régente Stella Artois a nommé Selim au poste de Ministre de la Justice.",
     "key": "2026-01-29|12:09|paradigme vert|||la regente stella artois a nomme selim au poste de ministre de la justice.",
     "firstSeen": "2026-01-29T11:59:21.433Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "14:28",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Abherly Gian vient d'arriver dans la ville Distillerie.",
+    "key": "2026-01-29|14:28|khanat elmerien|bananie|distillerie|abherly gian vient d'arriver dans la ville distillerie.",
+    "firstSeen": "2026-01-29T13:33:48.667Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "14:21",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "Bisouville",
+    "text": "Construction d'un bâtiment Petit H.L.M. dans la ville Bisouville en [9,4].",
+    "key": "2026-01-29|14:21|republique de kraland|helenie|bisouville|construction d'un batiment petit h.l.m. dans la ville bisouville en [9,4].",
+    "firstSeen": "2026-01-29T13:33:49.839Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "13:58",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "Bisouville",
+    "text": "Simone Voile a ouvert un chantier public dans la ville Bisouville en [19,10].",
+    "key": "2026-01-29|13:58|republique de kraland|helenie|bisouville|simone voile a ouvert un chantier public dans la ville bisouville en [19,10].",
+    "firstSeen": "2026-01-29T13:33:50.075Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "13:31",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Construction d'un bâtiment Station-Service dans la ville Port Magmor en [6,7].",
+    "key": "2026-01-29|13:31|royaume de ruthvenie|crab key|port magmor|construction d'un batiment station-service dans la ville port magmor en [6,7].",
+    "firstSeen": "2026-01-29T13:33:50.271Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "13:17",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Le Comte Malcom a nommé Alice Chain au poste de Juge.",
+    "key": "2026-01-29|13:17|royaume de ruthvenie|ruthvenie|ruthvenville|le comte malcom a nomme alice chain au poste de juge.",
+    "firstSeen": "2026-01-29T13:33:50.410Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "13:06",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Malcom a ouvert un chantier public dans la ville Ruthvenville en [2,10].",
+    "key": "2026-01-29|13:06|royaume de ruthvenie|ruthvenie|ruthvenville|malcom a ouvert un chantier public dans la ville ruthvenville en [2,10].",
+    "firstSeen": "2026-01-29T13:33:50.568Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "13:02",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "Le Duc Anarion l'Enflammé a nommé Malcom au poste de Comte de la ville Ruthvenville.",
+    "key": "2026-01-29|13:02|royaume de ruthvenie|ruthvenie||le duc anarion l'enflamme a nomme malcom au poste de comte de la ville ruthvenville.",
+    "firstSeen": "2026-01-29T13:33:50.702Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "13:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "La Comtesse Alice Chain a démissionné de sa fonction : « Alice doit partir récupérer la relique de notre peuple. Les sous-chaussettes ne peuvent pas vivre une telle insulte. Alice l'a toujours dit, il y a ceux qui parlent et ceux qui font. »",
+    "key": "2026-01-29|13:01|royaume de ruthvenie|ruthvenie|ruthvenville|la comtesse alice chain a demissionne de sa fonction : \" alice doit partir recuperer la relique de notre peuple. les sous-chaussettes ne peuvent pas vivre une telle insulte. alice l'a toujours dit, il y a ceux qui parlent et ceux qui font. \"",
+    "firstSeen": "2026-01-29T13:33:50.843Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "12:59",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "Le Duc Anarion l'Enflammé a nommé La Magicienne au poste de Préfète de Police.",
+    "key": "2026-01-29|12:59|royaume de ruthvenie|ruthvenie||le duc anarion l'enflamme a nomme la magicienne au poste de prefete de police.",
+    "firstSeen": "2026-01-29T13:33:50.990Z"
   }
 ]
