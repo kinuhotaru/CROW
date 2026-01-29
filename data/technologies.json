@@ -194,6 +194,11 @@
       "status": "owned",
       "description": "Les explosifs permettent de produire de la Poudre, et donc des bombes pour les attentats.",
       "updatedAt": "2026-01-23T23:39:45.858Z"
+    },
+    "centralisation": {
+      "status": "owned",
+      "public": true,
+      "updatedAt": "2026-01-29T23:53:47.240Z"
     }
   },
   "Palladium Corporation": {
@@ -201,6 +206,11 @@
       "status": "owned",
       "public": true,
       "updatedAt": "2026-01-23T13:55:39.416Z"
+    },
+    "centralisation": {
+      "status": "owned",
+      "public": true,
+      "updatedAt": "2026-01-29T23:53:47.240Z"
     }
   },
   "Théocratie Seelienne": {
@@ -208,6 +218,11 @@
       "status": "owned",
       "public": true,
       "updatedAt": "2026-01-23T13:55:39.416Z"
+    },
+    "centralisation": {
+      "status": "owned",
+      "public": true,
+      "updatedAt": "2026-01-29T23:53:47.240Z"
     }
   },
   "Provinces indépendantes": {
@@ -215,6 +230,11 @@
       "status": "owned",
       "public": true,
       "updatedAt": "2026-01-23T13:55:39.416Z"
+    },
+    "centralisation": {
+      "status": "owned",
+      "public": true,
+      "updatedAt": "2026-01-29T23:53:47.240Z"
     }
   }
 }
