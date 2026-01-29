@@ -53188,5 +53188,55 @@
     "text": "Syphilys a prononcé un discours critiquant le Bourgmestre Maître Corbeau [PP -3] : « Tiens, Monsieur Logan m'a reparlé des taxes aujourd'hui. Ne lui en voulez pas. Il voulait me remonter le moral. Ce qui m'a du coup fait penser que je me suis acquittée de ma taxe foncière ce matin ! »",
     "key": "2026-01-29|15:59|empire brun|niarkalistan|leprosie|syphilys a prononce un discours critiquant le bourgmestre maitre corbeau [pp -3] : \" tiens, monsieur logan m'a reparle des taxes aujourd'hui. ne lui en voulez pas. il voulait me remonter le moral. ce qui m'a du coup fait penser que je me suis acquittee de ma taxe fonciere ce matin ! \"",
     "firstSeen": "2026-01-29T15:04:57.858Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "16:32",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Géo Trouvetou a établi une chaîne de production dans le bâtiment Gisement d'Or (la production sera plus rapide) : « Il n'y a pas d'or dans ma piscine, il y en a ici par contre »",
+    "key": "2026-01-29|16:32|paradigme vert|ile aux kanards|kanardville|geo trouvetou a etabli une chaine de production dans le batiment gisement d'or (la production sera plus rapide) : \" il n'y a pas d'or dans ma piscine, il y en a ici par contre \"",
+    "firstSeen": "2026-01-29T15:39:35.891Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "16:20",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "Géo Trouvetou a découvert la technologie Potions Mineures en faveur du Paradigme Vert : « Permet de construire le bâtiment Alchimie et de produire des potions magiques de maximum niveau 2 (potion de soins, potion neutralisante, élixir de vision...). »",
+    "key": "2026-01-29|16:20|paradigme vert|||geo trouvetou a decouvert la technologie potions mineures en faveur du paradigme vert : \" permet de construire le batiment alchimie et de produire des potions magiques de maximum niveau 2 (potion de soins, potion neutralisante, elixir de vision...). \"",
+    "firstSeen": "2026-01-29T15:39:37.429Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "16:20",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "Géo Trouvetou a brûlé par erreur des notes scientifiques importantes. La recherche est perturbée (-3 à la technologie n°37).",
+    "key": "2026-01-29|16:20|paradigme vert|||geo trouvetou a brule par erreur des notes scientifiques importantes. la recherche est perturbee (-3 a la technologie n°37).",
+    "firstSeen": "2026-01-29T15:39:37.640Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "16:09",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Jaylie DeiMachiavelli vient de se livrer aux autorités et est désormais en prison.",
+    "key": "2026-01-29|16:09|empire brun|mystisie|lampe du genie|jaylie deimachiavelli vient de se livrer aux autorites et est desormais en prison.",
+    "firstSeen": "2026-01-29T15:39:38.166Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "16:03",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Un groupe de policiers tente d'arrêter Jaylie DeiMachiavelli qui est recherchée.",
+    "key": "2026-01-29|16:03|confederation libre|acropole|forum|un groupe de policiers tente d'arreter jaylie deimachiavelli qui est recherchee.",
+    "firstSeen": "2026-01-29T15:39:38.356Z"
   }
 ]
