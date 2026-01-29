@@ -192,6 +192,7 @@ const WORLD = JSON.parse(
 );
 //STATS Techs
 const TECH_FILE = `${DATA_DIR}/technologies.json`;
+const TECH_PROCESSED_FILE = `${DATA_DIR}/tech_processed_keys.json`;
 
 // Index inverse : ville → province
 const CITY_TO_REGION = {};
@@ -287,6 +288,14 @@ function loadJSON(file, fallback = []) {
   } catch {
     return fallback;
   }
+}
+
+function loadSet(file) {
+  return new Set(loadJSON(file, []));
+}
+
+function saveSet(file, set) {
+  saveJSON(file, [...set]);
 }
 
 function formatLocation(e) {
@@ -735,79 +744,115 @@ function extractTechnologyEvent(event) {
 }
 
 function updateTechnologyRegistry(events) {
+
   const techs = loadJSON(TECH_FILE, {});
+  const processed = loadSet(TECH_PROCESSED_FILE);
+
   const changes = {};
   const publicAnnouncements = [];
 
+  let modified = false;
+
   for (const e of events) {
+
+    if (!e.key) continue;
+
+    // ⛔ déjà traité dans un run précédent
+    if (processed.has(e.key)) continue;
+
     const result = extractTechnologyEvent(e);
     if (!result) continue;
 
-    const { type, tech, empire } = result;
-    if (!empire || !tech) continue;
+    processed.add(e.key);
 
-    techs[empire] ??= {};
-    const prev = techs[empire][tech];
+    const { type, tech, empire } = result;
+
+    if (!tech) continue;
 
     // ======================
     // GAIN
     // ======================
-    if (type === 'gain') {
-    if (!prev || prev.status !== 'owned') {
+    if (type === 'gain' && empire) {
+
+      techs[empire] ??= {};
+      const prev = techs[empire][tech];
+
+      if (!prev || prev.status !== 'owned') {
+
         techs[empire][tech] = {
-        status: 'owned',
-        description: result.description || prev?.description || null,
-        updatedAt: e.firstSeen || new Date().toISOString()
+          status: 'owned',
+          description: result.description || null,
+          updatedAt: e.firstSeen || new Date().toISOString()
         };
 
         changes[empire] ??= { gained: [], lost: [] };
-        changes[empire].gained.push(tech);
-    }
+
+        if (!changes[empire].gained.includes(tech)) {
+          changes[empire].gained.push(tech);
+        }
+
+        modified = true;
+      }
     }
 
     // ======================
     // LOSS
     // ======================
-    if (type === 'loss') {
+    if (type === 'loss' && empire) {
+
+      techs[empire] ??= {};
+      const prev = techs[empire][tech];
+
       if (!prev || prev.status !== 'lost') {
+
         techs[empire][tech] = {
           status: 'lost',
           updatedAt: e.firstSeen || new Date().toISOString()
         };
 
         changes[empire] ??= { gained: [], lost: [] };
-        changes[empire].lost.push(tech);
+
+        if (!changes[empire].lost.includes(tech)) {
+          changes[empire].lost.push(tech);
+        }
+
+        modified = true;
       }
     }
 
+    // ======================
+    // PUBLIC
+    // ======================
     if (type === 'public') {
 
-    publicAnnouncements.push({
+      publicAnnouncements.push({
         tech,
-        description: result.description || null,
         date: e.date,
         time: e.time
-    });
+      });
 
-    for (const empireName of Object.values(EMPIRE_MAP)) {
-        if (empireName === 'Mondial' || empireName === 'ADMIN') continue;
+      for (const empireName of Object.values(EMPIRE_MAP)) {
+
+        if (['Mondial', 'ADMIN'].includes(empireName)) continue;
 
         techs[empireName] ??= {};
 
-        if (!techs[empireName][tech] || techs[empireName][tech].status !== 'owned') {
-        techs[empireName][tech] = {
+        if (!techs[empireName][tech]) {
+          techs[empireName][tech] = {
             status: 'owned',
             public: true,
             updatedAt: e.firstSeen || new Date().toISOString()
-        };
-        }
-    }
-    }
+          };
 
+          modified = true;
+        }
+      }
+    }
   }
 
-  if (Object.keys(changes).length > 0) {
+  if (modified) {
     saveJSON(TECH_FILE, techs);
+    saveSet(TECH_PROCESSED_FILE, processed);
   }
 
   return { techs, changes, publicAnnouncements };
