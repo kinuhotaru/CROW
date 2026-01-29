@@ -679,11 +679,14 @@ function extractMinistryExpense(text) {
 
 // UTILITAIRE STATS Techs Owned
 function extractTechnologyEvent(event) {
-  const text = event.text;
+  const raw = event.text;
+  const text = normalizeForHash(raw);
 
-  // ✅ Gain
+  // ======================
+  // GAIN
+  // ======================
   const gainMatch = text.match(
-    /a decouvert la technologie\s+(.+?)\s+en faveur\s+(.+?)\s*:/i
+    /a decouvert la technologie\s+(.+?)\s+en faveur de\s+(.+?)\s*:/
   );
 
   if (gainMatch) {
@@ -694,16 +697,18 @@ function extractTechnologyEvent(event) {
     };
   }
 
-  // ❌ Perte
+  // ======================
+  // LOSS
+  // ======================
   const lossMatch = text.match(
-    /perte de la technologie\s+(.+?)\.?$/i
+    /perte de la technologie\s+(.+?)\.?$/
   );
 
   if (lossMatch) {
     return {
       type: 'loss',
       tech: lossMatch[1].trim(),
-      empire: event.empire // empire déjà connu
+      empire: event.empire
     };
   }
 
@@ -1314,8 +1319,11 @@ if (timeRegex.test(time) && eventText) {
   const dailyStats = buildDailyFinanceTables(events);
 
   const allEvents = loadJSON(EVENTS_FILE, []);
+  sortEvents(allEvents);
+
   const { techs, changes } = updateTechnologyRegistry(allEvents);
   saveJSON(STATS_FILE, dailyStats);
+  
   await sendDailyRanking(dailyStats);
 
   await sendTechnologyResume(changes, techs);
