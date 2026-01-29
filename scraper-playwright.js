@@ -3,7 +3,7 @@ import { chromium } from 'playwright';
 import fetch from 'node-fetch';
 
 /* =========================
-   ⚙️ CONFIG
+CONFIG
 ========================= */
 
 const BASE_URL = 'http://www.kraland.org/monde/evenements';
@@ -211,7 +211,7 @@ const MAX_EMPTY_PAGES = 5;
 if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR);
 
 /* =========================
-   🏰 EMPIRES
+EMPIRES
 ========================= */
 
 const EMPIRE_MAP = {
@@ -259,7 +259,7 @@ const resolveEmpire = code => EMPIRE_MAP[code] || code || 'Inconnu';
 const empireColor = empire => EMPIRE_COLOR[empire] ?? 0x34495e;
 
 /* =========================
-   🧠 UTILITAIRES
+UTILITAIRES
 ========================= */
 
 function normalizeText(value) {
@@ -713,7 +713,7 @@ async function sendEventToSupabase(event) {
 
 
 /* =========================
-   🏬 EMPIRE RANKING IMPOTS
+EMPIRE RANKING IMPOTS
 ========================= */
 
 
@@ -782,7 +782,7 @@ function saveDailyLogs(dailyLogs) {
   }
 }
 /* =========================
-   📨 DISCORD
+DISCORD
 ========================= */
 
 async function sendToDiscord(events) {
@@ -794,7 +794,7 @@ async function sendToDiscord(events) {
 
 for (const e of events) {
 
-  // 🚫 IGNORER LES ÉVÉNEMENTS FINANCIERS
+  //  IGNORER LES ÉVÉNEMENTS FINANCIERS
     if (isFinancialEvent(e)) {
     skippedFinance++;
     console.log(`💸 Événements financiers ignorés (Discord) : ${skippedFinance}`);
@@ -880,7 +880,7 @@ async function sendDailyRanking(dailyTables) {
     if (sentDays.has(day)) continue;
 
     // =========================
-    // 🏆 BUILD SECTIONS
+    // BUILD SECTIONS
     // =========================
     const empireAgg = aggregateRows(data.empire, 'empire');
     const sections = [
@@ -970,7 +970,7 @@ async function sendDailyRanking(dailyTables) {
 }
 
 /* =========================
-   🚀 SCRAPER
+SCRAPER
 ========================= */
 
 (async () => {
