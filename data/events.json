@@ -53158,5 +53158,35 @@
     "text": "Un groupe de créatures mené par 1 Vampire Mineur attaque Floran Baumé.",
     "key": "2026-01-29|15:30|empire brun|niarkalistan||un groupe de creatures mene par 1 vampire mineur attaque floran baume.",
     "firstSeen": "2026-01-29T14:46:21.528Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "15:59",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Syphilys a prononcé un discours critiquant le Bourgmestre Maître Corbeau [PP -3] : « Tiens, Monsieur Logan m'a reparlé des taxes aujourd'hui. Ne lui en voulez pas. Il voulait me remonter le moral. Ce qui m'a du coup fait penser que je me suis acquittée de ma taxe foncière ce matin ! »",
+    "key": "2026-01-29|15:59|empire brun|niarkalistan|leprosie|syphilys a prononce un discours critiquant le bourgmestre maitre corbeau [pp -3] : \" tiens, monsieur logan m'a reparle des taxes aujourd'hui. ne lui en voulez pas. il voulait me remonter le moral. ce qui m'a du coup fait penser que je me suis acquittee de ma taxe fonciere ce matin ! \"",
+    "firstSeen": "2026-01-29T15:04:57.858Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "16:00",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Syphilys a bafouillé un discours ridicule au lieu de louer Zi Eun.",
+    "key": "2026-01-29|16:00|empire brun|niarkalistan|leprosie|syphilys a bafouille un discours ridicule au lieu de louer zi eun.",
+    "firstSeen": "2026-01-29T15:04:57.514Z"
+  },
+  {
+    "date": "2026-01-29",
+    "time": "16:02",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Jaylie DeiMachiavelli a tenté de voler Jacques St Misles ! Elle est à présent recherchée par la police du cybermonde pour ce délit.",
+    "key": "2026-01-29|16:02|confederation libre|warriorland|blofeldopolis|jaylie deimachiavelli a tente de voler jacques st misles ! elle est a present recherchee par la police du cybermonde pour ce delit.",
+    "firstSeen": "2026-01-29T15:04:56.709Z"
   }
 ]
