@@ -45,7 +45,7 @@ jobs:
           DISCORD_RUMEURS_WEBHOOK: ${{ secrets.DISCORD_RUMEURS_WEBHOOK }}
           DISCORD_WAR_WEBHOOK: ${{ secrets.DISCORD_WAR_WEBHOOK }}
           DISCORD_FINANCE_WEBHOOK: ${{ secrets.DISCORD_FINANCE_WEBHOOK }}
-
+	  DISCORD_TECH_WEBHOOK: ${{ secrets.DISCORD_TECH_WEBHOOK }}
         run: node scraper-playwright.js
 
       - name: 💾 Commit data files

@@ -20,6 +20,7 @@ const DISCORD_RECHERCHE_WEBHOOK = process.env.DISCORD_RECHERCHE_WEBHOOK;
 const DISCORD_RUMEURS_WEBHOOK  = process.env.DISCORD_RUMEURS_WEBHOOK;
 const DISCORD_WAR_WEBHOOK = process.env.DISCORD_WAR_WEBHOOK;
 const DISCORD_FINANCE_WEBHOOK = process.env.DISCORD_FINANCE_WEBHOOK;
+const DISCORD_TECH_WEBHOOK = process.env.DISCORD_TECH_WEBHOOK;
 
 //REST
 
@@ -189,6 +190,9 @@ const EVENT_TTL_MS = 1000 * 60 * 60 * 24 * 30; // 30 jours de récursion
 const WORLD = JSON.parse(
   fs.readFileSync('./kraland_territories.json', 'utf8')
 );
+//STATS Techs
+const TECH_FILE = `${DATA_DIR}/technologies.json`;
+
 // Index inverse : ville → province
 const CITY_TO_REGION = {};
 const REGION_TO_EMPIRE = {};
@@ -673,6 +677,70 @@ function extractMinistryExpense(text) {
   return total;
 }
 
+// UTILITAIRE STATS Techs Owned
+function extractTechnologyEvent(event) {
+  const text = event.text;
+
+  // ✅ Gain
+  const gainMatch = text.match(
+    /a decouvert la technologie\s+(.+?)\s+en faveur\s+(.+?)\s*:/i
+  );
+
+  if (gainMatch) {
+    return {
+      type: 'gain',
+      tech: gainMatch[1].trim(),
+      empire: event.empire
+    };
+  }
+
+  // ❌ Perte
+  const lossMatch = text.match(
+    /perte de la technologie\s+(.+?)\.?$/i
+  );
+
+  if (lossMatch) {
+    return {
+      type: 'loss',
+      tech: lossMatch[1].trim(),
+      empire: event.empire // empire déjà connu
+    };
+  }
+
+  return null;
+}
+
+function updateTechnologyRegistry(events) {
+  const techs = loadJSON(TECH_FILE, {});
+
+  for (const e of events) {
+    const result = extractTechnologyEvent(e);
+    if (!result) continue;
+
+    const { type, tech, empire } = result;
+    if (!empire || !tech) continue;
+
+    techs[empire] ??= {};
+
+    if (type === 'gain') {
+      techs[empire][tech] = {
+        status: 'owned',
+        firstSeen: e.firstSeen || new Date().toISOString()
+      };
+    }
+
+    if (type === 'loss') {
+      techs[empire][tech] = {
+        status: 'lost',
+        lostAt: e.firstSeen || new Date().toISOString()
+      };
+    }
+  }
+
+  saveJSON(TECH_FILE, techs);
+  return techs;
+}
+
 // REST FONCTION SUPABASE
 
 async function sendEventToSupabase(event) {
@@ -969,6 +1037,52 @@ async function sendDailyRanking(dailyTables) {
   }
 }
 
+// SEND Tech resume
+
+async function sendTechnologyResume(techs) {
+  if (!DISCORD_TECH_WEBHOOK) return;
+
+  for (const [empire, entries] of Object.entries(techs)) {
+    const owned = [];
+    const lost = [];
+
+    for (const [tech, data] of Object.entries(entries)) {
+      if (data.status === 'owned') owned.push(tech);
+      if (data.status === 'lost') lost.push(tech);
+    }
+
+    if (!owned.length && !lost.length) continue;
+
+    const fields = [];
+
+    if (owned.length) {
+      fields.push({
+        name: '🧪 Technologies découvertes',
+        value: owned.map(t => `• ${t}`).join('\n'),
+        inline: false
+      });
+    }
+
+    if (lost.length) {
+      fields.push({
+        name: '💥 Technologies perdues',
+        value: lost.map(t => `• ${t}`).join('\n'),
+        inline: false
+      });
+    }
+
+    await sendWebhookGuaranteed(DISCORD_TECH_WEBHOOK, {
+      embeds: [{
+        title: `🔬 Recherche scientifique — ${empire}`,
+        color: empireColor(empire),
+        fields
+      }]
+    });
+
+    await new Promise(r => setTimeout(r, 300));
+  }
+}
+
 /* =========================
 SCRAPER
 ========================= */
@@ -1150,8 +1264,12 @@ if (timeRegex.test(time) && eventText) {
 
   //Stats to Discord
   const dailyStats = buildDailyFinanceTables(events);
+  const technologies = updateTechnologyRegistry(events);
+
   saveJSON(STATS_FILE, dailyStats);
   await sendDailyRanking(dailyStats);
+
+  await sendTechnologyResume(technologies);
 
   await sendToDiscord(events);
   await browser.close();
