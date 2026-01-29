@@ -1221,14 +1221,6 @@ async function sendTechnologyResume(changes, techs) {
       });
     }
 
-    if (common.length) {
-      fields.push({
-        name: '🌍 Technologies communes',
-        value: common.map(t => `• ${t}`).join('\n'),
-        inline: false
-      });
-    }
-
     if (!fields.length) {
         console.log(`⚠️ Aucun field valide pour ${empire}, skip`);
         continue;
