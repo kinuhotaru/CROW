@@ -47,7 +47,8 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
     name: 'Crime',
     match: text =>
         /a lance .+ avis de recherche/.test(text) ||
-        /Un groupe de créature .+ attaque/.test(text) ||
+        /un groupe de creature .+ attaque/.test(text) ||
+        /depuis sa prison .+ a reussi a faire passer/.test(text) ||
       [
         'a tente de voler',
         'vient d\'achever sa peine',
@@ -67,9 +68,14 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
         's\'est fait agresser par',
         'a tente d\'assassiner',
         'a tente de fabriquer une fausse clef',
-        'a fixe le montant de la caution à',
+        'a fixe le montant de la caution a',
         'a tente de chasser dans',
-        'a tranche la gorge de'
+        'a tranche la gorge de',
+        'une bagarre a eclate entre',
+        'lance dans une plaidoirie si penible',
+        'a obtenu la liberation anticipee',
+        'transmettre a la presse une fausse declaration',
+        'vient de marquer sur le mur'
       ].some(keyword => text.includes(keyword)),
     webhook: DISCORD_CRIME_WEBHOOK
   },
@@ -87,7 +93,7 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
         'a organise une manifestation pro-science',
         'en tentant d\'organiser une manifestation anti-science',
         'a organise une manifestation anti-science',
-        's\'est introduit dans le réseau'
+        's\'est introduit dans le reseau',
       ].some(keyword => text.includes(keyword)),
     webhook: DISCORD_RECHERCHE_WEBHOOK
   },
@@ -97,7 +103,7 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
       [
         'a adresse un discours',
         'a prononce un discours',
-        'a fait la declaration officielle'
+        'a fait la declaration officielle',
       ].some(keyword => text.includes(keyword)),
     webhook: DISCORD_DISCOURS_WEBHOOK
   },
@@ -120,7 +126,8 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
     /les services .+ sont debordes par/.test(text) ||
     /le Ministre .+ a autorise/.test(text) ||
     /la Ministre .+ a autorise/.test(text) ||
-
+    /a accepte .+ au sein/.test(text) ||
+    /a retire .+ le poste/.test(text) ||
     [
       'a perdu son poste',
       'a demissionne',
@@ -137,7 +144,10 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
       'a prete allegeance envers',
       's\'est presente aux elections',
       's\'est presentee aux elections',
-      'resultat de l\'election au poste'
+      'resultat de l\'election au poste',
+      'a diffuse une emission',
+      'a accepte l\'organisation',
+      'a la vindicte populaire'
     ].some(k => text.includes(k)),
   webhook: DISCORD_POL_WEBHOOK
 },
@@ -146,6 +156,7 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
   priority: 60,
   match: text =>
     /a verse .+ au/.test(text) ||
+    /a transfere .+ du batiment/.test(text) ||
 
     [
       'vient de modifier la taxe fonciere',
@@ -156,7 +167,7 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
       'a pris la decision d\'appliquer une taxe',
       'a impose une taxe',
       'a verse une prime de',
-      'a modifie le taux d\'imposition'
+      'a modifie le taux d\'imposition',
     ].some(k => text.includes(k)),
   webhook: DISCORD_FINANCE_WEBHOOK
 }
@@ -370,12 +381,12 @@ function paginateFieldsWithEmpireHeaders(fields, maxFields = 25) {
       lastEmpireHeader = field;
     }
 
-    // ⚠️ Si on dépasse la limite
+    // Si on dépasse la limite
     if (current.length >= maxFields) {
       pages.push(current);
       current = [];
 
-      // 🔁 Répéter l'empire UNIQUEMENT si le prochain champ
+      // Répéter l'empire UNIQUEMENT si le prochain champ
       // n'est PAS déjà un header d'empire
       if (
         lastEmpireHeader &&
