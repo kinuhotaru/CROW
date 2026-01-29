@@ -736,7 +736,8 @@ function extractTechnologyEvent(event) {
 
 function updateTechnologyRegistry(events) {
   const techs = loadJSON(TECH_FILE, {});
-  const changes = {}; // ← diff à retourner
+  const changes = {};
+  const publicAnnouncements = [];
 
   for (const e of events) {
     const result = extractTechnologyEvent(e);
@@ -781,22 +782,27 @@ function updateTechnologyRegistry(events) {
 
     if (type === 'public') {
 
-  for (const empireName of Object.keys(EMPIRE_MAP).map(k => EMPIRE_MAP[k])) {
+    publicAnnouncements.push({
+        tech,
+        description: result.description || null,
+        date: e.date,
+        time: e.time
+    });
 
-    techs[empireName] ??= {};
+    for (const empireName of Object.values(EMPIRE_MAP)) {
+        if (empireName === 'Mondial' || empireName === 'ADMIN') continue;
 
-    if (!techs[empireName][tech] || techs[empireName][tech].status !== 'owned') {
-      techs[empireName][tech] = {
-        status: 'owned',
-        public: true,
-        updatedAt: e.firstSeen || new Date().toISOString()
-      };
+        techs[empireName] ??= {};
 
-      changes[empireName] ??= { gained: [], lost: [] };
-      changes[empireName].gained.push(tech);
+        if (!techs[empireName][tech] || techs[empireName][tech].status !== 'owned') {
+        techs[empireName][tech] = {
+            status: 'owned',
+            public: true,
+            updatedAt: e.firstSeen || new Date().toISOString()
+        };
+        }
     }
-  }
-}
+    }
 
   }
 
@@ -804,7 +810,7 @@ function updateTechnologyRegistry(events) {
     saveJSON(TECH_FILE, techs);
   }
 
-  return { techs, changes };
+  return { techs, changes, publicAnnouncements };
 }
 
 function computeCommonTechnologies(techs){
@@ -1195,6 +1201,30 @@ async function sendTechnologyResume(changes, techs) {
   }
 }
 
+async function sendPublicTechAnnouncements(list) {
+  if (!DISCORD_TECH_WEBHOOK) return;
+  if (!list.length) return;
+
+  for (const item of list) {
+
+    await sendWebhookGuaranteed(DISCORD_TECH_WEBHOOK, {
+      embeds: [{
+        title: '🌍 Technologie tombée dans le domaine public',
+        color: 0x95a5a6,
+        fields: [{
+          name: 'Technologie',
+          value: `**${item.tech}**`,
+          inline: false
+        }],
+        footer: {
+          text: `${item.date} ${item.time}`
+        }
+      }]
+    });
+
+    await new Promise(r => setTimeout(r, 300));
+  }
+}
 /* =========================
 SCRAPER
 ========================= */
@@ -1380,12 +1410,16 @@ if (timeRegex.test(time) && eventText) {
   const allEvents = loadJSON(EVENTS_FILE, []);
   sortEvents(allEvents);
 
-  const { techs, changes } = updateTechnologyRegistry(allEvents);
+  const { techs, changes, publicAnnouncements } =
+  updateTechnologyRegistry(allEvents);
+
   saveJSON(STATS_FILE, dailyStats);
 
   await sendDailyRanking(dailyStats);
 
   await sendTechnologyResume(changes, techs);
+  
+  await sendPublicTechAnnouncements(publicAnnouncements);
 
   await sendToDiscord(events);
   await browser.close();
