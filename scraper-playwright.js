@@ -694,9 +694,9 @@ function extractTechnologyEvent(event) {
   // ======================
   // GAIN
   // ======================
-  const gainMatch = text.match(
-    /a decouvert la technologie\s+(.+?)\s+en faveur d[eu']\s+(.+?)\s*:/
-  );
+    const gainMatch = raw.match(
+    /^(.+?)\s+a découvert la technologie\s+(.+?)\s+en faveur d[eu']\s+.+?\s*:/i
+    );
 
   if (gainMatch) {
 
@@ -704,10 +704,11 @@ function extractTechnologyEvent(event) {
     const descMatch = raw.match(/«([^»]+)»/);
 
     return {
-      type: 'gain',
-      tech: gainMatch[1].trim(),
-      empire: event.empire,
-      description: descMatch ? descMatch[1].trim() : null
+    type: 'gain',
+    tech: gainMatch[2].trim(),
+    empire: event.empire,
+    discoveredBy: gainMatch[1].trim(),
+    description: descMatch ? descMatch[1].trim() : null
     };
   }
 
@@ -780,9 +781,11 @@ function updateTechnologyRegistry(events) {
       if (!prev || prev.status !== 'owned') {
 
         techs[empire][tech] = {
-          status: 'owned',
-          description: result.description || null,
-          updatedAt: e.firstSeen || new Date().toISOString()
+            status: 'owned',
+            description: result.description || prev?.description || null,
+            updatedAt: e.firstSeen || new Date().toISOString(),
+            discoveredBy: result.discoveredBy || prev?.discoveredBy || null,
+            lossCount: prev?.lossCount || 0
         };
 
         changes[empire] ??= { gained: [], lost: [] };
@@ -806,8 +809,10 @@ function updateTechnologyRegistry(events) {
       if (!prev || prev.status !== 'lost') {
 
         techs[empire][tech] = {
-          status: 'lost',
-          updatedAt: e.firstSeen || new Date().toISOString()
+            status: 'lost',
+            updatedAt: e.firstSeen || new Date().toISOString(),
+            discoveredBy: prev?.discoveredBy || null,
+            lossCount: (prev?.lossCount || 0) + 1
         };
 
         changes[empire] ??= { gained: [], lost: [] };
@@ -914,7 +919,8 @@ async function sendTechnologiesToSupabase(techs) {
         tech,
         status: info.status,
         description: info.description || null,
-        public: !!info.public,
+        discovered_by: info.discoveredBy || null,
+        loss_count: info.lossCount || 0,
         updated_at: info.updatedAt
       });
     }
@@ -1224,9 +1230,11 @@ async function sendTechnologyResume(changes, techs) {
 
     const blocks = gained.map(t => {
         const desc = techs[empire]?.[t]?.description;
+        const by = techs[empire]?.[t]?.discoveredBy;
+
         return desc
-        ? `• **${t}**\n> ${desc}`
-        : `• ${t}`;
+        ? `• **${t}**${by ? ` _(par ${by})_` : ''}\n> ${desc}`
+        : `• ${t}${by ? ` _(par ${by})_` : ''}`;
     });
 
     const chunks = chunkEmbedLines(blocks, 1000); // <- sécurité Discord
