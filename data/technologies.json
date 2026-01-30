@@ -99,6 +99,13 @@
       "updatedAt": "2026-01-28T22:58:44.198Z",
       "discoveredBy": "Zéphiria de Pont-Krivell",
       "lossCount": 0
+    },
+    "Extraction Industrielle de l'Or": {
+      "status": "owned",
+      "description": "L'amélioration des techniques d'extraction de l'or permet de faire baisser le multiplicateur d'extraction de 0,1.",
+      "updatedAt": "2026-01-30T17:55:08.658Z",
+      "discoveredBy": "Shaelys de Pont-Krivell",
+      "lossCount": 0
     }
   },
   "Confédération Libre": {
