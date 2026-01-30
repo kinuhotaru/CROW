@@ -54968,5 +54968,75 @@
     "text": "Construction d'un bâtiment Base Militaire dans la ville Igloo en [14,10].",
     "key": "2026-01-30|10:13|khanat elmerien|elmerie|igloo|construction d'un batiment base militaire dans la ville igloo en [14,10].",
     "firstSeen": "2026-01-30T09:25:46.053Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "10:26",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Honolulu-par-Delà",
+    "text": "Edgard le Canard a ouvert un chantier public dans la ville Honolulu-par-Delà en [17,12].",
+    "key": "2026-01-30|10:26|republique de kraland|kraland|honolulu-par-dela|edgard le canard a ouvert un chantier public dans la ville honolulu-par-dela en [17,12].",
+    "firstSeen": "2026-01-30T11:05:21.880Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "10:41",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre du Travail Simon Halden a modifié la prime à la production qui sera désormais de 1 ¢¢ et payée au-delà de 5 UT produits : « Citoyens, Citoyennes, Nous mettons notre plan en marche. Afin que vous puissiez vous rendre compte par vous-même de la manière dont cette aide s'applique, nous commençons avec ce montant symbolique pendant deux jours. Montant qui sera réhaussé par la suite. Je vous souhaite une excellente journée, Simon »",
+    "key": "2026-01-30|10:41|confederation libre|||le ministre du travail simon halden a modifie la prime a la production qui sera desormais de 1 ¢¢ et payee au-dela de 5 ut produits : \" citoyens, citoyennes, nous mettons notre plan en marche. afin que vous puissiez vous rendre compte par vous-meme de la maniere dont cette aide s'applique, nous commencons avec ce montant symbolique pendant deux jours. montant qui sera rehausse par la suite. je vous souhaite une excellente journee, simon \"",
+    "firstSeen": "2026-01-30T11:05:21.671Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "11:00",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "Makiling a ouvert un chantier privé dans la ville Quartier Suprême en [5,8].",
+    "key": "2026-01-30|11:00|republique de kraland|kraland|quartier supreme|makiling a ouvert un chantier prive dans la ville quartier supreme en [5,8].",
+    "firstSeen": "2026-01-30T11:05:21.341Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "11:04",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "",
+    "text": "Capitaine Igloo s'est fait agresser par un groupe de créatures mené par Primitif Elmérien Guerrier.",
+    "key": "2026-01-30|11:04|khanat elmerien|elmerie||capitaine igloo s'est fait agresser par un groupe de creatures mene par primitif elmerien guerrier.",
+    "firstSeen": "2026-01-30T11:05:21.096Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "11:07",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Elune Von Voda a brûlé par erreur des notes scientifiques importantes. La recherche est perturbée (-3 à la technologie n°57).",
+    "key": "2026-01-30|11:07|royaume de ruthvenie|||elune von voda a brule par erreur des notes scientifiques importantes. la recherche est perturbee (-3 a la technologie n°57).",
+    "firstSeen": "2026-01-30T11:05:20.753Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "11:38",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "Pr Jean-Michel Nobyl s'est fait agresser par un groupe de créatures mené par Druidesse.",
+    "key": "2026-01-30|11:38|confederation libre|milieu||pr jean-michel nobyl s'est fait agresser par un groupe de creatures mene par druidesse.",
+    "firstSeen": "2026-01-30T11:05:20.438Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "11:42",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Pr Jean-Michel Nobyl s'est fait agresser par un groupe de créatures mené par Druidesse.",
+    "key": "2026-01-30|11:42|confederation libre|milieu|structural|pr jean-michel nobyl s'est fait agresser par un groupe de creatures mene par druidesse.",
+    "firstSeen": "2026-01-30T11:05:18.641Z"
   }
 ]
