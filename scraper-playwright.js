@@ -1242,7 +1242,7 @@ async function sendTechnologyResume(changes, techs) {
     for (let i = 0; i < chunks.length; i++) {
         fields.push({
         name: i === 0
-            ? '🧪 Découvertes / Redécouvertes'
+            ? '🧪 Découvertes'
             : '🧪 Découvertes (suite)',
         value: chunks[i],
         inline: false
