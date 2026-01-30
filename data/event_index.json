@@ -54698,5 +54698,15 @@
     "text": "La ville Quartier Suprême récolte 453 FK d'impôts.",
     "key": "2026-01-30|00:01|republique de kraland|kraland|quartier supreme|la ville quartier supreme recolte 453 fk d'impots.",
     "firstSeen": "2026-01-29T23:54:06.894Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "01:05",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "",
+    "text": "Un groupe de créatures mené par 1 Primitif Elmérien attaque Robin des Bars.",
+    "key": "2026-01-30|01:05|khanat elmerien|elmerie||un groupe de creatures mene par 1 primitif elmerien attaque robin des bars.",
+    "firstSeen": "2026-01-30T00:34:03.708Z"
   }
 ]
