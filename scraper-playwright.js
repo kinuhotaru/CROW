@@ -68,7 +68,8 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
         'lance dans une plaidoirie si penible',
         'a obtenu la liberation anticipee',
         'transmettre a la presse une fausse declaration',
-        'vient de marquer sur le mur'
+        'vient de marquer sur le mur',
+        'a tente de fabriquer une fausse clef'
       ].some(keyword => text.includes(keyword)),
     webhook: DISCORD_CRIME_WEBHOOK
   },
