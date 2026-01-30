@@ -29,14 +29,6 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
 
     const EVENT_ROUTES = [
   {
-    name: 'Tunnel',
-    match: text =>
-      [
-        'tunnel termondique de magnitude'
-      ].some(keyword => text.includes(keyword)),
-    webhook: DISCORD_TUNNEL_WEBHOOK
-  },
-  {
     name: 'War',
     match: text =>
       [
@@ -171,7 +163,15 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
       'a modifie le taux d\'imposition',
     ].some(k => text.includes(k)),
   webhook: DISCORD_FINANCE_WEBHOOK
-}
+},
+{
+    name: 'Tunnel',
+    match: text =>
+      [
+        'tunnel termondique de magnitude'
+      ].some(keyword => text.includes(keyword)),
+    webhook: DISCORD_TUNNEL_WEBHOOK
+},
 ];
 
 const SILENT_WEBHOOKS = new Set([
@@ -915,6 +915,49 @@ async function sendEventToSupabase(event) {
     }
 }
 
+async function sendTechnologiesToSupabase(techs) {
+
+  if (!SUPABASE_URL || !SUPABASE_KEY) return;
+
+  const rows = [];
+
+  for (const [empire, techList] of Object.entries(techs)) {
+    for (const [tech, info] of Object.entries(techList)) {
+      rows.push({
+        empire,
+        tech,
+        status: info.status,
+        description: info.description || null,
+        public: !!info.public,
+        updated_at: info.updatedAt
+      });
+    }
+  }
+
+  const res = await fetch(
+    `${SUPABASE_URL}/rest/v1/technologies`,
+    {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        apikey: SUPABASE_KEY,
+        Authorization: `Bearer ${SUPABASE_KEY}`,
+        Prefer: 'resolution=merge-duplicates'
+      },
+      body: JSON.stringify(rows)
+    }
+  );
+
+  if (!res.ok) {
+    console.warn(
+      '⚠️ Supabase tech sync error:',
+      res.status,
+      await res.text()
+    );
+  } else {
+    console.log(`📤 Supabase sync technologies : ${rows.length}`);
+  }
+}
 
 /* =========================
 EMPIRE RANKING IMPOTS
@@ -1448,16 +1491,19 @@ if (timeRegex.test(time) && eventText) {
   sortEvents(allEvents);
 
   const { techs, changes, publicAnnouncements } =
-  updateTechnologyRegistry(allEvents);
+  updateTechnologyRegistry(events);
 
   saveJSON(STATS_FILE, dailyStats);
 
+  //financial rank
   await sendDailyRanking(dailyStats);
 
+  // techs
   await sendTechnologyResume(changes, techs);
-  
+  await sendTechnologiesToSupabase(techs);
   await sendPublicTechAnnouncements(publicAnnouncements);
 
+  //everything else
   await sendToDiscord(events);
   await browser.close();
 
