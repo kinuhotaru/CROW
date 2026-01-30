@@ -825,28 +825,14 @@ function updateTechnologyRegistry(events) {
     // ======================
     if (type === 'public') {
 
-      publicAnnouncements.push({
+    // uniquement annonce globale
+    publicAnnouncements.push({
         tech,
         date: e.date,
         time: e.time
-      });
+    });
 
-      for (const empireName of Object.values(EMPIRE_MAP)) {
-
-        if (['Mondial', 'ADMIN'].includes(empireName)) continue;
-
-        techs[empireName] ??= {};
-
-        if (!techs[empireName][tech]) {
-          techs[empireName][tech] = {
-            status: 'owned',
-            public: true,
-            updatedAt: e.firstSeen || new Date().toISOString()
-          };
-
-          modified = true;
-        }
-      }
+    // ❌ aucune modification dans technologies.json
     }
   }
 
