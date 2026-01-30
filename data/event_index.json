@@ -54788,5 +54788,185 @@
     "text": "Masque a donné de l'entrain au travail dans le bâtiment Vendeur de Tissu (la production sera plus rapide) : « »",
     "key": "2026-01-30|02:34|confederation libre|milieu|structural|masque a donne de l'entrain au travail dans le batiment vendeur de tissu (la production sera plus rapide) : \" \"",
     "firstSeen": "2026-01-30T04:59:19.653Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "10:13",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Construction d'un bâtiment Base Militaire dans la ville Igloo en [14,10].",
+    "key": "2026-01-30|10:13|khanat elmerien|elmerie|igloo|construction d'un batiment base militaire dans la ville igloo en [14,10].",
+    "firstSeen": "2026-01-30T09:25:46.053Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "10:00",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Axiom K-Null n'a pas réussi à utiliser ses prérogatives de Diplomate pour devenir Juge de la ville Structural : « Citoyennes, citoyens de Milieu, À compter de maintenant, j’assumerai la fonction de juge au sein de la ville. Cette décision a été prise sans accord préalable, mais après mûre réflexion — réflexion rendue possible par un emploi du temps soudainement trop calme à mon goût. Il ne s’agit ni d’un coup d’éclat ni d’une prise de pouvoir déguisée, mais d’une manière tout à fait rationnelle de remplir mes journées tout en rendant un service public utile. Certains font du jardinage, d’autres du tricot ; j’ai choisi l’arbitrage juridique. Les affaires seront traitées avec impartialité, précision et un strict respect des faits. Les envolées lyriques seront tolérées, puis ignorées. Milieu mérite une justice qui fonctionne, même quand elle est assurée par quelqu’un qui avait surtout besoin d’une occupation intellectuellement stimulante. — Axiom K-Null »",
+    "key": "2026-01-30|10:00|confederation libre|milieu|structural|axiom k-null n'a pas reussi a utiliser ses prerogatives de diplomate pour devenir juge de la ville structural : \" citoyennes, citoyens de milieu, a compter de maintenant, j'assumerai la fonction de juge au sein de la ville. cette decision a ete prise sans accord prealable, mais apres mure reflexion — reflexion rendue possible par un emploi du temps soudainement trop calme a mon gout. il ne s'agit ni d'un coup d'eclat ni d'une prise de pouvoir deguisee, mais d'une maniere tout a fait rationnelle de remplir mes journees tout en rendant un service public utile. certains font du jardinage, d'autres du tricot ; j'ai choisi l'arbitrage juridique. les affaires seront traitees avec impartialite, precision et un strict respect des faits. les envolees lyriques seront tolerees, puis ignorees. milieu merite une justice qui fonctionne, meme quand elle est assuree par quelqu'un qui avait surtout besoin d'une occupation intellectuellement stimulante. — axiom k-null \"",
+    "firstSeen": "2026-01-30T09:25:47.642Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "09:47",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "BoboFix a transformé Hôtel « L'open space » en dispensaire médical (pour 24 heures), soignant les occupants (BoboFix, Jean-Messie de la Nation, Monique Quiès, PaulSernine, Sophos, Buck Le Lynx Laramie, Joe le très très terrible, Bladimir Bladimirovitch Mutin, Patrick-Lamulle DePouch, Aporie, Dardraroux) : « Faite passer la pommade. »",
+    "key": "2026-01-30|09:47|confederation libre|milieu|structural|bobofix a transforme hotel \" l'open space \" en dispensaire medical (pour 24 heures), soignant les occupants (bobofix, jean-messie de la nation, monique quies, paulsernine, sophos, buck le lynx laramie, joe le tres tres terrible, bladimir bladimirovitch mutin, patrick-lamulle depouch, aporie, dardraroux) : \" faite passer la pommade. \"",
+    "firstSeen": "2026-01-30T09:25:47.885Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "09:40",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Construction d'un bâtiment Vendeur de Tissu dans la ville Trésorville en [14,4].",
+    "key": "2026-01-30|09:40|republique de kraland|karaibes|tresorville|construction d'un batiment vendeur de tissu dans la ville tresorville en [14,4].",
+    "firstSeen": "2026-01-30T09:25:48.051Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "09:32",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Capitaine Rompizzo n'a pas réussi à établir une chaîne de production dans le bâtiment Chantier Alchimie : « Pour notre futur alchimiste ! »",
+    "key": "2026-01-30|09:32|royaume de ruthvenie|crab key|port magmor|capitaine rompizzo n'a pas reussi a etablir une chaine de production dans le batiment chantier alchimie : \" pour notre futur alchimiste ! \"",
+    "firstSeen": "2026-01-30T09:25:48.358Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "09:05",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Hench St Misles (Démagogue) a prononcé un discours louant le Président Bladimir Bladimirovitch Mutin (Démagogue) [PP +0].",
+    "key": "2026-01-30|09:05|confederation libre|warriorland|blofeldopolis|hench st misles (demagogue) a prononce un discours louant le president bladimir bladimirovitch mutin (demagogue) [pp +0].",
+    "firstSeen": "2026-01-30T09:25:48.504Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "09:05",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Hench St Misles s'est présenté aux élections pour le poste de Président de la Confédération Libre au nom de l'organisation Vérité.",
+    "key": "2026-01-30|09:05|confederation libre|||hench st misles s'est presente aux elections pour le poste de president de la confederation libre au nom de l'organisation verite.",
+    "firstSeen": "2026-01-30T09:25:48.645Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "09:05",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Hench St Misles (Démagogue) a prononcé un discours louant le Président Bladimir Bladimirovitch Mutin (Démagogue) [PP +1] au nom de l'organisation Vérité.",
+    "key": "2026-01-30|09:05|confederation libre|warriorland|blofeldopolis|hench st misles (demagogue) a prononce un discours louant le president bladimir bladimirovitch mutin (demagogue) [pp +1] au nom de l'organisation verite.",
+    "firstSeen": "2026-01-30T09:25:48.858Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "09:05",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "",
+    "text": "La Duchesse Korail a adressé un discours à la population : « Merci mon cher Palakoin ! Après délibération officielle de moi même et de moi-même, nous avons établi que le kanard préféré de toute la province - et surtout de moi-même - est Palakoin ! Pour sa beauté remarquable, son koinrisme naturel, son plumage héroïque et surtout le fait qu'il soit extrêmement humble. Un exemple pour toute l’Île aux Kanards. Koin ! »",
+    "key": "2026-01-30|09:05|royaume de ruthvenie|crab key||la duchesse korail a adresse un discours a la population : \" merci mon cher palakoin ! apres deliberation officielle de moi meme et de moi-meme, nous avons etabli que le kanard prefere de toute la province - et surtout de moi-meme - est palakoin ! pour sa beaute remarquable, son koinrisme naturel, son plumage heroique et surtout le fait qu'il soit extremement humble. un exemple pour toute l'ile aux kanards. koin ! \"",
+    "firstSeen": "2026-01-30T09:25:49.001Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "08:57",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Palakoin a prononcé un discours louant la Duchesse Korail [PP +1] : « Koin koin ! Je souhaite koinfirmer mon soutien à madame Korail. En plus de faire un travail remarquable à la tête de l'Ile aux Kanards, elle a un talent indéniable en offrant à la ville et ses habitants une magnifique statue, véritable témoignage de son talent. Bravo, koin ! »",
+    "key": "2026-01-30|08:57|royaume de ruthvenie|crab key|port magmor|palakoin a prononce un discours louant la duchesse korail [pp +1] : \" koin koin ! je souhaite koinfirmer mon soutien a madame korail. en plus de faire un travail remarquable a la tete de l'ile aux kanards, elle a un talent indeniable en offrant a la ville et ses habitants une magnifique statue, veritable temoignage de son talent. bravo, koin ! \"",
+    "firstSeen": "2026-01-30T09:25:49.147Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "08:30",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Le Bourgmestre Gladstone Krander a nommé Lili, Lulu & Zizi Duck au poste de Commissaire de Police.",
+    "key": "2026-01-30|08:30|paradigme vert|ile aux kanards|kanardville|le bourgmestre gladstone krander a nomme lili, lulu & zizi duck au poste de commissaire de police.",
+    "firstSeen": "2026-01-30T09:25:49.372Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "08:30",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Le Bourgmestre Gladstone Krander a nommé LoulouDuck au poste de Juge.",
+    "key": "2026-01-30|08:30|paradigme vert|ile aux kanards|kanardville|le bourgmestre gladstone krander a nomme loulouduck au poste de juge.",
+    "firstSeen": "2026-01-30T09:25:49.528Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "08:21",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "",
+    "text": "Un groupe de créatures mené par 1 Primitif Elmérien Guerrier attaque Tai'Chy ⭐️.",
+    "key": "2026-01-30|08:21|khanat elmerien|elmerie||un groupe de creatures mene par 1 primitif elmerien guerrier attaque tai'chy ⭐️.",
+    "firstSeen": "2026-01-30T09:25:49.671Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "07:58",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Le Chef de Tribu Yéti a imposé une taxe sur l'air respiré qui a rapporté 225 ÐE.",
+    "key": "2026-01-30|07:58|khanat elmerien|elmerie|igloo|le chef de tribu yeti a impose une taxe sur l'air respire qui a rapporte 225 ðe.",
+    "firstSeen": "2026-01-30T09:25:49.804Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "07:19",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Construction d'un bâtiment Pré dans la ville CAPS LOCK en [16,6].",
+    "key": "2026-01-30|07:19|khanat elmerien|capsulie|caps lock|construction d'un batiment pre dans la ville caps lock en [16,6].",
+    "firstSeen": "2026-01-30T09:25:49.940Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "07:18",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "",
+    "text": "Le Khan Capitaine Igloo a nommé Odessa Stone au poste de Intendante.",
+    "key": "2026-01-30|07:18|khanat elmerien|elmerie||le khan capitaine igloo a nomme odessa stone au poste de intendante.",
+    "firstSeen": "2026-01-30T09:25:50.109Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "06:44",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "Bisouville",
+    "text": "Passe-Muraille a tenté de voler 1 Tableau dans le bâtiment Maison « HLZ - Dortoir des étudiantes ». Il est à présent recherché par la police du cybermonde pour ce délit.",
+    "key": "2026-01-30|06:44|republique de kraland|helenie|bisouville|passe-muraille a tente de voler 1 tableau dans le batiment maison \" hlz - dortoir des etudiantes \". il est a present recherche par la police du cybermonde pour ce delit.",
+    "firstSeen": "2026-01-30T09:25:50.244Z"
+  },
+  {
+    "date": "2026-01-30",
+    "time": "05:58",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "",
+    "text": "Akuma Nattata a fait la déclaration officielle suivante aux habitants de la province Kraland : « Zmeynov le Serpent, Philosophe et Maçon Kollektiviste du Cœur Sibérian, Je me trouve présentement à Honolulu-par-Delà, et d'ici, je peux observer la Grandeur organisé au Pas du Cœur de ton Cœur. Je comprends à présent, tes difficultés à accepter le Chaos de l'Apprentissage et de l'Evolution. Tout ici semble méticuleusement architecturé, ne laissant aucune place aux glissades Idéologiques, c'est magnifique. Peut-être essayais-tu, avec une maladresse provocatrice, de nous apporter l'éternelle révolution, non pas pour ton propre bien, mais pour celui de la communauté de l'Agneau, Flocon. Grâce à ce voyage, je pense mieux te connaître à présent, toi qui repose dans une tombe, dans le cimetière de Garinaville, là ou les corps sont PARFAITEMENT conservés et ou devraient tous reposer. J'ai croisé aussi un Raptor Laser. Je dois t'avouer qu'au départ, j'ai bien cru que tu me faisais face. Mais un Raptmort-Vivant ? Je ne te le souhaite pas. Il n'est pas à exclure que notre amitié profonde et sans condition aura été une motivation suffisante pour que les Charognes du Niarkalistan s'en prennent à toi afin de me ralentir... Lorsque je rentrerai, il nous faudra trouver des réponses à poser sur ces doutes. Nous serons dans l'obligation d'ouvrir ton cercueil. Ou que tu sois, Zmeynov, saches que les conditions mystérieuse de ta disparition et ta mort présumée, ne seront pas ignorées. J'enquêterai, je débusquerai, et je cognerai jusqu'à ce que Justice s'en suive. Je suivrai ton exemple, en faisant tout comme je l'ai toujours fait, pour la Communauté et pas par simple vengeance de mon meilleur ennami. Et puis, je suis un Chevalier de Jade a présent, c'est... Mon travail. Reposes en Poings, Zmeynov, Puissions nous nous retrouver, un jour, dans la Matrice Originelle »",
+    "key": "2026-01-30|05:58|republique de kraland|kraland||akuma nattata a fait la declaration officielle suivante aux habitants de la province kraland : \" zmeynov le serpent, philosophe et macon kollektiviste du cœur siberian, je me trouve presentement a honolulu-par-dela, et d'ici, je peux observer la grandeur organise au pas du cœur de ton cœur. je comprends a present, tes difficultes a accepter le chaos de l'apprentissage et de l'evolution. tout ici semble meticuleusement architecture, ne laissant aucune place aux glissades ideologiques, c'est magnifique. peut-etre essayais-tu, avec une maladresse provocatrice, de nous apporter l'eternelle revolution, non pas pour ton propre bien, mais pour celui de la communaute de l'agneau, flocon. grace a ce voyage, je pense mieux te connaitre a present, toi qui repose dans une tombe, dans le cimetiere de garinaville, la ou les corps sont parfaitement conserves et ou devraient tous reposer. j'ai croise aussi un raptor laser. je dois t'avouer qu'au depart, j'ai bien cru que tu me faisais face. mais un raptmort-vivant ? je ne te le souhaite pas. il n'est pas a exclure que notre amitie profonde et sans condition aura ete une motivation suffisante pour que les charognes du niarkalistan s'en prennent a toi afin de me ralentir... lorsque je rentrerai, il nous faudra trouver des reponses a poser sur ces doutes. nous serons dans l'obligation d'ouvrir ton cercueil. ou que tu sois, zmeynov, saches que les conditions mysterieuse de ta disparition et ta mort presumee, ne seront pas ignorees. j'enqueterai, je debusquerai, et je cognerai jusqu'a ce que justice s'en suive. je suivrai ton exemple, en faisant tout comme je l'ai toujours fait, pour la communaute et pas par simple vengeance de mon meilleur ennami. et puis, je suis un chevalier de jade a present, c'est... mon travail. reposes en poings, zmeynov, puissions nous nous retrouver, un jour, dans la matrice originelle \"",
+    "firstSeen": "2026-01-30T09:25:50.388Z"
   }
 ]
