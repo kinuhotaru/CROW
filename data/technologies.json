@@ -271,6 +271,13 @@
       "updatedAt": "2026-01-29T07:29:57.798Z",
       "discoveredBy": "Ombreloup",
       "lossCount": 0
+    },
+    "Relevé des Gisements d'Or": {
+      "status": "owned",
+      "description": "Le relevé des gisements d'or permet de savoir où creuser. Le multiplicateur d'extraction de l'or baisse de 0,1.",
+      "updatedAt": "2026-01-31T04:50:13.763Z",
+      "discoveredBy": "Shiki Chantargent",
+      "lossCount": 0
     }
   },
   "Khanat Elmérien": {
