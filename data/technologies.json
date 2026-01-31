@@ -113,6 +113,13 @@
       "updatedAt": "2026-01-30T17:55:08.658Z",
       "discoveredBy": "Shaelys de Pont-Krivell",
       "lossCount": 0
+    },
+    "Cadastre": {
+      "status": "owned",
+      "description": "Le cadastre des ressoures forestières permet de mieux gérer les ressources en bois. Le multiplicateur d'extraction du bois baisse de 0,1.",
+      "updatedAt": "2026-01-31T23:44:45.200Z",
+      "discoveredBy": "Floran Baumé",
+      "lossCount": 0
     }
   },
   "Confédération Libre": {
@@ -154,6 +161,13 @@
       "status": "owned",
       "description": "Permet de construire le bâtiment Garage et d'y produire des véhicules de tout type, sauf le camion et le bus.",
       "updatedAt": "2026-01-29T11:59:18.459Z",
+      "discoveredBy": "Pr Jean-Michel Nobyl",
+      "lossCount": 0
+    },
+    "Antibiotiques": {
+      "status": "owned",
+      "description": "Permet de faire des progrès importants dans la médecine. Des médicaments contre les maladies sévissant dans le cybermonde peuvent être produits.",
+      "updatedAt": "2026-01-31T23:44:28.224Z",
       "discoveredBy": "Pr Jean-Michel Nobyl",
       "lossCount": 0
     }
