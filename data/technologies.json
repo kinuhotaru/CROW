@@ -234,6 +234,13 @@
       "updatedAt": "2026-01-29T15:39:37.429Z",
       "discoveredBy": "Géo Trouvetou",
       "lossCount": 0
+    },
+    "Épuration": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Station d'Épuration.",
+      "updatedAt": "2026-02-01T05:18:30.353Z",
+      "discoveredBy": "FurFang Ravenloft",
+      "lossCount": 0
     }
   },
   "Royaume de Ruthvénie": {
