@@ -170,6 +170,13 @@
       "updatedAt": "2026-01-31T23:44:28.224Z",
       "discoveredBy": "Pr Jean-Michel Nobyl",
       "lossCount": 0
+    },
+    "Fiscalité": {
+      "status": "owned",
+      "description": "Permet d'effectuer des enquêtes fiscales et des redressements fiscaux, ainsi que d'imposer des taxes provinciales.",
+      "updatedAt": "2026-02-01T22:56:17.352Z",
+      "discoveredBy": "Pr Jean-Michel Nobyl",
+      "lossCount": 0
     }
   },
   "Paradigme Vert": {
