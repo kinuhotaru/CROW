@@ -313,6 +313,13 @@
       "updatedAt": "2026-01-31T04:50:13.763Z",
       "discoveredBy": "Shiki Chantargent",
       "lossCount": 0
+    },
+    "Épuration": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Station d'Épuration.",
+      "updatedAt": "2026-02-02T18:07:19.854Z",
+      "discoveredBy": "Aelin",
+      "lossCount": 0
     }
   },
   "Khanat Elmérien": {
