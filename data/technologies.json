@@ -120,6 +120,13 @@
       "updatedAt": "2026-01-31T23:44:45.200Z",
       "discoveredBy": "Floran Baumé",
       "lossCount": 0
+    },
+    "Reboisement": {
+      "status": "owned",
+      "description": "Le reboisement permet de renouveler les ressources forestières. Le multiplicateur d'extraction du bois baisse de 0,1.",
+      "updatedAt": "2026-02-02T23:57:47.140Z",
+      "discoveredBy": "Silas des Sables",
+      "lossCount": 0
     }
   },
   "Confédération Libre": {
