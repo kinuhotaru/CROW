@@ -42,6 +42,7 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
         /a lance .+ avis de recherche/.test(text) ||
         /un groupe de creature .+ attaque/.test(text) ||
         /depuis sa prison .+ a reussi a faire passer/.test(text) ||
+        /a tente d'entrainer .+ dans une bagarre/.test(text) ||
       [
         'a tente de voler',
         'vient d\'achever sa peine',
@@ -59,6 +60,8 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
         'a impose une amende',
         'a tente de detourner de l\'argent',
         's\'est fait agresser par',
+        'un groupe de creatures mene',
+        'a entame un combat contre',
         'a tente d\'assassiner',
         'a tente de fabriquer une fausse clef',
         'a fixe le montant de la caution a',
@@ -69,7 +72,10 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
         'a obtenu la liberation anticipee',
         'transmettre a la presse une fausse declaration',
         'vient de marquer sur le mur',
-        'a tente de fabriquer une fausse clef'
+        'a tente de fabriquer une fausse clef',
+        'a reussi a faire passer le message suivant a l\'exterieur',
+        'a fait reparer les barreaux de la prison',
+        'a convaincu les autorites judiciaires que'
       ].some(keyword => text.includes(keyword)),
     webhook: DISCORD_CRIME_WEBHOOK
   },
@@ -122,6 +128,8 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
     /la Ministre .+ a autorise/.test(text) ||
     /a accepte .+ au sein/.test(text) ||
     /a retire .+ le poste/.test(text) ||
+    /a fait adherer .+ a l'institution/.test(text) ||
+    /du parti politique .+ a appuye/.test(text) ||
     [
       'a perdu son poste',
       'a demissionne',
@@ -141,7 +149,11 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
       'resultat de l\'election au poste',
       'a diffuse une emission',
       'a accepte l\'organisation',
-      'a la vindicte populaire'
+      'a la vindicte populaire',
+      'a organise une manifestation soutenant',
+      'a repousse les elections',
+      'a lance une tarte a la creme',
+      'a tenu un meeting en faveur de',
     ].some(k => text.includes(k)),
   webhook: DISCORD_POL_WEBHOOK
 },
@@ -162,6 +174,7 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
       'a impose une taxe',
       'a verse une prime de',
       'a modifie le taux d\'imposition',
+      'a leve un impot exceptionnel'
     ].some(k => text.includes(k)),
   webhook: DISCORD_FINANCE_WEBHOOK
 },
