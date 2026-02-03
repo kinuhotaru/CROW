@@ -41,6 +41,13 @@
       "updatedAt": "2026-01-31T16:59:28.265Z",
       "discoveredBy": "Diagonale",
       "lossCount": 0
+    },
+    "Commission Électorale": {
+      "status": "owned",
+      "description": "Permet de surveiller les élections.",
+      "updatedAt": "2026-02-03T11:53:06.064Z",
+      "discoveredBy": "Leblanc Blastovitch",
+      "lossCount": 0
     }
   },
   "Empire Brun": {
