@@ -205,6 +205,13 @@
       "updatedAt": "2026-02-01T22:56:17.352Z",
       "discoveredBy": "Pr Jean-Michel Nobyl",
       "lossCount": 0
+    },
+    "Écologie": {
+      "status": "owned",
+      "description": "L'écologie permet de mieux connaître les besoins du cybermonde et l'impact de la pollution.",
+      "updatedAt": "2026-02-04T22:56:59.865Z",
+      "discoveredBy": "Pr Jean-Michel Nobyl",
+      "lossCount": 0
     }
   },
   "Paradigme Vert": {
