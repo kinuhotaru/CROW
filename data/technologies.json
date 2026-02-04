@@ -348,6 +348,13 @@
       "updatedAt": "2026-02-02T18:07:19.854Z",
       "discoveredBy": "Aelin",
       "lossCount": 0
+    },
+    "Réseau Informatique": {
+      "status": "owned",
+      "description": "Permet d'installer des réseaux informatiques dans le cybermonde et de pouvoir Espionner un Citoyen à partir de l'université.",
+      "updatedAt": "2026-02-04T14:30:55.572Z",
+      "discoveredBy": "Ren Chantargent",
+      "lossCount": 0
     }
   },
   "Khanat Elmérien": {
