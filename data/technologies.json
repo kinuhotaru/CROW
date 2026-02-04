@@ -134,6 +134,13 @@
       "updatedAt": "2026-02-02T23:57:47.140Z",
       "discoveredBy": "Silas des Sables",
       "lossCount": 0
+    },
+    "Réseau Informatique": {
+      "status": "owned",
+      "description": "Permet d'installer des réseaux informatiques dans le cybermonde et de pouvoir Espionner un Citoyen à partir de l'université.",
+      "updatedAt": "2026-02-04T05:03:51.325Z",
+      "discoveredBy": "Necro Mounda",
+      "lossCount": 0
     }
   },
   "Confédération Libre": {
