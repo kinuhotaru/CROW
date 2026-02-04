@@ -141,6 +141,13 @@
       "updatedAt": "2026-02-04T05:03:51.325Z",
       "discoveredBy": "Necro Mounda",
       "lossCount": 0
+    },
+    "Intervention Armée": {
+      "status": "owned",
+      "description": "Permet d'intervenir dans les autres régions du cybermonde. Cette technologie très importante ouvre la voie à la nomination de Généraux et à l'ordre Conquête.",
+      "updatedAt": "2026-02-04T21:05:56.428Z",
+      "discoveredBy": "Floran Baumé",
+      "lossCount": 0
     }
   },
   "Confédération Libre": {
