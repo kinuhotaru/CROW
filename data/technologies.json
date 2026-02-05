@@ -369,6 +369,13 @@
       "updatedAt": "2026-02-04T14:30:55.572Z",
       "discoveredBy": "Ren Chantargent",
       "lossCount": 0
+    },
+    "Antibiotiques": {
+      "status": "owned",
+      "description": "Permet de faire des progrès importants dans la médecine. Des médicaments contre les maladies sévissant dans le cybermonde peuvent être produits.",
+      "updatedAt": "2026-02-05T11:53:42.746Z",
+      "discoveredBy": "Shiki Chantargent",
+      "lossCount": 0
     }
   },
   "Khanat Elmérien": {
