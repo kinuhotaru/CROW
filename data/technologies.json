@@ -212,6 +212,13 @@
       "updatedAt": "2026-02-04T22:56:59.865Z",
       "discoveredBy": "Pr Jean-Michel Nobyl",
       "lossCount": 0
+    },
+    "Démocratie": {
+      "status": "owned",
+      "description": "La Démocratie, presque directe, est le système politique de la Confédération Libre. L'ordre Désavouer devient alors disponible.",
+      "updatedAt": "2026-02-05T23:55:57.809Z",
+      "discoveredBy": "Pr Jean-Michel Nobyl",
+      "lossCount": 0
     }
   },
   "Paradigme Vert": {
