@@ -399,6 +399,13 @@
       "updatedAt": "2026-01-29T23:53:47.472Z",
       "discoveredBy": "Nerdos Valkyry",
       "lossCount": 0
+    },
+    "Grandes Armes": {
+      "status": "owned",
+      "description": "Permet de produire l'Épée Longue et la Hallebarde.",
+      "updatedAt": "2026-02-05T23:01:13.427Z",
+      "discoveredBy": "Big R",
+      "lossCount": 0
     }
   }
 }
