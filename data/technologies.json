@@ -155,6 +155,13 @@
       "updatedAt": "2026-02-06T07:53:49.729Z",
       "discoveredBy": "Neodym Seltenerd",
       "lossCount": 0
+    },
+    "Empire": {
+      "status": "owned",
+      "description": "L'Empire est le système politique de l'Empire Brun. L'ordre Nommer un Successeur est alors disponible pour l'Empereur.",
+      "updatedAt": "2026-02-06T16:28:34.547Z",
+      "discoveredBy": "Shaelys de Pont-Krivell",
+      "lossCount": 0
     }
   },
   "Confédération Libre": {
@@ -303,6 +310,13 @@
       "description": "La discipline permet d'organiser et de manier les troupes. L'ordre Défilé devient disponible à tous les niveaux de pouvoir. En outre, le salaire quotidien des policiers et soldats est diminué de 10%.",
       "updatedAt": "2026-02-03T05:08:30.575Z",
       "discoveredBy": "Bartolomus Ravenloft",
+      "lossCount": 0
+    },
+    "Reboisement": {
+      "status": "owned",
+      "description": "Le reboisement permet de renouveler les ressources forestières. Le multiplicateur d'extraction du bois baisse de 0,1.",
+      "updatedAt": "2026-02-06T16:28:34.390Z",
+      "discoveredBy": "Shaelys de Pont-Krivell",
       "lossCount": 0
     }
   },
