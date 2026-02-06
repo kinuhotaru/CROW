@@ -148,6 +148,13 @@
       "updatedAt": "2026-02-04T21:05:56.428Z",
       "discoveredBy": "Floran Baumé",
       "lossCount": 0
+    },
+    "Objets Magiques Mineurs": {
+      "status": "owned",
+      "description": "Permet de produire des objets magiques, sauf ceux augmentant les caractéristiques.",
+      "updatedAt": "2026-02-06T07:53:49.729Z",
+      "discoveredBy": "Neodym Seltenerd",
+      "lossCount": 0
     }
   },
   "Confédération Libre": {
