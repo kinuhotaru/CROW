@@ -240,6 +240,13 @@
       "updatedAt": "2026-02-05T23:55:57.809Z",
       "discoveredBy": "Pr Jean-Michel Nobyl",
       "lossCount": 0
+    },
+    "Économie Mixte": {
+      "status": "owned",
+      "description": "L'économie de la Confédération Libre est relativement libre, mais modérée par différentes protections sociales. L'ordre Salaire Minimum devient disponible.",
+      "updatedAt": "2026-02-09T20:07:15.299Z",
+      "discoveredBy": "Tendi Neet",
+      "lossCount": 0
     }
   },
   "Paradigme Vert": {
