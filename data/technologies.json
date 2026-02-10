@@ -332,6 +332,13 @@
       "updatedAt": "2026-02-06T16:28:34.390Z",
       "discoveredBy": "Shaelys de Pont-Krivell",
       "lossCount": 0
+    },
+    "Justice d'Exception": {
+      "status": "owned",
+      "description": "La Justice d'Exception permet de prendre des mesures radicales contre les ennemis de l'état. L'ordre Envoyer au Bagne d'Australine devient disponible pour le Ministre de la Justice.",
+      "updatedAt": "2026-02-10T00:00:54.734Z",
+      "discoveredBy": "Nikyr",
+      "lossCount": 0
     }
   },
   "Royaume de Ruthvénie": {
@@ -454,6 +461,13 @@
       "description": "Permet de produire l'Épée Longue et la Hallebarde.",
       "updatedAt": "2026-02-05T23:01:13.427Z",
       "discoveredBy": "Big R",
+      "lossCount": 0
+    },
+    "Automobile": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Garage et d'y produire des véhicules de tout type, sauf le camion et le bus.",
+      "updatedAt": "2026-02-10T00:00:57.414Z",
+      "discoveredBy": "Nerdos Valkyry",
       "lossCount": 0
     }
   }
