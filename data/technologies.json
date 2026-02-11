@@ -254,6 +254,13 @@
       "updatedAt": "2026-02-09T20:07:15.299Z",
       "discoveredBy": "Tendi Neet",
       "lossCount": 0
+    },
+    "Aviation": {
+      "status": "owned",
+      "description": "Permet de maîtriser le déplacement aérien. Permet de construire le bâtiment Aéroport et d'y produire des montgolfières et des hélicoptères ou d'organiser des voyages en avion.",
+      "updatedAt": "2026-02-11T13:42:19.745Z",
+      "discoveredBy": "Pr Jean-Michel Nobyl",
+      "lossCount": 0
     }
   },
   "Paradigme Vert": {
