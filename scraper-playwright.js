@@ -37,6 +37,16 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
     webhook: DISCORD_WAR_WEBHOOK
   },
   {
+    name: 'Discours',
+    match: text =>
+      [
+        'a adresse un discours',
+        'a prononce un discours',
+        'a fait la declaration officielle',
+      ].some(keyword => text.includes(keyword)),
+    webhook: DISCORD_DISCOURS_WEBHOOK
+  },
+  {
     name: 'Crime',
     match: text =>
         /a lance .+ avis de recherche/.test(text) ||
@@ -75,7 +85,8 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
         'a tente de fabriquer une fausse clef',
         'a reussi a faire passer le message suivant a l\'exterieur',
         'a fait reparer les barreaux de la prison',
-        'a convaincu les autorites judiciaires que'
+        'a convaincu les autorites judiciaires que',
+        'un attentat vient de frapper'
       ].some(keyword => text.includes(keyword)),
     webhook: DISCORD_CRIME_WEBHOOK
   },
@@ -94,18 +105,9 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
         'en tentant d\'organiser une manifestation anti-science',
         'a organise une manifestation anti-science',
         's\'est introduit dans le reseau',
+        'est tombee dans le domaine public'
       ].some(keyword => text.includes(keyword)),
     webhook: DISCORD_RECHERCHE_WEBHOOK
-  },
-  {
-    name: 'Discours',
-    match: text =>
-      [
-        'a adresse un discours',
-        'a prononce un discours',
-        'a fait la declaration officielle',
-      ].some(keyword => text.includes(keyword)),
-    webhook: DISCORD_DISCOURS_WEBHOOK
   },
   {
     name: 'Rumeur',
@@ -113,7 +115,14 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
       [
         'une rumeur court',
         'une rumeur concernant',
-        'il se murmure'
+        'il se murmure',
+        'viennent de se marier',
+        'est desormais domicilie dans',
+        'a cede la direction de',
+        'a fonde l\'organisation',
+        'loterie :',
+        'suite a la desactivation de',
+        'a pris sa retraite'
       ].some(keyword => text.includes(keyword)),
     webhook: DISCORD_RUMEURS_WEBHOOK
   },
@@ -130,6 +139,8 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
     /a retire .+ le poste/.test(text) ||
     /a fait adherer .+ a l'institution/.test(text) ||
     /du parti politique .+ a appuye/.test(text) ||
+    /a refuse .+ a au sein/.test(text) ||
+    /a recommande .+ permettant la domiciliation/.test(text) ||
     [
       'a perdu son poste',
       'a demissionne',
@@ -154,6 +165,9 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
       'a repousse les elections',
       'a lance une tarte a la creme',
       'a tenu un meeting en faveur de',
+      's\'est fait huer par la foule en tentant',
+      'a perquisitionne le batiment',
+      'est desormais domicilie'
     ].some(k => text.includes(k)),
   webhook: DISCORD_POL_WEBHOOK
 },
@@ -174,7 +188,10 @@ const SUPABASE_KEY = process.env.SUPABASE_KEY
       'a impose une taxe',
       'a verse une prime de',
       'a modifie le taux d\'imposition',
-      'a leve un impot exceptionnel'
+      'a leve un impot exceptionnel',
+      'a distribue les richesses',
+      'a exproprie le batiment',
+      'a contraint le patronat a signer une convention'
     ].some(k => text.includes(k)),
   webhook: DISCORD_FINANCE_WEBHOOK
 },
