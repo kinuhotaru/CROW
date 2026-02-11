@@ -339,6 +339,13 @@
       "updatedAt": "2026-02-10T00:00:54.734Z",
       "discoveredBy": "Nikyr",
       "lossCount": 0
+    },
+    "Cadastre": {
+      "status": "owned",
+      "description": "Le cadastre des ressoures forestières permet de mieux gérer les ressources en bois. Le multiplicateur d'extraction du bois baisse de 0,1.",
+      "updatedAt": "2026-02-11T00:03:26.586Z",
+      "discoveredBy": "Nikyr",
+      "lossCount": 0
     }
   },
   "Royaume de Ruthvénie": {
