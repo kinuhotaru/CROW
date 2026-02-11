@@ -169,6 +169,13 @@
       "updatedAt": "2026-02-08T05:40:39.307Z",
       "discoveredBy": "Floran Baumé",
       "lossCount": 0
+    },
+    "Science Magique": {
+      "status": "owned",
+      "description": "La connaissance des bases de la magie est nécessaire à la recherche magique.",
+      "updatedAt": "2026-02-11T05:48:13.975Z",
+      "discoveredBy": "Paul-Steeve Saint-Sauveur",
+      "lossCount": 0
     }
   },
   "Confédération Libre": {
