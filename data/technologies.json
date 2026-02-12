@@ -467,6 +467,13 @@
       "updatedAt": "2026-02-08T10:59:39.633Z",
       "discoveredBy": "Renato Moretti",
       "lossCount": 0
+    },
+    "Vol": {
+      "status": "owned",
+      "description": "Permet de maîtriser les principes du vol.",
+      "updatedAt": "2026-02-12T10:58:48.061Z",
+      "discoveredBy": "Ren Chantargent",
+      "lossCount": 0
     }
   },
   "Khanat Elmérien": {
