@@ -48,6 +48,13 @@
       "updatedAt": "2026-02-03T11:53:06.064Z",
       "discoveredBy": "Leblanc Blastovitch",
       "lossCount": 0
+    },
+    "Grandes Armes": {
+      "status": "owned",
+      "description": "Permet de produire l'Épée Longue et la Hallebarde.",
+      "updatedAt": "2026-02-12T05:51:41.457Z",
+      "discoveredBy": "Jalala",
+      "lossCount": 0
     }
   },
   "Empire Brun": {
