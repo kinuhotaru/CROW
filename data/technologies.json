@@ -488,6 +488,13 @@
       "updatedAt": "2026-02-12T10:58:48.061Z",
       "discoveredBy": "Ren Chantargent",
       "lossCount": 0
+    },
+    "Intervention Armée": {
+      "status": "owned",
+      "description": "Permet d'intervenir dans les autres régions du cybermonde. Cette technologie très importante ouvre la voie à la nomination de Généraux et à l'ordre Conquête.",
+      "updatedAt": "2026-02-13T19:43:14.455Z",
+      "discoveredBy": "Shiki Chantargent",
+      "lossCount": 0
     }
   },
   "Khanat Elmérien": {
