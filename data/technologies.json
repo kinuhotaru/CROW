@@ -183,6 +183,13 @@
       "updatedAt": "2026-02-11T05:48:13.975Z",
       "discoveredBy": "Paul-Steeve Saint-Sauveur",
       "lossCount": 0
+    },
+    "Énergie Thermique": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Centrale Thermique.",
+      "updatedAt": "2026-02-13T17:00:18.692Z",
+      "discoveredBy": "Shaelys de Pont-Krivell",
+      "lossCount": 0
     }
   },
   "Confédération Libre": {
