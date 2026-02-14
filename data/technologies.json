@@ -388,6 +388,13 @@
       "updatedAt": "2026-02-13T16:00:22.134Z",
       "discoveredBy": "Mercuriale",
       "lossCount": 0
+    },
+    "Explosifs": {
+      "status": "owned",
+      "description": "Les explosifs permettent de produire de la Poudre, et donc des bombes pour les attentats.",
+      "updatedAt": "2026-02-14T03:08:23.280Z",
+      "discoveredBy": "FurFang Ravenloft",
+      "lossCount": 0
     }
   },
   "Royaume de Ruthvénie": {
