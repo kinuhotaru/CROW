@@ -395,6 +395,12 @@
       "updatedAt": "2026-02-14T03:08:23.280Z",
       "discoveredBy": "FurFang Ravenloft",
       "lossCount": 0
+    },
+    "regence": {
+      "status": "lost",
+      "updatedAt": "2026-02-14T19:05:42.338Z",
+      "discoveredBy": null,
+      "lossCount": 1
     }
   },
   "Royaume de Ruthvénie": {
