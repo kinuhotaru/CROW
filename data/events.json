@@ -100728,5 +100728,35 @@
     "text": "La pétition de désaveu contre le ministre de la guerre Caucherêve rassemble à présent 13.33% des voix.",
     "key": "2026-02-15|16:18|confederation libre|||la petition de desaveu contre le ministre de la guerre cauchereve rassemble a present 13.33% des voix.",
     "firstSeen": "2026-02-15T15:25:49.020Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "16:24",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "La pétition de désaveu contre le ministre de la guerre Caucherêve rassemble à présent 15% des voix.",
+    "key": "2026-02-15|16:24|confederation libre|||la petition de desaveu contre le ministre de la guerre cauchereve rassemble a present 15% des voix.",
+    "firstSeen": "2026-02-15T15:49:09.455Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "16:29",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Quelqu'un vient de pisser contre le mur (École Supérieure « UFR de Théologie Quantique »).",
+    "key": "2026-02-15|16:29|royaume de ruthvenie|ruthvenie|ruthvenville|quelqu'un vient de pisser contre le mur (ecole superieure \" ufr de theologie quantique \").",
+    "firstSeen": "2026-02-15T15:49:09.141Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "16:32",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "BossKane a tenu un meeting en sa faveur aux élections pour le poste de Bourgmestre de la ville Trésorville. Le meeting n'a convaincu personne : « BossKane est dans la place avoir son pote Morsay !! Voter pour le baron !!! »",
+    "key": "2026-02-15|16:32|republique de kraland|karaibes|tresorville|bosskane a tenu un meeting en sa faveur aux elections pour le poste de bourgmestre de la ville tresorville. le meeting n'a convaincu personne : \" bosskane est dans la place avoir son pote morsay !! voter pour le baron !!! \"",
+    "firstSeen": "2026-02-15T15:49:07.745Z"
   }
 ]
