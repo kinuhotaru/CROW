@@ -415,6 +415,13 @@
       "updatedAt": "2026-02-14T19:05:42.338Z",
       "discoveredBy": null,
       "lossCount": 1
+    },
+    "Médecine": {
+      "status": "owned",
+      "description": "Les bases de la médecine permettent de produire des Baumes de Soin et des Vaccins.",
+      "updatedAt": "2026-02-15T22:52:21.424Z",
+      "discoveredBy": "Bartolomus Ravenloft",
+      "lossCount": 0
     }
   },
   "Royaume de Ruthvénie": {
