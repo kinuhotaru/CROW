@@ -18422,5 +18422,19 @@
         "currency": "FK"
       }
     ]
+  },
+  "2026-02-16": {
+    "empire": [
+      {
+        "empire": "République de Kraland",
+        "province": null,
+        "city": null,
+        "income": 2867,
+        "expense": 2865,
+        "currency": "FK"
+      }
+    ],
+    "province": [],
+    "city": []
   }
 }
