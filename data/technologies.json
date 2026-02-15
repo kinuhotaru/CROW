@@ -275,6 +275,13 @@
       "updatedAt": "2026-02-11T13:42:19.745Z",
       "discoveredBy": "Pr Jean-Michel Nobyl",
       "lossCount": 0
+    },
+    "Épuration": {
+      "status": "owned",
+      "description": "Permet de construire le bâtiment Station d'Épuration.",
+      "updatedAt": "2026-02-15T04:31:10.091Z",
+      "discoveredBy": "Philippe Philoppe",
+      "lossCount": 0
     }
   },
   "Paradigme Vert": {
