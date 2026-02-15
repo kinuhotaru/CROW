@@ -101168,5 +101168,75 @@
     "text": "Felony s'est fait agresser par un groupe de créatures mené par 3 Brigands.",
     "key": "2026-02-15|19:38|royaume de ruthvenie|ruthvenie|ruthvenville|felony s'est fait agresser par un groupe de creatures mene par 3 brigands.",
     "firstSeen": "2026-02-15T18:48:37.382Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "19:52",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "ama'r a cédé la direction de l'organisation Ekip à Capitaine Suffren.",
+    "key": "2026-02-15|19:52|republique de kraland|||ama'r a cede la direction de l'organisation ekip a capitaine suffren.",
+    "firstSeen": "2026-02-15T19:25:31.241Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "19:54",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Nigral a ouvert un chantier privé dans la ville Forum en [16,10].",
+    "key": "2026-02-15|19:54|confederation libre|acropole|forum|nigral a ouvert un chantier prive dans la ville forum en [16,10].",
+    "firstSeen": "2026-02-15T19:25:31.021Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "19:55",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Nigral a ouvert un chantier public dans la ville Forum en [12,11].",
+    "key": "2026-02-15|19:55|confederation libre|acropole|forum|nigral a ouvert un chantier public dans la ville forum en [12,11].",
+    "firstSeen": "2026-02-15T19:25:30.670Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "20:10",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "La Bourgmestre Annie a adressé un discours à la population : « Je suis ravie de vous annoncer que le port est pleinement opérationnel, la liaison direct entre Sibéria est l'Ile aux Kanards est donc maintenant disponible aussi bien à l'aller qu'au retour. »",
+    "key": "2026-02-15|20:10|paradigme vert|siberia|garinaville|la bourgmestre annie a adresse un discours a la population : \" je suis ravie de vous annoncer que le port est pleinement operationnel, la liaison direct entre siberia est l'ile aux kanards est donc maintenant disponible aussi bien a l'aller qu'au retour. \"",
+    "firstSeen": "2026-02-15T19:25:30.319Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "20:11",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "Bisouville",
+    "text": "Construction d'un bâtiment Buste - Kraland dans la ville Bisouville en [7,7].",
+    "key": "2026-02-15|20:11|republique de kraland|helenie|bisouville|construction d'un batiment buste - kraland dans la ville bisouville en [7,7].",
+    "firstSeen": "2026-02-15T19:25:30.064Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "20:18",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "Le Directeur des Services Secrets Bladimir Bladimirovitch Mutin a adressé un discours à la population : « Message à caractère obligatoire Direction du Bonheur Intérieur Kяamaяades ! Dans leuя déviance, les chantяe de la Déconstяuction ont oublié une véяité fondamentale. Ils ont laissé leuя oяgueil se mettяe entяe eux et les Diяectives du petit Livяe Яouge. Depuis toujouяs les gяands penseuяs du Socialo Gяaffitisme nous ont enseigné que ce qui unit le Peuple, c'est la lute. La lute contяe un ennemi commun, intéяieuя ou extéяieuя. Il nous faut donc un ennemi. Pas n'impoяte quel ennemi. Un bouc émissaiяe ennemi public, désigné paя le Gouveяnement. Un ennemi dont tous peuvent facilement compяendяe le dangeя. Cette semaine, l'ennemi est .... hum. Excusez moi; Ha oui.Cette semaine, l'ennemi est .... Les Indépendantistes des Kaяaibes. Vous êtes invités à déveяseя votяe juste colèяe, votяe indignation et votяe dégout quand à ces sociaux tяaitяes infâmes. Vous pouvez bien entendu lanceя des appels au lynchage et au pogяom. Les seяvices secяets oяganisent une manifestations spontanée demain matin. »",
+    "key": "2026-02-15|20:18|republique de kraland|||le directeur des services secrets bladimir bladimirovitch mutin a adresse un discours a la population : \" message a caractere obligatoire direction du bonheur interieur kяamaяades ! dans leuя deviance, les chantяe de la deconstяuction ont oublie une veяite fondamentale. ils ont laisse leuя oяgueil se mettяe entяe eux et les diяectives du petit livяe яouge. depuis toujouяs les gяands penseuяs du socialo gяaffitisme nous ont enseigne que ce qui unit le peuple, c'est la lute. la lute contяe un ennemi commun, inteяieuя ou exteяieuя. il nous faut donc un ennemi. pas n'impoяte quel ennemi. un bouc emissaiяe ennemi public, designe paя le gouveяnement. un ennemi dont tous peuvent facilement compяendяe le dangeя. cette semaine, l'ennemi est .... hum. excusez moi; ha oui.cette semaine, l'ennemi est .... les independantistes des kaяaibes. vous etes invites a deveяseя votяe juste coleяe, votяe indignation et votяe degout quand a ces sociaux tяaitяes infames. vous pouvez bien entendu lanceя des appels au lynchage et au pogяom. les seяvices secяets oяganisent une manifestations spontanee demain matin. \"",
+    "firstSeen": "2026-02-15T19:25:29.690Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "20:19",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "",
+    "text": "Un groupe de créatures mené par 1 Gorille Géant attaque Jules Fégris.",
+    "key": "2026-02-15|20:19|republique de kraland|kraland||un groupe de creatures mene par 1 gorille geant attaque jules fegris.",
+    "firstSeen": "2026-02-15T19:25:28.272Z"
   }
 ]
