@@ -100918,5 +100918,55 @@
     "text": "MercurialeTargarkoin a lancé une tarte à la crème à la figure de Tormenta.",
     "key": "2026-02-15|18:06|confederation libre|acropole||mercurialetargarkoin a lance une tarte a la creme a la figure de tormenta.",
     "firstSeen": "2026-02-15T17:34:13.103Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "18:51",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Construction d'un bâtiment Buste - Khanat Elmérien dans la ville CAPS LOCK en [11,8].",
+    "key": "2026-02-15|18:51|khanat elmerien|capsulie|caps lock|construction d'un batiment buste - khanat elmerien dans la ville caps lock en [11,8].",
+    "firstSeen": "2026-02-15T17:58:32.819Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "18:45",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Henri St Misles s'est fait agresser par un groupe de créatures mené par Assesseur [Émeutier].",
+    "key": "2026-02-15|18:45|confederation libre|warriorland|blofeldopolis|henri st misles s'est fait agresser par un groupe de creatures mene par assesseur [emeutier].",
+    "firstSeen": "2026-02-15T17:58:33.725Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "18:44",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Les policiers ont été dérangés pour des broutilles, ce qui a gêné la surveillance de la ville.",
+    "key": "2026-02-15|18:44|confederation libre|acropole|forum|les policiers ont ete deranges pour des broutilles, ce qui a gene la surveillance de la ville.",
+    "firstSeen": "2026-02-15T17:58:33.864Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "18:36",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Edouard Gaine a organisé une manifestation pro-science, la recherche scientifique est plus efficace pendant 24 heures : « Empire! On remet la pédale à fond dans la recherche et maintenant la motivation vient du haut de la pyramide. À vos claviers et à fond mon Léon pour l'évolution technologique. Plus de détails viendront après l'hommage à Charlie. »",
+    "key": "2026-02-15|18:36|empire brun|niarkalistan|leprosie|edouard gaine a organise une manifestation pro-science, la recherche scientifique est plus efficace pendant 24 heures : \" empire! on remet la pedale a fond dans la recherche et maintenant la motivation vient du haut de la pyramide. a vos claviers et a fond mon leon pour l'evolution technologique. plus de details viendront apres l'hommage a charlie. \"",
+    "firstSeen": "2026-02-15T17:58:34.040Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "18:32",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "",
+    "text": "Reben Mife a entamé un combat contre 2 Squelettes.",
+    "key": "2026-02-15|18:32|empire brun|niarkalistan||reben mife a entame un combat contre 2 squelettes.",
+    "firstSeen": "2026-02-15T17:58:34.229Z"
   }
 ]
