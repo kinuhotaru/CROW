@@ -190,6 +190,13 @@
       "updatedAt": "2026-02-13T17:00:18.692Z",
       "discoveredBy": "Shaelys de Pont-Krivell",
       "lossCount": 0
+    },
+    "Médecine": {
+      "status": "owned",
+      "description": "Les bases de la médecine permettent de produire des Baumes de Soin et des Vaccins.",
+      "updatedAt": "2026-02-15T20:27:17.035Z",
+      "discoveredBy": "Logan Aska",
+      "lossCount": 0
     }
   },
   "Confédération Libre": {
