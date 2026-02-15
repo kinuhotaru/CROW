@@ -100968,5 +100968,205 @@
     "text": "Reben Mife a entamé un combat contre 2 Squelettes.",
     "key": "2026-02-15|18:32|empire brun|niarkalistan||reben mife a entame un combat contre 2 squelettes.",
     "firstSeen": "2026-02-15T17:58:34.229Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "19:38",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Felony s'est fait agresser par un groupe de créatures mené par 3 Brigands.",
+    "key": "2026-02-15|19:38|royaume de ruthvenie|ruthvenie|ruthvenville|felony s'est fait agresser par un groupe de creatures mene par 3 brigands.",
+    "firstSeen": "2026-02-15T18:48:37.382Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "19:36",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Kanard WaiCette a prononcé un discours critiquant la politique du gouvernement du Paradigme Vert [loyauté -0.5] : « Ce budget est basé sur un vote dont les habitants de l'île ont ete exclu ! C'est ridicule et scandaleux ! »",
+    "key": "2026-02-15|19:36|paradigme vert|ile aux kanards|kanardville|kanard waicette a prononce un discours critiquant la politique du gouvernement du paradigme vert [loyaute -0.5] : \" ce budget est base sur un vote dont les habitants de l'ile ont ete exclu ! c'est ridicule et scandaleux ! \"",
+    "firstSeen": "2026-02-15T18:48:38.909Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "19:34",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Kanard WaiCette a prononcé un discours critiquant la politique du gouvernement du Paradigme Vert [loyauté -0.1] : « L'île aux Kanard a besoin de ses revenus pour developper ses propres infrastructures ! Son isolement nécessite notamment un gros port. Cessez ce harcelement koinkoinophobe! »",
+    "key": "2026-02-15|19:34|paradigme vert|ile aux kanards|kanardville|kanard waicette a prononce un discours critiquant la politique du gouvernement du paradigme vert [loyaute -0.1] : \" l'ile aux kanard a besoin de ses revenus pour developper ses propres infrastructures ! son isolement necessite notamment un gros port. cessez ce harcelement koinkoinophobe! \"",
+    "firstSeen": "2026-02-15T18:48:39.176Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "19:32",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "Silas des Sables a brûlé par erreur des notes scientifiques importantes. La recherche est perturbée (-3 à la technologie n°90).",
+    "key": "2026-02-15|19:32|empire brun|||silas des sables a brule par erreur des notes scientifiques importantes. la recherche est perturbee (-3 a la technologie n°90).",
+    "firstSeen": "2026-02-15T18:48:39.382Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "19:19",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Flintheart Glomgold a prononcé un discours critiquant la politique du gouvernement du Paradigme Vert [loyauté -0.1] : « Dingue ça, tout le monde trouve mes discours ridicules, je vais finir aléocrate à ce rythme... bon alors un joli poster aussi nul que le gouvernement et montrant notre état d'esprit ? »",
+    "key": "2026-02-15|19:19|paradigme vert|ile aux kanards|kanardville|flintheart glomgold a prononce un discours critiquant la politique du gouvernement du paradigme vert [loyaute -0.1] : \" dingue ca, tout le monde trouve mes discours ridicules, je vais finir aleocrate a ce rythme... bon alors un joli poster aussi nul que le gouvernement et montrant notre etat d'esprit ? \"",
+    "firstSeen": "2026-02-15T18:48:39.625Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "19:16",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Flintheart Glomgold a bafouillé un discours ridicule au sujet du gouvernement du Paradigme Vert : « Hummm... désolé, j'avais pas fini la dernière fois... je reprends... Alors qu'est ce qu'il y a encore sur ce bout de papier... pfff... on aurait pu imprimer plus gros... à mon âge... Je ne suis qu’un canard, mais je sais compter : lorsqu’on confie la santé, l’éducation, la sécurité de tout un peuple au simple hasard, on finit toujours par sacrifier les plus fragiles. Nos canetons méritent mieux qu’un avenir distribué comme un billet de loterie. Ils méritent des institutions stables, des responsables qui rendent des comptes, des débats où les idées l’emportent sur la roulette de l’aléatoire. Alors, mes amis, cessons de faire semblant de nager dans le bon sens quand le courant nous entraîne vers la cascade. Refusons la paresse morale de l’aléocratie. Exigeons un gouvernement qui assume ses décisions, qui peut être jugé, critiqué, remplacé. Le hasard doit rester un jeu, pas notre Constitution. Il est temps de reprendre notre destin entre nos ailes et de prouver qu’un peuple de canards peut voler plus haut qu’un simple tirage au sort. Et vous, servez-vous encore du hasard pour gouverner, ou seulement pour décider qui fera le premier pas vers le changement ? »",
+    "key": "2026-02-15|19:16|paradigme vert|ile aux kanards|kanardville|flintheart glomgold a bafouille un discours ridicule au sujet du gouvernement du paradigme vert : \" hummm... desole, j'avais pas fini la derniere fois... je reprends... alors qu'est ce qu'il y a encore sur ce bout de papier... pfff... on aurait pu imprimer plus gros... a mon age... je ne suis qu'un canard, mais je sais compter : lorsqu'on confie la sante, l'education, la securite de tout un peuple au simple hasard, on finit toujours par sacrifier les plus fragiles. nos canetons meritent mieux qu'un avenir distribue comme un billet de loterie. ils meritent des institutions stables, des responsables qui rendent des comptes, des debats ou les idees l'emportent sur la roulette de l'aleatoire. alors, mes amis, cessons de faire semblant de nager dans le bon sens quand le courant nous entraine vers la cascade. refusons la paresse morale de l'aleocratie. exigeons un gouvernement qui assume ses decisions, qui peut etre juge, critique, remplace. le hasard doit rester un jeu, pas notre constitution. il est temps de reprendre notre destin entre nos ailes et de prouver qu'un peuple de canards peut voler plus haut qu'un simple tirage au sort. et vous, servez-vous encore du hasard pour gouverner, ou seulement pour decider qui fera le premier pas vers le changement ? \"",
+    "firstSeen": "2026-02-15T18:48:39.879Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "19:14",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Construction d'un bâtiment Centrale Thermique dans la ville Léprosie en [18,4].",
+    "key": "2026-02-15|19:14|empire brun|niarkalistan|leprosie|construction d'un batiment centrale thermique dans la ville leprosie en [18,4].",
+    "firstSeen": "2026-02-15T18:48:40.098Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "19:14",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie YamanoSeraven a adressé un discours à la population : « Mes chers guerriers. Il semblerait qu'à GDL ce soit la fête aujourd'hui. Baston en tout genre et malheureusement au milieu de ces festivités il semblerait qu'un théocratien dénommé Minskirouille se soit invité à la fête pour aller vérifier les caisses de mon ministère. Pas de chance pour lui je ne sais pas qui il est mais par chez moi on m'a toujours appris à frapper d'abord et discuter ensuite alors mes amis si vous croisez ce bisho dans nos rues n'hésitez pas à lui montrer les spécialités locales. J'offre une corde à celui qui veut lui apprendre à faire du jet ski »",
+    "key": "2026-02-15|19:14|khanat elmerien|||le ministre de l'economie yamanoseraven a adresse un discours a la population : \" mes chers guerriers. il semblerait qu'a gdl ce soit la fete aujourd'hui. baston en tout genre et malheureusement au milieu de ces festivites il semblerait qu'un theocratien denomme minskirouille se soit invite a la fete pour aller verifier les caisses de mon ministere. pas de chance pour lui je ne sais pas qui il est mais par chez moi on m'a toujours appris a frapper d'abord et discuter ensuite alors mes amis si vous croisez ce bisho dans nos rues n'hesitez pas a lui montrer les specialites locales. j'offre une corde a celui qui veut lui apprendre a faire du jet ski \"",
+    "firstSeen": "2026-02-15T18:48:40.365Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "19:13",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "La pétition de désaveu contre le ministre de la guerre Caucherêve rassemble à présent 16.66% des voix.",
+    "key": "2026-02-15|19:13|confederation libre|||la petition de desaveu contre le ministre de la guerre cauchereve rassemble a present 16.66% des voix.",
+    "firstSeen": "2026-02-15T18:48:40.591Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "19:08",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Jalala a effectué un sondage concernant les élections pour le poste de Président de la Confédération Libre: Caucherêve 11 voix (55 %) Tendi Neet 9 voix (45 %)",
+    "key": "2026-02-15|19:08|confederation libre|||jalala a effectue un sondage concernant les elections pour le poste de president de la confederation libre: cauchereve 11 voix (55 %) tendi neet 9 voix (45 %)",
+    "firstSeen": "2026-02-15T18:48:40.791Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "19:08",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie YamanoSeraven a versé 1000 ÐE au Ministère de la Justice.",
+    "key": "2026-02-15|19:08|khanat elmerien|||le ministre de l'economie yamanoseraven a verse 1000 ðe au ministere de la justice.",
+    "firstSeen": "2026-02-15T18:48:40.992Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "19:08",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie YamanoSeraven a versé 1500 ÐE au Ministère des Services Secrets.",
+    "key": "2026-02-15|19:08|khanat elmerien|||le ministre de l'economie yamanoseraven a verse 1500 ðe au ministere des services secrets.",
+    "firstSeen": "2026-02-15T18:48:41.193Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "19:07",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Une femme étrange a prononcé un discours critiquant la politique du gouvernement du Khanat Elmérien [loyauté -0.6] : « En Aléocratie, on est plein de meufs hots qui ne savent jamais ce qu'elles veulent... Imaginez le supplice si vous êtes, par exemple, une elmérienne hot sur une moto ! \"Cette aléocrate veut-elle faire une ballade ? Veut-elle pas ? Pourquoi sent-elle le parfum de mon cou et touche-t-elle mon épaule ?\" C'est vraiment terrible. »",
+    "key": "2026-02-15|19:07|khanat elmerien|capsulie|caps lock|une femme etrange a prononce un discours critiquant la politique du gouvernement du khanat elmerien [loyaute -0.6] : \" en aleocratie, on est plein de meufs hots qui ne savent jamais ce qu'elles veulent... imaginez le supplice si vous etes, par exemple, une elmerienne hot sur une moto ! \"cette aleocrate veut-elle faire une ballade ? veut-elle pas ? pourquoi sent-elle le parfum de mon cou et touche-t-elle mon epaule ?\" c'est vraiment terrible. \"",
+    "firstSeen": "2026-02-15T18:48:41.396Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "19:07",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Une femme étrange a prononcé un discours critiquant la politique du gouvernement du Khanat Elmérien [loyauté -0.6] : « Votre avancée scientifique est toute relative, mais ce n'est pas là l'essentiel : Vous savez ce que vous voulez ! Et même si on est pas toujours sûr du bien-fondé de ce que vous voulez... Ni de bien comprendre ce que vous voulez... Vous, vous savez ! »",
+    "key": "2026-02-15|19:07|khanat elmerien|capsulie|caps lock|une femme etrange a prononce un discours critiquant la politique du gouvernement du khanat elmerien [loyaute -0.6] : \" votre avancee scientifique est toute relative, mais ce n'est pas la l'essentiel : vous savez ce que vous voulez ! et meme si on est pas toujours sur du bien-fonde de ce que vous voulez... ni de bien comprendre ce que vous voulez... vous, vous savez ! \"",
+    "firstSeen": "2026-02-15T18:48:41.593Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "19:06",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Une femme étrange a prononcé un discours critiquant la politique du gouvernement du Khanat Elmérien [loyauté -0.8] : « Amis (presque-alliés) Elmériens ! Ça me fait trop plaisir de visiter la Capsulie de temps à autres sur mon poney arc-en-ciel et de voir vos douces prairies et vos montagnes et vos pâturages ! Quel fier peuple vous êtes ! »",
+    "key": "2026-02-15|19:06|khanat elmerien|capsulie|caps lock|une femme etrange a prononce un discours critiquant la politique du gouvernement du khanat elmerien [loyaute -0.8] : \" amis (presque-allies) elmeriens ! ca me fait trop plaisir de visiter la capsulie de temps a autres sur mon poney arc-en-ciel et de voir vos douces prairies et vos montagnes et vos paturages ! quel fier peuple vous etes ! \"",
+    "firstSeen": "2026-02-15T18:48:41.805Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "18:59",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Économie Jadina a modifié le taux d'imposition des revenus de la province Irendol (de 30% à 32%) : « cf discours précédent »",
+    "key": "2026-02-15|18:59|paradigme vert|||la ministre de l'economie jadina a modifie le taux d'imposition des revenus de la province irendol (de 30% a 32%) : \" cf discours precedent \"",
+    "firstSeen": "2026-02-15T18:48:42.004Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "18:59",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Économie Jadina a modifié le taux d'imposition des revenus de la province Île aux Kanards (de 30% à 32%) : « cf discours précédent »",
+    "key": "2026-02-15|18:59|paradigme vert|||la ministre de l'economie jadina a modifie le taux d'imposition des revenus de la province ile aux kanards (de 30% a 32%) : \" cf discours precedent \"",
+    "firstSeen": "2026-02-15T18:48:42.196Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "18:59",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Économie Jadina a modifié le taux d'imposition des revenus de la province Forêt de Jade (de 30% à 24%) : « cf discours précédent »",
+    "key": "2026-02-15|18:59|paradigme vert|||la ministre de l'economie jadina a modifie le taux d'imposition des revenus de la province foret de jade (de 30% a 24%) : \" cf discours precedent \"",
+    "firstSeen": "2026-02-15T18:48:42.394Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "18:59",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Ernst Blofeld VI a effectué un sondage concernant les élections pour le poste de Président de la Confédération Libre: Tendi Neet 48 voix (50.5 %) Caucherêve 47 voix (49.5 %)",
+    "key": "2026-02-15|18:59|confederation libre|||ernst blofeld vi a effectue un sondage concernant les elections pour le poste de president de la confederation libre: tendi neet 48 voix (50.5 %) cauchereve 47 voix (49.5 %)",
+    "firstSeen": "2026-02-15T18:48:42.588Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "18:58",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Économie Jadina a adressé un discours à la population : « Mise en application du PLF Peuple Paradigmien, Pas de long discours cette fois, j'annonce juste la mise en application du PLF débattu ici avec : Un rappel des critères retenus Population : - 1% d'impots / tranche de 10 habitants Pollution : - 2 % d'impôts pour une Pollution à 0, + 1 % pour chaque point au-delà Singularisme Provincial : - 5 % d'impôts pour les provinces \"spéciales\" Désobéissance civile : - +5 % d'impôts pour chaque ville/province qui met son taux à 0% Extraction de matière nocive : - 1 % d'impôt par point d'imposition sur extraction de pétrole. Repercussion sur les Provinces Sibéria : 30 - 1 (pop) + 2 (pollution) - 0 (singularisme) + 0 (désobéissance) - 1 (pétrole) = 30 Irendol : 30 - 1 (pop) + 0 (pollution) - 0 (singularisme) + 5 (bamboutopia) - 2 (pétrole) = 32 Foret de Jade : 30 - 3 (pop) - 1 (pollution) - 0 (singularisme) + 0 (désobéissance) - 2 (pétrole) = 24 IaK : 30 - 1 (pop) - 0 (pollution) - 0 (singularisme) + 5 (Kanardville) - 2 (pétrole) = 32 Voici donc la nouvelle répartition des impôts, par province, en fonction des critères retenus. Si un gouverneur prend rapidement des mesures qui auraient une répercussion sur ce taux, qu'il me le dise et j'ajusterai. J'essayerai de mettre à jour les taux le plus régulièrement possible afin de coller à la réalité du terrain. Je conclurai en précisant que si certains veulent ajouter/retirer/modifier des critères, il n'ont qu'à venir m'en parler en privé, et je lancerai une consultation Rien n'est figé, selon moi, mais Il nous fallait un BUDGET ! »",
+    "key": "2026-02-15|18:58|paradigme vert|||la ministre de l'economie jadina a adresse un discours a la population : \" mise en application du plf peuple paradigmien, pas de long discours cette fois, j'annonce juste la mise en application du plf debattu ici avec : un rappel des criteres retenus population : - 1% d'impots / tranche de 10 habitants pollution : - 2 % d'impots pour une pollution a 0, + 1 % pour chaque point au-dela singularisme provincial : - 5 % d'impots pour les provinces \"speciales\" desobeissance civile : - +5 % d'impots pour chaque ville/province qui met son taux a 0% extraction de matiere nocive : - 1 % d'impot par point d'imposition sur extraction de petrole. repercussion sur les provinces siberia : 30 - 1 (pop) + 2 (pollution) - 0 (singularisme) + 0 (desobeissance) - 1 (petrole) = 30 irendol : 30 - 1 (pop) + 0 (pollution) - 0 (singularisme) + 5 (bamboutopia) - 2 (petrole) = 32 foret de jade : 30 - 3 (pop) - 1 (pollution) - 0 (singularisme) + 0 (desobeissance) - 2 (petrole) = 24 iak : 30 - 1 (pop) - 0 (pollution) - 0 (singularisme) + 5 (kanardville) - 2 (petrole) = 32 voici donc la nouvelle repartition des impots, par province, en fonction des criteres retenus. si un gouverneur prend rapidement des mesures qui auraient une repercussion sur ce taux, qu'il me le dise et j'ajusterai. j'essayerai de mettre a jour les taux le plus regulierement possible afin de coller a la realite du terrain. je conclurai en precisant que si certains veulent ajouter/retirer/modifier des criteres, il n'ont qu'a venir m'en parler en prive, et je lancerai une consultation rien n'est fige, selon moi, mais il nous fallait un budget ! \"",
+    "firstSeen": "2026-02-15T18:48:42.787Z"
   }
 ]
