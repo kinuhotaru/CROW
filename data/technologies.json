@@ -566,6 +566,13 @@
       "updatedAt": "2026-02-10T00:00:57.414Z",
       "discoveredBy": "Nerdos Valkyry",
       "lossCount": 0
+    },
+    "Antibiotiques": {
+      "status": "owned",
+      "description": "Permet de faire des progrès importants dans la médecine. Des médicaments contre les maladies sévissant dans le cybermonde peuvent être produits.",
+      "updatedAt": "2026-02-16T14:12:08.027Z",
+      "discoveredBy": "RenX",
+      "lossCount": 0
     }
   }
 }
