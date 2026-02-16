@@ -106788,5 +106788,65 @@
     "text": "Jack Jr est sorti du bâtiment Quincaillerie. Il est à présent recherché par la police du Khanat Elmérien pour cette infraction politique.",
     "key": "2026-02-16|22:10|khanat elmerien|bananie|distillerie|jack jr est sorti du batiment quincaillerie. il est a present recherche par la police du khanat elmerien pour cette infraction politique.",
     "firstSeen": "2026-02-16T21:45:25.966Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "23:39",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Estelle Pravi a ouvert un chantier public dans la ville Structural en [18,11].",
+    "key": "2026-02-16|23:39|confederation libre|milieu|structural|estelle pravi a ouvert un chantier public dans la ville structural en [18,11].",
+    "firstSeen": "2026-02-16T22:49:32.107Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "23:24",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Économie Ranxerox a versé 6000 FK au Ministère de la Recherche.",
+    "key": "2026-02-16|23:24|republique de kraland|||le ministre de l'economie ranxerox a verse 6000 fk au ministere de la recherche.",
+    "firstSeen": "2026-02-16T22:49:33.522Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "23:12",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Intérieur Jean-Messie de la Nation a pris la décision d'appliquer une taxe de 50 ¢¢ à l'immigration : « L'immigration se durcie ! Les candidates devront passer un test d'aptitude au vol et à la nage. En cas de réussite, nous les redirigerons vers les services secrets. Sauf si ils viennent du sud est. Ceux là c'est les bons et ils sont bienvenus. En plus ils m'ont invités à passer les voir. »",
+    "key": "2026-02-16|23:12|confederation libre|||le ministre de l'interieur jean-messie de la nation a pris la decision d'appliquer une taxe de 50 ¢¢ a l'immigration : \" l'immigration se durcie ! les candidates devront passer un test d'aptitude au vol et a la nage. en cas de reussite, nous les redirigerons vers les services secrets. sauf si ils viennent du sud est. ceux la c'est les bons et ils sont bienvenus. en plus ils m'ont invites a passer les voir. \"",
+    "firstSeen": "2026-02-16T22:49:33.744Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "23:12",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "NeophyteChaos s'est fait agresser par un groupe de créatures mené par 3 Brigands.",
+    "key": "2026-02-16|23:12|royaume de ruthvenie|crab key|port magmor|neophytechaos s'est fait agresser par un groupe de creatures mene par 3 brigands.",
+    "firstSeen": "2026-02-16T22:49:33.904Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "23:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Palakoin a ouvert un chantier privé dans la ville Port Magmor en [18,3].",
+    "key": "2026-02-16|23:01|royaume de ruthvenie|crab key|port magmor|palakoin a ouvert un chantier prive dans la ville port magmor en [18,3].",
+    "firstSeen": "2026-02-16T22:49:34.159Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "22:48",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Kanard WaiCette a prononcé un discours louant le Bourgmestre Popop Duck [PP +5] : « Merci Popop pour l'ambiance festive de la soirée spécialement pour notre invité Annie de Ruthvenie (bon, elle a beaucoup tourné) La Kanardium Offshore Corporation compte sur toi quand tu auras fini de fêter ta victoire pour faire quelques heures de travail sans renverser ton jus de limaces partout sur les formulaires »",
+    "key": "2026-02-16|22:48|paradigme vert|ile aux kanards|kanardville|kanard waicette a prononce un discours louant le bourgmestre popop duck [pp +5] : \" merci popop pour l'ambiance festive de la soiree specialement pour notre invite annie de ruthvenie (bon, elle a beaucoup tourne) la kanardium offshore corporation compte sur toi quand tu auras fini de feter ta victoire pour faire quelques heures de travail sans renverser ton jus de limaces partout sur les formulaires \"",
+    "firstSeen": "2026-02-16T22:49:34.333Z"
   }
 ]
