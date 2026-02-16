@@ -580,6 +580,13 @@
       "updatedAt": "2026-02-16T14:12:08.027Z",
       "discoveredBy": "RenX",
       "lossCount": 0
+    },
+    "Armes à Feu": {
+      "status": "owned",
+      "description": "Permet de produire le Revolver et le Fusil.",
+      "updatedAt": "2026-02-16T21:02:38.276Z",
+      "discoveredBy": "Aurelthar",
+      "lossCount": 0
     }
   }
 }
