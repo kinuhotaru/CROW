@@ -197,6 +197,13 @@
       "updatedAt": "2026-02-15T20:27:17.035Z",
       "discoveredBy": "Logan Aska",
       "lossCount": 0
+    },
+    "Potions Majeures": {
+      "status": "owned",
+      "description": "Permet de produire des potions magiques de tout niveau dans le bâtiment Alchimie (potion de rapidité, potion amnésique...).",
+      "updatedAt": "2026-02-16T19:10:12.948Z",
+      "discoveredBy": "Floran Baumé",
+      "lossCount": 0
     }
   },
   "Confédération Libre": {
