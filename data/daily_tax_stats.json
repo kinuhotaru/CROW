@@ -18432,9 +18432,499 @@
         "income": 2867,
         "expense": 2865,
         "currency": "FK"
+      },
+      {
+        "empire": "Royaume de Ruthvénie",
+        "province": null,
+        "city": null,
+        "income": 3272,
+        "expense": 3272,
+        "currency": "Co"
+      },
+      {
+        "empire": "Confédération Libre",
+        "province": null,
+        "city": null,
+        "income": 2475,
+        "expense": 2475,
+        "currency": "¢¢"
+      },
+      {
+        "empire": "Khanat Elmérien",
+        "province": null,
+        "city": null,
+        "income": 2093,
+        "expense": 2093,
+        "currency": "ÐE"
+      },
+      {
+        "empire": "Paradigme Vert",
+        "province": null,
+        "city": null,
+        "income": 3094,
+        "expense": 3094,
+        "currency": "Éf"
+      },
+      {
+        "empire": "Empire Brun",
+        "province": null,
+        "city": null,
+        "income": 2952,
+        "expense": 2951,
+        "currency": "MØ"
       }
     ],
-    "province": [],
-    "city": []
+    "province": [
+      {
+        "empire": "Provinces indépendantes",
+        "province": "Australine",
+        "city": null,
+        "income": 40,
+        "expense": 0,
+        "currency": "PO"
+      },
+      {
+        "empire": "Royaume de Ruthvénie",
+        "province": "Crab Key",
+        "city": null,
+        "income": 448,
+        "expense": 175,
+        "currency": "Co"
+      },
+      {
+        "empire": "Royaume de Ruthvénie",
+        "province": "Géofront",
+        "city": null,
+        "income": 823,
+        "expense": 200,
+        "currency": "Co"
+      },
+      {
+        "empire": "Royaume de Ruthvénie",
+        "province": "Valégro",
+        "city": null,
+        "income": 740,
+        "expense": 0,
+        "currency": "Co"
+      },
+      {
+        "empire": "Royaume de Ruthvénie",
+        "province": "Ruthvénie",
+        "city": null,
+        "income": 591,
+        "expense": 50,
+        "currency": "Co"
+      },
+      {
+        "empire": "Confédération Libre",
+        "province": "Warriorland",
+        "city": null,
+        "income": 178,
+        "expense": 50,
+        "currency": "¢¢"
+      },
+      {
+        "empire": "Confédération Libre",
+        "province": "Plaine Irradiée",
+        "city": null,
+        "income": 715,
+        "expense": 0,
+        "currency": "¢¢"
+      },
+      {
+        "empire": "Confédération Libre",
+        "province": "Acropole",
+        "city": null,
+        "income": 1011,
+        "expense": 225,
+        "currency": "¢¢"
+      },
+      {
+        "empire": "Confédération Libre",
+        "province": "Milieu",
+        "city": null,
+        "income": 1048,
+        "expense": 500,
+        "currency": "¢¢"
+      },
+      {
+        "empire": "Khanat Elmérien",
+        "province": "Bananie",
+        "city": null,
+        "income": 1073,
+        "expense": 0,
+        "currency": "ÐE"
+      },
+      {
+        "empire": "Khanat Elmérien",
+        "province": "Bouletie",
+        "city": null,
+        "income": 284,
+        "expense": 50,
+        "currency": "ÐE"
+      },
+      {
+        "empire": "Khanat Elmérien",
+        "province": "Elmérie",
+        "city": null,
+        "income": 833,
+        "expense": 50,
+        "currency": "ÐE"
+      },
+      {
+        "empire": "Khanat Elmérien",
+        "province": "Capsulie",
+        "city": null,
+        "income": 201,
+        "expense": 0,
+        "currency": "ÐE"
+      },
+      {
+        "empire": "Paradigme Vert",
+        "province": "Île aux Kanards",
+        "city": null,
+        "income": 307,
+        "expense": 45,
+        "currency": "Éf"
+      },
+      {
+        "empire": "Paradigme Vert",
+        "province": "Forêt de Jade",
+        "city": null,
+        "income": 974,
+        "expense": 0,
+        "currency": "Éf"
+      },
+      {
+        "empire": "Paradigme Vert",
+        "province": "Irendol",
+        "city": null,
+        "income": 507,
+        "expense": 0,
+        "currency": "Éf"
+      },
+      {
+        "empire": "Paradigme Vert",
+        "province": "Sibéria",
+        "city": null,
+        "income": 832,
+        "expense": 0,
+        "currency": "Éf"
+      },
+      {
+        "empire": "Empire Brun",
+        "province": "Niarkalistan",
+        "city": null,
+        "income": 1380,
+        "expense": 0,
+        "currency": "MØ"
+      },
+      {
+        "empire": "Empire Brun",
+        "province": "Mystisie",
+        "city": null,
+        "income": 267,
+        "expense": 0,
+        "currency": "MØ"
+      },
+      {
+        "empire": "Empire Brun",
+        "province": "Santa Banana",
+        "city": null,
+        "income": 353,
+        "expense": 0,
+        "currency": "MØ"
+      },
+      {
+        "empire": "Empire Brun",
+        "province": "Sicilia",
+        "city": null,
+        "income": 1906,
+        "expense": 0,
+        "currency": "MØ"
+      },
+      {
+        "empire": "République de Kraland",
+        "province": "Slavonie",
+        "city": null,
+        "income": 405,
+        "expense": 0,
+        "currency": "FK"
+      },
+      {
+        "empire": "République de Kraland",
+        "province": "Karaïbes",
+        "city": null,
+        "income": 411,
+        "expense": 0,
+        "currency": "FK"
+      },
+      {
+        "empire": "République de Kraland",
+        "province": "Hélénie",
+        "city": null,
+        "income": 143,
+        "expense": 0,
+        "currency": "FK"
+      },
+      {
+        "empire": "République de Kraland",
+        "province": "Kraland",
+        "city": null,
+        "income": 442,
+        "expense": 50,
+        "currency": "FK"
+      }
+    ],
+    "city": [
+      {
+        "empire": "Provinces indépendantes",
+        "province": "Australine",
+        "city": "Camp des Bagnards",
+        "income": 40,
+        "expense": 0,
+        "currency": "PO"
+      },
+      {
+        "empire": "Royaume de Ruthvénie",
+        "province": "Crab Key",
+        "city": "Port Magmor",
+        "income": 448,
+        "expense": 200,
+        "currency": "Co"
+      },
+      {
+        "empire": "Royaume de Ruthvénie",
+        "province": "Géofront",
+        "city": "Sanctuaire",
+        "income": 823,
+        "expense": 0,
+        "currency": "Co"
+      },
+      {
+        "empire": "Royaume de Ruthvénie",
+        "province": "Valégro",
+        "city": "Fort Emouchet",
+        "income": 740,
+        "expense": 0,
+        "currency": "Co"
+      },
+      {
+        "empire": "Royaume de Ruthvénie",
+        "province": "Ruthvénie",
+        "city": "Lantenac-du-Lac",
+        "income": 204,
+        "expense": 0,
+        "currency": "Co"
+      },
+      {
+        "empire": "Royaume de Ruthvénie",
+        "province": "Ruthvénie",
+        "city": "Ruthvenville",
+        "income": 387,
+        "expense": 150,
+        "currency": "Co"
+      },
+      {
+        "empire": "Confédération Libre",
+        "province": "Warriorland",
+        "city": "Blofeldopolis",
+        "income": 178,
+        "expense": 0,
+        "currency": "¢¢"
+      },
+      {
+        "empire": "Confédération Libre",
+        "province": "Plaine Irradiée",
+        "city": "Atome",
+        "income": 715,
+        "expense": 0,
+        "currency": "¢¢"
+      },
+      {
+        "empire": "Confédération Libre",
+        "province": "Acropole",
+        "city": "Tribunal Cybermondial",
+        "income": 224,
+        "expense": 0,
+        "currency": "¢¢"
+      },
+      {
+        "empire": "Confédération Libre",
+        "province": "Acropole",
+        "city": "Forum",
+        "income": 787,
+        "expense": 0,
+        "currency": "¢¢"
+      },
+      {
+        "empire": "Confédération Libre",
+        "province": "Milieu",
+        "city": "Structural",
+        "income": 1048,
+        "expense": 100,
+        "currency": "¢¢"
+      },
+      {
+        "empire": "Khanat Elmérien",
+        "province": "Bananie",
+        "city": "Distillerie",
+        "income": 1073,
+        "expense": 100,
+        "currency": "ÐE"
+      },
+      {
+        "empire": "Khanat Elmérien",
+        "province": "Bouletie",
+        "city": "Youpigrad",
+        "income": 284,
+        "expense": 0,
+        "currency": "ÐE"
+      },
+      {
+        "empire": "Khanat Elmérien",
+        "province": "Elmérie",
+        "city": "Igloo",
+        "income": 171,
+        "expense": 0,
+        "currency": "ÐE"
+      },
+      {
+        "empire": "Khanat Elmérien",
+        "province": "Elmérie",
+        "city": "Gueule du Lézard",
+        "income": 662,
+        "expense": 100,
+        "currency": "ÐE"
+      },
+      {
+        "empire": "Khanat Elmérien",
+        "province": "Capsulie",
+        "city": "CAPS LOCK",
+        "income": 201,
+        "expense": 0,
+        "currency": "ÐE"
+      },
+      {
+        "empire": "Paradigme Vert",
+        "province": "Île aux Kanards",
+        "city": "Kanardville",
+        "income": 307,
+        "expense": 45,
+        "currency": "Éf"
+      },
+      {
+        "empire": "Paradigme Vert",
+        "province": "Forêt de Jade",
+        "city": "Accalmie",
+        "income": 974,
+        "expense": 405,
+        "currency": "Éf"
+      },
+      {
+        "empire": "Paradigme Vert",
+        "province": "Irendol",
+        "city": "Bamboutopia",
+        "income": 81,
+        "expense": 0,
+        "currency": "Éf"
+      },
+      {
+        "empire": "Paradigme Vert",
+        "province": "Irendol",
+        "city": "Grand Jardin",
+        "income": 426,
+        "expense": 0,
+        "currency": "Éf"
+      },
+      {
+        "empire": "Paradigme Vert",
+        "province": "Sibéria",
+        "city": "Garinaville",
+        "income": 832,
+        "expense": 0,
+        "currency": "Éf"
+      },
+      {
+        "empire": "Empire Brun",
+        "province": "Niarkalistan",
+        "city": "Léprosie",
+        "income": 1380,
+        "expense": 100,
+        "currency": "MØ"
+      },
+      {
+        "empire": "Empire Brun",
+        "province": "Mystisie",
+        "city": "Lampe du Génie",
+        "income": 267,
+        "expense": 75,
+        "currency": "MØ"
+      },
+      {
+        "empire": "Empire Brun",
+        "province": "Santa Banana",
+        "city": "Bagdad",
+        "income": 151,
+        "expense": 0,
+        "currency": "MØ"
+      },
+      {
+        "empire": "Empire Brun",
+        "province": "Santa Banana",
+        "city": "Santa Banana City",
+        "income": 202,
+        "expense": 0,
+        "currency": "MØ"
+      },
+      {
+        "empire": "Empire Brun",
+        "province": "Sicilia",
+        "city": "Trou Perdu",
+        "income": 1906,
+        "expense": 0,
+        "currency": "MØ"
+      },
+      {
+        "empire": "République de Kraland",
+        "province": "Slavonie",
+        "city": "Gynerak",
+        "income": 405,
+        "expense": 0,
+        "currency": "FK"
+      },
+      {
+        "empire": "République de Kraland",
+        "province": "Karaïbes",
+        "city": "Trésorville",
+        "income": 411,
+        "expense": 0,
+        "currency": "FK"
+      },
+      {
+        "empire": "République de Kraland",
+        "province": "Hélénie",
+        "city": "Bisouville",
+        "income": 143,
+        "expense": 0,
+        "currency": "FK"
+      },
+      {
+        "empire": "République de Kraland",
+        "province": "Kraland",
+        "city": "Honolulu-par-Delà",
+        "income": 56,
+        "expense": 0,
+        "currency": "FK"
+      },
+      {
+        "empire": "République de Kraland",
+        "province": "Kraland",
+        "city": "Quartier Suprême",
+        "income": 386,
+        "expense": 0,
+        "currency": "FK"
+      }
+    ]
   }
 }

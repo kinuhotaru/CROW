@@ -102470,6 +102470,76 @@
     "firstSeen": "2026-02-15T22:52:19.144Z"
   },
   {
+    "date": "2026-02-15",
+    "time": "23:52",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "Ren Chantargent a effectué un sondage concernant les élections pour le poste de Comte de la ville Sanctuaire: Hanako Ainozomi 3 voix (100 %)",
+    "key": "2026-02-15|23:52|royaume de ruthvenie|geofront|sanctuaire|ren chantargent a effectue un sondage concernant les elections pour le poste de comte de la ville sanctuaire: hanako ainozomi 3 voix (100 %)",
+    "firstSeen": "2026-02-16T04:35:26.146Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "23:53",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Felicity Stone a prononcé un discours en faveur du gouvernement du Royaume de Ruthvénie [loyauté +0.8].",
+    "key": "2026-02-15|23:53|royaume de ruthvenie|ruthvenie|ruthvenville|felicity stone a prononce un discours en faveur du gouvernement du royaume de ruthvenie [loyaute +0.8].",
+    "firstSeen": "2026-02-16T04:35:25.602Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "23:53",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Felicity Stone a bafouillé un discours ridicule au sujet du gouvernement du Royaume de Ruthvénie.",
+    "key": "2026-02-15|23:53|royaume de ruthvenie|ruthvenie|ruthvenville|felicity stone a bafouille un discours ridicule au sujet du gouvernement du royaume de ruthvenie.",
+    "firstSeen": "2026-02-16T04:35:25.750Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "23:53",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "",
+    "text": "Ren Chantargent a effectué un sondage concernant les élections pour le poste de Duc de la province Géofront: Golgoth le Vagabond 18 voix (51.4 %) DameDémerzel 17 voix (48.6 %)",
+    "key": "2026-02-15|23:53|royaume de ruthvenie|geofront||ren chantargent a effectue un sondage concernant les elections pour le poste de duc de la province geofront: golgoth le vagabond 18 voix (51.4 %) damedemerzel 17 voix (48.6 %)",
+    "firstSeen": "2026-02-16T04:35:25.881Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "23:53",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Information (f.f.) Felicity Stone a diffusé une émission de propagande en faveur du gouvernement [loyauté +1.2] : « Le Royaume s'en sort toujours bien par rapport aux autres Nations, que se soit Économiquement, Militairement, Scientifiquement ou Idéologiquement. D'ailleurs, on est fortement en avance sur toutes les autres sur ce denier point... et devinez quoi ? On l'est à l'instant un peu plus encore ! »",
+    "key": "2026-02-15|23:53|royaume de ruthvenie|||la ministre de l'information (f.f.) felicity stone a diffuse une emission de propagande en faveur du gouvernement [loyaute +1.2] : \" le royaume s'en sort toujours bien par rapport aux autres nations, que se soit economiquement, militairement, scientifiquement ou ideologiquement. d'ailleurs, on est fortement en avance sur toutes les autres sur ce denier point... et devinez quoi ? on l'est a l'instant un peu plus encore ! \"",
+    "firstSeen": "2026-02-16T04:35:26.013Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "23:59",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "La Ministre de l'Intérieur Felicity Stone a soutenu DameDémerzel du Royaume de Ruthvénie au poste de Gouverneur de la province Géofront.",
+    "key": "2026-02-15|23:59|royaume de ruthvenie|||la ministre de l'interieur felicity stone a soutenu damedemerzel du royaume de ruthvenie au poste de gouverneur de la province geofront.",
+    "firstSeen": "2026-02-16T04:35:25.331Z"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "23:59",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "",
+    "text": "L'Intendante Odessa Stone a versé une prime de 100 ÐE à Kubilai : « PRIX DU VAINQUEUR ! C'était une bien belle fête des voisins ce week-end ouais. Même que personne s'est dévoué pour compter les points, pas plus que les poings d'ailleurs. Mais c'est pas grave, l'important c'est qu'on s'est marré et qu'on a picolé ouais. Alors j'déclare vainqueur : Kubilai du Clan Muscribles photo non-contractuelle Surtout parce qu'il a organisé. Mais pour l'reste aussi. bisous champion »",
+    "key": "2026-02-15|23:59|khanat elmerien|elmerie||l'intendante odessa stone a verse une prime de 100 ðe a kubilai : \" prix du vainqueur ! c'etait une bien belle fete des voisins ce week-end ouais. meme que personne s'est devoue pour compter les points, pas plus que les poings d'ailleurs. mais c'est pas grave, l'important c'est qu'on s'est marre et qu'on a picole ouais. alors j'declare vainqueur : kubilai du clan muscribles photo non-contractuelle surtout parce qu'il a organise. mais pour l'reste aussi. bisous champion \"",
+    "firstSeen": "2026-02-16T04:35:25.468Z"
+  },
+  {
     "date": "2026-02-16",
     "time": "00:01",
     "empire": "République de Kraland",
@@ -102478,5 +102548,1285 @@
     "text": "La République de Kraland récolte 2867 FK d'impôts et paie 200 FK pour ses employés (soldats). Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 133 FK, Ministère de la Guerre 0 FK, Ministère de la Justice 133 FK, Ministère des Affaires Étrangères 133 FK, Ministère de l'Économie 1334 FK, Ministère de la Recherche 400 FK, Ministère de l'Intérieur 133 FK, Ministère de l'Information 133 FK, Ministère des Services Secrets 133 FK, Ministère du Travail 133 FK.",
     "key": "2026-02-16|00:01|republique de kraland|||la republique de kraland recolte 2867 fk d'impots et paie 200 fk pour ses employes (soldats). les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 133 fk, ministere de la guerre 0 fk, ministere de la justice 133 fk, ministere des affaires etrangeres 133 fk, ministere de l'economie 1334 fk, ministere de la recherche 400 fk, ministere de l'interieur 133 fk, ministere de l'information 133 fk, ministere des services secrets 133 fk, ministere du travail 133 fk.",
     "firstSeen": "2026-02-15T23:26:50.970Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Structural : Estelle Pravi 3 voix (100%) - le vainqueur est Estelle Pravi !",
+    "key": "2026-02-16|00:01|confederation libre|milieu|structural|resultat de l'election au poste de bourgmestre de la ville structural : estelle pravi 3 voix (100%) - le vainqueur est estelle pravi !",
+    "firstSeen": "2026-02-16T04:35:07.548Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Accalmie : La fée K. Lome 10 voix (100%) - le vainqueur est La fée K. Lome !",
+    "key": "2026-02-16|00:01|paradigme vert|foret de jade|accalmie|resultat de l'election au poste de bourgmestre de la ville accalmie : la fee k. lome 10 voix (100%) - le vainqueur est la fee k. lome !",
+    "firstSeen": "2026-02-16T04:35:07.689Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Kanardville : Popop Duck 4 voix (100%) - le vainqueur est Popop Duck !",
+    "key": "2026-02-16|00:01|paradigme vert|ile aux kanards|kanardville|resultat de l'election au poste de bourgmestre de la ville kanardville : popop duck 4 voix (100%) - le vainqueur est popop duck !",
+    "firstSeen": "2026-02-16T04:35:07.852Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Atome : personne ne s'est présenté.",
+    "key": "2026-02-16|00:01|confederation libre|plaine irradiee|atome|resultat de l'election au poste de bourgmestre de la ville atome : personne ne s'est presente.",
+    "firstSeen": "2026-02-16T04:35:08.001Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Léprosie : Maître Corbeau 0 voix (0%) - le vainqueur est Maître Corbeau !",
+    "key": "2026-02-16|00:01|empire brun|niarkalistan|leprosie|resultat de l'election au poste de bourgmestre de la ville leprosie : maitre corbeau 0 voix (0%) - le vainqueur est maitre corbeau !",
+    "firstSeen": "2026-02-16T04:35:08.157Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Sanctuaire : Hanako Ainozomi 4 voix (100%) - le vainqueur est Hanako Ainozomi !",
+    "key": "2026-02-16|00:01|royaume de ruthvenie|geofront|sanctuaire|resultat de l'election au poste de bourgmestre de la ville sanctuaire : hanako ainozomi 4 voix (100%) - le vainqueur est hanako ainozomi !",
+    "firstSeen": "2026-02-16T04:35:08.300Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Fort Emouchet : Sysson 2 voix (100%) - le vainqueur est Sysson !",
+    "key": "2026-02-16|00:01|royaume de ruthvenie|valegro|fort emouchet|resultat de l'election au poste de bourgmestre de la ville fort emouchet : sysson 2 voix (100%) - le vainqueur est sysson !",
+    "firstSeen": "2026-02-16T04:35:08.437Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "Bisouville",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Bisouville : Dorian 1 voix (100%) - le vainqueur est Dorian !",
+    "key": "2026-02-16|00:01|republique de kraland|helenie|bisouville|resultat de l'election au poste de bourgmestre de la ville bisouville : dorian 1 voix (100%) - le vainqueur est dorian !",
+    "firstSeen": "2026-02-16T04:35:09.751Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Distillerie : Le martopilonneur de citron 18 voix (66.7%) Light Deathnote 9 voix (33.3%) - le vainqueur est Le martopilonneur de citron !",
+    "key": "2026-02-16|00:01|khanat elmerien|bananie|distillerie|resultat de l'election au poste de bourgmestre de la ville distillerie : le martopilonneur de citron 18 voix (66.7%) light deathnote 9 voix (33.3%) - le vainqueur est le martopilonneur de citron !",
+    "firstSeen": "2026-02-16T04:35:09.891Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "Youpigrad",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Youpigrad : Pierre Ponce 1 voix (33.3%) Stone Héchardène 1 voix (33.3%) Rock Habi Lee 1 voix (33.3%) Jean-Michel Très Normal 0 voix (0%) - le vainqueur est Pierre Ponce !",
+    "key": "2026-02-16|00:01|khanat elmerien|bouletie|youpigrad|resultat de l'election au poste de bourgmestre de la ville youpigrad : pierre ponce 1 voix (33.3%) stone hechardene 1 voix (33.3%) rock habi lee 1 voix (33.3%) jean-michel tres normal 0 voix (0%) - le vainqueur est pierre ponce !",
+    "firstSeen": "2026-02-16T04:35:10.026Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville CAPS LOCK : Richard Pinard 3 voix (100%) Soeur Marie-Thérèse 0 voix (0%) - le vainqueur est Richard Pinard !",
+    "key": "2026-02-16|00:01|khanat elmerien|capsulie|caps lock|resultat de l'election au poste de bourgmestre de la ville caps lock : richard pinard 3 voix (100%) soeur marie-therese 0 voix (0%) - le vainqueur est richard pinard !",
+    "firstSeen": "2026-02-16T04:35:10.174Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Garinaville : personne ne s'est présenté.",
+    "key": "2026-02-16|00:01|paradigme vert|siberia|garinaville|resultat de l'election au poste de bourgmestre de la ville garinaville : personne ne s'est presente.",
+    "firstSeen": "2026-02-16T04:35:10.309Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Lantenac-du-Lac : Ombreloup 4 voix (100%) - le vainqueur est Ombreloup !",
+    "key": "2026-02-16|00:01|royaume de ruthvenie|ruthvenie|lantenac-du-lac|resultat de l'election au poste de bourgmestre de la ville lantenac-du-lac : ombreloup 4 voix (100%) - le vainqueur est ombreloup !",
+    "firstSeen": "2026-02-16T04:35:10.449Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Ruthvenville : Malcom 0 voix (0%) - le vainqueur est Malcom !",
+    "key": "2026-02-16|00:01|royaume de ruthvenie|ruthvenie|ruthvenville|resultat de l'election au poste de bourgmestre de la ville ruthvenville : malcom 0 voix (0%) - le vainqueur est malcom !",
+    "firstSeen": "2026-02-16T04:35:10.610Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Tribunal Cybermondial",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Tribunal Cybermondial : Hans Van Meegeren 1 voix (100%) - le vainqueur est Hans Van Meegeren !",
+    "key": "2026-02-16|00:01|confederation libre|acropole|tribunal cybermondial|resultat de l'election au poste de bourgmestre de la ville tribunal cybermondial : hans van meegeren 1 voix (100%) - le vainqueur est hans van meegeren !",
+    "firstSeen": "2026-02-16T04:35:10.765Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Igloo : Yéti 3 voix (75%) Hezboleune 1 voix (25%) - le vainqueur est Yéti !",
+    "key": "2026-02-16|00:01|khanat elmerien|elmerie|igloo|resultat de l'election au poste de bourgmestre de la ville igloo : yeti 3 voix (75%) hezboleune 1 voix (25%) - le vainqueur est yeti !",
+    "firstSeen": "2026-02-16T04:35:10.905Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Gueule du Lézard : personne ne s'est présenté.",
+    "key": "2026-02-16|00:01|khanat elmerien|elmerie|gueule du lezard|resultat de l'election au poste de bourgmestre de la ville gueule du lezard : personne ne s'est presente.",
+    "firstSeen": "2026-02-16T04:35:11.043Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Bamboutopia",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Bamboutopia : personne ne s'est présenté.",
+    "key": "2026-02-16|00:01|paradigme vert|irendol|bamboutopia|resultat de l'election au poste de bourgmestre de la ville bamboutopia : personne ne s'est presente.",
+    "firstSeen": "2026-02-16T04:35:11.184Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Grand Jardin",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Grand Jardin : personne ne s'est présenté.",
+    "key": "2026-02-16|00:01|paradigme vert|irendol|grand jardin|resultat de l'election au poste de bourgmestre de la ville grand jardin : personne ne s'est presente.",
+    "firstSeen": "2026-02-16T04:35:11.325Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Trésorville : Grøbachev 27 voix (87.1%) ama'r 4 voix (12.9%) - le vainqueur est Grøbachev !",
+    "key": "2026-02-16|00:01|republique de kraland|karaibes|tresorville|resultat de l'election au poste de bourgmestre de la ville tresorville : grøbachev 27 voix (87.1%) ama'r 4 voix (12.9%) - le vainqueur est grøbachev !",
+    "firstSeen": "2026-02-16T04:35:11.474Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Bagdad",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Bagdad : Golshifteh Rafani 1 voix (100%) - le vainqueur est Golshifteh Rafani !",
+    "key": "2026-02-16|00:01|empire brun|santa banana|bagdad|resultat de l'election au poste de bourgmestre de la ville bagdad : golshifteh rafani 1 voix (100%) - le vainqueur est golshifteh rafani !",
+    "firstSeen": "2026-02-16T04:35:11.616Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Santa Banana City",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Santa Banana City : Lachésis 1 voix (100%) - le vainqueur est Lachésis !",
+    "key": "2026-02-16|00:01|empire brun|santa banana|santa banana city|resultat de l'election au poste de bourgmestre de la ville santa banana city : lachesis 1 voix (100%) - le vainqueur est lachesis !",
+    "firstSeen": "2026-02-16T04:35:11.754Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Honolulu-par-Delà",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Honolulu-par-Delà : personne ne s'est présenté.",
+    "key": "2026-02-16|00:01|republique de kraland|kraland|honolulu-par-dela|resultat de l'election au poste de bourgmestre de la ville honolulu-par-dela : personne ne s'est presente.",
+    "firstSeen": "2026-02-16T04:35:11.890Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Quartier Suprême : Ivictus 0 voix (0%) - le vainqueur est Ivictus !",
+    "key": "2026-02-16|00:01|republique de kraland|kraland|quartier supreme|resultat de l'election au poste de bourgmestre de la ville quartier supreme : ivictus 0 voix (0%) - le vainqueur est ivictus !",
+    "firstSeen": "2026-02-16T04:35:12.030Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Provinces indépendantes",
+    "province": "Australine",
+    "city": "",
+    "text": "La province Australine récolte 40 PO d'impôts.",
+    "key": "2026-02-16|00:01|provinces independantes|australine||la province australine recolte 40 po d'impots.",
+    "firstSeen": "2026-02-16T04:35:12.165Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Provinces indépendantes",
+    "province": "Australine",
+    "city": "Camp des Bagnards",
+    "text": "La ville Camp des Bagnards récolte 40 PO d'impôts.",
+    "key": "2026-02-16|00:01|provinces independantes|australine|camp des bagnards|la ville camp des bagnards recolte 40 po d'impots.",
+    "firstSeen": "2026-02-16T04:35:12.311Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "",
+    "city": "",
+    "text": "Le Royaume de Ruthvénie récolte 3272 Co d'impôts et paie 300 Co pour ses employés (soldats). Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 149 Co, Ministère de la Guerre 0 Co, Ministère de la Justice 149 Co, Ministère des Affaires Étrangères 149 Co, Ministère de l'Économie 0 Co, Ministère de la Recherche 2080 Co, Ministère de l'Intérieur 149 Co, Ministère de l'Information 0 Co, Ministère des Services Secrets 149 Co, Ministère du Travail 147 Co.",
+    "key": "2026-02-16|00:01|royaume de ruthvenie|||le royaume de ruthvenie recolte 3272 co d'impots et paie 300 co pour ses employes (soldats). les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 149 co, ministere de la guerre 0 co, ministere de la justice 149 co, ministere des affaires etrangeres 149 co, ministere de l'economie 0 co, ministere de la recherche 2080 co, ministere de l'interieur 149 co, ministere de l'information 0 co, ministere des services secrets 149 co, ministere du travail 147 co.",
+    "firstSeen": "2026-02-16T04:35:12.481Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "",
+    "text": "La province Crab Key récolte 448 Co d'impôts et paie 175 Co pour ses employés (policiers et soldats).",
+    "key": "2026-02-16|00:01|royaume de ruthvenie|crab key||la province crab key recolte 448 co d'impots et paie 175 co pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-02-16T04:35:12.623Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "La ville Port Magmor récolte 448 Co d'impôts et paie 200 Co pour ses employés (policiers et soldats).",
+    "key": "2026-02-16|00:01|royaume de ruthvenie|crab key|port magmor|la ville port magmor recolte 448 co d'impots et paie 200 co pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-02-16T04:35:12.766Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "",
+    "text": "La province Géofront récolte 823 Co d'impôts et paie 200 Co pour ses employés (policiers et soldats).",
+    "key": "2026-02-16|00:01|royaume de ruthvenie|geofront||la province geofront recolte 823 co d'impots et paie 200 co pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-02-16T04:35:12.901Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "La ville Sanctuaire récolte 823 Co d'impôts.",
+    "key": "2026-02-16|00:01|royaume de ruthvenie|geofront|sanctuaire|la ville sanctuaire recolte 823 co d'impots.",
+    "firstSeen": "2026-02-16T04:35:13.041Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "",
+    "text": "La province Valégro récolte 740 Co d'impôts.",
+    "key": "2026-02-16|00:01|royaume de ruthvenie|valegro||la province valegro recolte 740 co d'impots.",
+    "firstSeen": "2026-02-16T04:35:13.178Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "La ville Fort Emouchet récolte 740 Co d'impôts.",
+    "key": "2026-02-16|00:01|royaume de ruthvenie|valegro|fort emouchet|la ville fort emouchet recolte 740 co d'impots.",
+    "firstSeen": "2026-02-16T04:35:15.000Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "",
+    "text": "La province Ruthvénie récolte 591 Co d'impôts et paie 50 Co pour ses employés (policiers et soldats).",
+    "key": "2026-02-16|00:01|royaume de ruthvenie|ruthvenie||la province ruthvenie recolte 591 co d'impots et paie 50 co pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-02-16T04:35:15.143Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Lantenac-du-Lac",
+    "text": "La ville Lantenac-du-Lac récolte 204 Co d'impôts.",
+    "key": "2026-02-16|00:01|royaume de ruthvenie|ruthvenie|lantenac-du-lac|la ville lantenac-du-lac recolte 204 co d'impots.",
+    "firstSeen": "2026-02-16T04:35:15.280Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Ruthvénie",
+    "city": "Ruthvenville",
+    "text": "La ville Ruthvenville récolte 387 Co d'impôts et paie 150 Co pour ses employés (policiers et soldats).",
+    "key": "2026-02-16|00:01|royaume de ruthvenie|ruthvenie|ruthvenville|la ville ruthvenville recolte 387 co d'impots et paie 150 co pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-02-16T04:35:15.440Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "La Confédération Libre récolte 2475 ¢¢ d'impôts et paie 100 ¢¢ pour ses employés (soldats). Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 238 ¢¢, Ministère de la Guerre 0 ¢¢, Ministère de la Justice 0 ¢¢, Ministère des Affaires Étrangères 238 ¢¢, Ministère de l'Économie 475 ¢¢, Ministère de la Recherche 1401 ¢¢, Ministère de l'Intérieur 0 ¢¢, Ministère de l'Information 23 ¢¢, Ministère des Services Secrets 0 ¢¢, Ministère du Travail 0 ¢¢.",
+    "key": "2026-02-16|00:01|confederation libre|||la confederation libre recolte 2475 ¢¢ d'impots et paie 100 ¢¢ pour ses employes (soldats). les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 238 ¢¢, ministere de la guerre 0 ¢¢, ministere de la justice 0 ¢¢, ministere des affaires etrangeres 238 ¢¢, ministere de l'economie 475 ¢¢, ministere de la recherche 1401 ¢¢, ministere de l'interieur 0 ¢¢, ministere de l'information 23 ¢¢, ministere des services secrets 0 ¢¢, ministere du travail 0 ¢¢.",
+    "firstSeen": "2026-02-16T04:35:15.585Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "",
+    "text": "La province Warriorland récolte 178 ¢¢ d'impôts et paie 50 ¢¢ pour ses employés (policiers et soldats).",
+    "key": "2026-02-16|00:01|confederation libre|warriorland||la province warriorland recolte 178 ¢¢ d'impots et paie 50 ¢¢ pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-02-16T04:35:15.721Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "La ville Blofeldopolis récolte 178 ¢¢ d'impôts.",
+    "key": "2026-02-16|00:01|confederation libre|warriorland|blofeldopolis|la ville blofeldopolis recolte 178 ¢¢ d'impots.",
+    "firstSeen": "2026-02-16T04:35:15.858Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "",
+    "text": "La province Plaine Irradiée récolte 715 ¢¢ d'impôts.",
+    "key": "2026-02-16|00:01|confederation libre|plaine irradiee||la province plaine irradiee recolte 715 ¢¢ d'impots.",
+    "firstSeen": "2026-02-16T04:35:15.997Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
+    "text": "La ville Atome récolte 715 ¢¢ d'impôts.",
+    "key": "2026-02-16|00:01|confederation libre|plaine irradiee|atome|la ville atome recolte 715 ¢¢ d'impots.",
+    "firstSeen": "2026-02-16T04:35:16.136Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "",
+    "text": "La province Acropole récolte 1011 ¢¢ d'impôts et paie 225 ¢¢ pour ses employés (policiers et soldats).",
+    "key": "2026-02-16|00:01|confederation libre|acropole||la province acropole recolte 1011 ¢¢ d'impots et paie 225 ¢¢ pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-02-16T04:35:16.286Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Tribunal Cybermondial",
+    "text": "La ville Tribunal Cybermondial récolte 224 ¢¢ d'impôts.",
+    "key": "2026-02-16|00:01|confederation libre|acropole|tribunal cybermondial|la ville tribunal cybermondial recolte 224 ¢¢ d'impots.",
+    "firstSeen": "2026-02-16T04:35:16.424Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "La ville Forum récolte 787 ¢¢ d'impôts.",
+    "key": "2026-02-16|00:01|confederation libre|acropole|forum|la ville forum recolte 787 ¢¢ d'impots.",
+    "firstSeen": "2026-02-16T04:35:16.570Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "La province Milieu récolte 1048 ¢¢ d'impôts et paie 500 ¢¢ pour ses employés (policiers et soldats).",
+    "key": "2026-02-16|00:01|confederation libre|milieu||la province milieu recolte 1048 ¢¢ d'impots et paie 500 ¢¢ pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-02-16T04:35:16.705Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "La ville Structural récolte 1048 ¢¢ d'impôts et paie 100 ¢¢ pour ses employés (policiers et soldats).",
+    "key": "2026-02-16|00:01|confederation libre|milieu|structural|la ville structural recolte 1048 ¢¢ d'impots et paie 100 ¢¢ pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-02-16T04:35:16.839Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "",
+    "city": "",
+    "text": "Le Khanat Elmérien récolte 2093 ÐE d'impôts et paie 100 ÐE pour ses employés (soldats). Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 0 ÐE, Ministère de la Guerre 0 ÐE, Ministère de la Justice 0 ÐE, Ministère des Affaires Étrangères 0 ÐE, Ministère de l'Économie 1794 ÐE, Ministère de la Recherche 199 ÐE, Ministère de l'Intérieur 0 ÐE, Ministère de l'Information 0 ÐE, Ministère des Services Secrets 0 ÐE, Ministère du Travail 0 ÐE.",
+    "key": "2026-02-16|00:01|khanat elmerien|||le khanat elmerien recolte 2093 ðe d'impots et paie 100 ðe pour ses employes (soldats). les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 0 ðe, ministere de la guerre 0 ðe, ministere de la justice 0 ðe, ministere des affaires etrangeres 0 ðe, ministere de l'economie 1794 ðe, ministere de la recherche 199 ðe, ministere de l'interieur 0 ðe, ministere de l'information 0 ðe, ministere des services secrets 0 ðe, ministere du travail 0 ðe.",
+    "firstSeen": "2026-02-16T04:35:16.980Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "",
+    "text": "La province Bananie récolte 1073 ÐE d'impôts.",
+    "key": "2026-02-16|00:01|khanat elmerien|bananie||la province bananie recolte 1073 ðe d'impots.",
+    "firstSeen": "2026-02-16T04:35:17.117Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "La ville Distillerie récolte 1073 ÐE d'impôts et paie 100 ÐE pour ses employés (policiers et soldats).",
+    "key": "2026-02-16|00:01|khanat elmerien|bananie|distillerie|la ville distillerie recolte 1073 ðe d'impots et paie 100 ðe pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-02-16T04:35:17.258Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "",
+    "text": "La province Bouletie récolte 284 ÐE d'impôts et paie 50 ÐE pour ses employés (policiers et soldats).",
+    "key": "2026-02-16|00:01|khanat elmerien|bouletie||la province bouletie recolte 284 ðe d'impots et paie 50 ðe pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-02-16T04:35:17.407Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "Youpigrad",
+    "text": "La ville Youpigrad récolte 284 ÐE d'impôts.",
+    "key": "2026-02-16|00:01|khanat elmerien|bouletie|youpigrad|la ville youpigrad recolte 284 ðe d'impots.",
+    "firstSeen": "2026-02-16T04:35:17.593Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "",
+    "text": "La province Elmérie récolte 833 ÐE d'impôts et paie 50 ÐE pour ses employés (policiers et soldats).",
+    "key": "2026-02-16|00:01|khanat elmerien|elmerie||la province elmerie recolte 833 ðe d'impots et paie 50 ðe pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-02-16T04:35:17.729Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "La ville Igloo récolte 171 ÐE d'impôts.",
+    "key": "2026-02-16|00:01|khanat elmerien|elmerie|igloo|la ville igloo recolte 171 ðe d'impots.",
+    "firstSeen": "2026-02-16T04:35:17.895Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Gueule du Lézard",
+    "text": "La ville Gueule du Lézard récolte 662 ÐE d'impôts et paie 100 ÐE pour ses employés (policiers et soldats).",
+    "key": "2026-02-16|00:01|khanat elmerien|elmerie|gueule du lezard|la ville gueule du lezard recolte 662 ðe d'impots et paie 100 ðe pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-02-16T04:35:18.067Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "",
+    "text": "La province Capsulie récolte 201 ÐE d'impôts.",
+    "key": "2026-02-16|00:01|khanat elmerien|capsulie||la province capsulie recolte 201 ðe d'impots.",
+    "firstSeen": "2026-02-16T04:35:18.199Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "CAPS LOCK",
+    "text": "La ville CAPS LOCK récolte 201 ÐE d'impôts.",
+    "key": "2026-02-16|00:01|khanat elmerien|capsulie|caps lock|la ville caps lock recolte 201 ðe d'impots.",
+    "firstSeen": "2026-02-16T04:35:18.333Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "",
+    "city": "",
+    "text": "Le Paradigme Vert récolte 3094 Éf d'impôts et paie 225 Éf pour ses employés (soldats). Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 287 Éf, Ministère de la Guerre 0 Éf, Ministère de la Justice 0 Éf, Ministère des Affaires Étrangères 0 Éf, Ministère de l'Économie 287 Éf, Ministère de la Recherche 1721 Éf, Ministère de l'Intérieur 287 Éf, Ministère de l'Information 0 Éf, Ministère des Services Secrets 287 Éf, Ministère du Travail 0 Éf.",
+    "key": "2026-02-16|00:01|paradigme vert|||le paradigme vert recolte 3094 ef d'impots et paie 225 ef pour ses employes (soldats). les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 287 ef, ministere de la guerre 0 ef, ministere de la justice 0 ef, ministere des affaires etrangeres 0 ef, ministere de l'economie 287 ef, ministere de la recherche 1721 ef, ministere de l'interieur 287 ef, ministere de l'information 0 ef, ministere des services secrets 287 ef, ministere du travail 0 ef.",
+    "firstSeen": "2026-02-16T04:35:18.468Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "",
+    "text": "La province Île aux Kanards récolte 307 Éf d'impôts et paie 45 Éf pour ses employés (policiers et soldats).",
+    "key": "2026-02-16|00:01|paradigme vert|ile aux kanards||la province ile aux kanards recolte 307 ef d'impots et paie 45 ef pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-02-16T04:35:19.866Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "La ville Kanardville récolte 307 Éf d'impôts et paie 45 Éf pour ses employés (policiers et soldats).",
+    "key": "2026-02-16|00:01|paradigme vert|ile aux kanards|kanardville|la ville kanardville recolte 307 ef d'impots et paie 45 ef pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-02-16T04:35:20.013Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "",
+    "text": "La province Forêt de Jade récolte 974 Éf d'impôts.",
+    "key": "2026-02-16|00:01|paradigme vert|foret de jade||la province foret de jade recolte 974 ef d'impots.",
+    "firstSeen": "2026-02-16T04:35:20.184Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "Accalmie",
+    "text": "La ville Accalmie récolte 974 Éf d'impôts et paie 405 Éf pour ses employés (policiers et soldats).",
+    "key": "2026-02-16|00:01|paradigme vert|foret de jade|accalmie|la ville accalmie recolte 974 ef d'impots et paie 405 ef pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-02-16T04:35:20.320Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "",
+    "text": "La province Irendol récolte 507 Éf d'impôts.",
+    "key": "2026-02-16|00:01|paradigme vert|irendol||la province irendol recolte 507 ef d'impots.",
+    "firstSeen": "2026-02-16T04:35:20.458Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Bamboutopia",
+    "text": "La ville Bamboutopia récolte 81 Éf d'impôts.",
+    "key": "2026-02-16|00:01|paradigme vert|irendol|bamboutopia|la ville bamboutopia recolte 81 ef d'impots.",
+    "firstSeen": "2026-02-16T04:35:20.596Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "Grand Jardin",
+    "text": "La ville Grand Jardin récolte 426 Éf d'impôts.",
+    "key": "2026-02-16|00:01|paradigme vert|irendol|grand jardin|la ville grand jardin recolte 426 ef d'impots.",
+    "firstSeen": "2026-02-16T04:35:20.737Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "",
+    "text": "La province Sibéria récolte 832 Éf d'impôts.",
+    "key": "2026-02-16|00:01|paradigme vert|siberia||la province siberia recolte 832 ef d'impots.",
+    "firstSeen": "2026-02-16T04:35:20.877Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "Garinaville",
+    "text": "La ville Garinaville récolte 832 Éf d'impôts.",
+    "key": "2026-02-16|00:01|paradigme vert|siberia|garinaville|la ville garinaville recolte 832 ef d'impots.",
+    "firstSeen": "2026-02-16T04:35:21.009Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "L'Empire Brun récolte 2952 MØ d'impôts. Les impôts ont été distribués aux différents ministères selon la répartition décidée par le Chef du Gouvernement : Palais Impérial 0 MØ, Ministère de la Guerre 118 MØ, Ministère de la Justice 118 MØ, Ministère des Affaires Étrangères 118 MØ, Ministère de l'Économie 118 MØ, Ministère de la Recherche 2125 MØ, Ministère de l'Intérieur 118 MØ, Ministère de l'Information 118 MØ, Ministère des Services Secrets 118 MØ, Ministère du Travail 0 MØ.",
+    "key": "2026-02-16|00:01|empire brun|||l'empire brun recolte 2952 mø d'impots. les impots ont ete distribues aux differents ministeres selon la repartition decidee par le chef du gouvernement : palais imperial 0 mø, ministere de la guerre 118 mø, ministere de la justice 118 mø, ministere des affaires etrangeres 118 mø, ministere de l'economie 118 mø, ministere de la recherche 2125 mø, ministere de l'interieur 118 mø, ministere de l'information 118 mø, ministere des services secrets 118 mø, ministere du travail 0 mø.",
+    "firstSeen": "2026-02-16T04:35:21.150Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "",
+    "text": "La province Niarkalistan récolte 1380 MØ d'impôts.",
+    "key": "2026-02-16|00:01|empire brun|niarkalistan||la province niarkalistan recolte 1380 mø d'impots.",
+    "firstSeen": "2026-02-16T04:35:21.297Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Niarkalistan",
+    "city": "Léprosie",
+    "text": "La ville Léprosie récolte 1380 MØ d'impôts et paie 100 MØ pour ses employés (policiers et soldats).",
+    "key": "2026-02-16|00:01|empire brun|niarkalistan|leprosie|la ville leprosie recolte 1380 mø d'impots et paie 100 mø pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-02-16T04:35:21.438Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "",
+    "text": "La province Mystisie récolte 267 MØ d'impôts.",
+    "key": "2026-02-16|00:01|empire brun|mystisie||la province mystisie recolte 267 mø d'impots.",
+    "firstSeen": "2026-02-16T04:35:21.570Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "La ville Lampe du Génie récolte 267 MØ d'impôts et paie 75 MØ pour ses employés (policiers et soldats).",
+    "key": "2026-02-16|00:01|empire brun|mystisie|lampe du genie|la ville lampe du genie recolte 267 mø d'impots et paie 75 mø pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-02-16T04:35:21.716Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "",
+    "text": "La province Santa Banana récolte 353 MØ d'impôts.",
+    "key": "2026-02-16|00:01|empire brun|santa banana||la province santa banana recolte 353 mø d'impots.",
+    "firstSeen": "2026-02-16T04:35:21.870Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Bagdad",
+    "text": "La ville Bagdad récolte 151 MØ d'impôts.",
+    "key": "2026-02-16|00:01|empire brun|santa banana|bagdad|la ville bagdad recolte 151 mø d'impots.",
+    "firstSeen": "2026-02-16T04:35:22.010Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Santa Banana",
+    "city": "Santa Banana City",
+    "text": "La ville Santa Banana City récolte 202 MØ d'impôts.",
+    "key": "2026-02-16|00:01|empire brun|santa banana|santa banana city|la ville santa banana city recolte 202 mø d'impots.",
+    "firstSeen": "2026-02-16T04:35:22.146Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "",
+    "text": "La province Sicilia récolte 1906 MØ d'impôts.",
+    "key": "2026-02-16|00:01|empire brun|sicilia||la province sicilia recolte 1906 mø d'impots.",
+    "firstSeen": "2026-02-16T04:35:22.281Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "La ville Trou Perdu récolte 1906 MØ d'impôts.",
+    "key": "2026-02-16|00:01|empire brun|sicilia|trou perdu|la ville trou perdu recolte 1906 mø d'impots.",
+    "firstSeen": "2026-02-16T04:35:22.416Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "",
+    "text": "La province Slavonie récolte 405 FK d'impôts.",
+    "key": "2026-02-16|00:01|republique de kraland|slavonie||la province slavonie recolte 405 fk d'impots.",
+    "firstSeen": "2026-02-16T04:35:22.551Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "Gynerak",
+    "text": "La ville Gynerak récolte 405 FK d'impôts.",
+    "key": "2026-02-16|00:01|republique de kraland|slavonie|gynerak|la ville gynerak recolte 405 fk d'impots.",
+    "firstSeen": "2026-02-16T04:35:22.684Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "",
+    "text": "La province Karaïbes récolte 411 FK d'impôts.",
+    "key": "2026-02-16|00:01|republique de kraland|karaibes||la province karaibes recolte 411 fk d'impots.",
+    "firstSeen": "2026-02-16T04:35:22.820Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "La ville Trésorville récolte 411 FK d'impôts.",
+    "key": "2026-02-16|00:01|republique de kraland|karaibes|tresorville|la ville tresorville recolte 411 fk d'impots.",
+    "firstSeen": "2026-02-16T04:35:22.954Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "",
+    "text": "La province Hélénie récolte 143 FK d'impôts.",
+    "key": "2026-02-16|00:01|republique de kraland|helenie||la province helenie recolte 143 fk d'impots.",
+    "firstSeen": "2026-02-16T04:35:23.088Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "Bisouville",
+    "text": "La ville Bisouville récolte 143 FK d'impôts.",
+    "key": "2026-02-16|00:01|republique de kraland|helenie|bisouville|la ville bisouville recolte 143 fk d'impots.",
+    "firstSeen": "2026-02-16T04:35:24.784Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "",
+    "text": "La province Kraland récolte 442 FK d'impôts et paie 50 FK pour ses employés (policiers et soldats).",
+    "key": "2026-02-16|00:01|republique de kraland|kraland||la province kraland recolte 442 fk d'impots et paie 50 fk pour ses employes (policiers et soldats).",
+    "firstSeen": "2026-02-16T04:35:24.919Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Honolulu-par-Delà",
+    "text": "La ville Honolulu-par-Delà récolte 56 FK d'impôts.",
+    "key": "2026-02-16|00:01|republique de kraland|kraland|honolulu-par-dela|la ville honolulu-par-dela recolte 56 fk d'impots.",
+    "firstSeen": "2026-02-16T04:35:25.054Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:01",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "Quartier Suprême",
+    "text": "La ville Quartier Suprême récolte 386 FK d'impôts.",
+    "key": "2026-02-16|00:01|republique de kraland|kraland|quartier supreme|la ville quartier supreme recolte 386 fk d'impots.",
+    "firstSeen": "2026-02-16T04:35:25.191Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:03",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Le Chef de Tribu Le martopilonneur de citron a retiré à TifaLockHeart le poste de Commissaire de Police. Le Chef de Tribu Le martopilonneur de citron a nommé Le duc de provence au poste de Commissaire de Police.",
+    "key": "2026-02-16|00:03|khanat elmerien|bananie|distillerie|le chef de tribu le martopilonneur de citron a retire a tifalockheart le poste de commissaire de police. le chef de tribu le martopilonneur de citron a nomme le duc de provence au poste de commissaire de police.",
+    "firstSeen": "2026-02-16T04:35:07.129Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:03",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "La Juge Ashélia de Hafnia a fait installer 1 Cour dans la prison.",
+    "key": "2026-02-16|00:03|royaume de ruthvenie|crab key|port magmor|la juge ashelia de hafnia a fait installer 1 cour dans la prison.",
+    "firstSeen": "2026-02-16T04:35:07.268Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:03",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Le Chef de Tribu Le martopilonneur de citron a imposé un couvre-feu pendant 24 heures dans la ville Distillerie [loyauté -0.2] : « Sortir le soir c est mal ! Je vais remettre de l’ordre ! Message à venir ! »",
+    "key": "2026-02-16|00:03|khanat elmerien|bananie|distillerie|le chef de tribu le martopilonneur de citron a impose un couvre-feu pendant 24 heures dans la ville distillerie [loyaute -0.2] : \" sortir le soir c est mal ! je vais remettre de l'ordre ! message a venir ! \"",
+    "firstSeen": "2026-02-16T04:35:07.410Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:04",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Le Chef de Tribu Le martopilonneur de citron a retiré à Tinylia Cératy le poste de Sergente.",
+    "key": "2026-02-16|00:04|khanat elmerien|bananie|distillerie|le chef de tribu le martopilonneur de citron a retire a tinylia ceraty le poste de sergente.",
+    "firstSeen": "2026-02-16T04:35:06.842Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:04",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Le Chef de Tribu Le martopilonneur de citron a retiré à Belle Peregrine le poste de Juge. Le Chef de Tribu Le martopilonneur de citron a nommé michkie980 au poste de Juge.",
+    "key": "2026-02-16|00:04|khanat elmerien|bananie|distillerie|le chef de tribu le martopilonneur de citron a retire a belle peregrine le poste de juge. le chef de tribu le martopilonneur de citron a nomme michkie980 au poste de juge.",
+    "firstSeen": "2026-02-16T04:35:06.984Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:08",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Le Chef de Tribu Le martopilonneur de citron s'est versé une prime de 250 ÐE : « Light, comme convenu, je t ai acheté les prospectus donc je tape dans la caisse. Merci pour notre arrangement. Bisou »",
+    "key": "2026-02-16|00:08|khanat elmerien|bananie|distillerie|le chef de tribu le martopilonneur de citron s'est verse une prime de 250 ðe : \" light, comme convenu, je t ai achete les prospectus donc je tape dans la caisse. merci pour notre arrangement. bisou \"",
+    "firstSeen": "2026-02-16T04:35:06.553Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:08",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "Bohé Dumont a prononcé un discours critiquant le Comte Sysson [PP -6] : « Je déclare officiellement que le Comte est un incompétent. Sauf tout le respect que je dois à sa fonction, se faire agresser à la porte de la taverne par 3 sectateurs sans foi ni loi n'est pas ce que j'appelle de la sécurité ! De plus ceux qui sont venus par bonheur me sauver sont aujourd'hui recherchés par la police, ce n'est pas ce que j'appelle de la justice. Fort de ce scandale absolu et ce malgré tout mon respect j'en appelle à la démission immédiate de Monsieur le Comte, et à la tenue de nouvelles élections ! »",
+    "key": "2026-02-16|00:08|royaume de ruthvenie|valegro|fort emouchet|bohe dumont a prononce un discours critiquant le comte sysson [pp -6] : \" je declare officiellement que le comte est un incompetent. sauf tout le respect que je dois a sa fonction, se faire agresser a la porte de la taverne par 3 sectateurs sans foi ni loi n'est pas ce que j'appelle de la securite ! de plus ceux qui sont venus par bonheur me sauver sont aujourd'hui recherches par la police, ce n'est pas ce que j'appelle de la justice. fort de ce scandale absolu et ce malgre tout mon respect j'en appelle a la demission immediate de monsieur le comte, et a la tenue de nouvelles elections ! \"",
+    "firstSeen": "2026-02-16T04:35:06.699Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:10",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Le Chef de Tribu Le martopilonneur de citron a imposé une taxe sur les domestiques qui a rapporté 155 ÐE : « Parce qu avoir des domestiques hommes, c est mal ! »",
+    "key": "2026-02-16|00:10|khanat elmerien|bananie|distillerie|le chef de tribu le martopilonneur de citron a impose une taxe sur les domestiques qui a rapporte 155 ðe : \" parce qu avoir des domestiques hommes, c est mal ! \"",
+    "firstSeen": "2026-02-16T04:35:06.412Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:12",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "",
+    "text": "Jalala a retiré sa candidature en faveur de Tendi Neet aux élections pour le poste de Gouverneur de la province Milieu : « \"Au vu des précisions faites en province, j'ai juste oubliée aussi de me retirer des élections ! Je poserais ma démission prochainement, mais pas avant d'avoir trouvé un successeur intérimaire \" »",
+    "key": "2026-02-16|00:12|confederation libre|milieu||jalala a retire sa candidature en faveur de tendi neet aux elections pour le poste de gouverneur de la province milieu : \" \"au vu des precisions faites en province, j'ai juste oubliee aussi de me retirer des elections ! je poserais ma demission prochainement, mais pas avant d'avoir trouve un successeur interimaire \" \"",
+    "firstSeen": "2026-02-16T04:35:06.272Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:13",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Le Chef de Tribu Le martopilonneur de citron a imposé une taxe sur les rassemblements qui a rapporté 0 ÐE : « Parce que se rassembler c est mal ! »",
+    "key": "2026-02-16|00:13|khanat elmerien|bananie|distillerie|le chef de tribu le martopilonneur de citron a impose une taxe sur les rassemblements qui a rapporte 0 ðe : \" parce que se rassembler c est mal ! \"",
+    "firstSeen": "2026-02-16T04:35:05.974Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:13",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "Distillerie",
+    "text": "Le Chef de Tribu Le martopilonneur de citron a adressé un discours à la population : « Élu avec autant des voix, merci la magie des urnes… et des citrons) \"Citoyens, chers anciens opposants, et Light Deathnote – mon prédécesseur involontaire… Aujourd’hui est un grand jour : la démocratie a triomphé ! Enfin… disons plutôt que les urnes ont mystérieusement gonflé, comme tes factures d’impôts sous l’ancienne équipe. (Coïncidence ? Je ne crois pas.) Mes promesses tiennent déjà : ✅ Baisse des impôts (surtout pour mes potes). ✅ Fin des arbres imaginaires (désolé, les écolos, mais un arbre qui n’existe pas, ça ne rapporte pas de taxes). ✅ Un verre offert à la mairie (parce qu’un peuple saoul est un peuple facile à gouverner). Light Deathnote, je te laisse ton arbre en plastique en souvenir. Moi, je prends la ville… et le dernier mot. #KhlanEstÀMoi #DémocratieCitronnée #OùEstMonVerre ? PS : Conan, ton tour de pleurer dans mon bar arrive. Prépare les mouchoirs (et les citrons). »",
+    "key": "2026-02-16|00:13|khanat elmerien|bananie|distillerie|le chef de tribu le martopilonneur de citron a adresse un discours a la population : \" elu avec autant des voix, merci la magie des urnes... et des citrons) \"citoyens, chers anciens opposants, et light deathnote – mon predecesseur involontaire... aujourd'hui est un grand jour : la democratie a triomphe ! enfin... disons plutot que les urnes ont mysterieusement gonfle, comme tes factures d'impots sous l'ancienne equipe. (coincidence ? je ne crois pas.) mes promesses tiennent deja : ✅ baisse des impots (surtout pour mes potes). ✅ fin des arbres imaginaires (desole, les ecolos, mais un arbre qui n'existe pas, ca ne rapporte pas de taxes). ✅ un verre offert a la mairie (parce qu'un peuple saoul est un peuple facile a gouverner). light deathnote, je te laisse ton arbre en plastique en souvenir. moi, je prends la ville... et le dernier mot. #khlanestamoi #democratiecitronnee #ouestmonverre ? ps : conan, ton tour de pleurer dans mon bar arrive. prepare les mouchoirs (et les citrons). \"",
+    "firstSeen": "2026-02-16T04:35:06.115Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:34",
+    "empire": "Provinces indépendantes",
+    "province": "Australine",
+    "city": "Camp des Bagnards",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Camp des Bagnards : personne ne s'est présenté.",
+    "key": "2026-02-16|00:34|provinces independantes|australine|camp des bagnards|resultat de l'election au poste de bourgmestre de la ville camp des bagnards : personne ne s'est presente.",
+    "firstSeen": "2026-02-16T04:35:05.394Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:34",
+    "empire": "République de Kraland",
+    "province": "Slavonie",
+    "city": "Gynerak",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Gynerak : Eva Dey 0 voix (0%) - le vainqueur est Eva Dey !",
+    "key": "2026-02-16|00:34|republique de kraland|slavonie|gynerak|resultat de l'election au poste de bourgmestre de la ville gynerak : eva dey 0 voix (0%) - le vainqueur est eva dey !",
+    "firstSeen": "2026-02-16T04:35:05.539Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:34",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Lampe du Génie : Don Amortel 0 voix (0%) - le vainqueur est Don Amortel !",
+    "key": "2026-02-16|00:34|empire brun|mystisie|lampe du genie|resultat de l'election au poste de bourgmestre de la ville lampe du genie : don amortel 0 voix (0%) - le vainqueur est don amortel !",
+    "firstSeen": "2026-02-16T04:35:05.686Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:34",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Trou Perdu : Zéphiria de Pont-Krivell 0 voix (0%) Y0gi 0 voix (0%) - le vainqueur est Zéphiria de Pont-Krivell !",
+    "key": "2026-02-16|00:34|empire brun|sicilia|trou perdu|resultat de l'election au poste de bourgmestre de la ville trou perdu : zephiria de pont-krivell 0 voix (0%) y0gi 0 voix (0%) - le vainqueur est zephiria de pont-krivell !",
+    "firstSeen": "2026-02-16T04:35:05.821Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:38",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Annoncé perdant, il aura été expulsé des scrutins manu militari ! Retrait du candidat Jean-Koince.",
+    "key": "2026-02-16|00:38|royaume de ruthvenie|crab key|port magmor|annonce perdant, il aura ete expulse des scrutins manu militari ! retrait du candidat jean-koince.",
+    "firstSeen": "2026-02-16T04:35:05.250Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:40",
+    "empire": "Confédération Libre",
+    "province": "Acropole",
+    "city": "Forum",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Forum : personne ne s'est présenté.",
+    "key": "2026-02-16|00:40|confederation libre|acropole|forum|resultat de l'election au poste de bourgmestre de la ville forum : personne ne s'est presente.",
+    "firstSeen": "2026-02-16T04:35:04.961Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "00:40",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "Port Magmor",
+    "text": "Bravo Stefan ! Les élections passent du tour n°4 au tour n°1. Retrait du candidat Stefan de Crab.",
+    "key": "2026-02-16|00:40|royaume de ruthvenie|crab key|port magmor|bravo stefan ! les elections passent du tour n°4 au tour n°1. retrait du candidat stefan de crab.",
+    "firstSeen": "2026-02-16T04:35:05.107Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:16",
+    "empire": "Confédération Libre",
+    "province": "",
+    "city": "",
+    "text": "Résultat du Premier Tour de l'élection du Président : Caucherêve 61 voix (50.4%) Tendi Neet 60 voix (49.6%) - le vainqueur est Caucherêve qui a recueilli plus de 50% des voix !",
+    "key": "2026-02-16|04:16|confederation libre|||resultat du premier tour de l'election du president : cauchereve 61 voix (50.4%) tendi neet 60 voix (49.6%) - le vainqueur est cauchereve qui a recueilli plus de 50% des voix !",
+    "firstSeen": "2026-02-16T04:35:00.742Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:16",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Crab Key",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Crab Key : Korail 14 voix (100%) - le vainqueur est Korail !",
+    "key": "2026-02-16|04:16|royaume de ruthvenie|crab key||resultat de l'election au poste de gouverneur de la province crab key : korail 14 voix (100%) - le vainqueur est korail !",
+    "firstSeen": "2026-02-16T04:35:00.997Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:16",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Warriorland : personne ne s'est présenté.",
+    "key": "2026-02-16|04:16|confederation libre|warriorland||resultat de l'election au poste de gouverneur de la province warriorland : personne ne s'est presente.",
+    "firstSeen": "2026-02-16T04:35:01.281Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:16",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Plaine Irradiée : Pr Jean-Michel Nobyl 2 voix (100%) - le vainqueur est Pr Jean-Michel Nobyl !",
+    "key": "2026-02-16|04:16|confederation libre|plaine irradiee||resultat de l'election au poste de gouverneur de la province plaine irradiee : pr jean-michel nobyl 2 voix (100%) - le vainqueur est pr jean-michel nobyl !",
+    "firstSeen": "2026-02-16T04:35:01.521Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:16",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Géofront : DameDémerzel 25 voix (54.3%) Golgoth le Vagabond 21 voix (45.7%) - le vainqueur est DameDémerzel !",
+    "key": "2026-02-16|04:16|royaume de ruthvenie|geofront||resultat de l'election au poste de gouverneur de la province geofront : damedemerzel 25 voix (54.3%) golgoth le vagabond 21 voix (45.7%) - le vainqueur est damedemerzel !",
+    "firstSeen": "2026-02-16T04:35:01.672Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:16",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Valégro : Koshka 14 voix (56%) Emile Liarr 11 voix (44%) - le vainqueur est Koshka !",
+    "key": "2026-02-16|04:16|royaume de ruthvenie|valegro||resultat de l'election au poste de gouverneur de la province valegro : koshka 14 voix (56%) emile liarr 11 voix (44%) - le vainqueur est koshka !",
+    "firstSeen": "2026-02-16T04:35:01.830Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:16",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Karaïbes : Krak' Boom Da Goff Rocka 5 voix (100%) - le vainqueur est Krak' Boom Da Goff Rocka !",
+    "key": "2026-02-16|04:16|republique de kraland|karaibes||resultat de l'election au poste de gouverneur de la province karaibes : krak' boom da goff rocka 5 voix (100%) - le vainqueur est krak' boom da goff rocka !",
+    "firstSeen": "2026-02-16T04:35:01.972Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:16",
+    "empire": "République de Kraland",
+    "province": "Hélénie",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Hélénie : Simone Voile 1 voix (100%) - le vainqueur est Simone Voile !",
+    "key": "2026-02-16|04:16|republique de kraland|helenie||resultat de l'election au poste de gouverneur de la province helenie : simone voile 1 voix (100%) - le vainqueur est simone voile !",
+    "firstSeen": "2026-02-16T04:35:02.115Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:16",
+    "empire": "République de Kraland",
+    "province": "Kraland",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Kraland : Edgard le Canard 2 voix (100%) - le vainqueur est Edgard le Canard !",
+    "key": "2026-02-16|04:16|republique de kraland|kraland||resultat de l'election au poste de gouverneur de la province kraland : edgard le canard 2 voix (100%) - le vainqueur est edgard le canard !",
+    "firstSeen": "2026-02-16T04:35:02.261Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:16",
+    "empire": "Paradigme Vert",
+    "province": "Forêt de Jade",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Forêt de Jade : VixenRavenloft 3 voix (100%) - le vainqueur est VixenRavenloft !",
+    "key": "2026-02-16|04:16|paradigme vert|foret de jade||resultat de l'election au poste de gouverneur de la province foret de jade : vixenravenloft 3 voix (100%) - le vainqueur est vixenravenloft !",
+    "firstSeen": "2026-02-16T04:35:02.403Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:16",
+    "empire": "Paradigme Vert",
+    "province": "Irendol",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Irendol : personne ne s'est présenté.",
+    "key": "2026-02-16|04:16|paradigme vert|irendol||resultat de l'election au poste de gouverneur de la province irendol : personne ne s'est presente.",
+    "firstSeen": "2026-02-16T04:35:02.553Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:16",
+    "empire": "Khanat Elmérien",
+    "province": "Bananie",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Bananie : Riguel Templar 9 voix (69.2%) Le duc de provence 4 voix (30.8%) - le vainqueur est Riguel Templar !",
+    "key": "2026-02-16|04:16|khanat elmerien|bananie||resultat de l'election au poste de gouverneur de la province bananie : riguel templar 9 voix (69.2%) le duc de provence 4 voix (30.8%) - le vainqueur est riguel templar !",
+    "firstSeen": "2026-02-16T04:35:02.696Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:16",
+    "empire": "Khanat Elmérien",
+    "province": "Bouletie",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Bouletie : Pierre Ponce 2 voix (66.7%) Jean-Michel Très Normal 1 voix (33.3%) - le vainqueur est Pierre Ponce !",
+    "key": "2026-02-16|04:16|khanat elmerien|bouletie||resultat de l'election au poste de gouverneur de la province bouletie : pierre ponce 2 voix (66.7%) jean-michel tres normal 1 voix (33.3%) - le vainqueur est pierre ponce !",
+    "firstSeen": "2026-02-16T04:35:02.842Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:16",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Elmérie : Capitaine Igloo 4 voix (80%) Hezboleune 1 voix (20%) - le vainqueur est Capitaine Igloo !",
+    "key": "2026-02-16|04:16|khanat elmerien|elmerie||resultat de l'election au poste de gouverneur de la province elmerie : capitaine igloo 4 voix (80%) hezboleune 1 voix (20%) - le vainqueur est capitaine igloo !",
+    "firstSeen": "2026-02-16T04:35:02.982Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:16",
+    "empire": "Khanat Elmérien",
+    "province": "Capsulie",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Capsulie : personne ne s'est présenté.",
+    "key": "2026-02-16|04:16|khanat elmerien|capsulie||resultat de l'election au poste de gouverneur de la province capsulie : personne ne s'est presente.",
+    "firstSeen": "2026-02-16T04:35:03.133Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:16",
+    "empire": "Paradigme Vert",
+    "province": "Sibéria",
+    "city": "",
+    "text": "Résultat de l'élection au poste de gouverneur de la province Sibéria : Jay Padbol 9 voix (69.2%) Akuma Nattata 4 voix (30.8%) - le vainqueur est Jay Padbol !",
+    "key": "2026-02-16|04:16|paradigme vert|siberia||resultat de l'election au poste de gouverneur de la province siberia : jay padbol 9 voix (69.2%) akuma nattata 4 voix (30.8%) - le vainqueur est jay padbol !",
+    "firstSeen": "2026-02-16T04:35:03.274Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:17",
+    "empire": "Mondial",
+    "province": "",
+    "city": "",
+    "text": "LOTERIE : 78 billets ont été vendus - Vostroyan vient d'empocher la somme de 1755 FK. Un montant équivalent est versé aux institutions internationales.",
+    "key": "2026-02-16|04:17|mondial|||loterie : 78 billets ont ete vendus - vostroyan vient d'empocher la somme de 1755 fk. un montant equivalent est verse aux institutions internationales.",
+    "firstSeen": "2026-02-16T04:35:00.596Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:27",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "HRP retrait de candidat bug Retrait du candidat Jacques St Misles.",
+    "key": "2026-02-16|04:27|confederation libre|warriorland|blofeldopolis|hrp retrait de candidat bug retrait du candidat jacques st misles.",
+    "firstSeen": "2026-02-16T04:35:00.451Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:46",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Résultat de l'élection au poste de bourgmestre de la ville Blofeldopolis : Jacques St Misles a été élu !",
+    "key": "2026-02-16|04:46|confederation libre|warriorland|blofeldopolis|resultat de l'election au poste de bourgmestre de la ville blofeldopolis : jacques st misles a ete elu !",
+    "firstSeen": "2026-02-16T04:35:00.314Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "04:48",
+    "empire": "Confédération Libre",
+    "province": "Warriorland",
+    "city": "Blofeldopolis",
+    "text": "Jacques St Misles devient Bourgmestre (Blofeldopolis).",
+    "key": "2026-02-16|04:48|confederation libre|warriorland|blofeldopolis|jacques st misles devient bourgmestre (blofeldopolis).",
+    "firstSeen": "2026-02-16T04:35:00.169Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "05:04",
+    "empire": "Empire Brun",
+    "province": "Mystisie",
+    "city": "Lampe du Génie",
+    "text": "Bismuth El'K'Fadyh remplace Don Amortel comme Bourgmestre (Lampe du Génie).",
+    "key": "2026-02-16|05:04|empire brun|mystisie|lampe du genie|bismuth el'k'fadyh remplace don amortel comme bourgmestre (lampe du genie).",
+    "firstSeen": "2026-02-16T04:35:00.011Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "05:15",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Le Bourgmestre Zéphiria de Pont-Krivell a versé une prime de 50 MØ à Deux-Fleurs de Pont-Krivell : « Vive les mariées ! »",
+    "key": "2026-02-16|05:15|empire brun|sicilia|trou perdu|le bourgmestre zephiria de pont-krivell a verse une prime de 50 mø a deux-fleurs de pont-krivell : \" vive les mariees ! \"",
+    "firstSeen": "2026-02-16T04:34:59.558Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "05:15",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Le Bourgmestre Zéphiria de Pont-Krivell a versé une prime de 75 MØ à Silice de Pont-Krivell : « Vive les mariées ! »",
+    "key": "2026-02-16|05:15|empire brun|sicilia|trou perdu|le bourgmestre zephiria de pont-krivell a verse une prime de 75 mø a silice de pont-krivell : \" vive les mariees ! \"",
+    "firstSeen": "2026-02-16T04:34:59.717Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "05:16",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Le Bourgmestre Zéphiria de Pont-Krivell a versé une prime de 55 MØ à Imoen Bint Wololo Al Rasha : « Vive les mariées ! »",
+    "key": "2026-02-16|05:16|empire brun|sicilia|trou perdu|le bourgmestre zephiria de pont-krivell a verse une prime de 55 mø a imoen bint wololo al rasha : \" vive les mariees ! \"",
+    "firstSeen": "2026-02-16T04:34:59.304Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "05:17",
+    "empire": "Empire Brun",
+    "province": "Sicilia",
+    "city": "Trou Perdu",
+    "text": "Le Bourgmestre Zéphiria de Pont-Krivell a versé une prime de 70 MØ à obscyne : « Vive les mariées ! »",
+    "key": "2026-02-16|05:17|empire brun|sicilia|trou perdu|le bourgmestre zephiria de pont-krivell a verse une prime de 70 mø a obscyne : \" vive les mariees ! \"",
+    "firstSeen": "2026-02-16T04:34:57.815Z"
   }
 ]
