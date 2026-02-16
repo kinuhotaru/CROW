@@ -103978,5 +103978,75 @@
     "text": "Simone Voile vient de se livrer aux autorités et est désormais en prison.",
     "key": "2026-02-16|06:26|empire brun|mystisie|lampe du genie|simone voile vient de se livrer aux autorites et est desormais en prison.",
     "firstSeen": "2026-02-16T05:56:12.012Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "07:04",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Géofront",
+    "city": "Sanctuaire",
+    "text": "Depuis sa prison, Golgoth le Vagabond a réussi à faire passer le message suivant à l'extérieur : « Félicitations Démerzel pour ton élection ! Oublie pas de ramasser la karotte que j't'ai laissée près des braises du feu d'hier soir, dans la cour de l'hôtel. »",
+    "key": "2026-02-16|07:04|royaume de ruthvenie|geofront|sanctuaire|depuis sa prison, golgoth le vagabond a reussi a faire passer le message suivant a l'exterieur : \" felicitations demerzel pour ton election ! oublie pas de ramasser la karotte que j't'ai laissee pres des braises du feu d'hier soir, dans la cour de l'hotel. \"",
+    "firstSeen": "2026-02-16T07:04:39.830Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "07:30",
+    "empire": "Paradigme Vert",
+    "province": "Île aux Kanards",
+    "city": "Kanardville",
+    "text": "Kanard WaiCette a prononcé un discours louant le Bourgmestre Popop Duck [PP +4] : « Cher Popop Félicitations pour cette election kointement menée ! Puisse ton mandat nous apporter des rues propres et des infrastructures aux sols bien balayés ! (par contre j'ai pas eu le salaire de mon emploi fictif aujourd'hui) »",
+    "key": "2026-02-16|07:30|paradigme vert|ile aux kanards|kanardville|kanard waicette a prononce un discours louant le bourgmestre popop duck [pp +4] : \" cher popop felicitations pour cette election kointement menee ! puisse ton mandat nous apporter des rues propres et des infrastructures aux sols bien balayes ! (par contre j'ai pas eu le salaire de mon emploi fictif aujourd'hui) \"",
+    "firstSeen": "2026-02-16T07:04:39.690Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "07:49",
+    "empire": "République de Kraland",
+    "province": "",
+    "city": "",
+    "text": "Le Premier Ministre Hench St Misles a nommé Jalala au poste de Ministre de la Recherche.",
+    "key": "2026-02-16|07:49|republique de kraland|||le premier ministre hench st misles a nomme jalala au poste de ministre de la recherche.",
+    "firstSeen": "2026-02-16T07:04:39.536Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "07:52",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "Igloo",
+    "text": "Akuma Nattata a pris sa retraite dans la ville Igloo : « Une vergence dans la Matrice Originelle, un écho silencieux. Loin à l'Est, une silouhette avance chancelante. Oui, c'est Khen. Il semble marcher dans la neige, comme possédé. Il se dirige vers Igloo, la décharge Sbleune. Le lieu de son tout premier échec. Il s'arrête, sa respiration est rapide, sauvage. Finalement, il pénètre dans la montagne d'Ordure. Tou bi continioude.... »",
+    "key": "2026-02-16|07:52|khanat elmerien|elmerie|igloo|akuma nattata a pris sa retraite dans la ville igloo : \" une vergence dans la matrice originelle, un echo silencieux. loin a l'est, une silouhette avance chancelante. oui, c'est khen. il semble marcher dans la neige, comme possede. il se dirige vers igloo, la decharge sbleune. le lieu de son tout premier echec. il s'arrete, sa respiration est rapide, sauvage. finalement, il penetre dans la montagne d'ordure. tou bi continioude.... \"",
+    "firstSeen": "2026-02-16T07:04:39.386Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "07:53",
+    "empire": "Confédération Libre",
+    "province": "Plaine Irradiée",
+    "city": "Atome",
+    "text": "Isotopine a ouvert un chantier public dans la ville Atome en [6,10].",
+    "key": "2026-02-16|07:53|confederation libre|plaine irradiee|atome|isotopine a ouvert un chantier public dans la ville atome en [6,10].",
+    "firstSeen": "2026-02-16T07:04:39.178Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "07:57",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "BoboFix a transformé Hôpital « La flognarde » en dispensaire médical (pour 24 heures), soignant les occupants (BoboFix).",
+    "key": "2026-02-16|07:57|confederation libre|milieu|structural|bobofix a transforme hopital \" la flognarde \" en dispensaire medical (pour 24 heures), soignant les occupants (bobofix).",
+    "firstSeen": "2026-02-16T07:04:38.972Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "08:01",
+    "empire": "République de Kraland",
+    "province": "Karaïbes",
+    "city": "Trésorville",
+    "text": "Krak' Boom Da Goff Rocka a ouvert un chantier public dans la ville Trésorville en [3,10].",
+    "key": "2026-02-16|08:01|republique de kraland|karaibes|tresorville|krak' boom da goff rocka a ouvert un chantier public dans la ville tresorville en [3,10].",
+    "firstSeen": "2026-02-16T07:04:37.429Z"
   }
 ]
