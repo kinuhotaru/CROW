@@ -106848,5 +106848,35 @@
     "text": "Estelle Pravi a ouvert un chantier public dans la ville Structural en [18,11].",
     "key": "2026-02-16|23:39|confederation libre|milieu|structural|estelle pravi a ouvert un chantier public dans la ville structural en [18,11].",
     "firstSeen": "2026-02-16T22:49:32.107Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "23:48",
+    "empire": "Confédération Libre",
+    "province": "Milieu",
+    "city": "Structural",
+    "text": "Dardraroux s'est fait agresser par un groupe de créatures mené par 1 Zombie.",
+    "key": "2026-02-16|23:48|confederation libre|milieu|structural|dardraroux s'est fait agresser par un groupe de creatures mene par 1 zombie.",
+    "firstSeen": "2026-02-17T06:39:37.312Z"
+  },
+  {
+    "date": "2026-02-16",
+    "time": "23:58",
+    "empire": "Khanat Elmérien",
+    "province": "Elmérie",
+    "city": "",
+    "text": "Gédéon Saillibard s'est fait agresser par un groupe de créatures mené par Ver de Glace.",
+    "key": "2026-02-16|23:58|khanat elmerien|elmerie||gedeon saillibard s'est fait agresser par un groupe de creatures mene par ver de glace.",
+    "firstSeen": "2026-02-17T06:39:36.776Z"
+  },
+  {
+    "date": "2026-02-17",
+    "time": "00:12",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "Le Ministre de l'Information Dusk et Aurora a diffusé une émission de propagande en faveur du gouvernement [loyauté +1.2] : « *Tous les postes de télévision de l'empire se mettent à diffuser un concert en direct du ministère de l'information.* Brunes et Bruns ! Espions et espionnes ! Nous lançons un grand concours... une compétition ! Au cas où c'était pas clair avec la chanson ! Il est venu l'heure de faire travailler vos voix, pour la grandeur de l'empire ! Les récompenses, les voici : - L'aigle impérial - La croix de guerre brune - 3000 mégalos - Une sculpture - Un tableau - LA GLOIRE ! Alors, vous bavez bien ? Les mériterez-vous ? Ou finirez-vous au fond d'un trou ? Les règles sur la place nationale, bougez vos fesses ! »",
+    "key": "2026-02-17|00:12|empire brun|||le ministre de l'information dusk et aurora a diffuse une emission de propagande en faveur du gouvernement [loyaute +1.2] : \" *tous les postes de television de l'empire se mettent a diffuser un concert en direct du ministere de l'information.* brunes et bruns ! espions et espionnes ! nous lancons un grand concours... une competition ! au cas ou c'etait pas clair avec la chanson ! il est venu l'heure de faire travailler vos voix, pour la grandeur de l'empire ! les recompenses, les voici : - l'aigle imperial - la croix de guerre brune - 3000 megalos - une sculpture - un tableau - la gloire ! alors, vous bavez bien ? les meriterez-vous ? ou finirez-vous au fond d'un trou ? les regles sur la place nationale, bougez vos fesses ! \"",
+    "firstSeen": "2026-02-17T06:39:35.196Z"
   }
 ]
