@@ -107308,5 +107308,25 @@
     "text": "La pétition de désaveu contre le ministre des affaires Étrangères PascalCroc rassemble à présent 5.08% des voix.",
     "key": "2026-02-17|14:09|confederation libre|||la petition de desaveu contre le ministre des affaires etrangeres pascalcroc rassemble a present 5.08% des voix.",
     "firstSeen": "2026-02-17T14:13:30.786Z"
+  },
+  {
+    "date": "2026-02-17",
+    "time": "15:50",
+    "empire": "Royaume de Ruthvénie",
+    "province": "Valégro",
+    "city": "Fort Emouchet",
+    "text": "Elune Von Voda a raté une action illégale. Elle est à présent recherchée par la police du Royaume de Ruthvénie pour cette infraction politique : « *Dame Elune Von Voda se rend dans l'université du Valégro, \"L'Élite Valégrognarde\", afin de travailler sur l'anomalie en cours sur le Système Central. Elle installe son ordinateur et le branche au réseau de la 7G* Bon, il ne faut normalement pas se branche directement au réseau mais quand plus rien ne fonctionne, il faut passer outre les règles et les lois, l'avenir du Royaume est peut-être en jeu ! *Elune commence à explorer le réseau 7G avec ses connaissances du temps où elle a participé un peu à l'architecture de celui-ci* La première étape consiste à relancer l'ensemble... il n'est pas normal que le jour ne change plus, que le soleil ne se lève plus ! Voyons voir... sudo journalier resume --force sudo system stop astre.soleil sudo system start astre.soleil Veuillez entrer le mot de passe passe admin Qu'est ce que c'est encore le mot de passe ? Il me semble que c'était une phrase courante de la scène publique avec une modification d'informaticien... Ah oui ! 135 7 éch450n5 r0y4ux ! J'espère ne pas me tromper, j'ai plus touché depuis l'installation... Si tout se passe bien, cette partie devrait revenir à la normal demain. Et maintenant, pour ce qui est du véritable problème, il va falloir chercher plus loin. sudo systemControl status nationRR.service sudo systemControl status infrastructure.service tar -czf - /chaussettes/7G/classified | ssh Elune@VonVoda.rr \"tar -xzf - -C ~/telechargement\" Alors, qu'est ce qu'on a là ? »",
+    "key": "2026-02-17|15:50|royaume de ruthvenie|valegro|fort emouchet|elune von voda a rate une action illegale. elle est a present recherchee par la police du royaume de ruthvenie pour cette infraction politique : \" *dame elune von voda se rend dans l'universite du valegro, \"l'elite valegrognarde\", afin de travailler sur l'anomalie en cours sur le systeme central. elle installe son ordinateur et le branche au reseau de la 7g* bon, il ne faut normalement pas se branche directement au reseau mais quand plus rien ne fonctionne, il faut passer outre les regles et les lois, l'avenir du royaume est peut-etre en jeu ! *elune commence a explorer le reseau 7g avec ses connaissances du temps ou elle a participe un peu a l'architecture de celui-ci* la premiere etape consiste a relancer l'ensemble... il n'est pas normal que le jour ne change plus, que le soleil ne se leve plus ! voyons voir... sudo journalier resume --force sudo system stop astre.soleil sudo system start astre.soleil veuillez entrer le mot de passe passe admin qu'est ce que c'est encore le mot de passe ? il me semble que c'etait une phrase courante de la scene publique avec une modification d'informaticien... ah oui ! 135 7 ech450n5 r0y4ux ! j'espere ne pas me tromper, j'ai plus touche depuis l'installation... si tout se passe bien, cette partie devrait revenir a la normal demain. et maintenant, pour ce qui est du veritable probleme, il va falloir chercher plus loin. sudo systemcontrol status nationrr.service sudo systemcontrol status infrastructure.service tar -czf - /chaussettes/7g/classified | ssh elune@vonvoda.rr \"tar -xzf - -c ~/telechargement\" alors, qu'est ce qu'on a la ? \"",
+    "firstSeen": "2026-02-17T15:08:30.871Z"
+  },
+  {
+    "date": "2026-02-17",
+    "time": "15:49",
+    "empire": "Empire Brun",
+    "province": "",
+    "city": "",
+    "text": "Une rumeur court parmi les habitants de l'Empire Brun : « Il se murmure dans le cybermonde que le Fabuleux Livre de Compte d'Åki Elrael aurait fait son apparition. Où se trouve-t-il ? Que renferme-t-il ? Mystère. »",
+    "key": "2026-02-17|15:49|empire brun|||une rumeur court parmi les habitants de l'empire brun : \" il se murmure dans le cybermonde que le fabuleux livre de compte d'aki elrael aurait fait son apparition. ou se trouve-t-il ? que renferme-t-il ? mystere. \"",
+    "firstSeen": "2026-02-17T15:08:32.082Z"
   }
 ]
