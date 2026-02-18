@@ -1360,12 +1360,18 @@ SCRAPER
   await page.waitForSelector('select[name="n[1]"]');
 
   // 🔽 récupérer toutes les options du select
-  const empires = await page.evaluate(() => {
-    const select = document.querySelector('select[name="n[1]"]');
-    return [...select.options]
-        .map(o => ({value: o.value,label: o.label}))
-        .filter(o => o.value !== 'f0');
-  });
+const empires = await page.evaluate(() => {
+  const select = document.querySelector('select[name="n[1]"]');
+  if (!select) return [];
+
+  return [...select.options]
+    .map(o => ({
+      value: o.value,
+      label: o.label.trim()
+    }))
+    // on ignore "Tous les empires"
+    .filter(o => o.value !== 'f0' && o.label.toLowerCase() !== 'tous les empires');
+});
 
   console.log(`🌍 ${empires.length} empires à explorer`);
 
@@ -1500,12 +1506,12 @@ SCRAPER
     updateTechnologyRegistry(events);
 
   saveJSON(STATS_FILE, dailyStats);
-
+/*
   await sendDailyRanking(dailyStats);
   await sendTechnologyResume(changes, techs);
   await sendTechnologiesToSupabase(techs);
   await sendPublicTechAnnouncements(publicAnnouncements);
-  
+*/
     const events_list = await loadEventsFromSupabase();
     await sendToDiscord(events_list);
 
