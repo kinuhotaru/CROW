@@ -717,6 +717,22 @@ function extractMinistryExpense(text) {
   return total;
 }
 
+// SUPABASE REQUEST
+
+async function loadEventsFromSupabase() {
+  const res = await fetch(
+    `${SUPABASE_URL}/rest/v1/journal_events?order=date.desc&limit=1000`,
+    {
+      headers: {
+        apikey: SUPABASE_KEY,
+        Authorization: `Bearer ${SUPABASE_KEY}`
+      }
+    }
+  );
+
+  return await res.json();
+}
+
 // UTILITAIRE STATS Techs Owned
 function extractTechnologyEvent(event) {
   const raw = event.text;
@@ -902,7 +918,7 @@ function computeCommonTechnologies(techs){
 // REST FONCTION SUPABASE
 
 async function sendEventToSupabase(event) {
-    if(!SUPABASE_URL || !SUPABASE_KEY) return;
+  if (!SUPABASE_URL || !SUPABASE_KEY) return;
 
     const payload = {
         date: event.date,
@@ -916,24 +932,21 @@ async function sendEventToSupabase(event) {
     };
 
     const res = await fetch(
-        `${SUPABASE_URL}/rest/v1/journal_events`,{
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-                'apikey': SUPABASE_KEY,
-                'Authorization': `Bearer ${SUPABASE_KEY}`,
-                'Prefer': 'resolution=ignore-duplicates'                
-            },
-            body: JSON.stringify(payload)
+        `${SUPABASE_URL}/rest/v1/journal_events`,
+        {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            apikey: SUPABASE_KEY,
+            Authorization: `Bearer ${SUPABASE_KEY}`,
+            Prefer: 'resolution=ignore-duplicates'
+        },
+        body: JSON.stringify(payload)
         }
     );
 
-    if (!res.ok && res.status !== 409){
-        console.warn(
-            '⚠️ Supabase error:',
-            res.status,
-            await res.text()
-        );
+    if (!res.ok && res.status !== 409) {
+        console.warn('⚠️ Supabase error:', res.status, await res.text());
     }
 }
 
@@ -1349,10 +1362,9 @@ SCRAPER
   // 🔽 récupérer toutes les options du select
   const empires = await page.evaluate(() => {
     const select = document.querySelector('select[name="n[1]"]');
-    return [...select.options].map(o => ({
-      value: o.value,
-      label: o.label
-    }));
+    return [...select.options]
+        .map(o => ({value: o.value,label: o.label}))
+        .filter(o => o.value !== 'f0');
   });
 
   console.log(`🌍 ${empires.length} empires à explorer`);
@@ -1442,51 +1454,22 @@ SCRAPER
 
       let newCount = 0;
 
-      for (const raw of scrapedEvents) {
+    for (const raw of scrapedEvents) {
+        if (!raw.id) continue;
+
         const e = {
-          date: normalizeText(raw.date),
-          time: normalizeText(raw.time),
-          empire: normalizeText(resolveEmpire(raw.empire)),
-          province: normalizeText(raw.province),
-          city: normalizeText(raw.city),
-          text: normalizeText(raw.text)
+            key: raw.id, // 🔥 clé = ajax id
+            date: normalizeText(raw.date),
+            time: normalizeText(raw.time),
+            empire: normalizeText(resolveEmpire(raw.empire)),
+            province: normalizeText(raw.province),
+            city: normalizeText(raw.city),
+            text: normalizeText(raw.text),
+            firstSeen: new Date().toISOString()
         };
 
-        if (!e.date || !e.text) continue;
-
-        const key = eventKey(e);
-        const now = Date.now();
-
-        const existing = index.get(key);
-
-        const isExpired =
-          existing &&
-          now - new Date(existing.firstSeen).getTime() > EVENT_TTL_MS;
-
-        if (!existing || isExpired) {
-          const firstSeen = existing?.firstSeen ?? new Date().toISOString();
-
-          index.set(key, {
-            ...e,
-            key,
-            firstSeen
-          });
-
-          events.push({
-            ...e,
-            key,
-            firstSeen
-          });
-
-          await sendEventToSupabase({
-            ...e,
-            key,
-            firstSeen
-          });
-
-          newCount++;
-        }
-      }
+        await sendEventToSupabase(e);
+    }
 
       console.log(`📄 Page ${pageCount} → +${newCount}`);
 
@@ -1522,7 +1505,9 @@ SCRAPER
   await sendTechnologyResume(changes, techs);
   await sendTechnologiesToSupabase(techs);
   await sendPublicTechAnnouncements(publicAnnouncements);
-  await sendToDiscord(events);
+  
+    const events_list = await loadEventsFromSupabase();
+    await sendToDiscord(events_list);
 
   await browser.close();
 
