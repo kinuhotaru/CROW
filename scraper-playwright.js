@@ -1382,7 +1382,7 @@ const empires = await page.evaluate(() => {
 
     console.log(`\n🏰 Empire: ${empire.label}`);
 
-    await page.goto(BASE_URL, { waitUntil: 'networkidle' });
+    await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
 
     await page.selectOption('select[name="n[1]"]', empire.value);
     await page.waitForTimeout(1200);
@@ -1394,7 +1394,7 @@ const empires = await page.evaluate(() => {
     while (nextUrl && pageCount < MAX_PAGES) {
       pageCount++;
 
-      await page.goto(nextUrl, { waitUntil: 'networkidle' });
+      await page.goto(nextUrl, { waitUntil: 'domcontentloaded' });
 
       const { scrapedEvents, next } = await page.evaluate(() => {
         const rows = document.querySelectorAll('table.table tbody tr');
