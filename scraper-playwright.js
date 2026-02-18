@@ -720,17 +720,33 @@ function extractMinistryExpense(text) {
 // SUPABASE REQUEST
 
 async function loadEventsFromSupabase() {
-  const res = await fetch(
-    `${SUPABASE_URL}/rest/v1/journal_events?order=date.desc&limit=1000`,
-    {
-      headers: {
-        apikey: SUPABASE_KEY,
-        Authorization: `Bearer ${SUPABASE_KEY}`
-      }
-    }
-  );
+    if (!SUPABASE_URL || !SUPABASE_KEY) return [];
 
-  return await res.json();
+    const res = await fetch(
+        `${SUPABASE_URL}/rest/v1/journal_events?order=date.desc&limit=1000`,
+        {
+        headers: {
+            apikey: SUPABASE_KEY,
+            Authorization: `Bearer ${SUPABASE_KEY}`,
+            Accept: 'application/json'
+        }
+        }
+    );
+
+    if (!res.ok) {
+        const text = await res.text();
+        console.warn('⚠️ Supabase loadEvents error', res.status, text);
+        return [];
+    }
+
+    const contentType = res.headers.get('content-type') || '';
+    if (!contentType.includes('application/json')) {
+        const text = await res.text();
+        console.warn('⚠️ Réponse non JSON Supabase', text);
+        return [];
+    }
+
+    return await res.json();
 }
 
 // UTILITAIRE STATS Techs Owned
@@ -950,7 +966,17 @@ async function sendEventToSupabase(event) {
     }
 }
 
-async function sendFinanceToSupabase(day, level, row) {
+function resolveFinanceLevel(row) {
+  if (row.city) return 'city';
+  if (row.province) return 'province';
+  return 'empire';
+}
+
+async function sendFinanceToSupabase(day, _levelIgnored, row) {
+  if (!SUPABASE_URL || !SUPABASE_KEY) return;
+
+  const level = resolveFinanceLevel(row);
+
   const payload = {
     day,
     level,
@@ -970,14 +996,14 @@ async function sendFinanceToSupabase(day, level, row) {
         'Content-Type': 'application/json',
         apikey: SUPABASE_KEY,
         Authorization: `Bearer ${SUPABASE_KEY}`,
-        Prefer: 'resolution=ignore-duplicates' // ✅ IMPORTANT
+        Prefer: 'resolution=ignore-duplicates'
       },
       body: JSON.stringify(payload)
     }
   );
 
   if (!res.ok && res.status !== 409) {
-    console.warn('⚠️ Finance insert error', await res.text());
+    console.warn('⚠️ Finance insert error', res.status, await res.text());
   }
 }
 
@@ -1232,20 +1258,34 @@ async function markDiscordDispatch(eventKey, webhook, status, error = null) {
 }
 
 async function wasAlreadySentToDiscord(eventKey) {
-  if (!SUPABASE_URL || !SUPABASE_KEY) return false;
+    if (!SUPABASE_URL || !SUPABASE_KEY) return false;
 
-  const res = await fetch(
-    `${SUPABASE_URL}/rest/v1/discord_dispatch_log?event_key=eq.${eventKey}&status=eq.sent`,
-    {
-      headers: {
-        apikey: SUPABASE_KEY,
-        Authorization: `Bearer ${SUPABASE_KEY}`
-      }
+    const res = await fetch(
+        `${SUPABASE_URL}/rest/v1/discord_dispatch_log?event_key=eq.${eventKey}&status=eq.sent`,
+        {
+        headers: {
+            apikey: SUPABASE_KEY,
+            Authorization: `Bearer ${SUPABASE_KEY}`,
+            Accept: 'application/json'
+        }
+        }
+    );
+
+    if (!res.ok) {
+        const text = await res.text();
+        console.warn('⚠️ Supabase wasAlreadySentToDiscord error', res.status, text);
+        return false;
     }
-  );
 
-  const rows = await res.json();
-  return rows.length > 0;
+    const contentType = res.headers.get('content-type') || '';
+    if (!contentType.includes('application/json')) {
+        const text = await res.text();
+        console.warn('⚠️ Réponse non JSON Supabase', text);
+        return false;
+    }
+
+    const rows = await res.json();
+    return Array.isArray(rows) && rows.length > 0;
 }
 
 // Render DISCORD Stats Finances
