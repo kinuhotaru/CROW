@@ -1,4 +1,4 @@
-name: CROW
+/*name: CROW
 
 on:
   workflow_dispatch:
@@ -61,4 +61,4 @@ jobs:
           else
             git commit -m "📡 Update Kraland events data"
             git push
-          fi
+          fi*/
