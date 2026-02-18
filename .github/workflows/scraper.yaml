@@ -1,14 +1,14 @@
-//name: CROW
+name: CROW
 
-//on:
+on:
   workflow_dispatch:
   schedule:
     - cron: "*/15 * * * *"
 
-//permissions:
+permissions:
   contents: write
 
-/*jobs:
+jobs:
   scrape:
     runs-on: ubuntu-latest
 
@@ -61,4 +61,4 @@
           else
             git commit -m "📡 Update Kraland events data"
             git push
-          fi*/
+          fi

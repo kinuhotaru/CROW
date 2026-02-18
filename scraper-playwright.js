@@ -308,7 +308,7 @@ function resolveEmpireRoleMention(empire) {
 }
 
 function shouldPingForWebhook(webhook) {
-  return webhook && !SILENT_WEBHOOKS.has(webhook);
+  return null;//webhook && !SILENT_WEBHOOKS.has(webhook);
 }
 
 function loadJSON(file, fallback = []) {
@@ -1339,112 +1339,120 @@ SCRAPER
   const page = await browser.newPage();
 
   let events = loadJSON(EVENTS_FILE, []);
-    let index = new Map(
+  let index = new Map(
     loadJSON(INDEX_FILE, []).map(e => [e.key, e])
-    );
+  );
 
   await page.goto(BASE_URL, { waitUntil: 'domcontentloaded', timeout: 60000 });
-  await page.waitForSelector('table.table tbody tr', { timeout: 15000 });
-  await page.selectOption('select', { label: 'Tous les empires' });
-  await page.waitForTimeout(1000);
+  await page.waitForSelector('select[name="n[1]"]');
 
-  let nextUrl = page.url();
-  let pageCount = 0;
-  let emptyPages = 0;
-
-  while (nextUrl && pageCount < MAX_PAGES) {
-    pageCount++;
-    await page.goto(nextUrl, { waitUntil: 'networkidle' });
-
-const { scrapedEvents, next } = await page.evaluate(() => {
-  const rows = document.querySelectorAll('table.table tbody tr');
-
-  let currentDate = null;
-  let currentEmpire = null;
-  let currentProvince = "";
-  let currentCity = "";
-
-  const events = [];
-  const timeRegex = /^\d{2}:\d{2}$/;
-
-  rows.forEach(tr => {
-    const text = tr.innerText.trim();
-
-    // --- DATE ---
-    if (/^\d{4}-\d{2}-\d{2}$/.test(text)) {
-      currentDate = text;
-      return;
-    }
-
-    const tds = [...tr.querySelectorAll('td')];
-    if (!tds.length || !currentDate) return;
-
-    // --- EMPIRE ---
-    const img = tds[0].querySelector('img');
-    if (img?.src) {
-      currentEmpire = img.src.split('/').pop().replace('.png', '');
-    }
-
-    // --- PROVINCE / VILLE ---
-    const provinceText = tds[0].cloneNode(true);
-        provinceText.querySelector('p')?.remove();
-        provinceText.querySelector('img')?.remove();
-    const province = provinceText.textContent.replace(/\u00a0/g, ' ').trim();
-    const cityText = tds[0]?.querySelector('p')?.innerText?.trim();
-
-        if (province) {
-        currentProvince = province;
-        } else {
-        currentProvince = "";
-        }
-
-        if (cityText) {
-        currentCity = cityText;
-        } else {
-        currentCity = "";
-        }
-
-    // --- EVENT ---
-    const time = tds[1]?.innerText?.trim();
-
-    const textCell = tr.querySelector('td[id^="ajax-"]');
-    const eventText = textCell?.innerText?.trim();
-    const id = textCell?.id;
-
-
-if (timeRegex.test(time) && eventText) {
-      events.push({
-        id,
-        date: currentDate,
-        time,
-        empire: currentEmpire,
-        province: currentProvince,
-        city: currentCity,
-        text: eventText
-      });
-    }
+  // 🔽 récupérer toutes les options du select
+  const empires = await page.evaluate(() => {
+    const select = document.querySelector('select[name="n[1]"]');
+    return [...select.options].map(o => ({
+      value: o.value,
+      label: o.label
+    }));
   });
 
-  const active = document.querySelector('.pagination li.active');
-  const next =
-    active?.nextElementSibling?.querySelector('a')?.href || null;
+  console.log(`🌍 ${empires.length} empires à explorer`);
 
-  return { scrapedEvents: events, next };
-});
+  // ================================
+  // BOUCLE EMPIRE PAR EMPIRE
+  // ================================
+  for (const empire of empires) {
 
-    let newCount = 0;
+    console.log(`\n🏰 Empire: ${empire.label}`);
 
-    for (const raw of scrapedEvents) {
-      const e = {
-        date: normalizeText(raw.date),
-        time: normalizeText(raw.time),
-        empire: normalizeText(resolveEmpire(raw.empire)),
-        province: normalizeText(raw.province),
-        city: normalizeText(raw.city),
-        text: normalizeText(raw.text)
-      };
+    await page.goto(BASE_URL, { waitUntil: 'networkidle' });
 
-      if (!e.date || !e.text) continue;
+    await page.selectOption('select[name="n[1]"]', empire.value);
+    await page.waitForTimeout(1200);
+
+    let nextUrl = page.url();
+    let pageCount = 0;
+    let emptyPages = 0;
+
+    while (nextUrl && pageCount < MAX_PAGES) {
+      pageCount++;
+
+      await page.goto(nextUrl, { waitUntil: 'networkidle' });
+
+      const { scrapedEvents, next } = await page.evaluate(() => {
+        const rows = document.querySelectorAll('table.table tbody tr');
+
+        let currentDate = null;
+        let currentEmpire = null;
+        let currentProvince = "";
+        let currentCity = "";
+
+        const events = [];
+        const timeRegex = /^\d{2}:\d{2}$/;
+
+        rows.forEach(tr => {
+          const text = tr.innerText.trim();
+
+          if (/^\d{4}-\d{2}-\d{2}$/.test(text)) {
+            currentDate = text;
+            return;
+          }
+
+          const tds = [...tr.querySelectorAll('td')];
+          if (!tds.length || !currentDate) return;
+
+          const img = tds[0].querySelector('img');
+          if (img?.src) {
+            currentEmpire = img.src.split('/').pop().replace('.png', '');
+          }
+
+          const provinceText = tds[0].cloneNode(true);
+          provinceText.querySelector('p')?.remove();
+          provinceText.querySelector('img')?.remove();
+          const province = provinceText.textContent.replace(/\u00a0/g, ' ').trim();
+
+          const cityText = tds[0]?.querySelector('p')?.innerText?.trim();
+
+          currentProvince = province || "";
+          currentCity = cityText || "";
+
+          const time = tds[1]?.innerText?.trim();
+          const textCell = tr.querySelector('td[id^="ajax-"]');
+          const eventText = textCell?.innerText?.trim();
+          const id = textCell?.id;
+
+          if (timeRegex.test(time) && eventText) {
+            events.push({
+              id,
+              date: currentDate,
+              time,
+              empire: currentEmpire,
+              province: currentProvince,
+              city: currentCity,
+              text: eventText
+            });
+          }
+        });
+
+        const active = document.querySelector('.pagination li.active');
+        const next =
+          active?.nextElementSibling?.querySelector('a')?.href || null;
+
+        return { scrapedEvents: events, next };
+      });
+
+      let newCount = 0;
+
+      for (const raw of scrapedEvents) {
+        const e = {
+          date: normalizeText(raw.date),
+          time: normalizeText(raw.time),
+          empire: normalizeText(resolveEmpire(raw.empire)),
+          province: normalizeText(raw.province),
+          city: normalizeText(raw.city),
+          text: normalizeText(raw.text)
+        };
+
+        if (!e.date || !e.text) continue;
 
         const key = eventKey(e);
         const now = Date.now();
@@ -1452,84 +1460,70 @@ if (timeRegex.test(time) && eventText) {
         const existing = index.get(key);
 
         const isExpired =
-        existing &&
-        now - new Date(existing.firstSeen).getTime() > EVENT_TTL_MS;
+          existing &&
+          now - new Date(existing.firstSeen).getTime() > EVENT_TTL_MS;
 
         if (!existing || isExpired) {
-        const firstSeen = existing?.firstSeen ?? new Date().toISOString();
+          const firstSeen = existing?.firstSeen ?? new Date().toISOString();
 
-        index.set(key, {
+          index.set(key, {
             ...e,
             key,
             firstSeen
-        });
+          });
 
-        events.push({
+          events.push({
             ...e,
             key,
             firstSeen
-        });
+          });
 
-        await sendEventToSupabase({
+          await sendEventToSupabase({
             ...e,
             key,
             firstSeen
-            });
+          });
 
-            newCount++;
-
-            if (isExpired) {
-                console.log(`♻️ Événement réautorisé après expiration (${e.date} ${e.time})`);
-            }
+          newCount++;
         }
-    }
-
-    console.log(`📄 Page ${pageCount} → +${newCount}`);
-
-    if (newCount === 0) {
-      emptyPages++;
-      if (emptyPages >= MAX_EMPTY_PAGES) {
-        console.log(`⛔ ${MAX_EMPTY_PAGES} pages sans nouveautés, arrêt`);
-        break;
       }
-    } else {
-      emptyPages = 0;
-    }
 
-    nextUrl = next;
+      console.log(`📄 Page ${pageCount} → +${newCount}`);
+
+      if (newCount === 0) {
+        emptyPages++;
+        if (emptyPages >= MAX_EMPTY_PAGES) break;
+      } else {
+        emptyPages = 0;
+      }
+
+      nextUrl = next;
+    }
   }
 
-  //Gestion des event
+  // ================================
+  // FIN — pipeline normal
+  // ================================
   sortEvents(events);
   saveJSON(EVENTS_FILE, events);
   saveJSON(INDEX_FILE, [...index.values()]);
 
-  //Gestion des stats impôts
   const dailyLogs = buildDailyFinanceLogs(events, WORLD);
   saveDailyLogs(dailyLogs);
 
-
-  //Stats to Discord
   const dailyStats = buildDailyFinanceTables(events);
 
-  const allEvents = loadJSON(EVENTS_FILE, []);
-  sortEvents(allEvents);
-
   const { techs, changes, publicAnnouncements } =
-  updateTechnologyRegistry(events);
+    updateTechnologyRegistry(events);
 
   saveJSON(STATS_FILE, dailyStats);
 
-  //financial rank
   await sendDailyRanking(dailyStats);
-
-  // techs
   await sendTechnologyResume(changes, techs);
   await sendTechnologiesToSupabase(techs);
   await sendPublicTechAnnouncements(publicAnnouncements);
-
-  //everything else
   await sendToDiscord(events);
+
   await browser.close();
 
   console.log(`✅ Terminé — total événements : ${events.length}`);
