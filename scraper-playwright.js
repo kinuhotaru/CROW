@@ -950,6 +950,59 @@ async function sendEventToSupabase(event) {
     }
 }
 
+async function sendFinanceToSupabase(day, level, row) {
+  const payload = {
+    day,
+    level,
+    empire: row.empire,
+    province: row.province || null,
+    city: row.city || null,
+    income: row.income || 0,
+    expense: row.expense || 0,
+    currency: row.currency || null
+  };
+
+  const res = await fetch(
+    `${SUPABASE_URL}/rest/v1/finance_daily`,
+    {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        apikey: SUPABASE_KEY,
+        Authorization: `Bearer ${SUPABASE_KEY}`,
+        Prefer: 'resolution=merge-duplicates'
+      },
+      body: JSON.stringify(payload)
+    }
+  );
+
+  if (!res.ok) {
+    console.warn('⚠️ Finance insert error', await res.text());
+  }
+}
+
+async function loadFinanceFromSupabase(day) {
+  const res = await fetch(
+    `${SUPABASE_URL}/rest/v1/finance_daily?day=eq.${day}`,
+    {
+      headers: {
+        apikey: SUPABASE_KEY,
+        Authorization: `Bearer ${SUPABASE_KEY}`
+      }
+    }
+  );
+
+  const rows = await res.json();
+
+  const result = { empire: [], province: [], city: [] };
+
+  for (const r of rows) {
+    result[r.level].push(r);
+  }
+
+  return result;
+}
+
 async function sendTechnologiesToSupabase(techs) {
 
   if (!SUPABASE_URL || !SUPABASE_KEY) return;
@@ -1500,12 +1553,28 @@ const empires = await page.evaluate(() => {
   const dailyLogs = buildDailyFinanceLogs(events, WORLD);
   saveDailyLogs(dailyLogs);
 
-  const dailyStats = buildDailyFinanceTables(events);
 
   const { techs, changes, publicAnnouncements } =
     updateTechnologyRegistry(events);
 
-  saveJSON(STATS_FILE, dailyStats);
+    const dailyStats = buildDailyFinanceTables(events);
+
+    for (const [day, data] of Object.entries(dailyStats)) {
+
+    for (const r of data.empire || []) {
+        await sendFinanceToSupabase(day, 'empire', r);
+    }
+
+    for (const r of data.province || []) {
+        await sendFinanceToSupabase(day, 'province', r);
+    }
+
+    for (const r of data.city || []) {
+        await sendFinanceToSupabase(day, 'city', r);
+    }
+    }
+
+    await loadFinanceFromSupabase(day);
 /*
   await sendDailyRanking(dailyStats);
   await sendTechnologyResume(changes, techs);
