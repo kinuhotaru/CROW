@@ -1124,79 +1124,128 @@ DISCORD
 async function sendToDiscord(events) {
   if (!DISCORD_EVENTS_WEBHOOK) return;
 
-  const sent = new Set(loadJSON(SENT_FILE, []));
   const fresh = [];
-  let skippedFinance = 0;
 
-for (const e of events) {
+  for (const e of events) {
+    const key = eventKey(e);
 
-  //  IGNORER LES ÉVÉNEMENTS FINANCIERS
+    // ⛔ déjà envoyé avec succès
+    if (await wasAlreadySentToDiscord(key)) continue;
+
+    // ⛔ événements financiers (loggés)
     if (isFinancialEvent(e)) {
-    skippedFinance++;
-    console.log(`💸 Événements financiers ignorés (Discord) : ${skippedFinance}`);
-    continue;
+      await markDiscordDispatch(key, null, 'skipped_finance');
+      continue;
     }
 
-  const key = eventKey(e);
-  const now = Date.now();
-  const expired =
-    e.firstSeen &&
-    now - new Date(e.firstSeen).getTime() > EVENT_TTL_MS;
-
-  if (!sent.has(key) || expired) {
-    sent.add(key);
     fresh.push(e);
   }
-}
 
-  if (!fresh.length) return;
+  if (!fresh.length) {
+    console.log('📭 Aucun événement Discord à envoyer');
+    return;
+  }
 
   sortEvents(fresh);
 
   const timeline = {};
+
   for (const e of fresh) {
+    const webhook = resolveEventWebhook(e);
+
+    if (!webhook) {
+      console.warn(`❌ Aucun webhook pour ${e.key}`);
+      await markDiscordDispatch(e.key, null, 'no_webhook');
+      continue;
+    }
+
     timeline[e.date] ??= {};
     timeline[e.date][e.empire] ??= {};
-    const webhook = resolveEventWebhook(e);
     timeline[e.date][e.empire][webhook] ??= [];
     timeline[e.date][e.empire][webhook].push(e);
   }
 
-for (const [date, empires] of Object.entries(timeline)) {
-  for (const [empire, evtsByWebhook] of Object.entries(empires)) {
-    for (const [webhook, evts] of Object.entries(evtsByWebhook)) {
+  for (const [date, empires] of Object.entries(timeline)) {
+    for (const [empire, byWebhook] of Object.entries(empires)) {
+      for (const [webhook, evts] of Object.entries(byWebhook)) {
 
-    const roleMention =
-        shouldPingForWebhook(webhook)
-        ? resolveEmpireRoleMention(empire)
-        : null;
+        const lines = evts.map(
+          e => `**${e.time || '--:--'}** — ${formatLocation(e)}${e.text}`
+        );
 
-    const lines = evts.map(
-        e => `**${e.time || '--:--'}** — ${formatLocation(e)}${e.text}`
-    );
+        const chunks = chunkEmbedLines(lines);
 
-    const chunks = chunkEmbedLines(lines);
+        for (let i = 0; i < chunks.length; i++) {
+          try {
+            await sendWebhookGuaranteed(webhook, {
+              embeds: [{
+                title: `📅 ${date} — ${empire}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
+                color: empireColor(empire),
+                description: chunks[i],
+                footer: {
+                  text: `CROWS ScrapeYard • ${evts.length} événements`
+                }
+              }]
+            });
 
-    for (let i = 0; i < chunks.length; i++) {
-        await sendWebhookGuaranteed(webhook, {
-        content: roleMention || undefined,
-        embeds: [{
-            title: `📅 ${date} — ${empire}${chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : ''}`,
-            color: empireColor(empire),
-            description: chunks[i],
-            footer: {
-            text: `CROWS ScrapeYard • ${evts.length} événements`
+            // ✅ MARQUAGE UNIQUEMENT APRÈS SUCCÈS
+            for (const e of evts) {
+              await markDiscordDispatch(e.key, webhook, 'sent');
             }
-        }]
-        });
 
-        await new Promise(r => setTimeout(r, 200));
-    }
-    }
+          } catch (err) {
+            console.error('❌ Discord error:', err.message);
+
+            for (const e of evts) {
+              await markDiscordDispatch(e.key, webhook, 'error', err.message);
+            }
+
+            // ⛔ on n’avance PAS → retry au prochain run
+            return;
+          }
+
+          await new Promise(r => setTimeout(r, 300));
+        }
+      }
     }
   }
+}
 
-  saveJSON(SENT_FILE, [...sent]);
+async function markDiscordDispatch(eventKey, webhook, status, error = null) {
+  if (!SUPABASE_URL || !SUPABASE_KEY) return;
+
+  await fetch(`${SUPABASE_URL}/rest/v1/discord_dispatch_log`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      apikey: SUPABASE_KEY,
+      Authorization: `Bearer ${SUPABASE_KEY}`,
+      Prefer: 'resolution=merge-duplicates'
+    },
+    body: JSON.stringify({
+      event_key: eventKey,
+      webhook,
+      status,
+      error
+    })
+  });
+}
+
+async function wasAlreadySentToDiscord(eventKey) {
+  if (!SUPABASE_URL || !SUPABASE_KEY) return false;
+
+  const res = await fetch(
+    `${SUPABASE_URL}/rest/v1/discord_dispatch_log?event_key=eq.${eventKey}&status=eq.sent`,
+    {
+      headers: {
+        apikey: SUPABASE_KEY,
+        Authorization: `Bearer ${SUPABASE_KEY}`
+      }
+    }
+  );
+
+  const rows = await res.json();
+  return rows.length > 0;
 }
 
 // Render DISCORD Stats Finances
@@ -1575,10 +1624,10 @@ const empires = await page.evaluate(() => {
     }
 
     await loadFinanceFromSupabase(day);
+    await sendTechnologiesToSupabase(techs);
 /*
-  await sendDailyRanking(dailyStats);
   await sendTechnologyResume(changes, techs);
-  await sendTechnologiesToSupabase(techs);
+  
   await sendPublicTechAnnouncements(publicAnnouncements);
 */
     const events_list = await loadEventsFromSupabase();
