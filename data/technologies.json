@@ -55,6 +55,13 @@
       "updatedAt": "2026-02-12T05:51:41.457Z",
       "discoveredBy": "Jalala",
       "lossCount": 0
+    },
+    "Savoir Génétique": {
+      "status": "owned",
+      "description": "Le Savoir Génétique permet de mieux connaître le génome humain.",
+      "updatedAt": "2026-02-18T20:01:35.617Z",
+      "discoveredBy": "Pygwenali",
+      "lossCount": 0
     }
   },
   "Empire Brun": {
@@ -534,6 +541,13 @@
       "status": "owned",
       "description": "Permet d'intervenir dans les autres régions du cybermonde. Cette technologie très importante ouvre la voie à la nomination de Généraux et à l'ordre Conquête.",
       "updatedAt": "2026-02-13T19:43:14.455Z",
+      "discoveredBy": "Shiki Chantargent",
+      "lossCount": 0
+    },
+    "Monarchie": {
+      "status": "owned",
+      "description": "La Monarchie est le système politique du Royaume de Ruthvénie. L'ordre Nommer un Successeur est alors disponible pour le Roi.",
+      "updatedAt": "2026-02-18T20:01:55.331Z",
       "discoveredBy": "Shiki Chantargent",
       "lossCount": 0
     }
