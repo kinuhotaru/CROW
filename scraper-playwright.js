@@ -970,13 +970,13 @@ async function sendFinanceToSupabase(day, level, row) {
         'Content-Type': 'application/json',
         apikey: SUPABASE_KEY,
         Authorization: `Bearer ${SUPABASE_KEY}`,
-        Prefer: 'resolution=merge-duplicates'
+        Prefer: 'resolution=ignore-duplicates' // ✅ IMPORTANT
       },
       body: JSON.stringify(payload)
     }
   );
 
-  if (!res.ok) {
+  if (!res.ok && res.status !== 409) {
     console.warn('⚠️ Finance insert error', await res.text());
   }
 }
@@ -1621,9 +1621,10 @@ const empires = await page.evaluate(() => {
     for (const r of data.city || []) {
         await sendFinanceToSupabase(day, 'city', r);
     }
+
+        await loadFinanceFromSupabase(day);
     }
 
-    await loadFinanceFromSupabase(day);
     await sendTechnologiesToSupabase(techs);
 /*
   await sendTechnologyResume(changes, techs);
